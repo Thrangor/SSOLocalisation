@@ -188,10 +188,10 @@
 187	In Star from an interface of cult rituals
 188	Becoming the Golden Discloser of the Knights of the Zodiac
 189	Go to ${npc(32159)} to read the detailed guidance on the Golden Discloser, motivating other players to reach LV 10
-190	Get the legendary five Xiaoqiang cloth
-191	In the main mission to climb to 9, right away, can be placed on the legend of the five Xiaoqiang cloth
+190	Get the five Holy Armors
+191	You can obtain them in the main mission at LV 9
 192	LV 10 LV Accelerator Package
-193	In ${jump (88)} Star-Bestselling, buy and open LV 10 LV Progress Pack
+193	In ${jump(88)} Star-Bestselling, buy and open LV 10 LV Progress Pack
 194	Summon the Knights of the Dragon
 195	Congratulations, you picked up the four dragons! Maybe in the near future you can satisfy your desire.
 196	Complete the Challenge of the Instance

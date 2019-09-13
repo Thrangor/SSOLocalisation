@@ -717,23 +717,23 @@
 716	Aquarius
 717	Pisces
 718	^ffff00Guardian of %s %s
-719	^ffffffInvoke your Constellation Guardian. Click on the image of the Guardian to receive the protection \r30 min. of buff. Group partners can also touch it. \rYou can only be invoked in Dungeon.
-720	^00ff00Atake + %d
+719	^ffffffInvoke your Constellation Guardian. Click on the image of the Guardian to receive the protection \r30 min. of buff. Party members can also benefit from it. \rCan only be invoked in Instance.
+720	^00ff00Attack + %d
 721	Luck: %d
 722	☆
 723	★
-724	You are not in the group and you will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
-725	Victory! It will leave the Dungeon after ^ff0000 %s ^N \rSummary of the Dungeon will appear after ^ff0000 %s ^N
-726	Failed It will leave the Dungeon after ^ff0000 %s ^N \rSummary of the Dungeon will appear after ^ff0000 %s ^N
-727	The Dungeon will close. You will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
-728	You are not in Raide and you will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
+724	You are not in the party! Leaving in ^ff0000 %s^N \rSummary in ^ff0000 %s^N
+725	Victory! Leaving in ^ff0000 %s^N \rSummary in ^ff0000 %s^N
+726	Failed! Leaving in ^ff0000 %s ^N \rSummary in ^ff0000 %s^N
+727	Instance will close soon. Leaving in ^ff0000 %s ^N \rSummary in ^ff0000 %s^N
+728	You are not in the team. Leaving in ^ff0000 %s ^N \rSummary in ^ff0000 %s^N
 729	Some members do not agree with the requirements. Including level, limitation of members, item for entry, etc.
 730	%s has created a Dungeon, do you want to enter?
 731	There are members of your group who are not in the vicinity; this prevents the activation of the Dungeon. Do you want to send them a notification?
 732	%s want to activate the Dungeon [ %s], but it failed because you are far away. Do you want to go immediately to the meeting place: [ %s]?
 733	Prize
 734	Dungeon created successfully
-735	O limit of Dungeons raised not served foi atingido
+735	Instance in the server reached limit
 736	Essa Dungeon allows you to single entry
 737	Essa Dungeon allows you to enter the Group
 738	Failure in the Dungeon

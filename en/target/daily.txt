@@ -9,7 +9,7 @@
 8	On the 12th level, you can get 110 points of activity to open on the same day. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional Essence.
 9	fourth-order active treasure chest
 10	On the 10th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional 2 Essence and 1 Divine Imprint I.
-11	[Events] assembly! Zodiac crisis
+11	[Events] Assembly! Zodiac crisis
 12	Sanctuary
 13	level 35 or higher
 14	(3-6 people recommended full team)
@@ -23,14 +23,14 @@
 22	40-100 level (^fffd44 can only get 59 rewards ^N)
 23	[Instance] Heritage! Gold trials of evil spirits
 24	Level 60-89
-25	[Activities] Storm! Atlantis
+25	[Instance] Storm! Atlantis
 26	above 45
-27	[Activities] Abyss! The end of the magic star
+27	[Instance] Abyss! The end of the magic star
 28	[Solo] goddess of the holy warrior
 29	[Instance] Trial of Destiny
 30	Galaxy Arena
 31	[Solo] Saints's Road
-32	[Activities] Underworld invasion
+32	[Instance] Underworld invasion
 33	20 or above
 34	[Solo] Star Epic Discard
 35	[Guild] bathing glory
@@ -55,12 +55,12 @@
 54	[Instance] Seven Ocean Giants (front)
 55	80 or above
 56	[Instance] Seven Ocean Giants (after)
-57	[Battlefield] Attica Ruins (Mysterious Man Edition)
+57	[Battlefield] Attica Ruins
 58	[Instance] Killing Evil
 59	victory! The glory of the battlefield (abandoned)
 60	[Solo] Run! Little brother (lucky star)
 61	${npc(20091,1)}
-62	[Solo] noble ghost dictionary
+62	[Solo] Noble ghost dictionary
 63	${jump(54)}
 64	lucky stars
 65	Sirius Nazhi
@@ -103,15 +103,15 @@
 102	[Hero] the elegy of the goddess (post)
 103	[Guild] Guild Qualifying
 104	[Solo] Run! Little brother
-105	[person] snowman grabs the pro (lucky star)
+105	[Solo] snowman grabs the pro (lucky star)
 106	[Solo] snowman grabs relatives
 107	[Solo] dream god's trick
 108	(3 or more people)
 109	[Battleground] Trying out the fantasy
 110	[Sports] Galaxy Fighting Field
 111	${jump(58)}
-112	[Festival] Dragon Boat Festival Musk
-113	[Festival] A Midsummer Night's Dream
+112	[Event] Dragon Boat Festival Musk
+113	[Event] A Midsummer Night's Dream
 114	[Instance] war! Cancer front line
 115	${pos(-366,327,130,1,'The Land of the Stars')}
 116	stars of the land
@@ -136,13 +136,13 @@
 135	[Battlefield] Chaos Battlefield 3v3 Test
 136	[Solo] challenge! Saint's limit
 137	[Instance] Halloween! Crazy pumpkin
-138	[Fantasy] trial illusion
+138	[Illusion] Illusion trial
 139	[Instance] Awakening! Six roads in Shaka
-140	[Instance] carnival coins
+140	[Instance] Carnival coins
 141	[Instance] Attacking Ssangyong
-142	[Instance] day drop treasure chest
-143	[Instance] me and my friends
-144	[Festival] Mid-Autumn Festival! Oyster of osmanthus wine
+142	[Instance] Day drop treasure chest
+143	[Instance] Me and my friends
+144	[Event] Mid-Autumn Festival! Oyster of osmanthus wine
 145	[Battlefield] abandoned occupation! Chaos battlefield
 146	close
 147	[Instance] National Day! Dragon of the East
@@ -154,7 +154,7 @@
 153	[Instance] Battle! Shooter's will
 154	[Instance] Battle! Gold rebellion
 155	[Instance] Battle! Goddess of wonder
-156	[Festival] Thanksgiving! Heavenly turkey
+156	[Event] Thanksgiving! Heavenly turkey
 157	[Month] Thanksgiving feast
 158	[Instance] happy eggs
 159	[Instance] breakthrough! Trial of Scorpio
@@ -218,7 +218,7 @@
 217	[Instance] sweet still Valentine's Day
 218	[Instance] horse galloping
 219	[Guild] Gold Guild
-220	[Activities] Underworld Invasion (Advanced)
+220	[Instance] Underworld Invasion (Advanced)
 221	[Instance] New Year! Immediately
 222	[Instance] New Year!
 223	[Instance] water bottle! The strongest trick
@@ -244,9 +244,9 @@
 243	[Battlefield] Lava Battlefield
 244	[Battlefield] Flight 1
 245	[Instance] Labor Day! Goddess of gratitude
-246	[Activity] Countercurrent! Atlantis
-247	[Activity] Countercurrent! Zodiac crisis
-248	[Activity] Inheritance! Gold trial countercurrent
+246	[Instance] Countercurrent! Atlantis
+247	[Instance] Countercurrent! Zodiac crisis
+248	[Instance] Inheritance! Gold trial countercurrent
 249	[Instance] Labor glorious
 250	[Instance] Laborer's reward
 251	[Battlefield] Sky Battlefield 3v3
@@ -277,66 +277,66 @@
 276	[The Guild] at the end? Ice hell
 277	[Guild] sniper! The Big Three
 278	[Guild] Gemini! Death and sleep
-279	[Guild] marching! Counterattack underworld
+279	[Guild] Counterattack on Underworld 
 280	Rehabilitated version of the coupon time (not shown)
 281	[Instance] Rebirth Carnival - Event Celebration
 282	[Instance] Rebirth Carnival - Mid-Autumn Night
-283	[Festival] Mid-Autumn Festival! Step on the dead
+283	[Event] Mid-Autumn Festival! Step on the dead
 284	[Instance] Libra! Tong Hu to Shi Ang
 285	[Solo] gift! Goddess Treasure
 286	${jump(55)}
-287	[Festival] National Day! Save Athena
-288	[Festival] National Day Seven Days
-289	[Festival] Thanksgiving! Goddess of grace
-290	[Festival] National Day Clown
+287	[Event] National Day! Save Athena
+288	[Event] National Day Seven Days
+289	[Event] Thanksgiving! Goddess of grace
+290	[Event] National Day Clown
 291	${npc(1000002,15,'Realm 15')}
-292	[Festival] Halloween Party
+292	[Event] Halloween Party
 293	[Battlefield] The first Galaxy platform
 294	[Battlefield] Shooter! Aiming at golden apple
 295	[Battlefield] Shooter! Aiming at the Golden Apple 1V1 test
-296	[Festival] Arrow of Love
-297	[Festival] single pair confrontation
+296	[Event] Arrow of Love
+297	[Event] single pair confrontation
 298	[Epic] The end of Hades (12 people)
 299	above 99
 300	(2-12 people recommended full team)
-301	[Festival] Thanksgiving! Who moved my turkey
+301	[Event] Thanksgiving! Who moved my turkey
 302	battle! The end of Hades
-303	[Festival] Thank you! Happy people
-304	[Festival] Thanksgiving! Strange thief
+303	[Event] Thank you! Happy people
+304	[Event] Thanksgiving! Strange thief
 305	11-15 line under the sanctuary of the sanctuary
-306	[Festival] Year-end! Santa's dilemma
+306	[Event] Year-end! Santa's dilemma
 307	[Solo] gift! Gold suit experience
 308	[Solo] gift! Gold service star coupon
-309	[Festival] ten years of perfection, youthful bloom
-310	[Festival] Double Dan! Heavenly artifact
-311	[Festival] Double Dan! Hard work
-312	[Festival] Double Dan! Past Santa Claus
-313	[Festival] Double Dan! Red envelope delivery
-314	[Festival] New Year! Saints military parade
-315	[Festival] Ice Dance! Snowman invasion
-316	[Festival] Double Dan! Santa's intelligence
-317	[Festival] Golden Week! Big treasure
-318	[Festival] Hi from heaven! Goddess password
-319	[Festival] the warmth of winter
-320	[Festival] agreement! Lantern Festival gift
-321	[Festival] New Year! Blessing of the goddess
-322	[Festival] Good news! Send online
-323	[Festival] welfare! New Year's greetings
-324	[Festival] WeChat! Happy dumplings
-325	[Festival] Love on Valentine's Day
+309	[Event] ten years of perfection, youthful bloom
+310	[Event] Double Dan! Heavenly artifact
+311	[Event] Double Dan! Hard work
+312	[Event] Double Dan! Past Santa Claus
+313	[Event] Double Dan! Red envelope delivery
+314	[Event] New Year! Saints military parade
+315	[Event] Ice Dance! Snowman invasion
+316	[Event] Double Dan! Santa's intelligence
+317	[Event] Golden Week! Big treasure
+318	[Event] Hi from heaven! Goddess password
+319	[Event] the warmth of winter
+320	[Event] agreement! Lantern Festival gift
+321	[Event] New Year! Blessing of the goddess
+322	[Event] Good news! Send online
+323	[Event] welfare! New Year's greetings
+324	[Event] WeChat! Happy dumplings
+325	[Event] Love on Valentine's Day
 326	[Battlefield] Floating Island Hegemony 1v1
-327	[Activities] Storm! Seal pot
-328	[Festival] Bathfire Warrior Parade
+327	[Instance] Storm! Seal pot
+328	[Event] Bathfire Warrior Parade
 329	Anywhere, online (salary, death is not available)
-330	[Festival] Bathfire! Returning warrior
+330	[Event] Bathfire! Returning warrior
 331	[Instance] MAX! Dark Stars of Infinity
-332	[Activities] MAX! Infinite War Silver Nebula
+332	[Instance] MAX! Infinite War Silver Nebula
 333	[Instance] MAX! Infinite War Gold Galaxy
-334	[Activities] Trial! The Road to God
-335	[Activities] MAX! The Ocean of Infinity
-336	[Activities] MAX! Unlimited War King's Wormhole
+334	[Instance] Trial! The Road to God
+335	[Instance] MAX! The Ocean of Infinity
+336	[Instance] MAX! Unlimited War King's Wormhole
 337	[Instance] MAX! Infinite Black Hole of Infinity
-338	[Activities] crusade! World BOSS
+338	[Instance] crusade! World BOSS
 339	[Battlefield] Cloud Hegemony 2v2
 340	[Battlefield] Cloud Hegemony
 341	Neutral - Haughty (Air Boss)
@@ -346,36 +346,36 @@
 345	Saints Golden League test
 346	[Instance] Crimson! The shadow of the outside world!
 347	[Instance] tribute to the classic! Active gift
-348	[Activities] Golden Star Soul Strikes
+348	[Instance] Golden Star Soul Strikes
 349	[Instance] continuous landing Meng pet send
 350	[Instance] tribute to the classic! Whole point benefit
 351	[Hero] God Golden Zodiac I
 352	Neutral - Shadow of Hades
 353	${npc(213502,8)}
 354	bliss pure land
-355	[Festival] at the end of the year! Escaped Christmas elf
-356	[Festival] for blessing! Prelude to the New Year
-357	[Festival] for blessing! Wanfuhe old age
-358	[Festival] for blessing! Deep blessing
-359	[Festival] New Year! WeChat big turntable
+355	[Event] at the end of the year! Escaped Christmas elf
+356	[Event] for blessing! Prelude to the New Year
+357	[Event] for blessing! Wanfuhe old age
+358	[Event] for blessing! Deep blessing
+359	[Event] New Year! WeChat big turntable
 360	[Instance] Red Fog Event: Mythical Crystal
-361	[Activities] Red Fog Event: Guarding Battle
-362	[Festival] invasion! White valentine
+361	[Instance] Red Fog Event: Guarding Battle
+362	[Event] invasion! White valentine
 363	Aegean Sea
 364	[Battlefield] The 2nd Galaxy Overlord
-365	[Activities] Red Fog Event II: The Gap of Void
+365	[Instance] Red Fog Event II: The Gap of Void
 366	[Hero] God Golden Zodiac II
 367	[Instance] lion! Meet like a dream
-368	[Activities] Red Fog Event III: Volcano Overture
+368	[Instance] Red Fog Event III: Volcano Overture
 369	[Instance] Daily Gifts
 370	[Instance] Active reward
-371	[Activities] Grand Parade
-372	[Activity] Fighting off evil
-373	[Festival] Fireworks! Flying dragon flag
+371	[Instance] Grand Parade
+372	[Instance] Fighting off evil
+373	[Event] Fireworks! Flying dragon flag
 374	[Hero] God Golden Zodiac III
 375	[Instance] Hard work! Steel warrior
 376	[Instance] Login! God's reward (need to enter the Guild base)
-377	[Activity] planting trees! Sanctuary
+377	[Instance] planting trees! Sanctuary
 378	[Instance] Shining Fashion
 379	[Instance] Carnival
 380	[Instance] Hard work
@@ -681,7 +681,7 @@
 680	You have already made a wish today.
 681	Requires 20 or above to make a wish.
 682	Sirius Nazhi only appeared in the Galaxy Arena 6. \rBronze Saints Nachi of the Sirius Constellation, who had practiced hard in Liberia and used the stunt "Death Roar" of the Wolf Constellation to fight. At present, in order to have stronger strength, people are looking for a duel in the vicinity of the Galaxy Arena.
-683	The soul of Thunder Tiger only appears in Lushan 8. \rBefore the Dragon Dragon Constellation Zilong, I went to the predecessor of the Lushan Mountain, the Saints and the Tonghu Gate, as my disciples. I hope to inherit the Tianlong Saint Cloth, but I was tempted by the power during the practice and fell into a belief in strength. The dark side.
+683	The soul of Thunder Tiger only appears in Lushan 8. \rBefore the Dragon Dragon Constellation Zilong, I went to the predecessor of the Lushan Mountain, the Saints and the Tonghu Gate, as my disciples. I hope to inherit the Dragon Saint Cloth, but I was tempted by the power during the practice and fell into a belief in strength. The dark side.
 684	The shadow of Saga appears only on the road to forgetting. \r Gemini Golden Saints, Saga's illusion, with the support of the strong spiritual power of Saar, has superhuman strength, can use all the moves of Gemini, and is driven by Saga to destroy the uneasy elements of the sacred domain in the path of forgetting.
 685	Chirongo only appeared in Death Queen Island 1. \r The leader of the Dark Saints was blasted into the volcano under the hands of the Phoenix Constellation Yihui. Because of the fate of not being willing to fail, through the mysterious contract to reincarnate from the lava hell, the fire of hatred surrounded by his body has greatly increased his power, and is currently looking for revenge for the bronze Saints.。
 686	Devil Fish - Isaac
@@ -837,7 +837,7 @@
 836	On the 12th level and above, you can get 55 points of activity to open. If you open this treasure box above level 70, you can get 2 additional artifact fragments.
 837	On the 12th level and above, you can get 110 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments.
 838	On the 12th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments.
-839	[activity] inheritance! Gold Trial (God of War 3)
+839	[Instance] Inheritance! Gold Trial
 840	[Instance] big counterattack! Ice Country Evil God (3rd Ring of God)
 841	[Instance] Holy War memories
 842	15 or above
@@ -846,29 +846,29 @@
 845	55 or above (^fffd44 drop 48-63 equipment ^N)
 846	level 70 or above (^fffd44 drop 68-81 level equipment ^N)
 847	80 or above (^fffd44 drop 78-89 equipment ^N)
-848	[Battlefield] victory! Glory of the battlefield
-849	[person] super run (lucky star)
+848	[Battlefield] Glory of the battlefield
+849	[Solo] Super run
 850	30-100 level (^fffd44 can only get 59 rewards ^N)
 851	60 or above (^fffd44 drop 56-68 equipment ^N)
 852	level 68 or above (^fffd44 drop 60-75 level equipment ^N)
 853	90 or above (^fffd44 drop 89-99 equipment ^N)
 854	[Solo] super run
-855	[Instance] goddess! Midsummer god pray
+855	[Instance] Doddess! Midsummer god pray
 856	[Instance] Rebirth Carnival - Heavenly Treasure Chest
 857	[Instance] Mid-Autumn Festival! Oyster of osmanthus wine
 858	[Instance] Critical! Goddess of mind
-859	[Guild] over the years! Gold Guild
+859	[Guild] Over the years! Gold Guild
 860	[Instance] Resurrection! Big Fighter Field Myth (God War)
 861	[Battlefield] victory! The road to the king
-862	[Activity] Countercurrent! Gold Trial (God of War 3)
+862	[Instance] Countercurrent! Gold Trial (God of War 3)
 863	(6 people)
 864	[Instance] Dream God! Like a dream to return to the dust (the third ring of the gods)
-865	[Festival] Eros Collection Order
+865	[Event] Eros Collection Order
 866	110 or above
 867	(6-12 people recommend the full team)
-868	[Festival] Santa's Dilemma
-869	[Activities] Storm! Sealed pot (God of Heroes)
-870	[Festival] Bathfire! Heavenly treasure chest
+868	[Event] Santa's Dilemma
+869	[Instance] Storm! Sealed pot (God of Heroes)
+870	[Event] Bathfire! Heavenly treasure chest
 871	various blood, etc.
 872	and the high-level event "Rebirth! Sanctuary of the Holy Land". \rOpen every day from 12:00-14:00 and 20:00-22:00. \r Assembly! In the zodiac crisis, the monster level is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The power of Hades is invading the sanctuary, and the holy warriors are going to defend the gates of the sanctuary!
 873	holy war recalls 3 people to participate in the team, it is recommended to call some teammates. \r Background: When the commemoration of the holy warriors who died in the previous holy war, the player was suddenly affected by the inexplicable power, returned to the sanctuary in the previous holy war, and experienced the hard battle of the last holy war.

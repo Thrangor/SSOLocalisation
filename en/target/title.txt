@@ -72,7 +72,7 @@
 71	Conclude the Main Quest "Saga of Hades: Crusade to the Underworld", Cap IV: "Portal that leads to the Underworld!" To obtain the title
 72	^009933 Legend of the Twelve Golden Houses
 73	He passed through the Twelve Houses guarded by the Golden Knights and rescued the Goddess.
-74	^ffff00Atake + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+74	^ffff00Attack + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 75	Conclude the Main Quest "Saga of the Sanctuary", Final Cap: "The Twelve Golden Houses" to obtain the title
 76	^009933 Adventurer of the East
 77	Be an adventurer full of hope and brilliance in the Grand Coliseum.
@@ -96,7 +96,7 @@
 95	Conclude 30 secondary quests in Eastern Siberia to obtain the title
 96	^009933Hijo del Mar
 97	He entered the territory of Poseidon and testified the secret of the sea.
-98	^ffff00Atake +210 \rHP +2400 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+98	^ffff00Attack +210 \rHP +2400 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 99	Conclude 30 secondary quests in Atlantis to get the title
 100	^009933Head of the Constellation
 101	He experienced the life of Andromeda, brilliant and full of sacrifices.
@@ -626,7 +626,7 @@
 625	Raffled in the Perfect World Diamond Gift Package.
 626	^ffd700Diosa Athena
 627	Goddess Athena authenticated by the Server!
-628	^ffff00Atake +150 \r ^ffff00Defense +300 \r ^NActivates the attributes by choosing the ^ffff00effect ^N
+628	^ffff00Attack +150 \r ^ffff00Defense +300 \r ^NActivates the attributes by choosing the ^ffff00effect ^N
 629	Goddess Athena Glorious!
 630	^ffd700Garden Aries Dorado
 631	Golden Aries Guard of the Goddess Athena authenticated by the Server!
@@ -690,7 +690,7 @@
 689	Certification of strength and courage
 690	^a800ffSemidiós · Demonic Family
 691	In [Heroic] Ten Caves, defeat all Bosses of difficulty Semidiós to obtain the title
-692	^ffff00Atake +350 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+692	^ffff00Attack +350 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 693	^0099ccDivine Wrestler · Arrow of Justice
 694	In [Heroic] Heart of Sagittarius, defeat all Bosses of difficulty Divine Wrestler to obtain the title
 695	^a800ffSemidiós · Arrow of Justice
@@ -712,7 +712,7 @@
 711	An old alliance that deeply affects us. As brothers, together forever!
 712	^0099ccDivine Soldier · Arrow of Justice
 713	In [Heroic] Heart of Sagittarius, defeat all Bosses of difficulty Divine Soldier to obtain the title
-714	^ffff00Atake +300 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+714	^ffff00Attack +300 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 715	^0099ccDolino Soldier · Demonic Family
 716	In [Heroic] Ten Caves, defeat all Bosses of Difficulty Divine Soldier to get the title
 717	^5acbccMeeting of the Emissaries in the Sanctuary
@@ -921,7 +921,7 @@
 920	^009933 Silver Test Cabinet
 921	^ffff00Attack +300 \rDefense +100 \r ^NEl effect is activated when the title is ^ffff04selected ^N
 922	^ff6c00I am a Knight, Strength!
-923	^ffff00Atake +500 \r ^NEl effect is activated when the title is ^ffff05selected ^N
+923	^ffff00Attack +500 \r ^NEl effect is activated when the title is ^ffff05selected ^N
 924	^ff4ca4The God of Love in the Command
 925	^a800ffSD · Guard of the Goddess
 926	In "Protect Athena", he became Seiya, Shiryu, Hyoga, Shun and Ikki, one at a time!
@@ -1010,7 +1010,7 @@
 1009	You are trustworthy of the Goddess!
 1010	^a800ffGod's killer · Angel of Death
 1011	In [Heroic] Elegia of the Goddess I, defeat all Bosses of difficulty Assassin of Gods to obtain the title
-1012	^ffff00Atake +400 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+1012	^ffff00Attack +400 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 1013	^a800ffAster of Gods · Divine Angel
 1014	In [Heroic] Elegia of the Goddess II, defeat all Bosses of difficulty Assassin of Gods to obtain the title
 1015	^5acbccCaptain in the 1st Multiserv Competition.1

@@ -1555,7 +1555,7 @@
 1554	Fire Thief Divine Stone
 1555	Divine Stone of Prometheus
 1556	Scepter of the Goddess
-1557	Summon Knight
+1557	Summoning
 1558	Vanilla of the Dragon
 1559	Offering
 1560	Empty Bucket

@@ -49,7 +49,7 @@
 48	Players can not hurt in the sand.
 49	Change hit scheme PK %d / %d
 50	Scheme PK saved successfully
-51	Spacer
+51	Space Bar
 52	Left mouse button
 53	Right mouse button
 54	Simple connection

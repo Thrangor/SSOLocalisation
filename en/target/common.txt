@@ -1672,7 +1672,7 @@
 1671	%s extreme fury, started an attack with all the forces, %s has been defeated.
 1672	At a certain height, %s has comprehended some battle tricks, and executed a refined blow, defeating %s.
 1673	%s did %s stumble successfully, and took the opportunity to start a deadly attack, %s has been defeated
-1674	The duel of %s with %s is not very easy, the two parties have not yet decided the winner and the loser.
+1674	Duel between %s and %s ended as a draw.
 1675	Property of the Character
 1676	Battle of the Boss
 1677	Inventory
@@ -1839,10 +1839,10 @@
 1838	Auxiliary items:
 1839	Recommendations:
 1840	Party
-1841	Send MP
+1841	Send PM
 1842	Add friend
-1843	Visualize
-1844	Negotiate
+1843	Examine
+1844	Trade
 1845	Guild
 1846	Duel
 1847	Copy name
@@ -2103,9 +2103,9 @@
 2102	Unable to load game data file! This error may be due to an incomplete update! \nClick \"Yes\": Update and verify the version. (Note: It may take a long time)\nClick \"No\": Manual update or version verification later.
 2103	Guardian Constellation 8
 2104	guardian constellation 8 ascending constellation
-2105	ago
+2105	 ago
 2106	%d god casting\r
 2107	^00ff00 Left click to go to God Cast\r
 2108	The target artifact has been cast, unable to transfer the number of castings
 2109	The number of artifacts to be transferred is higher than the target artifact
-2110	Report liar
+2110	Report bot

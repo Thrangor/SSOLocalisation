@@ -278,9 +278,9 @@
 277	This article can not be used to expand
 278	The field has exceeded the maximum limit
 279	GOld enough
-280	<Squire of%s>
+280	<Squire of %s>
 281	Possessing [%s], you can open the store. \ R Squire's reputation will offer that item
-282	%d %%of the Squire's ranking of this position will be added to the Squire that came out to fight
+282	%d%% of the Squire's ranking of this position will be added to the Squire that came out to fight
 283	Squire
 284	Please, remove the equipment to the Squire first to be able to continue with the operation again
 285	Insider level insufficient

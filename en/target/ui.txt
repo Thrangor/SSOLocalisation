@@ -336,7 +336,7 @@
 335	Countdown to start the battle
 336	Guild
 337	Alliances
-338	Galactic Tournament
+338	Galactic Tourn.
 339	Warehouse
 340	Rank
 341	Base
@@ -519,7 +519,7 @@
 518	Select the option "Skip characters offline"
 519	Hide Off
 520	Help
-521	Last access
+521	Status
 522	Activity
 523	Sign
 524	Level
@@ -538,7 +538,7 @@
 537	Level
 538	Activity
 539	Marshal
-540	My job
+540	Rank
 541	Contrib.
 542	Ads
 543	x / 200 (and "online")
@@ -699,7 +699,7 @@
 698	History
 699	Achievements
 700	Score
-701	Puest.
+701	Emb.
 702	Add
 703	Confirm
 704	Cancel
@@ -711,7 +711,7 @@
 710	The name of the list is 8 characters.
 711	Remove
 712	Name
-713	Puest.
+713	Emb.
 714	Guild Conquests
 715	Modify
 716	Enter a negative number to reduce the integration!
@@ -6549,15 +6549,15 @@
 6548	Items eight characters eight characters
 6549	Items eight characters eight characters
 6550	Items eight characters eight characters
-6551	Resumen
-6552	Art:
+6551	Stats
+6552	Items:
 6553	EXP:
 6554	Cash:
 6555	Gold:
-6556	Premio exclusivo:
+6556	Exclusive reward:
 6557	×99
-6558	Premio extra:
-6559	Compensación del evento:
+6558	Extra rewards:
+6559	Activity compen.:
 6560	×99
 6561	×99
 6562	×99
@@ -6577,11 +6577,11 @@
 6576	×99
 6577	Astro EXP:
 6578	Minimize
-6579	White
-6580	Green
-6581	Blue
-6582	Mor.
-6583	Nara.
+6579	white
+6580	green
+6581	blue
+6582	purple
+6583	orange
 6584	Dice on items, coins and EXP received in the Instance.
 6585	After the click, start the continuous stargazing, until the Key of Time or Money is exhausted
 6586	Start
@@ -8328,8 +8328,8 @@
 8327	100
 8328	Grand Master candidate name
 8329	Grand Master candidate
-8330	Last week's activity    
-8331	This week activity    
+8330	Previous Activity     
+8331	Weekly Activity  
 8332	Peripheral member
 8333	000000000
 8334	255

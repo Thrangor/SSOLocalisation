@@ -3513,14 +3513,14 @@
 3512	Select one of the awards below:
 3513	Random Award
 3514	Please select a prize
-3515	We recommend that you view the ${jump (18)} or ${jump (56)} to level up quickly
+3515	We recommend that you view the ${jump(18)} or ${jump(56)} to level up quickly
 3516	OK
 3517	Reject
 3518	Finish
 3519	Confirm
 3520	Back
 3521	^ff0000 Insufficient inventory space. Free space to access the Quest ^N
-3522	Standby time
+3522	Wait
 3523	Time left
 3524	Reach location
 3525	(finished)
@@ -4008,7 +4008,7 @@
 4007	You can not upload more Guild Contributions
 4008	The limit of daily use was reached
 4009	Guild Gold Resources already reached the limit
-4010	Guild Hydromiel resources already reached the limit
+4010	Guild Hydromel resources already reached the limit
 4011	Guild Ivory resources have already reached the limit
 4012	Bronze resources of the Guild already reached the limit
 4013	In use

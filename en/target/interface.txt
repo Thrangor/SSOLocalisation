@@ -1110,8 +1110,8 @@
 1109	Get experience：
 1110	${npc(33799,'Go to')}
 1111	${jump(63,'Click for details')}
-1112	Get up to %s experience and %s cash today
-1113	Up to %s point experience and %s cash today
+1112	Get up to %s EXP and %s cash today
+1113	Up to %s EXP and %s cash today
 1114	<Mall>Weekly package
 1115	${npc(39771,'Go to')}
 1116	${npc(39802,'Go to')}

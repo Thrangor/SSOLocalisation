@@ -157,14 +157,14 @@
 156	Mini Pope in %d º place!
 157	Mini Ban in %d º place!
 158	%s place!
-159	Dimensional Explosion!
-160	Fist of Illusion!
+159	Another Dimension!
+160	Demon Emperor's Fist
 161	I'm going to send them to hyper-dimension, so they never come back!
 162	I am Guardian of the House of Gemini, you will never pass through here!
 163	Losing one's blood
-164	Fist of Illusion!
+164	Demon Emperor's Fist
 165	Explosion of Galaxies!
-166	Dimensional Explosion!
+166	Another Dimension!
 167	Teleport the Player!
 168	They will die here and they will not be able to come back ~
 169	What a pity, they are not strong enough yet!

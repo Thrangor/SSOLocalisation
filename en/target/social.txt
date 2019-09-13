@@ -762,16 +762,16 @@
 761	Last exit of the Faction in less than 48 hours, can not join the new Faction
 762	This operation does not alter its faction
 763	None
-764	Fraction of the Sanctuary
-765	Faction of the Emperor of the Seas
-766	Faction of the King of the Underworld
+764	Sanctuary
+765	Atlantis
+766	Underworld
 767	Chaos Starry Sky (none)
 768	Successfully joined the faction: %s
 769	Abandoned the old faction successfully
 770	Leave the Faction
 771	Join the faction of the Sanctuary
-772	Join the Faction of the King of the Seas
-773	Join the Faction of the King of the Underworld
+772	Join the Faction of the Atlantis
+773	Join the Faction of the Underworld
 774	Successful declaration of war
 775	%s remaining
 776	%s Exclusive Guild Attachment (Current Guild)
@@ -780,11 +780,11 @@
 779	Article does not belong to this Guild, it can not be opened
 780	Guild %d:
 781	Group number %d:
-782	Divine Group
-783	Gold Group
-784	Silver Group
-785	Bronze Group
-786	Iron Equipment
+782	Divine Rank Guilds
+783	Gold Rank Guilds
+784	Silver Rank Guilds
+785	Bronze Rank Guilds
+786	Iron Rank Guilds
 787	Verify Warehouse Password
 788	Configure store password
 789	Change Store password
@@ -1104,9 +1104,9 @@
 1103	Click twice to change the Grand Master's announcement service
 1104	Only the Grandmaster and his authorized substitute can change the full ad service
 1105	Null
-1106	The divine and powerful Grandmaster %s of the Sanctuary Faction is online! All the Knights will show an expression of great respect.
-1107	The divine and powerful Priest %s of the Emperor of the Seas Faction is online! All the Knights will show an expression of great respect.
-1108	The divine and powerful Officer %s of the Faction of the King of the Underworld is online! All the Knights will show an expression of great respect.
+1106	The divine and powerful Grandmaster %s of the Sanctuary faction is online! All the Knights will show an expression of great respect.
+1107	The divine and powerful Priest %s of the Atlantis faction is online! All the Knights will show an expression of great respect.
+1108	The divine and powerful Officer %s of the Underworld faction is online! All the Knights will show an expression of great respect.
 1109	%s recently issued new full ad service
 1110	%s for the forbidden words of the Grand Master
 1111	%s For the nomination, he became a new substitute for the Grand Master

@@ -44,7 +44,7 @@
 43	Sanctuary - The fire of the clock goes out_Capricorn
 44	Sanctuary - The fire of the clock goes out_Aquarius
 45	Sanctuary - The fire of the clock goes off_Piscis
-46	Sanctuary - Llamas in the Village de Roderic
+46	Sanctuary - Llamas in the Roderio Village
 47	Sanctuary - Found the fire .anm
 48	Sanctuary - The mystery of the blood of God Hades
 49	Sanctuary - Rumors thirteen years ago
@@ -266,7 +266,7 @@
 265	In the endless dream, I heard the call of Athena
 266	Your hot and powerful Cosmo wakes me up
 267	The situation is urgent, we have to find Orpheus!
-268	After returning to the Vila de Roderio
+268	After returning to the Roderio Village
 269	​​Recently,
 270	Great Ridge Valley
 271	Aiolia's investigation continues ...
@@ -277,8 +277,8 @@
 276	To find another stone piece of Prometheus
 277	I have come once again to the temple of Titan looking for clues
 278	Aiolia fell into an endless sleep
-279	Does the proud leo also have to lower his head?
-280	The Village de Roderio is my home,
+279	Does the proud Leo also have to lower his head?
+280	The Roderio Village is my home,
 281	I am willing to protect her with my life!
 282	--Eudora
 283	Young Brave!

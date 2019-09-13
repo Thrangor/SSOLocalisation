@@ -39,7 +39,7 @@
 38	Knight's Soul
 39	Marin
 40	Cobra
-41	Wall of Ads
+41	Notice Board
 42	Cassios
 43	Apprentice
 44	Cassios
@@ -332,7 +332,7 @@
 331	Apprentice
 332	Shina
 333	Cobra
-334	Wall of Ads
+334	Notice Board
 335	Apprentice
 336	Seiya
 337	Apprentice
@@ -659,15 +659,15 @@
 658	Capricorn Knight
 659	Aquarian Knight
 660	Pisces Knight
-661	Soldier Training
-662	Soldier Training
+661	Training Soldier
+662	Training Soldier
 663	Girl without Memory
 664	Underworld Soldier
 665	Underworld Soldier
 666	Underworld Soldier
 667	Armor of Hades
 668	Claude
-669	Guardian of the Village of Rodrio
+669	Guardian of the Rodrio Village
 670	Claude
 671	Soldier of the Sanctuary
 672	Brave Soldier
@@ -3560,13 +3560,13 @@
 3559	Centaur Saint
 3560	Faith Tester
 3561	Amy
-3562	Collection of gold resources
+3562	Gold Exchange
 3563	Ally
-3564	Mead collection
+3564	Hydromel Exchange
 3565	Abby
-3566	Collection of ivory resources
+3566	Ivory Exchange
 3567	Ida
-3568	Collection of bronze resources
+3568	Bronze Exchange
 3569	Lisbela
 3570	Leave the base
 3571	Iris
@@ -3607,21 +3607,21 @@
 3606	Warehouse Base
 3607	Warehouse Base Administrator
 3608	Level 1 Warehouse
-3609	Level 1 Warehouse Manager
+3609	Guild Manager I
 3610	Level 2 Warehouse
-3611	Level 2 Warehouse Manager
+3611	Guild Manager II
 3612	Level 3 Warehouse
-3613	Level 3 Warehouse Administrator
+3613	Guild Manager III
 3614	Level 4 Warehouse
-3615	Level 4 Warehouse Administrator
+3615	Guild Manager IV
 3616	Level 5 Warehouse
-3617	Level 5 Warehouse Administrator
+3617	Guild Manager V
 3618	Level 6 Warehouse
-3619	Level 6 Warehouse Manager
+3619	Guild Manager VI
 3620	Level 7 Warehouse
-3621	Level 7 Warehouse Administrator
+3621	Guild Manager VII
 3622	Level 8 Warehouse
-3623	Level 8 Warehouse Administrator
+3623	Guild Manager VIII
 3624	Base Store
 3625	Base Store Administrator
 3626	Level 1 Store
@@ -11678,7 +11678,7 @@
 11677	74 valley spectra
 11678	54 Walk in Sawori
 11679	76 Warehouse Administrator
-11680	77 Claude villa de Rodrio
+11680	77 Claude Roderio Village
 11681	77 Petty Officer
 11682	78 Blacksmith
 11683	79 Bread vendor
@@ -13457,7 +13457,7 @@
 13456	Oricalco Nucleus
 13457	Get
 13458	Disappointed Apprentice
-13459	Embrace and lift
+13459	Lifting
 13460	Aldeano Prisoner
 13461	Awakening
 13462	Snowball
@@ -13660,7 +13660,7 @@
 13659	Beach Stones
 13660	Rebuscar
 13661	Lying apprentices
-13662	Hug and lift
+13662	Lifting
 13663	Scattered books
 13664	Investigate
 13665	Atmosphere of Cosmo
@@ -13908,7 +13908,7 @@
 13907	Search
 13908	Search
 13909	Fainted Apprentice
-13910	Embrace and lift
+13910	Lifting
 13911	Energy Vortex
 13912	Investigate
 13913	Uncover
@@ -14050,7 +14050,7 @@
 14049	Frost Bomb
 14050	Explode
 14051	Gina
-14052	Embrace and lift
+14052	Lifting
 14053	Sagittarius right fist
 14054	Take
 14055	Sagittarius left fist
@@ -14190,7 +14190,7 @@
 14189	Origin of the blood fog
 14190	Destroying
 14191	Giant Rock
-14192	Lift
+14192	Lifting
 14193	Pillar of Stone of Titan
 14194	Open
 14195	Pillar of Stone of Titan
@@ -14247,7 +14247,7 @@
 14246	Collect
 14247	Bucket
 14248	Collect
-14249	Embrace and lift
+14249	Lifting
 14250	Petals of trees Equal rooms
 14251	Find
 14252	Grass beside the rock
@@ -15052,7 +15052,7 @@
 15051	Scattered books
 15052	View
 15053	Fainted Apprentice
-15054	Embrace and lift
+15054	Lifting
 15055	Unconscious guard
 15056	Changing clothes
 15057	Dry tree
@@ -15193,7 +15193,7 @@
 15192	Snow Soul
 15193	Collect
 15194	Christmas Mission 2015_Mineral of the snow doll 2
-15195	Lift
+15195	Lifting
 15196	Titan's Hammer
 15197	Using the armor
 15198	Pumpkins
@@ -15204,7 +15204,7 @@
 15203	atheist
 15204	Fireworks
 15205	Fire
-15206	Lift
+15206	Lifting
 15207	Getting drunk
 15208	Armor Box
 15209	Picking up
@@ -15274,7 +15274,7 @@
 15273	Lotus
 15274	Picking up
 15275	White rice
-15276	Embrace and lift
+15276	Lifting
 15277	Starting
 15278	Money box of the husband of the pallaso
 15279	Open
