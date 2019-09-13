@@ -2,11 +2,11 @@
 1	Lejos
 2	Invocar
 3	Descanso
-4	Barra del Pet: %d /%d
+4	Barra de Mascota: %d /%d
 5	Etapa %d
 6	Ninguna Evolución
 7	Evolucionado %d veces
-8	Pets pueden evolucionar ahora
+8	Las Mascotas pueden evolucionar ahora
 9	Alterar
 10	Confirmar
 11	Calificación de ataque
@@ -18,33 +18,33 @@
 17	Aumento de ataque
 18	Aumento de defensa
 19	Aumento de vida
-20	Hacer eso hará que su pet %s se olvide de la habilidad %s nivel %d. ¿Estás seguro que quiere continuar?
-21	Ocurrió un error al utilizar Pet
-22	Nivel del Pet no cumple con requerimientos
+20	Hacer eso hará que su mascota %s se olvide de la habilidad %s nivel %d. ¿Estás seguro que quiere continuar?
+21	Ocurrió un error al utilizar la mascota
+22	Nivel de la mascota no cumple con requerimientos
 23	Oro insuficiente
-24	El nivel de carga del Pet es muy alto.
-25	El nivel de carga del Pet es muy bajo .
-26	Tasa de aumento del Pet ha alcanzado, no es posible continuar la mejora
+24	El nivel de carga de la  mascota es muy alto.
+25	El nivel de carga de la mascota es muy bajo .
+26	Tasa de aumento de la mascota ha alcanzado, no es posible continuar la mejora
 27	Aprendizaje
 28	Mejoras
 29	Para aprender esas habilidades el nivel de aprendizaje debe ser por lo menos %d
 30	Nivel necesario para aprendizaje de habilidades %d
-31	Tipo necesario de pet para aprendizaje de habilidad %s
-32	¡Pet aprendió nuevas habilidades!
-33	Pet no ha aprendido nuevas habilidades, inténtalo nuevamente más tarde.
-34	El Pet ya aprendió suficientes habilidades; en el caso que aprende más, no conseguirá acordarse >_<
-35	El Pet ya aprendió esa habilidad y no necesita aprenderla nuevamente.
-36	El número de habilidades activas de pet alcanzó el límite
-37	El número de habilidades pasivas del pet alcanzó el límite
-38	Tipo de pet incorrecto, usted no puede aprender esta habilidad
-39	El nivel de evolución de habilidades del pet no puede ser menor que %d
-40	Habilidades mejoradas requieren que el nivel del Pet alcanze %d
-41	¡El nivel de habilidad del Pet subió!
-42	No hubo cambio en el nivel de habilidad del Pet, aprenda más algunas veces y tente de nuevo
-43	Nivel de habilidad del Pet ya alcanzó el nivel máximo
-44	Pet aún no aprendió la habilidad correspondiente, no es posible proseguir con la mejora de habilidad
-45	Piedra de mejora de Pet y la habilidad del Pet elegida no corresponden
-46	Nivel de Habilidad del Pet no corresponde a los pre requisitos requeridos de la piedra de mejora
+31	Tipo necesario de mascota para aprendizaje de habilidad %s
+32	¡Su Mascota aprendió nuevas habilidades!
+33	Su Mascota no ha aprendido nuevas habilidades, inténtalo nuevamente más tarde.
+34	Su Mascota ya aprendió suficientes habilidades; en el caso que aprende más, no conseguirá acordarse >_<
+35	La Mascota ya aprendió esa habilidad y no necesita aprenderla nuevamente.
+36	El número de habilidades activas de su mascota alcanzó el límite
+37	El número de habilidades pasivas de su mascota alcanzó el límite
+38	Tipo de mascota incorrecto, usted no puede aprender esta habilidad
+39	El nivel de evolución de habilidades de la mascota no puede ser menor que %d
+40	Habilidades mejoradas requieren que el nivel de la mascota alcanze %d
+41	¡El nivel de habilidad de la mascota subió!
+42	No hubo cambio en el nivel de habilidad de la mascota, aprenda más algunas veces y tente de nuevo
+43	Nivel de habilidad de la mascota ya alcanzó el nivel máximo
+44	Su Mascota aún no aprendió la habilidad correspondiente, no es posible proseguir con la mejora de habilidad
+45	Piedra de mejora de mascota y la habilidad de la mascota elegida no corresponden
+46	Nivel de Habilidad de la mascota no corresponde a los pre requisitos requeridos de la piedra de mejora
 47	Por favor, ponga primer el Pet que necesita ser evolucionado en la interfaz de evolución
 48	Nivel de Pet necesario para evolución: nivel %d
 49	Artículo necesario para evolución: %s
@@ -56,13 +56,13 @@
 55	Fracaso al mejorar Pet %S
 56	%s Pet ha alcanzado el límite máximo, no se puede seguir fortaleciendo
 57	Nivel mas alto que el Pet carga es %d
-58	Aumentar %s del Pet en %d puntos
+58	Aumentar %s de la mascota en %d puntos
 59	¡Fusión de Almas de Pet realizada con éxito!
 60	El estágio de los dos Pets ^ff0000 no son iguales, no se puede proseguir con la fusión de Almas
-61	La tasa de crecimiento inicial del Pet auxiliar ^ff0000 es relativamente más baja que la del Pet pricipal, no se puede proseguir con la fusión de Almas
-62	Alma del Pet movida con éxito 1
+61	La tasa de crecimiento inicial de la mascota auxiliar ^ff0000 es relativamente más baja que la de la mascota pricipal, no se puede proseguir con la fusión de Almas
+62	Alma de la mascota movida con éxito 1
 63	La discrepancia entre los estágios de los dos Pets ^ff0000 solo puede llegar a 1, en el máximo
-64	Pet auxiliar ^ff0000 no tiene ninguna ayuda para el crecimiento del Pet principal
+64	Pet auxiliar ^ff0000 no tiene ninguna ayuda para el crecimiento de la mascota principal
 65	Siamés
 66	Persa
 67	Pelo corto
@@ -113,21 +113,21 @@
 112	Mensaje en la botella
 113	El contenido no puede estar vacío
 114	Imposible responder el mensaje por falta de fondos.
-115	<Pet de %s>
+115	<Mascota de %s>
 116	Cuenta regresiva para la Operación: %ds
 117	Operación expiró, imposible hacer la procreación
-118	El Pet necesita ser invocado
+118	La Mascota necesita ser invocada
 119	Artículos que faltan
-120	Muy Lejos del Pet
+120	Muy Lejos de la Mascota
 121	Expirado
-122	Pet inválido
+122	Mascota inválida
 123	No hay el artículo %s deseado!
 124	<%s> quedó satisfecho su deseo, está muy feliz
 125	No es posible invocar en el agua
-126	Pet ausente no está en el status de invocación
-127	Dueño del Pet ausente no está Online
-128	Pet está explorando, no es posible invocar
-129	No es posible invocar Pet bajo ese status
+126	Mascota ausente no está en el estado de invocación
+127	Dueño de la mascota ausente no está Online
+128	La mascota está explorando, no es posible invocarla
+129	No es posible invocar a la mascota bajo ese estado
 130	Explorar
 131	Explorar
 132	¡Unirse a la exploración! <%s> de %s ya se han ido!
@@ -160,7 +160,7 @@
 159	La Procreación superó el límite máximo de veces
 160	No es posible realizar procreación en razas diferentes
 161	La relación de sangre entre los diferentes niveles no puede realizar la procreación
-162	En el status de liberación no es posible la procreación
+162	En el estado de liberación no es posible la procreación
 163	No es posible realizar la procreación en sexos iguales
 164	¡Procreación confirmada con éxito!
 165	Error en la confirmación de la procreación
@@ -169,9 +169,9 @@
 168	Ningún Pet en procreación
 169	El tiempo no ha terminado todavía, por favor, espere un poco
 170	Barra de Pet llena , es necesario al menos 2 espacios vacíos en la barra
-171	Entrenamiento del Pet en progreso ...
-172	Índice de Stamina del Pet no es suficiente, no es posible entrenar
-173	E Pet no está en status de invocación, no es posible entrenar
+171	Entrenamiento de la mascota en progreso ...
+172	Índice de Stamina de la mascota no es suficiente, no es posible entrenar
+173	E Pet no está en estado de invocación, no es posible entrenar
 174	Haga click para invocar al Pet
 175	Haga click para retirar al Pet
 176	Ningún Pet, no es posible realizar procreación
@@ -270,7 +270,7 @@
 269	Gold insuficiente, no es posible renovar la clasificación
 270	No se puede colocar aqui
 271	No es posible invocar debajo del agua
-272	En status de vuelo no es posible invocar
+272	En estado de vuelo no es posible invocar
 273	El jugador debe llegar a %s
 274	Este artículo no es el Libro de Habilidades
 275	Esta habilidad no puede ser colocada en este campo
@@ -292,7 +292,7 @@
 291	Grado de Afecto: %d
 292	Nivel Estelar insuficiente, no es posible equipar esa habilidad
 293	Práctica actualizada para %d. Abajo del valor actual no es alterado.
-294	No es posible invocar el Escudero bajo el status actual
+294	No es posible invocar el Escudero bajo el estado actual
 295	Arrastra el Escudero aqui para equipalo\r
 296	Abrir artículo requerido ^%06x%s\r
 297	^ff0000Power adicional %.f%%
@@ -333,8 +333,8 @@
 332	Esta Escudero ha alcanzado su fase máxima
 333	^ff0000 sólo puede recoger una Escudero conforme el misma ID
 334	Es necesario que la barra de favoritos anterior esté completa para poder activar la próxima barra
-335	Escudero auxiliar está vinculada, después de la absorción, la Escudero se quedará en status vinculado, ¿Desea absorver?
-336	Después del consumo de la futa de Poder Mágico vinculada, la Escudero cambiará para status vinculado, ¿Desea continuar con el crecimiento?
+335	Escudero auxiliar está vinculada, después de la absorción, la Escudero se quedará en estado vinculado, ¿Desea absorver?
+336	Después del consumo de la futa de Poder Mágico vinculada, la Escudero cambiará para estado vinculado, ¿Desea continuar con el crecimiento?
 337	^ff0000Práctica de %s completa
 338	★Power %d
 339	^ffff00★Power %d ^ff0000(%.f%%)
@@ -354,6 +354,6 @@
 353	^ff0000Evolución de %s completa
 354	^ff0000Evolución de equipamiento del Escudero completa
 355	^ff0000Material insuficiente
-356	守护星级别过低，无法装备
-357	携带等级
-358	同一个ID的守护星只能收藏一个
+356	El nivel del propietario es demasiado bajo para ser equipado
+357	Calificación de Transporte
+358	El propietario de la misma ID solo puede recoger uno

@@ -178,7 +178,7 @@
 177	Dragón Marino - Descripción de Clase
 178	Wyrm - Descripción de Signo
 179	Lira - Descripción de Clase
-180	Descrição do Signo de Tornado
+180	Descripcion del Signo de Tornado
 181	1
 182	2
 183	3
@@ -327,12 +327,12 @@
 326	Col 13
 327	Col 14
 328	No es posible crear un personaje con este signo. Es necesario cambiar el signo a un personaje ya existente, si este ya se encuentra a lvl 59.
-329	正在登录游戏……请稍候
-330	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
-331	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8强大的治疗者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
-332	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人超高伤害\r  ^fff2c8◆大范围多人伤害\r  ^fff2c8◆灼烧（持续伤害）\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
-333	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人石化、沉默\r  ^fff2c8◆队伍攻防提升\r  ^fff2c8◆单人攻击降低\r  ^fff2c8◆反弹伤害\r\r^a4d1ff出生地：\r  ^fff2c8庐山
-334	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆多人减速、沉默\r  ^fff2c8◆单人攻防降低\r  ^fff2c8◆小范围群攻\r  ^fff2c8◆冰之能量增强技能\r\r^a4d1ff出生地：\r  ^fff2c8庐山
-335	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
-336	守护星座7说明
-337	守护星座8说明
+329	Entrando al juego……Por favor espere
+330	^a4d1ffAtaque a Distancia：\r  ^fff2c8Cerca de（3Metros）\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+331	^a4d1ffAtaque a Distancia：\r  ^fff2c8Lejos a(15Metros)\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8Gran Sanador\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+332	^a4d1ffAtaque a Distancia：\r  ^fff2c8Lejos a(15Metros)\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8Gran Atacante\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人超高伤害\r  ^fff2c8◆大范围多人伤害\r  ^fff2c8◆灼烧（持续伤害）\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+333	^a4d1ffAtaque a Distancia：\r  ^fff2c8Cerca de（3Metros）\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人石化、沉默\r  ^fff2c8◆队伍攻防提升\r  ^fff2c8◆单人攻击降低\r  ^fff2c8◆反弹伤害\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+334	^a4d1ffAtaque a Distancia：\r  ^fff2c8Lejos a(15Metros)\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8Gran Atacante\r\r^a4d1ff特殊能力：\r  ^fff2c8◆多人减速、沉默\r  ^fff2c8◆单人攻防降低\r  ^fff2c8◆小范围群攻\r  ^fff2c8◆冰之能量增强技能\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+335	^a4d1ffAtaque a Distancia：\r  ^fff2c8Cerca de（3Metros）\r\r^a4d1ffTendencia de atributo:\r  ^fff2c8Gran Atacante\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+336	Descripcion Guardian Constelacion 7
+337	Descripcion Guardian Constelacion 8

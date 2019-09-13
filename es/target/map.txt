@@ -457,37 +457,37 @@
 456	Ir a la Isla Flotante
 457	Salida de la Isla Flotante
 458	Dios de las 12 Casas Doradas
-459	大众战场临时
-460	女神！仲夏的神祈！
-461	师徒系统介绍人
-462	银河激斗篇积分兑换NPC
-463	传承！黄金试炼领取人
-464	圣战回忆领取人
-465	集结！十二宫危机领取人
-466	军团管理员泽拉
-467	免费双倍发放
-468	青铜匠师
-469	白银匠师
-470	黑暗匠师
-471	黄金匠师
-472	情缘点兑换
-473	结为密友
-474	离婚登记处
-475	黄金圣光使者
-476	祭祀学徒
-477	战场指引
-478	副本周常
-479	战场军需官
-480	符文镶嵌师
-481	深渊！魔星的末日领取人
-482	重生！圣域镇魂歌领取人
-483	大反攻！冰国邪神领取人
-484	守护星大使
-485	守护星军需官
-486	小伙伴训练师
-487	基加美修
-488	神战使者
-489	扫荡使者
-490	绶带出售 摩尔
-491	试炼幻境传送
-492	潘多拉
+459	Campo de Batalla Publico-Temporal
+460	¡Diosa! El dios en pleno verano!
+461	Guia Sistema de Discipulos
+462	Npc Intercambiar Puntos de lucha Galactica
+463	¡Heredado! Destinatario de prueba de oro
+464	Recipiente Memoria de la Guerra Santa
+465¡Montaje! Destinatario de la crisis del zodiaco
+466	Zara
+467	Pago doble Gratis
+468	Artesano de Bronze
+469	Artesano de Plata
+470	Artesano de Armadura Negra
+471	Artesano de Oro
+472	Intercambio de puntos de romance
+473	Amigo Cercano
+474	Registro de divorcio
+475	Emisario de los caballeros Dorados
+476	Sacrificio del aprendiz
+477	Guia Campos de Batalla
+478	Copia a menudo
+479	Intendente del campo de batalla
+480	Incrustación de runas
+481 ¡Abismo! Apocalipsis de la estrella demoníaca
+482	¡Renacimiento! Réquiem del santuario
+483	¡Gran contraataque! Dios demoníaco de la tierra de hielo
+484	Emisario del Escudero
+485	Intendente Estrella
+486	Entrenador de Mascotas
+487	Gilgamesh
+488	Emisario de la Diosa de la Guerra
+489	Heraldo del exterminio
+490	Venta de cinta Moore
+491	Transferencia de prueba de ilusión
+492	Pandora
