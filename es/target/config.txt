@@ -1,5 +1,5 @@
 0	Ajustar el valor fijo del poder de lucha
-1	^ffff00★Power %d^f2f3f2
+1	^ffff00★Poder %d^f2f3f2
 2	Ajustar el valor fijo de HP
 3	HP +%d
 4	Ajustar el valor fijo de la fuerza física
@@ -683,29 +683,29 @@
 682	Por favor, no crea en cualquier información no oficial que involucre el nombre del sitio web en el juego
 683	Por favor, no divulgue su cuenta ni contraseña para no estar sujeta a la pérdida de estas.
 684	Vincular la contraseña de seguridad puede disminuir los posibilidades de perder la cuenta.
-685	Cuando pienses que tu juego esta con "Lag", click en el atajo "Evitar Lag" en el menú "Opciones" y el sistema será ajustado de acuerdo con las configuraciones de su computadora
+685	Cuando pienses que tu juego esta con "Lag", click en el atajo "Estandar" en el menú "Opciones" y el sistema será ajustado de acuerdo con las configuraciones de su computadora
 686	¡Mis puños pueden romper el cielo!  ¡Mis piernas pueden aplastar la tierra!  Soy un símbolo de los Caballeros de la Esperanza
 687	---- ¡Caballeros de la diosa!
 688	Transformación sospechosa que tiene el Caballo de Troya dentro del juego, por favor  elimine el directorio de las carpetas ejecutables antes de entrar en el juego, se recomienda el uso del software antivirus para comprobar.
 689	En el momento del colapso de la transformación sospechosa que tiene el Caballo de Troya dentro del juego, por favor borre el directorio de las carpetas ejecutables antes de entrar en el juego, se recomienda el uso del software antivirus para comprobar.
-690	^fff600第一届银河擂台赛，参赛时间到时，可以凭比赛入场券进入相应的赛场中\r持有观战入场券时，可以进入赛场观战，入场券在6w级世界BOSS宝箱中随机掉落\r每方最多18人参战，每场比赛最多可以容纳80人观战，满员后则无法进入
-691	暴击率+%.0f%%
-692	暴击率减免+%.0f%%
-693	幸运一击率+%.0f%%
-694	生命力+%.0f%%
-695	地攻击+%.0f%%
-696	水攻击+%.0f%%
-697	火攻击+%.0f%%
-698	风攻击+%.0f%%
-699	攻击力下限+%.0f%%
-700	攻击力上限+%.0f%%
-701	防御力+%.0f%%
-702	暴击伤害+%.0f%%
-703	暴伤减免+%.0f%%
-704	攻击力+%.0f%%
-705	招架+%.0f%%
-706	破甲+%.0f%%
-707	雷攻击+%.0f%%
-708	所有属性抗性+%d
-709	所有属性抗性减免+%d
-710	所有属性攻击+%.0f%%
+690	^fff600 La primera competencia de Galaxy, cuando finaliza el tiempo de entrada, puede ingresar al campo correspondiente con el boleto del juego. Cuando tengas el boleto para el juego, podras ingresar al estadio para ver el juego. El boleto esta en el cofre del tesoro del 6W Jefe de mundo. Que cae aleatoriamente \r cada grupo puede tener hasta 18 personas para participar en la batalla, cada juego puede constar con 80 personas para ver la batalla, después de que estencompletos nadie puede entrar
+691	TasaCrit +%.0f%%
+692	CritNulo +%.0f%%
+693	Tasa de exito de la suerte +%.0f%%
+694	Salud +%.0f%%
+695	Ataque de Tierra +%.0f%%
+696	Ataque de Agua +%.0f%%
+697	Ataque de Fuego +%.0f%%
+698	Ataque de Aire +%.0f%%
+699	Min Poder de ataque +%.0f%%
+700	Max Poder de ataque +%.0f%%
+701	Defensa +%.0f%%
+702	CritBonus +%.0f%%
+703	EscudoCrit +%.0f%%
+704	Poder de Ataque +%.0f%%
+705	Bloquear +%.0f%%
+706	Rompe Armadura +%.0f%%
+707	Ataque de Trueno +%.0f%%
+708	Todas las resistencias +%d
+709	Reducción de todas las resistencias  +%d
+710	Todos los ataques de elementos +%.0f%%

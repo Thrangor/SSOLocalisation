@@ -581,38 +581,38 @@
 580	¿En el evento "Crisis en las Doce Casas", la EXP obtenida y dropada tiene relación com cuál atributo del personaje?
 581	¿En el evento "Prueba Dorada", la EXP obtenida y dropada tiene relación con cuál atributo del personaje?
 582	
-583	如何快速找到包裹内可用魔盒分解的装备？
-584	打开魔盒分解页，包裹内闪亮的即是
-585	一目十行的快速扫过装备说明
-586	所有装备都可以分解
-587	所有装备都无法分解
-588	当你发现经验涨满却无法升级时，要如何升级？
-589	按C键打开面板，手动升级
-590	继续游戏，等级会自动提升
-591	做活动，自动提升
-592	打副本，自动提升
-593	足够的觉悟才能升级，如何才能提高觉悟值？
-594	学习技能或升级技能
-595	击杀怪物
-596	做任务
-597	组队副本
-598	哪几个部位可以使用魔盒升阶提升属性？
-599	灵石、手环、徽章和珠链
-600	发带，戒指，项链
-601	上衣，裤子
-602	时装
-603	点击雷达左侧战力体检按钮进行查看
-604	处女座 
-605	沙加 
-606	凤翼天翔 
-607	凤凰座 
+583	¿Cómo encontrar rápidamente el equipo que se puede descomponer del paquete?
+584	Abre la página de descomposición de la Magic Box, el interior del paquete es brillante
+585	Desplácese rápidamente por la descripción del equipo
+586	Todo el equipo puede descomponerse
+587	Todo el equipo no se puede descomponer
+588	¿Cómo se sube de nivel cuando su experiencia está llena pero no puede subir?
+589	Presiona C para abril el panel de personaje y subir manualmente.
+590	continúa el juego, el nivel aumentará automáticamente
+591	haciendo actividades, mejorando automáticamente
+592	copia exitosa, mejorar automáticamente
+593	Se puede mejorar la Experticia, ¿cómo podemos aumentar la Experticia?
+594	Aprendiendo Habilidades o Mejorandolas
+595	matar monstruos
+596	hacer las misiones
+597	copiar el equipo
+598	¿Qué partes pueden usar la Magic Box para Mejorar los atributos?
+599	La piedra del alma, brasalete, placa y el rosario
+600	Banda par ael cabello, anillo, collar
+601	Camisa, Pantalones
+602	Cosmeticos
+603	Haga clic en el lado izquierdo del botón del radar para ver
+604	Virgo
+605	Shaka
+606	Fengyi Tianxiang
+607	Phoenix
 608	12
 609	24
 610	48
 611	64
-612	星矢 
-613	艾欧里亚 
-614	朱狄加 
-615	黄金匕首 
-616	上周军团活跃度前200名
-617	上周军团活跃度掉到前200名以后
+612	Seiya
+613	Aeoria
+614	Judija
+615	daga de oro
+616	Mejores 200 regimentos de la semana pasada
+617	Mejores 200 actividades de Gremios de la semana pasada
