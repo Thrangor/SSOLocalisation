@@ -8,7 +8,7 @@
 7	Muy difícil 
 8	Super Difícil 
 9	¿Cree que Yao Yao estaba bonito?
-10	Credo
+10	Creo
 11	Indescriptible 
 12	Trágico 
 13	Maravilloso
@@ -30,12 +30,12 @@
 29	10 puntos 
 30	Cuestionario 2 
 31	¿Qué piensas de las recompensas?
-32	Bueno
-33	Malo
-34	Insuficiente
+32	Buenas
+33	Malas
+34	Insuficientes
 35	Demasiado
 36	¿1234567?
-37	Gracias por participar en el primer cuestionario Saint Seiya Online, su respuesta irá servir como una referencia importante y nos permitirá brindar un mejor servicio.En el día de hoy, por favor, responda la primera parte - Informaciones Generales
+37	Gracias por participar en el primer cuestionario Saint Seiya Online Reborn, su respuesta servira como una referencia importante y nos permitirá brindar un mejor servicio. Por favor, responda la primera parte - Informes Generales
 38	¿Cuál es su género? 
 39	Masculino
 40	Femenino
@@ -46,23 +46,23 @@
 45	Entre 1990 y 1999 
 46	Después de 2000
 47	¿Cuál es su nivel de estudios? 
-48	Fundamental
+48	Basica
 49	Colegial
-50	Técnico
-51	Facultad 
+50	Técnica
+51	Profesional 
 52	Postgrado o mayor 
 53	¿Cuál es su ocupación? 
-54	Sevidores públicos
+54	Sevidor público
 55	Empleado Estatal
 56	Sector Privado
 57	Agricultura e Industria 
 58	Servicios y negocios 
 59	Autónomo
-60	Freelancer
-61	Estudiantes (de secundaria)
-62	Estudiantes (universidad)
+60	Trabajador independiente
+61	Estudiante (de secundaria)
+62	Estudiante (de universidad)
 63	Otro
-64	¿Cuál es el ingreso mensual de su hogar? 
+64	¿Cuál es el ingreso mensual de su hogar en dolares? 
 65	Sin ingresos fijos
 66	1000
 67	1001 ~ 3000 
@@ -77,12 +77,12 @@
 76	Región medio-oeste
 77	No se decir 
 78	Exterior
-79	¿Cuánto gasta al mes en el juego?
-80	10 reales 
-81	11 ~ 25 reales 
-82	25 ~ 50 reales 
-83	51 ~ 100 reales 
-84	Más de 100 reales 
+79	¿Cuánto gasta al mes en el juego en dolares?
+80	10  
+81	11 ~ 25  
+82	25 ~ 50  
+83	51 ~ 100  
+84	Más de 100  
 85	¿En cuál período del día juega? 
 86	De las 08:00 a.m. a las 12:00 a.m.
 87	De las 12:00 a.m. a las 02:00 a.m.
@@ -95,7 +95,7 @@
 94	Hace mucho tiempo 
 95	Lo he leído, pero no lo he visto
 96	Nunca
-97	Ahora, por favor, responda la segunda parte del cuestionario, gracias nuevamente por la participación en la investigación. 
+97	Ahora, por favor, responda la segunda parte del cuestionario, gracias nuevamente por participar en la investigación. 
 98	¿Qué cosas te preocupan más del juego?
 99	Si tendré amigos por ahí
 100	Tema y estilo del juego
@@ -316,7 +316,7 @@
 315	No sé como recomendar 
 316	¿Crees que después de este cuestionario, vas a tener interés en Saint Seiya Online?
 317	Sí
-318	Ocasionalmente acompañaré
+318	Ocasionalmente jugare
 319	Quizás 
 320	No
 321	1
