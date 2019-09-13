@@ -868,7 +868,7 @@
 867	^O021^ffff00Guardião de Câncer ★\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 2% de ataque
 868	^O021^ffff00Guardião de Câncer ★
 869	^O021^ffff00Guardião de Câncer ★☆\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 3% de ataque
-870	^O021^ffff00Guardião de Câncer ★☆\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 3% de ataque
+870	^O021^ffff00Guardião de Câncer ★☆\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 3 de ataque
 871	^O021^ffff00Guardião de Câncer ★★\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 4% de ataque
 872	^O021^ffff00Guardião de Câncer ★★
 873	^O021^ffff00Guardião de Câncer ★★☆\r^O009^ffffffAo obter a Proteção de Câncer, aumenta 5% de ataque
@@ -1700,7 +1700,7 @@
 1699	^O021^ffff00Ikki-talento lutar puxou estado
 1700	^O021^ffff00Força do Rei do Fogo\r^O009^ffffffAo sofrer um ataque, há chance de silenciar o inimigo, e aplicar o status Fúria do Rei do Fogo\rChance: 30%
 1701	^O021^ffff00Força do Rei de Fogo
-1702	^O021^ffff00Fúria do Rei de Fogo\r^O009^ffffffRedução de Velocidade de Movimento: 20%\rRecebendo dano contínuo
+1702	^O021^ffff00Fúria do Rei de Fogo\r^O009^ffffffRedução de Velocidade de Movimento: 20\rRecebendo dano contínuo
 1703	^O021^ffff00Fúria do Rei de Fogo
 1704	^O021^ffff00Wanmabenteng \r^O009^ffffffdanos aumentou em 30%
 1705	^O021^ffff00a todo vapor
@@ -2806,7 +2806,7 @@
 2805	^O021^ffff00deformação ^O009^ffffffé deformado, e reduzir significativamente a velocidade de movimento
 2806	^O021^ffff00deformação
 2807	^O021Aumento de dano da armadura de Altar
-2808	^O021^ffff00Absorção de Espírito^O009^ffffffAumento de dano e recuperação de HP
+2808	^O021^ffff00Absorção de Espírito^O009^ffffffTaxa de dano aumentada em 20%, ataque com efeito de retorno de sangue
 2809	^O021^ffff00Absorção de Espírito
 2810	^O021^ffff00presente instante _ 6_ controle do estado de interrupção
 2811	^O021 Festival de Outono_ virou pequenas bombas de coelho
@@ -3214,7 +3214,7 @@
 3213	^O021^ffff00Súbito\r^O009^ffffffResistência contra dano reduzido em 10%
 3214	^O021^ffff00Disciplina Estelar\r^O009^ffffffReduz a velocidade de movimento
 3215	^O021^ffff00silêncio ^O009^ffffffsob as estrelas papel tipo Correctional, silencioso
-3216	^O021^ffff00Força da Maré\r^O009^ffffffAumenta a taxa de dano e crítico em 5%
+3216	^O021^ffff00Força da Maré\r^O009^ffffffAumenta a taxa de dano e crítico em 5%%
 3217	^O021 Hyoga - Talent 5 Ice invisível
 3218	^O021^ffff00Hyoga - Talent 5 Ice dispersar invisível
 3219	^O021^ffff00silêncio ^O009^ffffffhabilidades temporariamente indisponível
@@ -3449,7 +3449,7 @@
 3448	^O021^ffff00Last Guardian
 3449	^O021^ffff00A redução de afluência ^O009^ffffffdanos peixe
 3450	^O021^ffff00Stocks peixes aumento
-3451	^O021^ffff00Véu de Sombras^O009^ffffffPrecisão reduzida
+3451	^O021^ffff00Véu de Sombras^O009^ffffffBata para 0 \r (a taxa de acerto inferior é reduzida para 75%)
 3452	^O021^ffff00mistério envolta
 3453	^O021^ffff00silêncio ^O009^ffffffsilenciados
 3454	^O021^ffff00assento Dragão _ dimensão Golden Triangle
@@ -4151,7 +4151,7 @@
 4150	^O021^ffff00asilo escuro ^O009^ffffffúnica de lótus sagrado pode dispersá-los asilo.
 4151	^O021^ffff00escuro Asylum
 4152	^O021 Rozan tricíclicos _ dispersar monstro invencível
-4153	^O021^ffff00Escudo de Hades\r^O009^ffffffSe for atacado 5 vezes e o dano for maior que 10% do HP máximo,\ro dano sofrido diminui em 50%,\rcaso contrário, o dano será convertido em recuperação de HP por 10s
+4153	^O021^ffff00Escudo de Hades\r^O009^ffffffSe for atacado 5 vezes e o dano for maior que 10% do HP máximo,\ro dano sofrido diminui em 50%%,\rcaso contrário, o dano será convertido em recuperação de HP por 10s
 4154	^O021^ffff00Escudo de Hades
 4155	^O021^ffff00salto novamente ^O009^ffffffVocê também pode dar um salto.
 4156	^O021^ffff00salto novamente
@@ -4463,7 +4463,7 @@
 4462	^O021^ffff00Valkyrie dissuasor
 4463	^O021^ffff00Sigil Valkyrie ^O009^ffffffVocê não pode receber tratamento, a velocidade é mais lenta.
 4464	^O021^ffff00Sigil Valkyrie
-4465	^O021^ffff00Valkyrie ira ^O009^ffffffValkyrie pode rebote de 25 por cento sofreram danos, e aumentar a sua substituição danos
+4465	^O021^ffff00Valkyrie ira ^O009^ffffffValquíria pode recuperar 25% do dano e aumentar sua própria taxa de dano
 4466	^O021^ffff00raiva Valkyrie
 4467	^O021^ffff00coração sanguinário ^O009^ffffff ataques Rochosas estão constantemente torna-se maior.
 4468	^O021^ffff00coração sanguinário
@@ -9176,10 +9176,10 @@
 9175	perfurante
 9176	libertado
 9177	Vem!espada Shura
-9178	\t^ c0c0ff [Espada Lâmina] ^FFFF00\r espada vem, o proprietário do alvo de ataques lançados ataques contra alvos e em torno de seis metros de raio muitos danos, enquanto seu companheiro dentro de 6 m do proprietário e o dano circundante aumento de 50%%\r de dano %d%%\r ^c0c0ff [Seiken abençoe] ^FFFF00\r mestre da espada vem tão magoada por 80%% por 12 segundos, a desregulamentação gatilho incidental \rvalor de probabilidade efeito \t artefato efeito gatilho associado com o divino.
+9178	\t^c0c0ff [Espada Lâmina] ^FFFF00\r espada vem, o proprietário do alvo de ataques lançados ataques contra alvos e em torno de seis metros de raio muitos danos, enquanto seu companheiro dentro de 6 m do proprietário e o dano circundante aumento de 50%%\r de dano %d%%\r ^c0c0ff [Seiken abençoe] ^FFFF00\r mestre da espada vem tão magoada por 80%% por 12 segundos, a desregulamentação gatilho incidental \rvalor de probabilidade efeito \t artefato efeito gatilho associado com o divino.
 9179	Obter depois de usar bênção espada, lutando probabilidade gatilho \r^c0c0ff [Espada Lâmina] ^A2FFFF ou ^c0c0ff [Seiken abençoe] ^A2FFFF efeito
 9180	Vem!Aquarius Camus
-9181	\t^ c0c0ff [Aurora disciplinar] ^FFFF00 \rgarrafa Aurora caiu, o ataque no host de destino para lançar ataques contra alvos e em torno de seis metros de raio causou uma série de prejuízos, de modo que o alvo está congelado por 4 segundos.\rAo mesmo tempo em torno do alvo inimigo terá efeito de difusão frio, o inimigo com efeito de difusão frio na ou perto uma da outra perto do alvo principal é congelado, será sobreposta estado frio, que serão congelados quando sobrepostas no 5º andar.danos causados ​​pelo frio de difusão para 10 segundos\rdano %d%% \r^c0c0ff [madrugada deusa abençoa] ^FFFF00\rgarrafa vai atacar o dono da meta é congelados quatro segundos, enquanto o proprietário reduzida em 80%%  ferido, atacado 10 vezes, quando o desaparecimento do estado para até 12 segundos, com o efeito da desregulamentação (sendo governados pelo número de ataques irão consumir) valor de probabilidade de disparo \t artefato efeito gatilho associado com o divino.
+9181	\t^c0c0ff [Aurora disciplinar] ^FFFF00 \rgarrafa Aurora caiu, o ataque no host de destino para lançar ataques contra alvos e em torno de seis metros de raio causou uma série de prejuízos, de modo que o alvo está congelado por 4 segundos.\rAo mesmo tempo em torno do alvo inimigo terá efeito de difusão frio, o inimigo com efeito de difusão frio na ou perto uma da outra perto do alvo principal é congelado, será sobreposta estado frio, que serão congelados quando sobrepostas no 5º andar.danos causados ​​pelo frio de difusão para 10 segundos\rdano %d%% \r^c0c0ff [madrugada deusa abençoa] ^FFFF00\rgarrafa vai atacar o dono da meta é congelados quatro segundos, enquanto o proprietário reduzida em 80%%  ferido, atacado 10 vezes, quando o desaparecimento do estado para até 12 segundos, com o efeito da desregulamentação (sendo governados pelo número de ataques irão consumir) valor de probabilidade de disparo \t artefato efeito gatilho associado com o divino.
 9182	Obter as bênçãos da deusa do amanhecer após o uso, a luta provocou probabilidade ^c0c0ff [disciplinar Aurora] ^A2FFFF ou ^c0c0ff [madrugada deusa abençoa] ^A2FFFF efeito
 9183	Raizes Mortais
 9184	Invoca as forças da natureza aprisionando o alvo principal e inimigos próximos em raízes com espinhos que os causam dano.
@@ -9831,7 +9831,7 @@
 9830	Tiroteio
 9831	Abrir fogo ao inimigo.
 9832	Radar
-9833	O uso do radar faz com que você enxergue unidades invisíveis.\r ^ffff00Usar o radar frequentemente em um curto período de tempo faz com que ele superaqueça.\r^ c0c0ffO radar detecta inimigos na grama e desarma o “gesto de assassinato”.
+9833	O uso do radar faz com que você enxergue unidades invisíveis.\r ^ffff00Usar o radar frequentemente em um curto período de tempo faz com que ele superaqueça.\r^c0c0ffO radar detecta inimigos na grama e desarma o “gesto de assassinato”.
 9834	Incendiário
 9835	Faz os inimigos queimarem. O uso cumulativo da habilidade pode causar efeito adicional.
 9836	Minas de Gelo
@@ -10380,7 +10380,7 @@
 10379	Salvar
 10380	Use a salvação de Hades para trazer seus amigos de volta à ação.
 10381	Escorpião: Cauda Dourada
-10382	\t^c0c0ff[Ira do Escorpião]^FFFF00\r O ataque do escorpião causa enormes prejuízos para o alvo, o alvo também recebe o efeito disciplinador de Miro. Reduz 1%% do HP máximo por segundo, reduz 5%% de dano por segundo, reduz até 75%% de resistência a dano (só afeta jogadores)\r Causa d%% de dano\r ^c0c0ff[Refúgio do Escorpião]^FFFF00\r O escorpião protege o usuário. Deixa o inimigo em estado de caos, fazendo com que ele perca os 5 sentidos. O dano sofrido pelo usuário é reduzido em 80%%. Ao ser atacado 10 vezes a habilidade desaparece por 12 s. Libera o efeito de controle livre (o escudeiro também é consumido). \tA relíquia causa efeito de acordo com o valor divino relacionado
+10382	\t^c0c0ff[Ira do Escorpião]^FFFF00\r O ataque do escorpião causa enormes prejuízos para o alvo, o alvo também recebe o efeito disciplinador de Miro. Reduz 1%% do HP máximo por segundo, reduz 5%% de dano por segundo, reduz até 75%% de resistência a dano (só afeta jogadores)\r Causa %d%% de dano\r ^c0c0ff[Refúgio do Escorpião]^FFFF00\r O escorpião protege o usuário. Deixa o inimigo em estado de caos, fazendo com que ele perca os 5 sentidos. O dano sofrido pelo usuário é reduzido em 80%%. Ao ser atacado 10 vezes a habilidade desaparece por 12 s. Libera o efeito de controle livre (o escudeiro também é consumido). \tA relíquia causa efeito de acordo com o valor divino relacionado
 10383	Após receber a Bênção de Escorpião, existe a probabilidade de liberar ^c0c0ff[Ira do Escorpião]^A2FFFF ou ^c0c0ff[Refúgio do Escorpião]^A2FFFF
 10384	Vento forte
 10385	Dano adicional: {^FFABFC%d^FFFF00}\rCausa {^FFABFC%d%%^FFFF00} de dano\r Reduz o dano de alvos terrestres em 50%% \r ^00FF00Bloqueio de Vento^FFFF00\r Reduz a velocidade de voo em 4 m/s e reduz a velocidade de movimento em 2 m/s por 3s
@@ -10591,7 +10591,7 @@
 10590	Explosão venenosa do escorpião
 10591	O meu veneno vai se espalhar pelo mundo todo!
 10592	Dano adicional: {^FFABFC%d^FFFF00}\rCausa {^FFABFC%d%%^FFFF00} de dano\r Reduz o dano de alvo terrestres em 50%% \r ^00FF00Invencibilidade do Escorpião^FFFF00\r Estimula o potencial de vida, fica invencível por 4 s\r ^00FF00Sangue Envenenado^FFFF00\r O veneno causa {^FFABFC%d^FFFF00} de dano por 4 s, dois BUFFs podem ser sobrepostos
-10593	Dano adicional: %d\r Causa d%% de dano\r Reduz o dano de alvo terrestres em 50%% \r ^00FF00Invencibilidade do Escorpião^FFFF00\r Estimula o potencial de vida, fica invencível por 4 s\r ^00FF00Sangue Envenenado^FFFF00\r O veneno causa %d de dano por 4 s, dois BUFFs podem ser sobrepostos
+10593	Dano adicional: %d\r Causa %d%% de dano\r Reduz o dano de alvo terrestres em 50%% \r ^00FF00Invencibilidade do Escorpião^FFFF00\r Estimula o potencial de vida, fica invencível por 4 s\r ^00FF00Sangue Envenenado^FFFF00\r O veneno causa %d de dano por 4 s, dois BUFFs podem ser sobrepostos
 10594	Invoca grande quantidade de sangue venenoso que causa dano e queimadura. Atinge os inimigos em um raio de 10 m. O efeito de invencibilidade é liberado para o usuário
 10595	Extensão Escarlate
 10596	^00FF00Origem do Escorpião ^FFFF00\rRecarrega instantaneamente as habilidades Espinhos Gloriosos e Bolhas Venenosas de Escorpião\rAumenta a taxa de danos em %d%%, dura 8s
@@ -11323,7 +11323,7 @@
 11322	Um explosão de lava ataca o alvo e pode causar ^00FF00Combustão^A2FFFF
 11323	Explosão de Lava
 11324	Dano adicional: {^FFABFC%d^FFFF00}\rCausa {^FFABFC%d%%^FFFF00} de dano\r Reduz o dano de alvos terrestres em 50%%\r ^00FF00Explosão de Lava^FFFF00\r Diminui o acerto por 4 s
-11325	Dano adicional: %d\r Causa d%% de dano\r Reduz o dano de alvos terrestres em 50%%\r ^00FF00Explosão de Lava^FFFF00\r Diminui o acerto por 4 s
+11325	Dano adicional: %d\r Causa %d%% de dano\r Reduz o dano de alvos terrestres em 50%%\r ^00FF00Explosão de Lava^FFFF00\r Diminui o acerto por 4 s
 11326	Lança lava no inimigo causando muito dano por causa da ^00FF00Explosão de Lava^A2FFFF
 11327	Maldição Explosiva
 11328	Dano adicional: {^FFABFC%d^FFFF00}\rCausa {^FFABFC%d%%^FFFF00} de dano\r Reduz o dano de alvos terrestres em 50%%\r^00FF00Silenciamento^FFFF00\r Dura 4 s
@@ -12347,7 +12347,7 @@
 12346	Aumenta o dano da Brisa Ciclônica em 1%% por nível\rAumento de %d%% no dano da Brisa Ciclônica
 12347	Meditar ajudará a ter uma compreensão mais profunda da Brisa Ciclônica
 12348	Lâmina de Vento+
-12349	Cada nível aumenta o dano da Lâmina de Vento
+12349	Cada nível aumenta a agitação da lâmina do vento em 1 %% do dano \r aumenta a agitação da lâmina do vento em %d %% de dano
 12350	Meditar ajudará a ter uma compreensão mais profunda da Lâmina de Vento
 12351	Fluxo Estrondoso
 12352	Uma rajada de ar sai das mãos e acerta o alvo
@@ -12458,7 +12458,7 @@
 12457	Use^c0c0ff[%s]^FFFF00para ativar o status ^c0c0ff[Velocista]^FFFF00\rHabilidade exclusiva do Signo de: ^00FF00%sTornado^FFFF00
 12458	^c0c0ffNecessário Nv.10 da Armadura de Relâmpago^A2FFFF
 12459	Poder Destrutivo
-12460	^c0c0ff[%s]^FFFF00Tem 15%% de chance de ativar o status ^c0c0ff[Destrutivo]^FFFF00\rHabilidade exclusiva do Signo de: ^00FF00%sTornado^FFFF00
+12460	^c0c0ff[%s]^FFFF00Tem 15%% de chance de ativar o status ^c0c0ff[Destrutivo]^FFFF00^c0c0ff[%s]^FFFF00\rHabilidade exclusiva do Signo de: ^00FF00%s Tornado^FFFF00
 12461	^c0c0ffNecessário Nv.16 da Armadura de Aurora^A2FFFF
 12462	Parede de Vento
 12463	Reduz o dano recebido por em 50%% por 8 segundos\rHabilidade exclusiva do Signo de: ^00FF00%sTornado^FFFF00
@@ -12541,16 +12541,16 @@
 12540	^00FF00Coração do Oceano^FFFF00\rVelocidade de movimento aumentada em 8m/s\rTaxa de dano aumentada em 20%%\rDuração de %d segundos
 12541	A Arraia Dourada recebe um presente dos mares, aumenta a velocidade de movimento e dano
 12542	Reforça o  Ataque de Explosão
-12543	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00Aumenta a chance de dano dobrado em 20%%
+12543	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00 ^c0c0ff[%s]^FFFF00Aumenta a chance de dano dobrado em 20%%
 12544	^c0c0ffNecessário Nv.3 da Armadura de Tornado Negro^A2FFFF
 12545	Reforçar Sussuros do Vento
-12546	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00Aumenta a chance de sair de efeitos de controle por segundo em 30%%
+12546	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura,^c0c0ff[%s]^FFFF00 ^c0c0ff[%s]^FFFF00Aumenta a chance de sair de efeitos de controle por segundo em 30%%
 12547	^c0c0ffNecessário Nv.10 da Armadura de Tornado Negro^A2FFFF
 12548	Reforçar a Agilidade
-12549	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00Aumenta a chance de subir o status [Agilidade]em 25%%
+12549	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura,^c0c0ff[%s]^FFFF00  ^c0c0ff[%s]^FFFF00Aumenta a chance de subir o status [Agilidade]em 25%%
 12550	^c0c0ffNecessário Nv.16 da Armadura de Tornado Negro^A2FFFF
 12551	Reforçar a Força Bruta
-12552	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00Aumenta o tempo de Atordoamento em 1 segundo
+12552	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00 ^c0c0ff[%s]^FFFF00Aumenta o tempo de Atordoamento em 1 segundo
 12553	^c0c0ffNecessário Nv.24 da Armadura de Tornado Negro^A2FFFF
 12554	Reforçar Espírito Vingativo
 12555	Quando ^00FF00%sTornado ^FFFF00está sob Efeito da Habilidade de Armadura, ^c0c0ff[%s]^FFFF00Aumenta o Dano em 20%%
@@ -12737,7 +12737,7 @@
 12736	\t^c0c0ff[Raio Titânico]^FFFF00\rOs Chifres de Ouro lançam um Raio destrutivo\rReduz a resistência a danos em 15%% do alvo e dos inimigos próximos, dura 6s\rCausa %d%% de dano.\r^c0c0ff[Chifrada Brutal]^FFFF00\rO Chifre de Ouro invoca um Touro Colisão Brutal, derruba os inimigos em linha reta e reduz a velocidade de movimento por 5 segundos; Também diminui os danos recebidos por seu usuário em 80%%. Depois de ser atacado 10x, o status desaparece; dura, no máximo, 12s. Ao ser ativado, elimina o efeito de controle (Os ataques do Escudeiro também gastam o limitador de ataques recebidos).\tA probabilidade de ativar o Relíquia está relacionada ao Índice do Poder Divino.\rCausa dano de %d%%.
 12737	Depois de usá-la, você pode obter a bênção de Aldebaran. Existe a chance de durante a batalha ativar ^c0c0ff[Raio Titânico]^A2FFFF ou ^c0c0ff[Chifrada Brutal]^A2FFFF
 12738	Força Descomunal
-12739	Dano adicional:{^FFABFC%d^FFFF00}\rCausa{^FFABFC%d%%^FFFF00}de dano\rTem 30%% de chance de reduzir a taxa de danos do inimigo em 20%%dura 4s\rRedução de danos sofridos pelos alvos terrestres em 50%%
+12739	Dano adicional:{^FFABFC%d^FFFF00}\rCausa{^FFABFC%d%%^FFFF00}de dano\rTem 30%% de chance de reduzir a taxa de danos do inimigo em 20%% dura 4s\rRedução de danos sofridos pelos alvos terrestres em 50%%
 12740	Dano adicional: %d\rCausa %d%% de dano\rTem 30%% de chance de reduzir a taxa de danos do inimigo em 20%%, dura 4s\rRedução de danos sofridos pelos alvos terrestres em 50%%
 12741	Mamute bate com a sua tromba, causando dano no alvo e ainda tem a chance de reduzir a Taxa de danos do alvo
 12742	Colisão Brutal
@@ -12794,13 +12794,13 @@
 12793	Depois de usá-la, você pode obter a bênção de Shaka. Existe a chance de durante a batalha ativar ^c0c0ff[Ardência do Inferno]^A2FFFF ou ^c0c0ff[Pose de Lótus]^A2FFFF
 12794	Ataque de Presas
 12795	Dano adicional:{^FFABFC%d^FFFF00}\rCausa {^FFABFC%d%%^FFFF00}de dano\rTem 30%% de chance de reduzir a velocidade do alvo, duração de 4 segundos\rRedução de 50%% de dano em alvos do tipo Terra
-12796	Dano adicional:%d\rCausa % d %% de dano\rTem 30%% de chance de reduzir a velocidade do alvo, duração de 4 segundos\rRedução de 50%% de dano em alvos do tipo Terra
+12796	Dano adicional:%d\rCausa  %d %% de dano\rTem 30%% de chance de reduzir a velocidade do alvo, duração de 4 segundos\rRedução de 50%% de dano em alvos do tipo Terra
 12797	Arremessa presas verde-escuras, causando dano ao alvo e tem chance de diminuir a velocidade do alvo
 12798	Injeção de Veneno
 12799	Pulveriza o veneno para frente, causando dano e repelindo inimigos de dentro da área
 12800	Bomba Maluca de Veneno
-12801	Dano adicional: {^FFABFC%d^FFFF00}\rCausa % d %% de dano\rEnvenena o inimigo (válido apenas para o jogador) por 5 segundos\rRedução de 50%% de dano em alvos do tipo Terra
-12802	Dano adicional:% d\rCausa {^FFABFC%d%%^FFFF00} de dano\rEnvenena o inimigo (válido apenas para o jogador) por 5 segundos\rRedução de 50%% de dano em alvos do tipo Terra
+12801	Dano adicional: {^FFABFC%d^FFFF00}\rCausa  %d %% de dano\rEnvenena o inimigo (válido apenas para o jogador) por 5 segundos\rRedução de 50%% de dano em alvos do tipo Terra
+12802	Dano adicional: %d\rCausa {^FFABFC%d%%^FFFF00} de dano\rEnvenena o inimigo (válido apenas para o jogador) por 5 segundos\rRedução de 50%% de dano em alvos do tipo Terra
 12803	Pulverize uma bola verde-escura ao redor, solte-a e exploda-a , causando dano a inimigos próximos e envenenando-os.
 12804	Regeneração de Veneno
 12805	^00FF00Regeneração de Presas^FFFF00\rA Taxa de dano é aumentada em 25%%\rDuração de %d segundos (aumenta com o nível da habilidade)
@@ -12860,218 +12860,218 @@
 12859	Inicia/Cancela Voo com montaria
 12860	Voar
 12861	Inicia/Cancela Voo
-12862	对怪物造成2秒倒地，对玩家造成2秒定身\r附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12863	对怪物造成2秒倒地，对玩家造成2秒定身\r附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12864	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r倒地时间：3秒\r每点斗志提升25%%的总伤害
-12865	附加攻击力:%d\r附加雷属性攻击力:%d\r至少造成%d%%的伤害\r倒地时间：3秒\r每点斗志提升25%%的总伤害
+12862	Faz com que o monstro caia no chão por 2 segundos, causando 2 segundos ao jogador. \r Ataque adicional: {^FFABFC %d ^FFFF00} \rAtaque de Atributos Adicionais: {^FFABFC %d ^FFFF00} \r { ^FFABFC %d %% ^FFFF00} O dano \r \t ^00FF00 Sagitário avançado ^FFFF00 \r Lançado em ^c0c0ff [Explosão de ouro] ^FFFF00 status \r Este estado não será acionado novamente dentro de 30 segundos após o consumo
+12863	Faz com que 2 segundos caiam no monstro, causando 2 segundos para corrigir o poder de ataque adicional do jogador: %d \r poder de ataque adicional do atributo bônus: %d \r causa %d %% de dano \r \t ^00FF00 atirador Depois que o assento avançado ^FFFF00 \r for liberado, ele entra em ^c0c0ff [Surto de Ouro] ^Status FFFF00 \rEste estado não será acionado novamente dentro de 30 segundos após o consumo.
+12864	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicionar poder de ataque do atributo mine: {^FFABFC %d ^FFFF00} \r pelo menos causando {^FFABFC %d %% ^FFFF00} tempo de queda dos danos : 3 segundos Aumenta o dano total em 25 %% toda vez
+12865	Poder de ataque adicional: %d \r poder de ataque adicional do atributo bônus: %d \r pelo menos causando %d %% de dano Tempo de queda: 3 segundos \r Aumenta o dano total em 25 %% por ponto
 12866	
-12867	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r沉默时间：%d秒
-12868	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r沉默时间：%d秒
-12869	伤害提升：20%%\r持续时间：20秒\r效果范围：15米
-12870	短时间内提升自身移动速度和伤害抗性，并免疫定身和减速\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用
-12871	持续期间每2秒回复10点体力
-12872	状态持续15秒，期间每3秒自动回复一点斗志\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962射手守护]^FFFF00\r^c0c0ff额外获得体力回复\r被攻击时，攻击者的命中率大幅下降
-12873	持续期间每2秒回复生命上限的1%%
-12874	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r使目标移动速度减少60%%，持续6秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962曙光女神之怒]^FFFF00\r^c0c0ff伤害提升100%%，并100%%溅射目标周围的敌人\r同时可将目标冻结
-12875	附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r使目标移动速度减少60%%，持续6秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962曙光女神之怒]^FFFF00\r^c0c0ff伤害提升100%%，并100%%溅射目标周围的敌人\r同时可将目标冻结
-12876	白鸟座的进阶招式，运用极地冰寒伤害目标
-12877	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r冰霜路径宽度:6米\r攻击9次，共造成{^FFABFC%d%%^FFFF00}的伤害\r能够将选中的目标击倒3秒，每次打击都击退目标1米
-12878	附加攻击力:%d\r附加水属性攻击力:%d\r冰霜路径宽度:6米\r攻击9次，共造成%d%%的伤害\r能够将选中的目标击倒3秒，每次打击都击退目标1米
-12879	白鸟座的终极奥义，以曙光女神的冰霜轰击目标，冰霜会对其经过的路径上的敌人产生溅射伤害，技能开始施放时附加4秒免控
-12880	炸弹数量:%d\r炸弹附加攻击力:{^FFABFC%d^FFFF00}\r炸弹水属性攻击力:{^FFABFC%d^FFFF00}\r每个炸弹爆炸对周围3米的目标造成{^FFABFC%d%%^FFFF00}的伤害\r炸弹最多存在8秒\t^00FF00用键盘或右键按住快捷键不放可以蓄力：^FFFF00\r炸弹数量:3\r每个炸弹爆炸对周围3米的目标造成{^FFABFC%d%%^FFFF00}的伤害\r炸弹移动速度:6米/秒
-12881	炸弹数量:%d\r炸弹附加攻击力:%d\r炸弹水属性攻击力:%d\r每个炸弹爆炸对周围3米的目标造成%d%%的伤害\r炸弹最多存在8秒\t^00FF00用键盘或右键按住快捷键不放可以蓄力：^FFFF00\r炸弹数量:3\r每个炸弹爆炸对周围3米的目标造成%d%%的伤害\r炸弹移动速度:6米/秒
-12882	使得^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00能够减少目标{^FFABFC%d^FFFF00}点防御力和10点全属性抗性
-12883	使得^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00能够减少目标%d点防御力和10点全属性抗性
-12884	把敌方目标和其周围6米的单位拉到自己身前（如果要拉的是敌方玩家，只有当他是你选中的目标时才生效）\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962黄金锁链]^FFFF00\r^c0c0ff将目标拉至身前的同时，可将自身周围的怪物拉至身边，对主目标造成倒地效果
-12885	消耗%d%%的当前生命\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r攻击6次，共造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00天秤座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12886	消耗%d%%的当前生命\r附加攻击力:%d\r附加地属性攻击力:%d\r攻击6次，共造成%d%%的伤害\r\t^00FF00天秤座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12887	打击自身周围圆形6米范围的目标，造成大量仇恨\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害
-12888	打击自身周围圆形6米范围的目标，造成大量仇恨\r附加攻击力:%d\r附加地属性攻击力:%d\r造成%d%%的伤害
-12889	以龙纹之盾保护自己，最多吸收自己生命上限35%%的伤害，持续6秒\r开启护盾后的30秒内，你的下一次^c0c0ff[%s]^FFFF00伤害将大幅提高，并且附带减速效果，减少60%%的移动速度，持续4秒\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用
-12890	圣剑一出，谁与争辉\r击倒并重创目标方向矩形范围内的单位
-12891	燃魂状态下，被击倒的目标将无法回复生命
-12892	进入^00FF00燃魂^FFFF00状态，实力大幅提升，持续45秒\t^00FF00燃魂^FFFF00\r提高30%%的生命上限，并获得这么多生命\r^c0c0ff[%s]^FFFF00的伤害提高50%%，发动时消耗的生命提高100%%\r^c0c0ff[%s]^FFFF00得到强化，并且冷却时间减少2秒\r进入状态瞬间可立即解除自身控制
-12893	冻土半径:4米\r移动速度下降:60%%\r目标的防御力下降:%d\r冻土持续10秒
-12894	极寒半径:4米\r结冰需要时间:3秒\r冻结时间:3秒\r寒冰阵持续10秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962水瓶之光]^FFFF00\r^c0c0ff召唤的极寒区域可向主人攻击的目标移动
-12895	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r50%%概率进入强化次元角锁状态\r\t^00FF00强化次元角锁^FFFF00\r下一次^00FF00次元角锁^FFFF00伤害提高50%%
-12896	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r50%%概率进入强化次元角锁状态\r\t^00FF00强化次元角锁^FFFF00\r下一次^00FF00次元角锁^FFFF00伤害提高50%%
-12897	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对目标定身:4秒\r减少移动速度:40%%
-12898	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r对目标定身:4秒\r减少移动速度:40%%
-12899	用锁链卷起目标猛烈的砸击地面，并溅射周围目标\r伤害随当前神威领域值变化，神威领域值满时造成伤害提高300%%\r对玩家和强力怪物使用时将以另一种形式发起进攻
-12900	自由星光持续时间:6秒\t^00FF00自由星光^FFFF00\r免受控制效果影响\r处于眩晕倒地浮空和沉默状态下也可使用
-12901	^c0c0ff巨蛇座圣衣星铸等级达到3级时获得^A2FFFF
-12902	^c0c0ff北冕座圣衣星铸等级达到3级时获得^A2FFFF
-12903	^c0c0ff巨蛇座圣衣星铸等级达到10级时获得^A2FFFF
-12904	^c0c0ff北冕座圣衣星铸等级达到10级时获得^A2FFFF
-12905	^c0c0ff盾牌座圣衣星铸等级达到3级时获得^A2FFFF
-12906	^c0c0ff南鱼座圣衣星铸等级达到3级时获得^A2FFFF
-12907	^c0c0ff盾牌座圣衣星铸等级达到10级时获得^A2FFFF
-12908	^c0c0ff南鱼座圣衣星铸等级达到10级时获得^A2FFFF
-12909	每次有10%%概率立即清除电浆风暴的冷却时间
-12910	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r减少移动速度:60%%
-12911	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r减少移动速度:60%%
-12912	打击目标，并溅射周围目标\r给目标立即附加5层烈焰焚烧状态\r产生的高温将使对手减速5秒
-12913	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\t^00FF00地狱烈焰^FFFF00\r持续造成伤害\r持续10秒\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12914	附加攻击力:%d\r附加火属性攻击力:%d\r至少造成%d%%的伤害\t^00FF00地狱烈焰^FFFF00\r持续造成伤害\r持续10秒\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12915	有30%%几率额外召唤一个黑暗凤凰座
-12916	冷却时间变为50秒，并且最后一击可使敌人眩晕5秒
-12917	领域之力状态下移动速度提升60%%
-12918	可使生命低于50%%的队友及自身瞬间回复生命上限5%%的血量,并且每秒回复生命上限的1%%
-12919	幻像附加攻击力:{^FFABFC%d^FFFF00}\r幻像附加火属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r黑暗四天王将存在20秒
-12920	幻像附加攻击力:%d\r幻像附加火属性攻击力:%d\r至少造成%d%%的伤害\r黑暗四天王将存在20秒
-12921	怒火之焰有10%%的概率立即清除该技能的冷却时间
-12922	有10%%几率召唤全部四大天王
-12923	此技能释放过程中，怪物们会忽略你的存在。
-12924	成功释放结束后可进入隐身状态，隐身效果将在释放到第2秒时触发,处于隐身状态时，将使[憎恨虐杀]和[幻魔拳]的伤害提升50%%
-12925	^c0c0ff箭鱼座圣衣星铸等级达到3级时获得^A2FFFF
-12926	^c0c0ff海蛇座圣衣星铸等级达到3级时获得^A2FFFF
-12927	^c0c0ff箭鱼座圣衣星铸等级达到10级时获得^A2FFFF
-12928	^c0c0ff海蛇座圣衣星铸等级达到10级时获得^A2FFFF
-12929	^c0c0ff六分仪座圣衣星铸等级达到3级时获得^A2FFFF
-12930	^c0c0ff六分仪座圣衣星铸等级达到10级时获得^A2FFFF
-12931	^c0c0ff变色龙座圣衣星铸等级达到3级时获得^A2FFFF
-12932	^c0c0ff变色龙座圣衣星铸等级达到10级时获得^A2FFFF
-12933	^c0c0ff[%s]^FFFF00有10%%的概率立即清除^c0c0ff[%s]^FFFF00的冷却时间\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12934	^c0c0ff船尾座圣衣星铸等级达到3级时获得^A2FFFF
-12935	^c0c0ff[%s]^FFFF00可使自己和队友的移动速度提升60%%\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12936	^c0c0ff船尾座圣衣星铸等级达到10级时获得^A2FFFF
-12937	^c0c0ff[%s]^FFFF00的冷却时间变为50秒。\r并且最后一击可使敌人眩晕5秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12938	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r倒地时间:{^FFABFC%d^FFFF00}秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12939	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r倒地时间:%d秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12940	^c0c0ff天琴座圣衣星铸等级达到16级时获得^A2FFFF瞬间冲击敌人身前，抱起目标重重的向地面撞击，并使周围目标倒地
-12941	^c0c0ff南十字座圣衣星铸等级达到3级时获得^A2FFFF
-12942	^c0c0ff南十字座圣衣星铸等级达到10级时获得^A2FFFF
-12943	^c0c0ff[%s]^FFFF00成功释放后进入隐身状态，隐身效果将在释放到第2秒时触发\r处于隐身状态时，将提高50%%^c0c0ff[%s]^FFFF00和^c0c0ff[%s]^FFFF00的伤害\r隐身效果将在释放任何技能时解除\r状态持续6秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12944	自己和15米范围内的队友将获得帝火之力状态\t^00FF00帝火之力^FFFF00\r每次受到攻击时，有15%%几率沉默攻击自己的敌人3秒，并将其附加炎帝之怒状态\r持续15秒\t^00FF00炎帝之怒^FFFF00\r每秒受到伤害\r减少移动速度20%%\r持续5秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12945	^c0c0ff[幻想迷乐]^FFFF00\r提升自己%d攻击力，对周围12米范围的敌人每秒进行一次攻击\r附加攻击力:%d\r造成%d%%伤害\r持续20秒
-12946	受到超新星力场的保护，使得下5次受到的伤害减少80%%，持续30秒\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用\r斗魂专属守护星座：^00FF00%s天马^FFFF00
-12947	^c0c0ff[%s]^FFFF00的冰封结束后，目标将受到强烈的诅咒，在接下来的5秒内将无法恢复生命和使用药品\r斗魂专属守护星座：^00FF00%s白鸟^FFFF00
-12948	消耗5%%最大生命值\r(如果身上有护盾效果，则不消耗生命)\r使自己立即解除控制，并且3秒内免疫控制，伤害抗性提升60%%\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用\r血量低于15%%时，不可使用\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12949	技能施放期间，周围5米范围内的队友将免受控制效果的影响，同时伤害抗性提升20%%\r斗魂专属守护星座：^00FF00%s仙女^FFFF00
-12950	使自己获得地狱幻影状态\t^00FF00地狱幻影^FFFF00\r被攻击时，将进入隐身状态，同时在身边产生一个幻像。\r地狱幻影状态最多持续8秒\t^00FF00隐身^FFFF00\r敌人将无法看到你\r隐身状态最多持续10秒\r当施放技能或进入隐身状态3秒后受到伤害时，隐身将会立即解除\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12951	^c0c0ff[%s]^FFFF00可使自身每2秒回复10点体力\r^c0c0ff[%s]^FFFF00可使自身每2秒回复生命上限的1%%\r斗魂专属守护星座：^00FF00%s天马^FFFF00
-12952	^c0c0ff[%s]^FFFF00可使范围内的自己和队友所有异常抗性增加20点\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12953	燃魂状态下，被^c0c0ff[%s]^FFFF00和^c0c0ff[%s]^FFFF00控制的目标将无法被技能回复生命\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12954	^c0c0ff[%s]^FFFF00可使生命低于50%%的队友及自身瞬间回复生命上限5%%的血量,并且每秒回复生命上限的1%%\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12955	攻击附加^c0c0ff[生命枯萎]^FFFF00效果.最多叠加5层,每层对目标造成每秒%d点伤害,持续6秒\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒释放时，伤害提升30%%
-12956	攻击附加^c0c0ff[生命枯萎]^FFFF00效果.最多叠加5层,每层对目标造成每秒%d点伤害,持续6秒\r附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r蓄力1秒释放时，伤害提升30%%
-12957	攻击附加^c0c0ff[海龙的震慑]^FFFF00效果，最多叠加4层,每层减速0.5米/秒并降低4%%伤害抗性,持续10秒\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒释放时，伤害提升30%%
-12958	攻击附加^c0c0ff[海龙的震慑]^FFFF00效果，最多叠加4层,每层减速0.5米/秒并降低4%%伤害抗性,持续10秒\r附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r蓄力1秒释放时，伤害提升30%%
-12959	50%%几率额外增加一个<善之结晶>/<恶之结晶>
-12960	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00恶之结晶^FFFF00\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00善之结晶^FFFF00\r回复生命:{^FFABFC%d^FFFF00}\r爆炸为目标附加瞄准，可叠加2层，每层提升{^FFABFC%d^FFFF00}命中。持续4秒，叠加2层后，将无法受到此技能善之结晶的治疗\r\t^00FF00双子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12961	附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r\t^00FF00恶之结晶^FFFF00\r附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00善之结晶^FFFF00\r回复生命:%d\r爆炸为目标附加瞄准，可叠加2层，每层提升%d命中。持续4秒，叠加2层后，将无法受到此技能善之结晶的治疗\r\t^00FF00双子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12962	技能回复生命:{^FFABFC%d^FFFF00}\r\t^00FF00善之结晶^FFFF00\r回复生命:{^FFABFC%d^FFFF00}\r爆炸为目标附加专注，可叠加3层，每层提升3%%暴击。持续10秒，叠加3层后，将无法受到此技能善之结晶的治疗
-12963	技能回复生命:%d\r\t^00FF00善之结晶^FFFF00\r回复生命:%d\r爆炸为目标附加专注，可叠加3层，每层提升3%%暴击。持续10秒，叠加3层后，将无法受到此技能善之结晶的治疗
-12964	^00FF00风行^FFFF00\r  飞行速度提高3米/秒，伤害抗性增加25%%，持续10秒
-12965	^00FF00风行^FFFF00\r  飞行速度提高3米/秒，伤害抗性增加15%%，持续10秒
-12966	^c0c0ff鹿豹座圣衣星铸等级达到10级时获得^A2FFFF
-12967	^c0c0ff波江座圣衣星铸等级达到10级时获得^A2FFFF
-12968	^c0c0ff波江座圣衣星铸等级达到3级时获得^A2FFFF
-12969	如果自己在受到完全控制（浮空、倒地、冰冻、石化、抱摔、沉默、混乱）时被攻击，则接下来的5秒内会生成一个护盾，减少20%%伤害，受到多次攻击将重置护盾的时间\r护盾结束后，需要15秒才能触发下一次效果\r  斗魂专属守护星座：^00FF00%s海龙^FFFF00
-12970	^c0c0ff鹿豹座圣衣星铸等级达到3级时获得^A2FFFF
-12971	附加攻击力:{^FFABFC%d^FFFF00}\r附加风属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒可将伤害提升100%%\t^00FF00黄金箭之伤^FFFF00\r不能释放技能，同时不能被技能回复生命\r持续4秒\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[流星爆裂拳]^FFFF00进阶为^c0c0ff[^fff962原子爆裂拳]^FFFF00\r^c0c0ff[星辰乱坠]^FFFF00进阶为^c0c0ff[^fff962箭雨流星]^FFFF00\r^c0c0ff[星命守护]^FFFF00进阶为^c0c0ff[^fff962射手守护]^FFFF00
-12972	附加攻击力:%d\r附加风属性攻击力:%d\r造成%d%%的伤害\r蓄力1秒可将伤害提升100%%\t^00FF00黄金箭之伤^FFFF00\r不能释放技能，同时不能被技能回复生命\r持续4秒\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[流星爆裂拳]^FFFF00进阶为^c0c0ff[^fff962原子爆裂拳]^FFFF00\r^c0c0ff[星辰乱坠]^FFFF00进阶为^c0c0ff[^fff962箭雨流星]^FFFF00\r^c0c0ff[星命守护]^FFFF00进阶为^c0c0ff[^fff962射手守护]^FFFF00
-12973	状态持续15秒，期间每3秒自动回复一点斗志\r每秒回复体力7点\r被攻击时，攻击者命中大幅降低持续5秒，此效果15秒只能触发一次
-12974	极寒半径:4米\r结冰需要时间:3秒\r冻结时间:3秒\r寒冰阵持续10秒
-12975	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r使目标移动速度减少60%%，持续6秒\r冻结持续3秒
-12976	附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r使目标移动速度减少60%%，持续6秒\r冻结持续3秒
-12977	把敌方目标和其周围6米的单位拉到自己身前（如果要拉的是敌方玩家，只有当他是你选中的目标时才生效）\r主目标倒地时间：3秒
-12978	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00艾欧里亚的援护^FFFF00\r伤害抗性提升40%%\r瞬间回复体力值100\r持续5秒\r处于眩晕倒地浮空和沉默状态下也可使用\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[凤凰幻动]^FFFF00进阶为^c0c0ff[^fff962狮子搏兔]^FFFF00\r^c0c0ff[火鸟之怒]^FFFF00进阶为^c0c0ff[^fff962狮王怒焰]^FFFF00\r^c0c0ff[死亡皇后之焰]^FFFF00进阶为^c0c0ff[^fff962狮王之影]^FFFF00
-12979	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00艾欧里亚的援护^FFFF00\r伤害抗性提升40%%\r瞬间回复体力值100\r持续5秒\r处于眩晕倒地浮空和沉默状态下也可使用\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[凤凰幻动]^FFFF00进阶为^c0c0ff[^fff962狮子搏兔]^FFFF00\r^c0c0ff[火鸟之怒]^FFFF00进阶为^c0c0ff[^fff962狮王怒焰]^FFFF00\r^c0c0ff[死亡皇后之焰]^FFFF00进阶为^c0c0ff[^fff962狮王之影]^FFFF00
-12980	海龙通过使用怜悯/憎恨技能可瞬间将善之力/恶之力的值涨满，无视^c0c0ff[虔诚]^A2FFFF的转换疲劳
-12981	冲刺距离:15米\r^00FF00龙火献祭^FFFF00\r  不断攻击周围5米范围内的敌人并附加^00FF00灼烧^FFFF00状态，持续5秒\r  附加攻击力:{^FFABFC%d^FFFF00}\r  每秒造成{^FFABFC%d%%^FFFF00}的伤害\r  对地面目标伤害减少50%%\r^00FF00灼烧^FFFF00\r  每秒受到{^FFABFC%d^FFFF00}点灼烧伤害，持续5秒
-12982	冲刺距离:15米\r^00FF00龙火献祭^FFFF00\r  不断攻击周围5米范围内的敌人并附加^00FF00灼烧^FFFF00状态，持续5秒\r  附加攻击力:%d\r  每秒造成%d%%的伤害\r  对地面目标伤害减少50%%\r^00FF00灼烧^FFFF00\r  每秒受到%d点灼烧伤害，持续5秒
-12983	冲刺距离:15米\r^00FF00生命之血^FFFF00\r  持续自己和治疗周围5米的队友，每秒回复{^FFABFC%d^FFFF00}生命，持续5秒\r  对地面目标效果减少50%%
-12984	冲刺距离:15米\r^00FF00生命之血^FFFF00\r  持续自己和治疗周围5米的队友，每秒回复%d生命，持续5秒\r  对地面目标效果减少50%%
-12985	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果
-12986	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果
-12987	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00混乱^FFFF00\r  混乱状态，持续4秒，无视抗性和穿透效果
-12988	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00混乱^FFFF00\r  混乱状态，持续4秒，无视抗性和穿透效果
-12989	冲刺距离:15米\r^00FF00夜幕降临^FFFF00\r  持续诅咒周围5秒范围内的所有敌人，持续5秒\r^00FF00夜幕^FFFF00\r  伤害倍率下降40%%\r  伤害抗性下降20%%
-12990	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00龙锁^FFFF00\r  如果目标离自己小于10米，则无法移动；如果目标离自己大于10米，则昏迷；持续5秒，无视抗性和穿透效果
-12991	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00龙锁^FFFF00\r  如果目标离自己小于10米，则无法移动；如果目标离自己大于10米，则昏迷；持续5秒，无视抗性和穿透效果
-12992	^00FF00剧毒之源^FFFF00\r  使周围5米范围内的敌人被剧毒影响，持续5秒\r^00FF00剧毒^FFFF00\r  每秒受到{^FFABFC%d^FFFF00}点伤害，持续5秒
-12993	^00FF00剧毒之源^FFFF00\r  使周围5米范围内的敌人被剧毒影响，持续5秒\r^00FF00剧毒^FFFF00\r  每秒受到%d点伤害，持续5秒
-12994	^00FF00空间护盾^FFFF00\r  伤害抗性增加50%%，持续5秒
-12995	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果\r^00FF00光之忏悔^FFFF00\r  暴击率降低为0，持续8秒
-12996	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果\r^00FF00光之忏悔^FFFF00\r  暴击率降低为0，持续8秒
-12997	伤害抗性提升40%%\r风属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-12998	伤害抗性提升40%%\r水属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-12999	伤害抗性提升40%%\r地属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13000	伤害抗性提升40%%\r雷属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13001	伤害抗性提升40%%\r火属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13002	^00FF00白焰之舞^FFFF00\r  飞行速度提高8米/秒，持续5秒
-13003	消耗{^FFABFC%d^FFFF00}点怒气\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r恢复生命:{^FFABFC%d^FFFF00}
-13004	消耗%d点怒气\r附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害\r恢复生命:%d
-13005	附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00天猛星进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-13006	附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害\r\t^00FF00天猛星进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-13007	消耗10点怒气\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害
-13008	消耗10点怒气\r附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害
-13009	使用后立即解除控制,伤害倍率增加40%%,所受伤害增加20%%.持续12秒
-13010	^c0c0ff南冕座圣衣星铸等级达到3级时获得^A2FFFF
-13011	^c0c0ff银莺座圣衣星铸等级达到3级时获得^A2FFFF
-13012	使你的^c0c0ff[%s]^FFFF00施放距离增加5米\r    斗魂专属守护星座：^00FF00%s天威星^FFFF00
-13013	^c0c0ff南冕座圣衣星铸等级达到10级时获得^A2FFFF
-13014	生命值降到30%%以下时会获得一个吸收护盾,吸收最大生命值20%%的伤害,持续20秒,该效果60秒内只能触发一次\r    斗魂专属守护星座：^00FF00%s天威星^FFFF00
-13015	附加攻击力:{^FFABFC%d^FFFF00}\r总共造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00熔岩之锁^FFFF00\r  被熔岩锁链捆缚，无法行动，持续到引导结束或中断\r  无视抗性和穿透效果
-13016	附加攻击力:%d\r总共造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00熔岩之锁^FFFF00\r  被熔岩锁链捆缚，无法行动，持续到引导结束或中断\r  无视抗性和穿透效果
-13017	^00FF00熔岩附着^FFFF00\r  飞行速度减少3米/秒，持续4秒\r^00FF00焰之光^FFFF00\r  飞行速度增加3米/秒，持续5秒
-13018	使你的^c0c0ff[%s]^FFFF00有10%%召唤全部四大天王\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-13019	使你的^c0c0ff[%s]^FFFF00有30%%几率额外召唤一个黑暗凤凰座\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-13020	^c0c0ff银莺座圣衣星铸等级达到10级时获得^A2FFFF
-13021	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00天罚^FFFF00\r  无法行动，持续3秒\r  每层^00FF00雷光^FFFF00额外提升0.6秒持续时间\r  无视抗性和穿透效果
-13022	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00天罚^FFFF00\r  无法行动，持续3秒\r  每层^00FF00雷光^FFFF00额外提升0.6秒持续时间\r  无视抗性和穿透效果
-13023	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00麻痹^FFFF00\r  无法行动，每层^00FF00雷光^FFFF00增加0.4秒持续时间\r  无视抗性和穿透效果\r^00FF00雷狱^FFFF00\r  飞行和移动速度减少4米/秒，每层^00FF00雷光^FFFF00增加1秒持续时间
-13024	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00麻痹^FFFF00\r  无法行动，每层^00FF00雷光^FFFF00增加0.4秒持续时间\r  无视抗性和穿透效果\r^00FF00雷狱^FFFF00\r  飞行和移动速度减少4米/秒，每层^00FF00雷光^FFFF00增加1秒持续时间
-13025	^00FF00雷光^FFFF00\r  提高天罚和闪电风暴技能的控制效果，持续30秒，最多叠加5层\r^00FF00雷电刺激^FFFF00\r  飞行速度增加5米每秒，持续5秒
-13026	^00FF00疾风^FFFF00\r  飞行速度增加6米/秒，大幅度增加命中和闪避数值，持续4秒
-13027	^00FF00光之暗面^FFFF00\r  隐身，持续1秒\r  闪避大幅度增加，不会被暴击，持续3秒
-13028	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00格雷芬的礼物^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00许德拉的礼物^FFFF00\r  无法移动，持续4秒\r^00FF00塞壬的礼物^FFFF00\r  沉默，持续4秒\r^00FF00美杜莎的礼物^FFFF00\r  石化，持续4秒\r^00FF00喀麦拉的礼物^FFFF00\r  被火焰灼烧，每秒受到{^FFABFC%d^FFFF00}点伤害，持续4秒\r^00FF00刻耳柏洛斯的礼物^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13029	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00格雷芬的礼物^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00许德拉的礼物^FFFF00\r  无法移动，持续4秒\r^00FF00塞壬的礼物^FFFF00\r  沉默，持续4秒\r^00FF00美杜莎的礼物^FFFF00\r  石化，持续4秒\r^00FF00喀麦拉的礼物^FFFF00\r  被火焰灼烧，每秒受到%d点伤害，持续4秒\r^00FF00刻耳柏洛斯的礼物^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13030	^00FF00不动如山^FFFF00\r  进入不动如山状态下飞行速度减少4M/S，持续8秒\r  伤害抗性提高50%%，持续8秒\r^00FF00神之狙击^FFFF00\r  伤害倍率提高20%%，持续8秒\r  明王怒炎和煌炎斩技能攻击距离增加3米，持续8秒\r  赤色彗星攻击范围扩大至12米 
-13031	^00FF00天蝎附生^FFFF00\r  荣耀之刺和蝎毒涌爆技能瞬间冷却\r  伤害倍率提高40%%，持续8秒
-13032	^00FF00神兽的祝福^FFFF00\r  伤害倍率提高20%%，持续8秒\r  伤害抗性提高20%%，持续8秒
-13033	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00魅惑之心^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00沉醉之心^FFFF00\r  无法移动，持续4秒\r^00FF00无言之心^FFFF00\r  沉默，持续4秒\r^00FF00石化之心^FFFF00\r  石化，持续4秒\r^00FF00热情之心^FFFF00\r  被火焰灼烧，每秒受到{^FFABFC%d^FFFF00}点伤害，持续4秒\r^00FF00冷酷之心^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13034	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00魅惑之心^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00沉醉之心^FFFF00\r  无法移动，持续4秒\r^00FF00无言之心^FFFF00\r  沉默，持续4秒\r^00FF00石化之心^FFFF00\r  石化，持续4秒\r^00FF00热情之心^FFFF00\r  被火焰灼烧，每秒受到%d点伤害，持续4秒\r^00FF00冷酷之心^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13035	星辰闪耀
-13036	激发星辰之光，攻击自己周围10米范围内的所有敌人，并使他们受到^00FF00震慑^A2FFFF的影响。
-13037	^00FF00星空祝福^FFFF00\r  增加飞行速度6米/秒，持续4秒\r  大幅增加命中和闪避，持续4秒
-13038	小宇宙空间已满,无法进行占星操作
-13039	%s(%d级)^ffffff将融合%s(%d级)^ffffff,获得^00ff00%d^ffffff点经验
-13040	星魂已被锁，请解锁后再融合
-13041	星魂被物品锁保护，只能融合其他星魂，但不能被融合
-13042	^O021^ffff00能量魔药\r^O009^ffffff每秒恢复最大生命10%
-13043	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得100%杀怪经验！
-13044	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得200%杀怪经验！
-13045	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得400%杀怪经验！
-13046	^O021^ffff00帝火之力\r^O009^ffffff每次受到攻击时，攻击自己的敌方获得\r减速效果，且会受到持续伤害，持续5秒\r减少移动速度1米/秒\r15%几率沉默攻击者
-13047	^O021^ffff00幻想迷乐\r^O009^ffffff提高攻击力，并不断伤害周围敌人
-13048	^O021^ffff00幻想迷乐
-13049	^O021^ffff00弦乐终止\r^O009^ffffff减速，并且无法释放技能
-13050	^O021^ffff00弦乐终止
-13051	^O021^ffff00狂暴的力量！\r^O009^ffffff狂暴的艾欧里亚防御大增！
-13052	^O021^ffff00狂暴的力量！
-13053	^O021^ffff00复生的誓言\r^O009^ffffff新资料片“天猛复生”特有buff\r每隔5分钟获得一些经验
-13054	^O021^ffff00极寒契约\r^O009^ffffff无法治疗恢复生命和使用药品
-13055	^O021瞬_天赋_治疗7_受击生成状态触发回血
-13056	^O021^ffff00地狱幻影\r^O009^ffffff下次被击中时将进入隐身状态
-13057	^O021^ffff00隐身\r^O009^ffffff敌人暂时无法看到你
-13058	^O021瞬_天赋_治疗7_受击生成状态触发队友回血
-13059	^O021熔岩召唤矿物吧BUFF
-13060	^O021跑酷_起点buff
-13061	^O021跑酷_路点buff
-13062	^O021^ffff00公平之环\r^O009^ffffff熔岩战场之中所有的圣斗士都将公平竞争
-13063	^O021^ffff00昏迷\r^O009^ffffff该单位陷入昏迷
-13064	^O021^ffff00加隆_触发善之花
-13065	^O021^ffff00灼烧\r^O009^ffffff灼烧，持续掉血
-13066	^O021^ffff00新状态名CZKJH
-13067	^O021^ffff00新状态名SCNYX
-13068	^O021^ffff00新状态名TDALK
-13069	^O021^ffff00新状态名LECMC
-13070	^O021^ffff00新状态名IYMHX
-13071	^O021^ffff00新状态名
-13072	^O021^ffff00新状态名DMJTW
-13073	^O021阿提卡战场-不明水晶获得水晶红方
-13074	^O021阿提卡战场-不明水晶获得水晶蓝方
+12867	poder de ataque adicional: {^FFABFC %d ^FFFF00} \r poder de ataque adicional do atributo relâmpago: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^FFFF00} dano \r Tempo de silêncio: %d segundos
+12868	Poder de ataque adicional: %d \r poder de ataque adicional do atributo bônus: %d \r causa %d %% de dano \r Tempo de silêncio: %d segundos
+12869	Aumento de dano: 20 %% \r Duração: 20 segundos Alcance do efeito: 15 metros
+12870	Melhora sua própria velocidade de movimento e resistência a danos em um curto espaço de tempo, e também pode usar o corpo imune e a desaceleração no estado flutuante, caindo, congelando, petroquímico, silencioso e caótico.
+12871	Responde a 10 de força física a cada 2 segundos durante o período
+12872	O estado de  dura 15 segundos, durante os quais a cada 3 segundos responde automaticamente a um pouco de espírito de luta Quando o ataque é atacado, a taxa de acerto do atacante cai acentuadamente.
+12873	Responde a 1 %% do limite superior da vida a cada 2 segundos durante a duração
+12874	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque por atributos de água: {^FFABFC %d ^FFFF00} \rCausas {^FFABFC %d %% ^FFFF00} de dano \r fazem com que a velocidade de movimento do alvo Reduzido em 60 %% por 6 segundos \r \t ^c0c0ff [Explosão de ouro] ^FFFF00 state \r avançou para ^c0c0ff [^fff962 damage 女神 怒] ^FFFF00 \r ^c0c0ff dano aumentado em 100 %%, e 100 %% dos inimigos ao redor do alvo podem congelar o alvo ao mesmo tempo
+12875	Poder de ataque adicional: %d \r Atributo adicional da água Poder de ataque: %d \r causa %d %% de dano \r para reduzir a velocidade de movimento do alvo em 60 %% por 6 segundos \r \t ^c0c0ff [Gold burst] ^FFFF00 state \r advanced to ^c0c0ff [^fff962 曙光 女神 怒] ^FFFF00 \r ^c0c0ff dano aumentado em 100 %%, e 100 %% do inimigo em torno do alvo atingido pode congelar o alvo ao mesmo tempo
+12876	Os movimentos avançados do Pássaro Branco, usando o alvo de dano de gelo polar
+12877	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Atributo adicional da água Poder de ataque: {^FFABFC %d ^FFFF00} \r Largura do caminho de geada: ataque de 6 m \r 9 vezes, resultando em {^FFABFC %d O dano de %% ^FFFF00} pode derrubar o alvo selecionado por 3 segundos, e cada alvo atinge o alvo 1 metro.
+12878	Poder de ataque adicional: %d \r Atributo adicional da água Poder de ataque: %d \r Largura do caminho de Frost: 6 metros \r ataque 9 vezes, causando %d %% de dano \r pode derrubar o alvo selecionado por 3 segundos , toda vez que o ataque atingir o alvo 1 metro
+12879	Ultimate Ultimate of the White Bird, bombardeia o alvo com a Frost Goddess Frost, Frost causa dano de respingo aos inimigos no caminho por onde passa, e a capacidade de começar a conjurar por 4 segundos é gratuita.
+12880	Número de bombas: %d \r Poder adicional de ataque da bomba: {^FFABFC %d ^FFFF00} \rBomba de poder de ataque do atributo da água: {^FFABFC %d ^FFFF00} \rCada explosão de bomba causada ao objetivo de 3 metros ao redor {^FFABFC %d %% ^FFFF00} A bomba de dano tem no máximo 8 segundos \t ^00FF00 com o teclado ou clique com o botão direito do mouse e mantenha pressionada a tecla de atalho para economizar energia: ^FFFF00 \r Número da bomba: 3 \r cada bomba A explosão causou {^FFABFC %d %% ^FFFF00} de dano ao alvo de 3m ao redor \r Velocidade de movimento da bomba: 6m / s
+12881	Número de bombas: %d \r Poder adicional de ataque da bomba: %d \r Atributo da água da bomba Poder de ataque: %d \r Cada bomba explode %d %% de dano no alvo 3m ao redor \r Bomba até 8 Segundos \t ^00FF00 Use o teclado ou clique com o botão direito do mouse e mantenha pressionadas as teclas de atalho para economizar energia: ^FFFF00 \r Número da bomba: 3 \r Cada bomba explode %d %% de dano no alvo de 3 metros ao redor Velocidade: 6 m / s
+12882	faz ^c0c0ff [%s] ^FFFF00 ^c0c0ff [%s] ^FFFF00 reduz o alvo {^FFABFC %d ^FFFF00} de defesa de pontos e 10 pontos de resistência a atributos completos
+12883	faz ^c0c0ff [%s] ^FFFF00 ^c0c0ff [%s] ^FFFF00 reduz o alvo %d de defesa do ponto e a resistência do atributo completo de 10 pontos
+12884	Puxe o alvo inimigo e a unidade de 6 metros ao seu redor (se o jogador inimigo for puxado, ele só terá efeito quando ele for o alvo selecionado) \r \t ^c0c0ff [Erupção de Ouro] ^FFFF00 state \r advanced to ^c0c0ff [^fff962 gold chain] ^FFFF00 \r ^c0c0ff Puxe o alvo para a frente do corpo, enquanto puxa o monstro ao seu redor para o lado, fazendo com que o alvo principal caia no chão
+12885	consome %d %% da vida atual \r poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque de atributo: {^FFABFC %d ^FFFF00} \r ataque 6 vezes, resultando em {^FFABFC  %d %% ^FFFF00} O dano \r \t ^00FF00 Libra avançado ^FFFF00 \r Lançado em ^c0c0ff [Explosão de ouro] ^status FFFF00 \rEste estado não será acionado novamente dentro de 30 segundos após o consumo
+12886	consome %d %% da vida atual \r poder de ataque adicional: %d \r atributo adicional poder de ataque: %d \r ataque 6 vezes, causando %d %% de dano \r \t ^00FF00 Libra avançado ^FFFF00 \r Lançado em ^c0c0ff [Surto de Ouro] ^FFFF00 Status \r Este estado não será acionado novamente dentro de 30 segundos após o consumo
+12887	Atinge o alvo em torno do alcance da rodada de 6m, causando muito poder de ataque adicional de ódio: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque de atributo: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^FFFF00} de dano
+12888	Atinge o alvo em torno do alcance da rodada de 6m, causando muito ódio poder de ataque adicional: %d \rPoder adicional de ataque: %d \r causa %d %% de dano
+12889	Proteja-se com um escudo de dragão, absorvendo até 35% do dano máximo da sua vida por 6 segundos \r em 30 segundos após a abertura do escudo, seu próximo dano de ^c0c0ff [%s] ^FFFF00 aumentará consideravelmente Com um efeito de desaceleração, a redução da velocidade de movimento em 60 %% por 4 segundos também pode ser usada no estado flutuante, em queda, congelamento, petroquímico, silencioso e caótico
+12890	A Espada Sagrada sai, que luta com a glória derruba e reinventa a unidade na direção retangular da direção do alvo
+12891	No estado de alma ardente, o alvo que é derrubado não será capaz de retornar à vida.
+12892	Digite ^00FF00 alma ardente ^FFFF00 estado, a força é grandemente melhorada, durando 45 segundos \t ^00FF00 alma ardente ^FFFF00 \r aumenta o limite de vida de 30 %% e recebe tantas vidas \r ^c0c0ff [%s] ^dano FFFF00 Aumente em 50 %%, aumente a vida útil consumida pelo lançamento em 100 %% \r ^c0c0ff [%s] ^FFFF00 é aprimorada e o tempo de resfriamento é reduzido em 2 segundos \r.
+12893	Raio do solo congelado: 4m \r Queda da velocidade de movimento: 60 %% \r O poder de defesa do alvo diminui: %d \r solo congelado dura 10 segundos
+12894	Raio extremo frio: 4m Tempo de congelamento: 3 segundos Tempo de congelamento: 3 segundos A matriz de gelo dura 10 segundos \r \t ^c0c0ff [Surto de ouro] ^FFFF00 state\rAdvanced ^c0c0ff [^fff962Luz da garrafa de água] ^FFFF00 \r ^c0c0ff A área extremamente fria convocada pode se mover para o alvo atacado pelo proprietário.
+12895	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque do atributo de característica: {^FFABFC %d ^FFFF00} \rCause {^FFABFC %d %% ^FFFF00} dano \r50 %% de probabilidade de entrar Reforçar o estado do bloqueio do ângulo da dimensão \r \t ^00FF00 para reforçar o bloqueio do ângulo da dimensão ^FFFF00 \r na próxima vez ^00FF00 bloqueio do ângulo da dimensão ^aumento de dano de 50 %% FFFF00
+12896	Poder de ataque adicional: %d \r poder de ataque adicional do atributo da mina: %d \r causa %d %% de dano \r50 %% de probabilidade de entrar no estado de bloqueio de canto de dimensão aprimorada \r \t ^00FF00 bloqueio de canto de dimensão aprimorada ^FFFF00 \r na próxima vez ^00FF00 bloqueio de ângulo de dimensão ^FFFF00 de dano aumentado em 50 %%
+12897	poder de ataque adicional: {^FFABFC %d ^FFFF00} \r poder de ataque adicional do atributo relâmpago: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^FFFF00} dano \r alvo : 4 segundos \r Reduz a velocidade de movimento: 40 %%
+12898	Poder de ataque adicional: %d \r Atributo adicional da mina Poder de ataque: %d \r causa %d %% de dano \r Alvo alvo: 4 segundos \r Reduz a velocidade de movimento: 40 %%
+12899	Enrolar o alvo com uma corrente para bater no chão e salpicar o dano do alvo mudam com o valor atual do campo Shenwei, quando o valor do campo Shenwei estiver cheio, o dano aumentado em 300 %% será usado pelo jogador e pelo poderoso monstro. uma forma de ataque
+12900	Starlight Free Duração: 6 segundos \t ^00FF00 Starlight Free ^FFFF00 \r está protegido contra efeitos de controle \r também está disponível em estado tonto, flutuante e silencioso
+12901	^c0c0ff As Estrelas Sagradas da Serpente lançam um nível de 3 para obter ^A2FFFF
+12902	^c0c0ff Consiga ^A2FFFF quando o nível de Saint Seiya
+12903	^c0c0ff As Estrelas Sagradas da Serpente lançam um nível de 10 para obter ^A2FFFF
+12904	^c0c0ff Obtenha um ^A2FFFF quando o nível da roupa sagrada do Escorpião do Norte for 10
+12905	^c0c0ff O nível 3 da Carcaça em Estrela de Saint Seiya recebe ^A2FFFF
+12906	^c0c0ff O nível 3 de Fundição em Estrelas Sagradas do Peixe Sul recebe ^A2FFFF
+12907	^c0c0ff O nível de projeção em estrela de Saint Seiya do escudo atinge 10 quando você obtém ^A2FFFF
+12908	^c0c0ff As estrelas sagradas dos peixes do sul lançam nível 10 para obter ^A2FFFF
+12909	Remove imediatamente o tempo de resfriamento da tempestade de plasma com uma probabilidade de 10 %%
+12910	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque de atributo de fogo: {^FFABFC %d ^FFFF00} \r Causa {^FFABFC %d %% ^FFFF00} de dano \r Reduz a velocidade de movimento: 60 %%
+12911	poder de ataque adicional: %d \r poder de ataque adicional do atributo de fogo: %d \r causa %d %% de dano \r reduz a velocidade de movimento: 60 %%
+12912	Atinja o alvo e polvilhe o alvo ao redor para adicionar imediatamente 5 camadas de status de queima de chamas ao alvo A alta temperatura gerada desacelera o oponente por 5 segundos.
+12913	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque do atributo de fogo: {^FFABFC %d ^FFFF00} \r pelo menos causou dano ao {^FFABFC %d %% ^FFFF00} \t ^00FF00 Chama ^FFFF00 \r continua a causar danos por 10 segundos \r \t ^00FF00 Leo avançou ^FFFF00 \r release depois de entrar em ^c0c0ff [explosão de ouro] ^estado FFFF00 \rEste estado não será novamente dentro de 30 segundos após o consumo Trigger
+12914	Poder de ataque adicional: %d \r Atributo de tiro adicional Poder de ataque: %d \r pelo menos causou %d %% de dano \t ^00FF00 Hellfire ^FFFF00 \r continua causando dano \r por 10 segundos \r \t ^00FF00 Leo avançou ^FFFF00 \r versão para ^c0c0ff [Explosão de ouro] ^FFFF00 status \r Este estado não será acionado novamente dentro de 30 segundos após o consumo
+12915	tem 30% de chance de convocar uma Fênix Negra
+12916	recarga se torna 50 segundos, e o último golpe pode atordoar o inimigo por 5 segundos
+12917	Velocidade de movimento aumentada em 60% no campo
+12918	pode fazer com que os companheiros de equipe cuja vida seja inferior a 50 %% e seu próprio retorno instantâneo ao limite superior de 5 %% do sangue, e retornem 1 %% do limite superior da vida por segundo.
+12919	poder de ataque adicional fantasma: {^FFABFC %d ^FFFF00} \r poder fantasma de ataque ao atributo adicional de fogo: {^FFABFC %d ^FFFF00} \r pelo menos causou {^FFABFC %d %% ^FFFF00} dano\rescuro Quatro reis existirão por 20 segundos
+12920	poder de ataque anexado fantasma: %d \r poder de ataque adicional ao atributo fantasma de fogo: %d \r pelo menos causou %d %% de dano \r escuro quatro dias o rei permanecerá por 20 segundos
+12921	A Chama da Raiva tem 10% de chance de eliminar instantaneamente a recarga da habilidade
+12922	tem 10% de chance de convocar todos os quatro reis
+12923	Durante o lançamento desta habilidade, os monstros irão ignorar sua presença.
+12924	Após entrar na versão bem-sucedida, você pode entrar no estado furtivo.O efeito furtivo será acionado quando for lançado no segundo segundo.Quando estiver furtivo, aumentará em 50% o dano de [Ódio e Matar] e [Boxe Mágico] em 50%.
+12925	^c0c0ff Estrela de costura de santo de Sagitário grau 3 quando obtido ^A2FFFF
+12926	^c0c0ff O nível de estrela das roupas de serpente do mar atingiu o nível 3 para obter ^A2FFFF
+12927	^c0c0ff A constelação da constelação do espadachim atinge o nível 10 e recebe ^A2FFFF
+12928	^c0c0ff O nível 10 da Carcaça em Estrela de Saint Seiya da Serpente do Mar recebe ^A2FFFF
+12929	^c0c0ff o assento de sextante de roupas sagrado nível de estrela atingiu o nível 3 obter ^A2FFFF
+12930	^c0c0ff A 6ª posição do nível de casting de estrelas de Saint Seiya atingiu 10 níveis para obter ^A2FFFF
+12931	^c0c0ff O nível de conjuração 3 da estrela de Saint Seiya do camaleão recebe ^A2FFFF
+12932	^c0c0ff O nível 10 de conjuração de estrela de Saint Seiya do camaleão recebe ^A2FFFF
+12933	^c0c0ff [%s] ^FFFF00 tem 10% de probabilidade de limpar imediatamente ^c0c0ff [%s] ^FFFF00 cooldown\ralma lutadora constelação guardiã exclusiva: ^00FF00 %s phoenix ^FFFF00
+12934	^c0c0ff A popa da popa do nível de estrela da roupa sagrada atingiu 3 níveis quando obtida ^A2FFFF
+12935	^c0c0ff [%s] ^FFFF00 pode aumentar a velocidade de movimento de si e de seus colegas de equipe em 60 %% \r constelação de guardiões exclusiva da alma guerreira: ^00FF00 %s Phoenix ^FFFF00
+12936	^c0c0ff O assento da popa do nível de estrela da roupa sagrada atinge 10 níveis e ganha ^A2FFFF
+12937	^c0c0ff [%s] ^FFFF00 O tempo de resfriamento se torna 50 segundos. e o último golpe pode atordoar o inimigo por 5 segundos alma lutadora constelação guardiã exclusiva: ^00FF00 %s Phoenix ^FFFF00
+12938	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque do atributo de fogo: {^FFABFC %d ^FFFF00} \r Causa {^FFABFC %d %% ^FFFF00} dano \tempo de queda: {^FFABFC %d ^FFFF00} segundos\ralma lutadora constelação guardiã exclusiva: ^00FF00 %s Phoenix ^FFFF00
+12939	Poder de ataque adicional: %d \r Atributo de tiro adicional Poder de ataque: %d \r causa %d %% de dano \r Tempo de queda: %d segundos\rconstelação de guardião exclusiva da alma que luta: ^00FF00 %s phoenix ^FFFF00
+12940	^c0c0ff A letra da letra atingiu o nível 16 e teve um impacto momentâneo ^A2FFFF no corpo do inimigo, pegando o alvo e atingindo o chão, fazendo com que os alvos ao redor caíssem no chão.
+12941	^c0c0ff A categoria 3 da fundição em estrela de St. Louis da cruz sul recebe ^A2FFFF
+12942	^c0c0ff O nível 10 da Carcaça em Estrela de St. John, na Cruz do Sul, recebe ^A2FFFF
+12943	^c0c0ff [%s] ^FFFF00 Depois de entrar no estado furtivo após a liberação bem-sucedida, o efeito furtivo será aumentado em 50 %% ^c0c0ff [%s] ^FFFF00 e ^c0c0ff quando for disparado para o estado invisível quando for liberado no segundo segundo. [%s] ^O efeito furtivo do dano de FFFF00 liberará o estado por 6 segundos ao liberar qualquer habilidade constelação de guardiões exclusivos da alma de combate: ^00FF00 %s phoenix ^FFFF00
+12944	e companheiros de equipe a menos de 15 metros receberão o poder do poder de fogo \t ^00FF00 Poder de fogo do imperador ^FFFF00 \r Cada vez que você é atacado, há 15% de chance de silenciar seu inimigo por 3 segundos e A ira adicional de Yandi dura 15 segundos \t ^00FF00 A ira de Yandi ^FFFF00 \r de dano por segundo reduz a velocidade de movimento 20 %% dura 5 segundos\ra alma de luta constelação de guardiões exclusivos: ^00FF00 %s Phoenix ^FFFF00
+12945	^c0c0ff [Fantasy Fun] ^FFFF00 \r Aumenta seu próprio poder de ataque %d, ataca a cada segundo em torno do alcance de 12m. Ataque adicional: %d \r causa %d %% de dano \r 20 segundos
+12946	Protegido pelo campo de força da supernova, o dano das próximas 5 vezes é reduzido em 80 %% por 30 segundos no estado flutuante, caindo, congelado, petrificado, silencioso e caótico, também pode usar o guardião exclusivo do espírito de luta Constelação: ^00FF00 %s Tianma ^FFFF00
+12947	^c0c0ff [%s] ^FFFF00 Após o fim do selo de gelo, o alvo será amaldiçoado, nos próximos 5 segundos não será capaz de restaurar a vida e usar drogas e constelação de guardiões exclusivos da alma que luta: ^00FF00 %s white bird ^FFFF00
+12948	consome 5 %% do máximo de pontos de vida (se houver um efeito de escudo no corpo, não consome vida) para liberar imediatamente o controle e, em 3 segundos do controle imunológico, a resistência a danos aumentada em 60 %% no ar ,,,,,,,,,,,,,,,,,,,
+12949	Habilidades lançadas, companheiros de equipe a menos de 5 metros serão protegidos do efeito de controle, enquanto a resistência ao dano aumentada em 20 %% \r constelação guardiã exclusiva de alma de combate: ^00FF00 %s fairy ^FFFF00
+12950	Faça-se obter o estado fantasma do inferno \t ^00FF00 Fantasma do inferno ^FFFF00 \r Quando atacado, ele entra no estado invisível e cria um fantasma ao mesmo tempo. O estado fantasma do inferno dura 8 segundos \t ^00FF00 Stealth ^FFFF00 \r O inimigo não poderá vê-lo Stealth state por até 10 segundos Quando você lança uma habilidade ou entra no estado stealth por 3 segundos, você fica invisível. Será lançada imediatamente constelação guardiã de alma de combate exclusiva: ^00FF00 %s Phoenix ^FFFF00
+12951	^c0c0ff [%s] ^FFFF00 pode restaurar 10 pontos de força física a cada 2 segundos \r ^c0c0ff [%s] ^FFFF00 pode restaurar 1 %% do limite superior da vida a cada 2 segundos, lutando contra a constelação de guardiões da alma: ^00FF00 %s 天马 ^FFFF00
+12952	^c0c0ff [%s] ^FFFF00 pode aumentar em 20 pontos a resistência anormal de si mesmo e de seus colegas de equipe dentro do intervalo em 20 pontos constelação de guardiões da alma lutadora: ^00FF00 %s 天龙 ^FFFF00
+12953	No estado latente, o alvo controlado por ^c0c0ff [%s] ^FFFF00 e ^c0c0ff [%s] ^FFFF00 não poderá ser recuperado pela constelação de guardião exclusivo da skill \r soul soul: ^00FF00 %s 天龙 ^FFFF00
+12954	^c0c0ff [%s] ^FFFF00 pode fazer com que os companheiros de equipe cuja vida seja inferior a 50 %% e com seu próprio retorno instantâneo ao limite superior de 5 %% do sangue, e retornem 1 %% do limite de vida por segundo na constelação de guardiões da alma: ^00FF00 %s Phoenix ^FFFF00
+12955	Ataque ^c0c0ff adicional [Vida murcha] ^FFFF00: até 5 camadas são sobrepostas, cada camada causa %d dano por segundo ao alvo por 6 segundos \r ataque adicional: {^FFABFC %d ^FFFF00} \r Poder de ataque do atributo Água: {^FFABFC %d ^FFFF00} \r pelo menos causando {^FFABFC %d %% ^^FFFF00} de dano \r Carregue 1 segundo de liberação, dano aumentado em 30 %%
+12956	Ataque ^c0c0ff adicional [Vida murcha] ^FFFF00. Até 5 camadas são sobrepostas, cada camada causa %d dano por segundo ao alvo por 6 segundos \r ataque adicional: %d \r poder adicional de ataque de atributos da água: %d \r causou %d %% de dano \r Quando a energia é liberada por 1 segundo, o dano é aumentado em 30 %%
+12957	Ataque ^c0c0ff [Efeito Dragão do Mar] ^FFFF00, empilhe até 4 camadas, cada camada desacelera 0,5 m / s e reduz 4 %% de resistência a danos por 10 segundos \r ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque dos atributos da água: {^FFABFC %d ^FFFF00} \rPelo menos causou dano a {^FFABFC %d %% ^FFFF00} \r Carregue 1 segundo de liberação, dano aumentado em 30 %%
+12958	Ataque ^c0c0ff adicional [choque do dragão do mar] ^FFFF00, empilhe até 4 camadas, cada camada desacelera 0,5 m / seg e reduz 4 %% de resistência a danos por 10 segundos \r ataque adicional: %d \r água adicional Poder de ataque do atributo: %d \r causa pelo menos %d %% de dano\rQuando a energia é liberada por 1 segundo, o dano aumenta em 30 %%.
+12959	50 %% de chance de adicionar um <Cristal Natural> / <Cristal Maligno>
+12960	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Atributo adicional da água Poder de ataque: {^FFABFC %d ^FFFF00} \rPelo menos causou dano a {^FFABFC %d %% ^FFFF00} \r \t ^00FF00 cristal maligno ^FFFF00 \r poder de ataque adicional: {^FFABFC %d ^FFFF00}\rpoder de ataque adicional por atributo de água: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^FFFF00} Dano \r \t ^00FF00 Bom cristal ^FFFF00 \r Responda à vida: {^FFABFC %d ^FFFF00} \r alvo de explosão com mira adicional, empilhe 2 camadas, cada camada aumenta {^FFABFC %d ^FFFF00} acerto. Por 4 segundos, após empilhar duas camadas, você não poderá receber o tratamento dessa habilidade. \r \t ^00FF00 Gemini advanced ^FFFF00 \r Lançado em ^c0c0ff [Surto de Ouro] ^FFFF00 Status \r Após esse estado ser consumido 30 Não dispara novamente em segundos
+12961	Poder de ataque adicional: %d \r Atributo adicional da água Poder de ataque: %d \r pelo menos causando %d %% de dano \r \t ^00FF00 Cristal maligno ^FFFF00 \r Poder de ataque adicional: %d \r água adicional Poder de ataque do atributo: %d \r causa %d %% de dano \r \t ^00FF00 Bom cristal ^FFFF00 \r Vida útil: %d \r Objetivo adicional de alvo de explosão, empilhe 2 camadas, cada camada aumenta %d Hit. Por 4 segundos, após empilhar duas camadas, você não poderá receber o tratamento dessa habilidade. \r \t ^00FF00 Gemini advanced ^FFFF00 \r Lançado em ^c0c0ff [Surto de Ouro] ^FFFF00 Status \r Após esse estado ser consumido 30 Não dispara novamente em segundos
+12962	Habilidades para restaurar a vida: {^FFABFC %d ^FFFF00} \r \t ^00FF00 Bom cristal ^FFFF00 \r Responda à vida: {^FFABFC %d ^FFFF00} \r A explosão como foco adicional alvo pode ser sobreposta em 3 camadas, cada A camada aumenta em 3 %% crit. Por 10 segundos, após empilhar 3 camadas, você não poderá receber o tratamento dessa habilidade.
+12963	Habilidades Respondem à Vida: %d \r \t ^00FF00 O Cristal da Bondade ^FFFF00 \r Respondem à Vida: %d \r Explosão é o alvo de foco adicional, empilhando 3 camadas, cada camada aumenta 3 %% crit. Por 10 segundos, após empilhar 3 camadas, você não poderá receber o tratamento dessa habilidade.
+12964	^00FF00 popular ^FFFF00 \r Velocidade de vôo aumentada em 3 m / s, resistência a danos aumentada em 25 %% por 10 segundos
+12965	^00FF00 popular ^FFFF00 \r Velocidade de vôo aumentada em 3 m / s, resistência a danos aumentada em 15 %% por 10 segundos
+12966	^c0c0ff veado leopardo roupas sagradas grau de fundição em estrela atinge o nível 10 para obter ^A2FFFF
+12967	^c0c0ff O nível de projeção em estrela de roupas de Bojiang Seiya atinge 10 quando você obtém ^A2FFFF
+12968	^c0c0ff A sede de Bojiang da classe de fundição em estrela de roupas sagradas alcançou o nível 3 para obter ^A2FFFF
+12969	Se você for atacado sob controle total (flutuante, caindo, congelando, petrificando, batendo, silencioso, caótico), um escudo será gerado nos próximos 5 segundos, reduzindo o dano em 20%. O segundo ataque redefine o tempo do escudo. Depois que o escudo termina, são necessários 15 segundos para ativar o próximo efeito. A constelação de guardiões exclusiva: ^00FF00 %s sea dragon ^FFFF00
+12970	^c0c0ff veado leopardo roupa sagrada nível de elenco em estrelas atingiu o nível 3 obter ^A2FFFF
+12971	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque dos atributos do vento: {^FFABFC %d ^FFFF00} \rProva {^FFABFC %d %% ^FFFF00} de dano \r Cobrança 1 segundo Pode aumentar o dano em 100 %% \t ^00FF00 de dano de Flecha Dourada ^FFFF00 \r não pode liberar a habilidade e não pode ser recuperado pela vida útil da habilidade por 4 segundos \r \t ^00FF00 Sagitário avançado ^FFFF00 \r release Digite ^c0c0ff [Surto de Ouro] ^FFFF00 Status \r Este estado não será acionado novamente dentro de 30 segundos após o consumo. ^R ^00FF00 Explosão de ouro ^FFFF00 \r ^c0c0ff [Boxe de explosão de meteoro] ^FFFF00 Avançado é ^c0c0ff [^fff962 Encaixotamento atômico da explosão] ^FFFF00 \r ^c0c0ff [estrelas e gotas] ^FFFF00 avançado é ^c0c0ff [^fff962 Meteoro da chuva da seta] ^FFFF00 \r ^c0c0ff [estrela Life Guardian] ^FFFF00 avançado é ^c0c0ff [^fff962 Guarda do atirador] ^FFFF00
+12972	Poder de ataque adicional: %d \r Atributo adicional do vento Poder de ataque: %d \r causa %d %% de dano \r A carga de um segundo pode aumentar o dano em 100 %% \t ^00FF00 dano de Flecha Dourada ^FFFF00 \r não pode liberar a habilidade, e não pode ser recuperado pela vida útil da habilidade por 4 segundos \r \t ^00FF00 Sagitário avançado ^liberação FFFF00 \r após inserir ^c0c0ff [explosão de ouro] ^estado FFFF00 \r 30 segundos após esse estado ser consumido O interior não acionará \r ^00FF00 explosão de ouro ^FFFF00 \r ^c0c0ff [Soco de meteoro] ^FFFF00 avançou para ^c0c0ff [^fff962 soco atômico de explosão] ^FFFF00 \r ^c0c0ff [Estrelas caindo] ^FFFF00 A ordem é ^c0c0ff [^fff962 meteoro de chuva de flechas] ^FFFF00 \r ^c0c0ff [guarda da vida estelar] ^FFFF00 avançou para ^c0c0ff [^guarda de atirador fff962] ^FFFF00
+12973	O estado de  dura 15 segundos. Durante os 3 segundos, ele responde automaticamente a um pouco de espírito de luta. Recupera 7 pontos por segundo. Quando o atacante é atacado, o golpe do atacante é bastante reduzido por 5 segundos. Esse efeito só pode ser acionado uma vez em 15 segundos.
+12974	Raio extremo frio: 4m Tempo de congelamento: 3 segundos Tempo de congelamento: 3 segundos Matriz de gelo dura 10 segundos
+12975	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque por atributos de água: {^FFABFC %d ^FFFF00} \rCausas {^FFABFC %d %% ^FFFF00} de dano \r fazem com que a velocidade de movimento do alvo Reduzido em 60 %% por 6 segundos \r Congele por 3 segundos
+12976	Poder de ataque adicional: %d \r Atributo adicional da água Poder de ataque: %d \r causa %d %% de dano \r Reduz a velocidade de movimento do alvo em 60 %% por 6 segundos \r Congela por 3 segundos
+12977	Puxa o alvo inimigo e a unidade de 6 metros ao redor dele para a frente (se o jogador inimigo for puxado, ele só terá efeito quando ele for o alvo que você selecionou) \rO alvo principal cai no chão: 3 segundos
+12978	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque do atributo de fogo: {^FFABFC %d ^FFFF00} \rProvoca dano a {^FFABFC %d %% ^FFFF00} \r \t ^00FF00 Suporte de Ai Aria ^FFFF00 \r resistência ao dano aumentada em 40 %% \r Valor da força física de recuperação instantânea 100 \r por 5 segundos \t em tonturas para cair no chão e estado silencioso também pode usar \r \t ^00FF00 Leo avançou ^FFFF00 \r release depois de inserir ^c0c0ff [explosão de ouro] ^status FFFF00 \r Este estado não será acionado novamente dentro de 30 segundos após o consumo \r ^00FF00 explosão de ouro ^FFFF00 \r ^c0c0ff [Phoenix Magic] ^FFFF00 avançou para ^c0c0ff [^fff962 coelho da luta do leão] ^FFFF00 \r ^c0c0ff [ira do Firebird] ^FFFF00 avançou para ^c0c0ff [^fff962 chama da raiva do leão] ^FFFF00 \r ^c0c0ff [Rainha da Morte Chama] ^FFFF00 avançou para ^c0c0ff [^fff962 sombra do rei leão] ^FFFF00
+12979	Poder de ataque adicional: %d \r Atributo de tiro adicional Poder de ataque: %d \r causa %d %% de dano \r \t ^00FF00 Ajuda de Aioria ^FFFF00 \r de resistência a danos aumentada em 40 %% Responda ao valor da força física 100 por 5 segundos em tonturas e flutuando no estado de silêncio.Você também pode usar \r \t ^00FF00 Leo avançado ^FFFF00 \r para liberar ^c0c0ff [Golden Outbreak] ^Status FFFF00 \r Este estado não será acionado novamente dentro de 30 segundos após o consumo. \r ^00FF00 Explosão de ouro ^FFFF00 \r ^c0c0ff [Phoenix Magic] ^FFFF00 Avançado é ^c0c0ff [^fff962 搏兔 搏兔] ^FFFF00 \r ^c0c0ff [Ira do Firebird] ^FFFF00 Avançado é ^c0c0ff [^fff962 Fúria do Rei Leão] ^FFFF00 \r ^c0c0ff [Chama da Rainha da Morte] ^FFFF00 Avançado é ^c0c0ff [^fff962 狮王 之] ^FFFF00
+12980	Hailong pode usar a habilidade de pena / ódio para aumentar instantaneamente o valor do poder do poder bom / ruim, ignorando a fadiga de conversão de ^c0c0ff [虔诚] ^A2FFFF
+12981	Distância da sprint: 15m \r ^00FF00 Sacrifício de fogo de dragão ^FFFF00 \r Ataque constantemente os inimigos em um raio de 5 metros e adicione ^00FF00 para queimar ^FFFF00 por 5 segundos \r Poder adicional de ataque: {^FFABFC %d ^FFFF00} \r Dano causado por {^FFABFC %d %% ^FFFF00} por segundo \r Dano reduzido ao alvo do solo em 50 %% \r ^00FF00 Queimando ^FFFF00 \r Recebido {^FFABFC %d ^por segundo FFFF00} apontam dano de queima por 5 segundos
+12982	Distância da sprint: 15m \r ^00FF00 sacrifício Dragonfire ^FFFF00 \r Ataca constantemente os inimigos em um raio de 5 metros e adiciona ^00FF00 para queimar ^FFFF00 por 5 segundos\rPoder adicional de ataque: %d \r  %d %% de dano por segundo \r Reduzido o dano ao alvo do solo em 50 %% \r ^00FF00 Queimando ^FFFF00 \r Dano de %d pontos por segundo por 5 segundos
+12983	Distância da sprint: 15 metros \r ^00FF00 Sangue da vida ^FFFF00 \r Continue se tratando e tratando 5 metros ao redor dos companheiros de equipe, responda {^FFABFC %d ^FFFF00} a vida por segundo por 5 segundos \r Reduza o efeito no alvo no chão 50 %%
+12984	Distância da sprint: 15 metros \r ^00FF00 Sangue da vida ^FFFF00 \r Continue se tratando e trate 5 metros de companheiros de equipe, retorne %d vida por segundo por 5 segundos \r Reduza o efeito no alvo em 50 %%
+12985	poder de ataque adicional: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^^FFFF00} dano \r reduz o dano ao solo em 50 %% \r ^00FF00 Punição Guanghui ^FFFF00 \r Luz recebida Ação disciplinar não pode se mover por 3 segundos, ignorando resistência e penetração
+12986	Poder de ataque adicional: %d \r causou %d %% de dano \r Redução de dano ao alvo no solo em 50 %% \r ^00FF00 Punição Guanghui ^FFFF00 \r Sujeita a punição leve, incapaz de se mover por 3 segundos, ignorando a resistência E efeito de penetração
+12987	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa dano a {^FFABFC %d %% ^FFFF00} \r reduz o dano ao alvo no solo em 50 %% \r ^00FF00 caos ^FFFF00 \r Caos, Dura 4 segundos, ignorando a resistência e a penetração
+12988	Poder de ataque adicional: %d \r causa %d %% de dano \r reduz o dano ao alvo no solo em 50 %% \r ^00FF00 caos ^FFFF00 \r Estado do caos por 4 segundos, ignorando o efeito de resistência e penetração
+12989	Distância da sprint: 15m \r ^00FF00 anoitecer ^FFFF00 \r Continue amaldiçoando todos os inimigos em 5 segundos por 5 segundos \r ^00FF00 noite ^FFFF00 \r Taxa de dano diminui 40 %% \r Resistência a danos Diminuir em 20 %%
+12990	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa dano a {^FFABFC %d %% ^FFFF00} \r reduz o dano ao alvo no solo em 50 %% \r ^00FF00 Dragon lock ^FFFF00 \r Se o alvo Se você estiver a menos de 10 metros de distância, não poderá se mover; se o alvo estiver a mais de 10 metros, estará em coma; por 5 segundos, ignorando a resistência e a penetração.
+12991	Poder de ataque adicional: %d \r causa %d %% de dano \r reduz o dano ao solo em 50 %% \r ^00FF00 Bloqueio de dragão ^FFFF00 \r Se o alvo estiver a menos de 10 metros dele, ele não poderá se mover; se o alvo A menos de 10 metros de si, coma; dura 5 segundos, ignorando a resistência e a penetração
+12992	^00FF00 Fonte de venenosos ^FFFF00 \r Inimigos dentro de 5 metros são envenenados por 5 segundos \r ^00FF00Vibrate ^FFFF00 \r Danificado por {^FFABFC %d ^FFFF00} a cada segundo Por 5 segundos
+12993	^00FF00 Fonte de venenosos ^FFFF00 \r Inimigos dentro de 5 metros são envenenados por 5 segundos. \r ^00FF00 Vibrance ^FFFF00 \r Danificado por %d a cada segundo por 5 秒
+12994	^00FF00Space Shield ^FFFF00 \r Resistência a danos aumentada em 50 %% por 5 秒
+12995	de poder de ataque adicional: {^FFABFC %d ^FFFF00} \r causou {^FFABFC %d %% ^FFFF00} dano \r reduz o dano ao solo em 50 %% \r ^00FF00 punição Guanghui ^FFFF00 \r Luz recebida A ação disciplinar não pode se mover, dura 3 segundos, ignorando o efeito de resistência e penetração. \r ^00FF00 confissão leve ^FFFF00 \r taxa de crítica reduzida para 0 por 8 segundos
+12996	Poder de ataque adicional: %d \r causa %d %% de dano \r reduz o dano ao solo em 50 %% \r ^00FF00 Punições Guanghui ^FFFF00 \r Sujeito à luz, não pode se mover por 3 segundos, ignorando a resistência E efeito de penetração \r ^00FF00 confissão de luz ^FFFF00 \r taxa de crítico reduzida para 0 por 8 segundos
+12997	Resistência a danos aumentada em 40 %% \r Resistência aos atributos do vento aumentada em 15 \r A redução da taxa de crítico aumentada em 75 %% \r dura 6 segundos
+12998	Resistência a danos aumentada em 40 %% \r Resistência aos atributos da água aumentada em 15 \r A redução da taxa de crítico aumentada em 75 %% \r dura 6 segundos
+12999	de resistência a danos aumentada em 40 %% \r a resistência de atributos aumentada em 15 \r redução da taxa crítica aumentada em 75 %% \r dura 6 segundos
+13000	de resistência a danos aumentada em 40 %% \r A resistência de atributos de raio aumentada em 15 \r redução da taxa de crítico aumentada em 75 %% \r dura 6 segundos
+13001:	Resistência a danos aumentada em 40 %% \r Resistência ao atributo de fogo aumentada em 15 \r A redução da taxa de crítico aumentada em 75 %% \r dura 6 segundos
+13002	^00FF00Dança da Chama Branca ^FFFF00 \r Velocidade de vôo aumentada em 8 m / s por 5 s
+13003	Consumo {^FFABFC %d ^FFFF00} pontos de raiva \r poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque de atributo: {^FFABFC %d ^FFFF00} \r pelo menos {^FFABFC %d %% ^FFFF00} dano \r restaura a vida: {^FFABFC %d ^FFFF00}
+13004	Consumo %d de raiva do ponto \r poder de ataque adicional: %d \rAdicional poder de ataque do atributo: %d \r pelo menos causando %d %% de dano \rRecuperando a vida: %d
+13005	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \rPoder adicional de ataque do atributo: {^FFABFC %d ^FFFF00} \rPelo menos causou dano a {^FFABFC %d %% ^FFFF00} \r \t ^00FF00 artes marciais avançadas ^lançamento FFFF00 \r em ^c0c0ff [explosão de ouro] ^estado FFFF00 \r este estado não será acionado novamente dentro de 30 segundos após o consumo
+13006	Poder de ataque adicional: %d \rPoder adicional de ataque: %d \r causou pelo menos %d %% de dano \r \t ^00FF00 dias de violento avanço ^FFFF00 \r depois de entrar em ^c0c0ff [explosão de ouro ] ^FFFF00 status \r Esse estado não será acionado novamente dentro de 30 segundos após o consumo
+13007	consome 10 rage \r de poder de ataque adicional: {^FFABFC %d ^FFFF00} \rAdicional poder de ataque de atributo: {^FFABFC %d ^FFFF00} \r pelo menos {^FFABFC %d %%% FFFF00} Lesão
+13008	consome 10 de raiva \r poder de ataque adicional: %d \r atributo adicional de poder de ataque: %d \r causa pelo menos %d %% de dano
+13009	Libere o controle imediatamente após o uso, taxa de dano aumentada em 40 %%, dano aumentado em 20 %%. Dura 12 segundos
+13010	^c0c0ff O nível Ancestral de Saint Seiya da Estrela do Sul 3 recebe ^A2FFFF
+13011	^c0c0ff Prata 圣 圣 圣 星 铸 达到 ^^^^^A A A A A
+13012	Aumenta a distância de lançamento do seu ^c0c0ff [%s] ^FFFF00 em 5m \r O guardião exclusivo do espírito de luta: ^00FF00 %s 天威 星 ^FFFF00
+13013	^c0c0ff O nível de elenco com estrelas ancestrais de Saint Seiya do sul atinge o nível 10 para obter ^A2FFFF
+13014	Quando a vida cai abaixo de 30 %%, você recebe um escudo absorvente que absorve 20% do dano máximo de saúde por 20 segundos.Este efeito só pode ser ativado uma vez em 60 segundos.\rConstelação de Guardião da Alma de Combate: ^00FF00  %s 星 ^FFFF00
+13015	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Dano total causado por {^FFABFC %d %% ^FFFF00} \r Dano ao alvo no solo reduzido em 50 %% \r ^00FF00 Bloqueio de lava ^FFFF00 \r Amarrado por uma cadeia de lava, incapaz de se mover, até o final da bota ou interrupção Ignorar resistência e penetração
+13016	Poder de ataque adicional: %d \r causou um total de %d %% de dano \r reduz o dano ao solo em 50 %% \r ^00FF00 Bloqueio de lava ^FFFF00 \r está preso pela cadeia de lava, incapaz de se mover, continue a guiar Terminar ou quebrar ignorar resistência e penetração
+13017	^00FF00 Acessório de lava ^FFFF00 \r Velocidade de vôo reduzida em 3 m / s por 4 segundos \r ^00FF00 Luz de chama ^FFFF00 \r Velocidade de vôo aumentada em 3 m / s por 5 s
+13018	Faça seu ^c0c0ff [%s] ^FFFF00 10 %% convoque todos os quatro reis alma de combate constelação guardiã exclusiva: ^00FF00 %s phoenix ^FFFF00
+13019	Faça com que o seu ^c0c0ff [%s] ^FFFF00 tenha 30% de chance de convocar uma constelação de guardião exclusiva da alma negra de fênix negra: ^00FF00 %s fênix ^FFFF00
+13020	^c0c0ff Prata 圣 圣 圣 星 铸 达到 ^^^^^A A A A A
+13021	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa dano a {^FFABFC %d %% ^FFFF00} \r reduz o dano ao alvo no solo em 50 %% \r ^penalidade de 00FF00dias ^FFFF00 \r Não pode agir , dura 3 segundos \r Cada camada ^00FF00 Lightning ^FFFF00 Aumento extra de 0,6 segundos de duração \r Ignora o efeito de resistência e penetração
+13022	Poder de ataque adicional: %d \r causa %d %% de dano \r Reduz o dano ao alvo em 50 %% \r ^00FF00 Pena de dia ^FFFF00 \r Incapaz de se mover por 3 segundos \r Cada camada ^00FF00 Relâmpago ^FFFF00 aumenta a duração em 0,6 segundos, ignorando a resistência e a penetração
+13023	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa dano a {^FFABFC %d %% ^FFFF00} \r reduz o dano ao alvo no solo em 50 %% \r ^00FF00 痹 ^FFFF00 \r Incapaz de ação, Cada camada ^00FF00 Leiguang ^FFFF00 aumentou 0,4 segundos de duração \r Ignora resistência e efeito de penetração \r ^00FF00 狱 ^FFFF00 \r Velocidade de vôo e movimento reduzida em 4 m / s, cada camada ^00FF00 Leiguang ^FFFF00 aumentou 1 Segunda duração
+13024	Poder de ataque adicional: %d \r causa %d %% de dano \r reduz o dano ao solo em 50 %% \r ^00FF00 dormência ^FFFF00 \r Incapaz de se mover, cada camada ^00FF00 Thunderbolt ^FFFF00 aumenta 0,4 segundos de duração Ignorar resistência e efeito de penetração \r ^00FF00 Thunderbolt ^FFFF00 \r Velocidade de vôo e movimento reduzida em 4 m / s, cada camada ^00FF00 Thunder ^FFFF00 aumentou em 1 segundo de duração
+13025	^00FF00Lightning ^FFFF00 \r Melhore o efeito de controle das habilidades de penalidade diária e tempestade com raios por 30 segundos, empilhe até 5 camadas \r ^00FF00 Thunderbolt ^FFFF00 \r Aumente a velocidade de vôo em 5 metros por segundo por 5 segundos
+13026	^00FF00 explosão ^FFFF00 \r A velocidade de vôo aumentou em 6 m / s, aumentou muito o valor de acerto e esquiva por 4 s
+13027	^00FF00 Lado escuro da luz ^FFFF00 Stealth, dura 1 segundo Esquiva aumenta muito, não será crítico, dura 3 segundos
+13028	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa dano a {^FFABFC %d %% ^FFFF00} \r reduz o dano ao alvo no solo em 50 %% \r Todos os efeitos de presentes são eficazes apenas para jogadores, ignorando exceções Resistência e redução \r ^00FF00 presente de Greven ^FFFF00 \r Velocidade de vôo e movimento reduzida em 4 m / s por 4 segundos \r ^00FF00 Presente de Xudela ^FFFF00 \r Não pode se mover por 4 segundos \r ^00FF00 壬 壬 presente ^FFFF00 \r Silencioso por 4 segundos ^00FF00 Presente da Medusa ^FFFF00 \r petrificado, com duração de 4 segundos ^00FF00 Presente da Kamala ^FFFF00 \r Queimado por chamas , {^FFABFC %d ^FFFF00} de dano por segundo por 4 segundos \r ^00FF00 O presente dos ciprestes da orelha ^FFFF00 \r Morte imediata, válida apenas para jogadores cujo nível é inferior ao seu \r \r
+13029	Poder de ataque adicional: %d \r causa %d %% de dano \r reduz o dano ao solo em 50 %% \r Todos os efeitos de presentes são eficazes apenas para jogadores, ignorando resistência e alívio anormais \r ^00FF00Golden's gift ^FFFF00 \r Vôo e velocidade de movimento reduzidos em 4 m / s por 4 segundos \r ^00FF00 Presente de Xu Della ^FFFF00 \r Não é possível se mover por 4 segundos \r ^00FF00 壬 ^presente ^FFFF00 \r Silêncio, Por 4 segundos \r ^00FF00 presente da Medusa ^FFFF00 \r petrificado, com duração de 4 segundos \r ^00FF00 presente da Kamala ^FFFF00 \r Queimado por chamas, %d dano por segundo por 4 segundos \r ^00FF00Presente alemão ^FFFF00\rMorte imediata, somente efetiva para jogadores cujo nível é mais baixo que o seu próprio \r \r
+13030	^00FF00 não se move como uma montanha ^FFFF00 \r Entrando no estado da montanha, a velocidade de vôo é reduzida em 4M / S por 8 segundos\rA resistência ao dano é aumentada em 50 %% por 8 segundos \r ^00FF00 O atirador do deus ^FFFF00 \r Taxa de dano aumentada em 20 %% por 8 segundos\rMing Wang raiva e huangyan distance distância do ataque de habilidade aumentada em 3 metros por 8 segundos \r Alcance de ataque de cometa de cor vermelha expandido para 12 metros
+13031	^00FF00 天蝎 ^FFFF00 \r Habilidade de espinho e escorpião de glória Arrefecimento instantâneo \r Taxa de dano aumentada em 40 %% por 8 秒
+13032	^00FF00 Bênção da besta ^FFFF00 \r Aumenta a taxa de dano em 20 %% por 8 s. \r Resistência a danos aumentada em 20 %% por 8 s.
+13033	Poder de ataque adicional: {^FFABFC %d ^FFFF00} \r Causa {^FFABFC %d %% ^FFFF00} de dano \r reduz o dano ao alvo no solo em 50 %% \r Todos os efeitos do efeito são eficazes apenas para o jogador, ignorando a exceção Resistência e alívio \r ^00FF00 Charm Heart ^FFFF00 \r Velocidade de vôo e movimento reduzida em 4 m / s, dura 4 segundos \r ^00FF00 Coração intoxicado ^FFFF00 \r Não pode se mover por 4 segundos \r ^00FF00 Não Palavras de Coração ^FFFF00 \r Silêncio por 4 segundos \r ^00FF00 Coração Petroquímico ^FFFF00 \r Petroquímico, dura 4 segundos \r ^00FF00 Coração Apaixonado ^FFFF00 \r Queimado pela Chama, {^FFABFC por segundo  %d ^FFFF00} pontos de dano, dura 4 segundos \r ^00FF00 coração frio ^FFFF00 \r Morte imediata, só é eficaz para jogadores cujo nível é inferior ao seu \r \r
+13034	Poder adicional de ataque: %d \r causa %d %% de dano \reduz o dano ao solo em 50 %% \r Todos os efeitos de presentes são eficazes apenas para jogadores, ignorando resistência e redução anormais \r ^00FF00 Coração de charme ^FFFF00 \r Velocidade de vôo e movimento reduzida em 4 m / s por 4 segundos \r ^00FF00 Coração intoxicado ^FFFF00 \r Não pode se mover por 4 segundos \r ^00FF00 Sem palavras ^FFFF00 \r Silencioso por 4 segundos coração petroquímico ^00FF00 ^FFFF00 petrificado, com duração de 4 segundos ^coração amoroso ^00FF00 ^FFFF00 \r queimado por chamas, sofrendo de %d dano por segundo por 4 segundos \r ^00FF00 coração frio ^FFFF00 \r Morte imediata, válida apenas para jogadores cujo nível é inferior ao seu próprio \r \r
+13035	Estrela brilha
+13036	Inspira a luz das estrelas, ataca todos os inimigos em um raio de 10 metros e os afeta por ^00FF00 choque ^A2FFFF.
+13037	^00FF00 Bênção estrelada ^FFFF00 \r Aumenta a velocidade de vôo em 6 m / s por 4 s. \r Aumenta o acerto e esquiva por 4 s.
+13038	Pequeno universo está cheio, incapaz de realizar operações astrológicas
+13039	%s ( %d nível) ^ffffff fundirá %s ( %d nível) ^ffffff, obter ^00ff00 %d ^ffffff experiência
+13040	A alma da estrela foi bloqueada. Desbloqueie e depois mescle
+13041	A alma da estrela é protegida pela fechadura do objeto, que só pode se fundir com outros fantasmas, mas não pode ser fundida.
+13042	^O021 ^ffff00 Poção de Energia \r ^O009 ^ffffff Restaura a vida máxima em 10% por segundo
+13043	^O021 ^ffff00Experiência leve \r ^O009 ^ffffff Obtenha 100% de experiência de matança à luz da experiência!
+13044	^O021 ^ffff00Experiência leve \r ^O009 ^ffffff Obtenha 200% de experiência de morte com a experiência da luz!
+13045	^O021 ^ffff00Experiência leve \r ^O009 ^ffffff Obtenha 400% de experiência de morte com a experiência da luz!
+13046	^O021 ^ffff00 Poder do imperador \r ^O009 ^ffffff Cada vez que for atacado, ataque seu próprio inimigo para obter um efeito de desaceleração, e sofrerá dano por 5 segundos e reduzirá a velocidade de movimento 1 m / s 15% de chance de silenciar o atacante
+13047	^O021 ^ffff00 Fan de fantasia \r ^O009 ^ffffff Melhora o poder de ataque e causa dano constante aos inimigos próximos
+13048	^O021 ^ffff00 Fantasia
+13049	^O021 ^terminação de string ffff00 \r ^O009 ^ffffff desaceleração e incapaz de liberar habilidades
+13050	^O021 ^ffff00 terminação de cadeia
+13051	^O021 ^ffff00 O poder do violento! \r ^O009 ^ffffff A violenta defesa Aurora aumentou!
+13052	^O021 ^ffff00 O poder do violento!
+13053	^O021 ^ffff00 Juramento de ressurreição \r ^O009 ^ffffff Nova peça de informação "Tian Meng Rebirth" buff único ganha alguma experiência a cada 5 minutos
+13054	^O021 ^ffff00 Contrato de frio extremo \r ^O009 ^ffffff Incapaz de tratar a vida e usar remédios
+13055	^O021 Instantâneo _ talento _ tratamento 7 _ estado de geração desencadeado desencadeia retorno de sangue
+13056	^O021 ^ffff00 Fantasma do Inferno \r ^O009 ^ffffff entrará no estado furtivo quando for atingido na próxima vez
+13057	^O021 ^ffff00 Discrição \r ^O009 ^ffffffO inimigo não pode vê-lo temporariamente
+13058	^O021 Instantâneo _ talento _ tratamento 7_ atinge o estado gerado, faz com que os colegas retornem sangue
+13059	^O021 Barra Mineral de Convocação de Lava BUFF
+13060	^O021Parkour_Starting buff
+13061	^O021Estacionamento _ buff de ponto de passagem
+13062	^O021 ^ffff00 Anel Justo \r ^O009 ^ffffff Todos os Santos do Campo de Batalha de Lava competirão bastante
+13063	^O021 ^ffff00 coma \r ^O009 ^ffffff a unidade entrou em coma
+13064	^O021 ^ffff00 加隆 Leve a flor da bondade
+13065	^O021 ^ffff00 queimando \r ^O009 ^ffffff queimando, perda contínua de sangue
+13066	^O021 ^ffff00 novo nome de status CZKJH
+13067	^O021 ^ffff00 novo nome de status SCNYX
+13068	^O021 ^ffff00 novo nome de status TDALK
+13069	^O021 ^ffff00 novo nome de status LECMC
+13070	^O021 ^ffff00 novo nome de status IYMHX
+13071	^O021 ^ffff00 novo nome de status
+13072	^O021 ^ffff00 novo nome de status DMJTW
+13073	^O021 Campo de Batalha de Attica - Tio Cristal Obtenha o Quadrado Vermelho de Cristal
+13074	^O021 Campo de Batalha de Attica - Cristal do Tio Obtenha Azul de Cristal
 13075	↑
 13076	↓

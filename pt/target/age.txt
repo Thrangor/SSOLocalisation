@@ -182,10 +182,9 @@
 181	　"De manhã, fui fazer patrulha na Floresta Perdida, como de costume. A princípio, parecia que estava tudo normal, eu até comecei a cantarolar uma musiquinha da minha cidade natal. Tudo aconteceu tão de repente! Uma névoa vermelha cobriu a floresta em questão de segundos! Quando estava pensando sobre o que seria essa névoa, apareceu um Lobo Gigante, do tamanho de um leão! E o mais assustador é que metade do corpo estava sem pele, com a carne vermelha exposta! Exalava um ar de sangue do corpo, parecia o Cosmo em ascensão. Outra coisa aterrorizante é que ele estava devorando o corpo do outro Lobo Gigante! Suspeito que esse lobo morto fosse companheiro dele, ou até mesmo pai dele. Eu já estava apavorado com a cena e o Lobo Gigante virou a sua cabeça, devagar. Eu nunca vou me esquecer do seu olhar, parecia desprovido de alma, restando apenas o corpo...". Este trecho fora tirado do Diário de Trabalho do sinaleiro Lahm. Uma grande quantidade de animais ao redor do Santuário sofreu mutação, até mesmo alguns moradores foram infectados pela atmosfera sanguinária e se tornaram moribundos. Todos os sinais apontaram para o Deus do Nada, Lamech. Talvez o evento Sombras de outro mundo seja o início de um pesadelo. O santuário amanheceu envolto em uma névoa vermelha e ninguém sabe o que mais pode acontecer a seguir. Mas a boa notícia é que o sinaleiro Lahm utilizou o Cristal Mitológico e conseguiu impedir a proliferação do vírus sanguinário. Embora não se cure o vírus completamente, coletar uma grande quantidade de Cristal Mitológico, derrubado durante a Guerra Santa, parece ser a melhor escolha no momento.
 182	${pos(213,318,191,20,"Emílio")}
 183	　　O evento da névoa vermelha é apenas o começo, o vigilante do Santuário recebeu a notícia de que, às 20 horas do dia 15 de abril de 2016, os Guerreiros das Sombras vão invadir o Santuário.É muito importante proteger o Santuário!
-183	　　“红雾事件仅仅是一个开始，圣域前方哨兵得到消息西历2016年4月15日晚20点，影斗士将正式入侵圣域，保卫圣域的安危迫在眉睫！
-184	16-58级的角色获得经验增加
-185	16-78级的角色获得经验增加
-186	16-88级的角色获得经验增加
-187	有%d名圣斗士达到潜修Lv9
-188	16-潜修Lv8的角色获得经验增加
-189	${pos(-217,338,43,2,"\史昂"\)}
+184	16-58 caracteres ganham experiência adquirida
+185	16-78 função adquirida experiência adquirida
+186	16-88 caracteres ganham experiência adquirida
+187	%d Saint Seiya alcança o latente Lv9
+188	16-O papel de Lv8 de reparo latente ganhou experiência adquirida
+189	${pos(-217.338,43,2,'Shion')}

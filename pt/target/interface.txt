@@ -1105,17 +1105,17 @@
 1104	Se selecionar
 1105	Modo Vídeo
 1106	
-1107	学习和提升战斗技能可以提升觉悟值人物在19，29，39，49，59级升级时需要达到一定的觉悟值
-1108	获得经验：
-1109	获得历练：
-1110	${npc(33799,\"点此寻径\")}
-1111	${jump(63,\"点击查看详情\")}
-1112	今日最多可获%s点经验和%s金券
-1113	今日最多可获%s点历练和%s金券
-1114	<商城>每周礼包
-1115	${npc(39771,\"寻径至冰河\")}
-1116	${npc(39802,\"寻径至紫龙\")}
-1117	主快捷栏12
-1118	主扩展快捷栏1_12
-1119	主扩展快捷栏2_12
-1120	主扩展快捷栏3_12
+1107	Aprender e melhorar as habilidades de combate pode aumentar a consciência do caráter 19，29，39，49，59 atualização do nível requer um certo nível de conscientização
+1108	Ganhe exp：
+1109	Obtenha exp：
+1110	${npc(33799,\"Clique aqui para encontrar um caminho\")}
+1111	${jump(63,\"Clique para ver detalhes\")}
+1112	Obtenha hoje %s de experiência e %s comprovante hoje
+1113	Até %s de experiência em pontos e %s comprovante hoje
+1114	Pacote semanal
+1115	${npc(39771,\"Encontrando o caminho para as geleiras\")}
+1116	${npc(39802,\"Caminho para Zilong\")}
+1117	Barra de atalhos principal 12
+1118	Barra de atalhos da extensão principal 1_12
+1119	Barra de atalhos da extensão principal 2_12
+1120	Barra de atalhos da extensão principal 3_12

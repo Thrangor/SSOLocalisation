@@ -5447,7 +5447,7 @@
 5446	Auto caça
 5447	Selecione monstros próximos para atacar.\rOu apenas monstros de Quest serão atacados.
 5448	Uso auto.
-5449	% de HP <
+5449	pr de HP <
 5450	usar
 5451	Elixir
 5452	Área fixa
@@ -8306,7 +8306,7 @@
 8305	10
 8306	99/999
 8307	9999999999
-8308	${npc(39802,'寻径至紫龙')}
+8308	${npc(39802,'Caminho para Zilong')}
 8309	99999/99999
 8310	10000/11166
 8311	100/1000
@@ -8322,43 +8322,43 @@
 8321	100000
 8322	8000
 8323	32/64
-8324	指定为教皇候选人
+8324	Designado como candidato ao papa
 8325	2011-2-12
 8326	9999999
 8327	100
-8328	教皇候选人的名字
-8329	教皇候选人
-8330	上周活跃度    
-8331	本周活跃度    
-8332	外围成员
+8328	Nome do candidato ao Papa
+8329	Papa candidato
+8330	Atividade da semana passada
+8331	Atividade desta semana
+8332	membros periféricos
 8333	000000000
 8334	255
-8335	     确定
-8336	     预览
+8335	OK
+8336	visualização
 8337	1/8
-8338	备用1 
-8339	防御门强化
-8340	攻城车科技
-8341	防御塔科技
-8342	神枪强化
-8343	大埃阿斯之盾强化
-8344	奥林匹斯的祝福强化
-8345	任意传送门强化
+8338	de reposição 1
+8339	Reforço de porta  defensivo
+8340	Siege Car Technology
+8341	Tecnologia da torre de defesa
+8342	Reforço Gunsense
+8343	Fortificação com Escudo Great Eas
+8344	Bênção da Olympus fortalece
+8345	Aprimoramento Arbitrário do Portal 
 8346	999999
 8347	1
 8348	1-5
-8349	领奖时间：周六21：30---周日23：59 过期作废
-8350	当有多个可激活的组合属性，战力最高的会生效
+8349	Hora de receber o prêmio: Sábado 21:30 --- Domingo 23:59 Expirado
+8350	Quando houver várias combinações combinatórias, o combate mais alto terá efeito
 8351	9
-8352	需要生效：
+8352	Precisa entrar em vigor：
 8353	4
 8354	10/20
 8355	9999/9
-8356	使用辅助道具，可获得3倍经验
+8356	3 vezes experiência com adereços auxiliares
 8357	121/140
 8358	2000000000
-8359	此物品栏中的物品不会因为整理而移动位置。
-8360	固定物品栏
+8359	Os itens deste item não serão movidos devido ao acabamento.
+8360	Barra de item fixo 
 8361	21/140
 8362	/
 8363	88888888
@@ -8368,35 +8368,35 @@
 8367	999/999
 8368	99/99
 8369	6/10
-8370	队员名称
+8370	Nome do jogador
 8371	40%
 8372	40:00
 8373	5
 8374	                                        
 8375	                                                                                                                        
-8376	 战 斗
-8377	 密 语
-8378	 军 团
-8379	 团 队
-8380	 普 通
-8381	 活 动
+8376	Batalha
+8377	sussurros
+8378	Army
+8379	Team
+8380	geral
+8381	Atividades
 8382	  
 8383	100/200
-8384	下一等级
+8384	próximo nível
 8385	1000
-8386	星力值：
+8386	Starpower:
 8387	99/100
-8388	高级星力值：
+8388	Valor avançado do Star Force:
 8389	12
 8390	123456789
-8391	点击领取每日签到奖励
+8391	Clique para receber recompensas diárias de check-in
 8392	18:00-20:00
 8393	0/5
 8394	11
 8395	20000000
 8396	10000000
 8397	840000
-8398	灵沐之光
+8398	Ling Muguang
 8399	10/80
 8400	155/300
 8401	111
@@ -8404,51 +8404,51 @@
 8403	999999999999
 8404	1987654321
 8405	30/90
-8406	召唤
-8407	刷新资质
-8408	携带等级：
-8409	元素攻击：
-8410	命中：
-8411	暴击：
-8412	守护星级：
-8413	资质最大：
-8414	资质加成：
-8415	亲密程度：
-8416	亲密度
+8406	Evocar
+8407	Atualizar qualificação
+8408	Grau de transporte:
+8409	Ataque Elementar:
+8410	hits:
+8411	Crit:
+8412	Estrela Guardiã:
+8413	Os mais qualificados:
+8414	Bônus de qualificação:
+8415	Intimidade:
+8416	intimidade
 8417	99999999
-8418	星级进阶
-8419	70级
-8420	等级上限：
+8418	Star Advanced
+8419	Nível 70
+8420	Limite de nível:
 8421	XXXX
-8422	增加资质：
-8423	守护星收藏
-8424	副守护星
-8425	主守护星
-8426	主守护星进阶需要当前资质达到：
-8427	A/B
-8428	主守护星进阶后资质上限为：
+8422	Qualificações aumentadas:
+8423	Coleção Guardian Star
+8424	Vice-Guardião
+8425	régua principal
+8426	O principal avanço do Guardian Star exige que a qualificação atual atinja:
+8427	A / B
+8428	Após a régua principal do  avançar, o limite de qualificação é:
 8429	F
-8430	C/D
-8431	主守护星星阶已经达到上限
+8430	C / D
+8431	O estágio principal da estrela guardiã atingiu o limite superior
 8432	1/9
 8433	9988
 8434	50/100
 8435	6000/10000
 8436	1/99
 8437	9999999999999
-8438	欢迎关注《圣斗士星矢》官方微信！\r查找公众账号'圣斗士星矢'或扫描上图的二维码进行关注，更多惊喜等着你！
+8438	Bem-vindo ao WeChat oficial de Saint Seiya! Encontre a conta pública 'Saint Seiya' ou digitalize o código QR no mapa para obter mais atenção, mais surpresas esperando por você!
 8439	6
 8440	3
 8441	2
-8442	描述的东西在这里所以不可以超过二十八个字不可以超过二十八个字
-8443	物品名称八个字呀
-8444	试穿
-8445	星券商城
+8442	As coisas descritas estão aqui, portanto, não mais que vinte e oito palavras não podem exceder vinte e oito palavras
+8443	O nome do item é oito palavras.
+8444	Experimente
+8445	Star Mall
 8446	99999999999
-8447	Web商城
-8448	^ff00ff女神的祝福值^N：
+8447	Centro comercial
+8448	^ff00ffValor da bênção da deusa^N：
 8449	999999999
-8450	所需金额
+8450	Montante necessário
 8451	1234567890
 8452	12345
 8453	0/0
@@ -8456,23 +8456,23 @@
 8455	1/200
 8456	-1
 8457	+1
-8458	齐天大圣的金箍棒
+8458	Aro de ouro de Qitian Dasheng
 8459	1233/2000
 8460	1232/2000
-8461	抽取
-8462	10连抽
-8463	连抽奖励
-8464	还有机会获得下列物品：
+8461	Extrair
+8462	10 Mesmo bombeando
+8463	Recompensa contínua
+8464	Também tenha acesso aos seguintes itens：
 8465	500
-8466	分解物品
-8467	分解 
+8466	Itens decompostos
+8467	Decomposição 
 8468	0/2000
 8469	30/30
 8470	11111111111111111
 8471	9999999999/9999999999
 8472	1000/1000
-8473	任务名字任务名字任务
-8474	99999999点储存经验1000金券
+8473	Nome da tarefa nome da tarefa tarefa
+8474	...
 8475	20000000000
 8476	2013-04-28 20:02:23
 8477	11111111111
@@ -8490,73 +8490,73 @@
 8489	100%
 8490	+4%
 8491	1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
-8492	图鉴收藏
+8492	Coleção gráfica
 8493	116
-8494	历届教皇
-8495	圣域大事件
-8496	本届教皇
-8497	圣域大事件：XXXXXXXXXXXXXXXXXXXXXX
-8498	查看更多
-8499	权限
+8494	Papas anteriores
+8495	Evento no Santuário
+8496	Pope
+8497	Evento do santuário: XXXXXXXXXXXXXXXXXXXXXXXX
+8498	Veja mais
+8499	permissões
 8500	111111/200000
 8501	10000
 8502	9999/9999
-8503	材料名字是八个字
+8503	O nome do material é oito palavras
 8504	100/3000
 8505	1000/2000
-8506	主线任务
-8507	支线任务
-8508	可接任务
+8506	Tarefa da linha principal 
+8507	missão do ramo
+8508	pode ser conectado à tarefa
 8509	9999999988
-8510	任务奖励：
+8510	Recompensa da missão：
 8511	125%
 8512	115%
 8513	105%
-8514	100线 死亡皇后岛  \r（26‘27）
-8515	您有新邮件，点击向邮箱寻径
+8514	100 linhas Death Queen Island \r (26‘27)
+8515	Você tem um novo email, clique para encontrar o caminho para a caixa de correio
 8516	88:88
 8517	33
 8518	111111111111
 8519	70
-8520	声   望
+8520	Prestígio
 8521	10000/10000
-8522	经验百分比：
+8522	Percentual de experiência：
 8523	99.99%
-8524	学习战斗技能可以提升觉悟值。
-8525	觉悟百分比：
-8526	隐藏披风,短时间内不能重复使用。
-8527	隐藏披风
-8528	切换时装，短时间内不能重复。
-8529	切换时装
-8530	觉悟值和经验达到需求后可以点击此处提升人物等级。
-8531	手动升级
+8524	Aprender habilidades de combate pode aumentar sua consciência.
+8525	Percentual de percepção:
+8526	Capa oculta, não pode ser reutilizada em pouco tempo.
+8527	capa oculta
+8528	Alternar moda, não pode ser repetido em pouco tempo.
+8529	Mudar de moda
+8530	Após a conscientização e a experiência atingirem a demanda, você pode clicar aqui para melhorar o nível do personagem.
+8531	Atualização manual 
 8532	60
 8533	-5
 8534	10000/400000
-8535	显示圣衣本体翅膀
-8536	显示圣衣头盔
-8537	使每次星铸获得的祝福值增加
-8538	辅助道具(可选)：
-8539	天马星玉
-8540	祝福值
-8541	Lv1天马扫把星拳
-8542	Lv1天马彗星拳
-8543	Lv1 天马流星拳
-8544	连续祝福，直至星玉不够为止。
-8545	连续星铸
-8546	星铸消耗
-8547	斗魂库
-8548	再次点击可取消选中。
-8549	星铸达到17级，属性大幅提升。
-8550	连招技能编辑器
-8551	开启后选择附近任意怪物攻击，否则只会选择任务怪和与您发生过战斗的怪进行攻击。
+8535	mostra as asas do corpo santo
+8536	mostrar capacete de roupas sagradas
+8537	Aumenta o valor da bênção obtido para cada elenco
+8538	Suportes auxiliares (opcional):
+8539	Tianma Xingyu
+8540	valor da bênção
+8541	Lv1 Tianma Broom Star Boxing
+8542	Lv1 Tianma, cometa, boxe
+8543	Lv1 Tianma Punho de Meteoro
+8544	Continue abençoando até que a estrela jade não seja suficiente.
+8545	fundição em estrela contínua
+8546	consumo de fundição em estrela
+8547	Biblioteca da Alma Lutadora
+8548	Clique novamente para desmarcar.
+8549	Star Casting atingiu o nível 17, e os atributos foram bastante aprimorados.
+8550	mesmo editor de habilidades
+8551	Após a abertura, selecione qualquer ataque de monstro próximo; caso contrário, você só selecionará o monstro tarefa e o monstro que lutou com você para atacar.
 8552	0
-8553	0.800000
+8553	0,800000
 8554	50
 8555	80
-8556	0.5
-8557	觉悟值：100
-8558	升级30级所需觉悟值：1000
+8556	0,5
+8557	Valor da iluminação: 100
+8558	Nível 30 de atualização necessária: 1000
 8559	00:00
 8560	999999/999999
 8561	93421
@@ -8564,61 +8564,61 @@
 8563	11112222
 8564	-
 8565	991
-8566	/100
+8566	/100 
 8567	2/3
 8568	29999/30000
 8569	2000/3000
 8570	1/21
 8571	2012.5.1
 8572	100/100
-8573	当前VIP等级，可以享受以下随身服务：
-8574	好友和圈子
-8575	灵魂
-8576	生产
-8577	智慧女神的指引
-8578	组队
-8579	寻宝网
-8580	内置ie
-8581	pk设置
-8582	安全锁
-8583	百科
-8584	 
-8585	星 域
-8586	历程
-8587	进程
-8588	指引
-8589	宝库
-8590	珍宝
-8591	币券
-8592	快捷1
-8593	电台
-8594	隐藏不重要的模型，例如宠物和侍从
-8595	交谈
-8596	${npc(41957,'寻径至奖励兑换处')}
+8573	Nível VIP atual, você pode desfrutar dos seguintes serviços portáteis:
+8574	Amigos e círculos
+8575	soul
+8576	produção
+8577	Guia da Deusa da Sabedoria
+8578	Team
+8579	Caça ao tesouro
+8580	embutido ou seja
+8581	Configurações de pk
+8582	trava de segurança
+8583	Enciclopédia 
+8584	
+8585	domínio em estrela
+8586	Histórico
+8587	Processo 
+8588	Diretrizes 
+8589	Tesouraria
+8590	Treasure
+8591	Cupom de moeda 
+8592	Fast 1
+8593	radio
+8594	Ocultar modelos sem importância, como animais de estimação e atendentes
+8595	conversa
+8596	${npc(41957, 'Caminho para a redenção da recompensa')}
 8597	1/6
 8598	1000000000
-8599	加价（1000万金币）
-8600	竞拍上限为500000000
+8599	Marcação  (10 milhões de moedas de ouro)
+8600	O limite do leilão  é 500000000
 8601	1111111
 8602	111111
-8603	炫耀性玩法1\r炫耀性玩法2\r炫耀性玩法3
+8603	jogo flácido 1 mostra o jogo 2 mostra o jogo 3
 8604	120000
 8605	30/72
 8606	8
 8607	90000
 8608	8888
-8609	^ff0000星铸到11级升格白银圣衣，属性大幅提升^f2f3f2
-8610	^ff0000星铸到17级升格黄金圣衣，属性大幅提升^f2f3f2
-8611	^ff0000星铸到33级，属性大幅提升^f2f3f2
-8612	^ff0000星铸到40级圣衣升格，变身神圣衣^f2f3f2
-8613	^ff0000星铸到48级圣衣最终变身^f2f3f2
-8614	^ff0000星铸到11级，属性大幅提升^f2f3f2
-8615	^ff0000星铸到17级，属性大幅提升^f2f3f2
-8616	^ff0000星铸到48级，属性大幅提升^f2f3f2
+8609	^ff0000 elenco de estrelas para 11 sacos de prata atualizados, a propriedade foi bastante aprimorada ^f2f3f2
+8610	^ff0000 elenco de estrelas para o vestíbulo de ouro atualizado da 17ª série, a propriedade foi bastante aprimorada ^f2f3f2
+8611	^ff0000 estrela lançada no nível 33, a propriedade foi bastante aprimorada ^f2f3f2
+8612	^ff0000 estrela lançada no 40º nível das roupas sagradas melhoradas, transformada em roupa sagrada ^f2f3f2
+8613	^ff0000 estrela lançada no 48º nível da roupa sagrada e finalmente transformada ^f2f3f2
+8614	^ff0000 elenco de estrelas no nível 11, a propriedade foi bastante melhorada ^f2f3f2
+8615	^ff0000 elenco de estrelas para o nível 17, a propriedade foi bastante aprimorada ^f2f3f2
+8616	^ff0000 elenco de estrelas para 48, a propriedade foi bastante aprimorada ^f2f3f2
 8617	
-8618	宇宙
-8619	体检
-8620	守护
-8621	隐藏1
-8622	隐藏2
-8623	隐藏3
+8618	universe
+8619	exame médico
+8620	Guardian
+8621	esconder 1
+8622	esconder 2
+8623	esconder 3

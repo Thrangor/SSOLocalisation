@@ -573,7 +573,7 @@
 572	O Santuário mergulhou em um silêncio que nunca houve, rodeado pelo desespero e medo dos sobreviventes.\rAfinal o que aconteceu aqui?Converse com ^ffff00 Nachi de Lobo ^N
 573	 É necessário ^ffff00 passar pelo Vale da Ventania Negra ^N, para poder continuar!\rJuntar ^00ff00Universo de Luz ^N, ele pode ajudá-los a controlar o Vento Negro do Mal: ^ffff00%d / 12
 574	Será que o mundo vai enfrentar mais uma catástrofe?Quem está no comando de tudo isso?No caminho adiante se eleva uma densa névoa, o primeiro passo para descobrir a verdade, ^ffff00 derrotar a Estrela Celeste do Cárcere!^N\rO Círculo Mágico de Shaka está escondido no ^00ff00Santuário ^N, se dois membros do grupo ^00ff00entrarem juntos ^N é possível abri-lo!Use-o para conter o inimigo!
-575	A Estrela Celeste do Cárcere afirma que foi enganado pelo Deus da Força, Naveen .Mas quem é ele?Isso está longe de terminar!\rElimine os obstáculos à sua frente, ^ ffff00 Estrela Celeste Demoníaca!^N\rA Estrela Celeste Demoníaca é cheio de truques, mas se utilizar o ^00ff00Cosmo ^N deixado pelo Cavaleiro de Prata, poderá quebrar a Barreira Mágica dele!
+575	A Estrela Celeste do Cárcere afirma que foi enganado pelo Deus da Força, Naveen .Mas quem é ele?Isso está longe de terminar!\rElimine os obstáculos à sua frente, ^ffff00 Estrela Celeste Demoníaca!^N\rA Estrela Celeste Demoníaca é cheio de truques, mas se utilizar o ^00ff00Cosmo ^N deixado pelo Cavaleiro de Prata, poderá quebrar a Barreira Mágica dele!
 576	A morte da Estrela Celeste Demoníaca deixou vocês ainda mais surpresos, Deus da Ética, Mokurius?Será que não é apenas uma pessoa que está por trás disso?\rNão importa qual seja a verdade, o inimigo do Santuário não pode escapar!^ffff00 Derrotar Estrela Celeste da Agilidade^N\rO Cosmo remanescente do ^00ff00Cavaleiro de Prata ^N dará ajuda vantajosa durante a batalha!
 577	Afinal, como isso aconteceu?Por que Lira surgiria aqui?\rIsso é...Os 12 de Ouro?!Eles já não tinham sacrificado isso?
 578	A vitória é apenas temporária!O Deus do Elemento, Phaedrus, se aproveitou da Estrela Celeste da Agilidade e a verdade ainda está encoberta por uma névoa densa, a vitória é apenas temporária!O renascimento dos 12 de Ouro é um sinal perigoso!Não baixe a guarda, o catástrofe chegou!
@@ -797,28 +797,28 @@
 796	Falha ao criar a Dungeon de Desafio Individual
 797	Você acabou de fazer um desafio, aguarde um tempo
 798	Seu poder é insuficiente, participar de um Desafio precipitadamente é muito perigoso. Pratique primeiro para depois entrar em um!
-799	玩家${name}的等级低于30级
-800	玩家${name}的等级低于25级
-801	等级低于25级
-802	玩家${name}的等级低于20级
-803	等级低于20级
-804	玩家${name}的等级低于15级
-805	等级低于15级
-806	玩家${name}的等级低于35级
-807	等级低于35级
-808	玩家${name}的等级低于45级
-809	等级低于45级
-810	玩家${name}的等级低于55级
-811	等级低于55级
-812	玩家${name}的等级低于68级
-813	等级低于68级
-814	玩家${name}参加[英雄]副本的次数已耗尽或英雄点不满30点
-815	参加[英雄]副本的次数已耗尽或英雄点不满30点
-816	玩家${name}的等级低于100级
-817	采集 冰结晶  ^00ffff%d / 120^N\r温馨提示：通过^ffff00采集冰结晶^N或^ffff00击碎队友身上的冰块^N获得^ffff00【绝招的真谛】^N\r^ffff00注意^N躲避冰霜炸弹
-818	与神秘的月饼对话开启战斗
-819	击败梦神！\r梦神 %d/1\r请尽量将身上有\"进入梦魇\"状态的玩家的^FFCC00生命值加满^N\r当有队友变成了“梦神阴影”，那他只有静等一分钟了\r请尽量将梦神的^FFCC00扇形攻击引向梦魇玫瑰^N，以便消灭玫瑰
-820	前往印度洋神柱！\r击败海皇子克修拉 %d/1\r神之力让克修拉拥有不死之身，唯有将其拉入^FFCC00般若星盘^N内，才能破除神力加持，同时请注意无处不在的天雷
-821	前往南冰洋神柱！\r击败海将军海怪卡萨 %d/1\r卡萨拥有一批死忠海妖粉，注意！海妖之吻能让卡萨^FFCC00恢复生命^N！
-822	前往南大西洋神柱！\r击败海魔女苏兰特 %d/1\r苏兰特的笛声让你不断停留在睡梦中，进入地面的^FFCC00觉醒之眼^N刺痛感能够避免你睡着
-823	前往北大西洋神柱！\r击败海龙加隆 %d/1\r^FFCC00豆豆^N是能够帮你战斗的小伙伴，她们就被压在来时路的石头下。砸碎所有的石头吧，越多越好！
+799	jogadores ${name} estão abaixo do nível 30
+800	jogadores ${name} estão abaixo do nível 25
+801	nível é inferior ao nível 25
+802	jogador ${name} está abaixo do nível 20
+803	Nível está abaixo do nível 20
+804	Jogador ${name} está abaixo do nível 15
+805	Nível  está abaixo do nível 15
+806	Jogador ${name} está abaixo do nível 35
+807	Nível  está abaixo do nível 35
+808	Jogador ${name} está abaixo do nível 45
+809	Nível  é inferior ao nível 45
+810	jogadores ${name} estão abaixo do nível 55
+811	nível está abaixo do nível 55
+812	Jogador ${name} está abaixo do nível 68
+813	nível abaixo do nível 68
+814	O jogador ${name} foi esgotado porque a cópia do [Herói] ou o herói tem menos de 30 pontos
+815	O número de cópias de [Herói] foi esgotado ou o herói tem menos de 30 pontos.
+816	jogadores ${name} estão abaixo do nível 100
+817	Coleção de cristais de gelo ^00ffff %d / 120 ^N \r Dicas: Colete cristais de gelo por ^ffff00 ^N ou ^ffff00 para esmagar o gelo nos companheiros de equipe ^N get ^ffff00】 真 招 的 真谛 ^N \r ^Atenção Ffff00 ^N evitando bombas de gelo
+818	- Batalha aberta com conversa misteriosa sobre bolos da lua
+819	Derrote o deus dos sonhos! \r 神 %d / 1 \r Por favor, tente aumentar a saúde ^FFCC00 do jogador que possui o status "Enter Nightmare". ^N \r Quando um companheiro de equipe se torna uma "sombra dos sonhos", ele só tem Espere um minuto. Por favor, tente trazer o ataque dos fãs dos sonhos FFCC00 para o pesadelo rosa ^N para eliminar a rosa.
+820	Vá para o Pilar do Oceano Índico! Quebre o imperador do mar Ke Xiula %d / 1 O poder de Deus de deixar Ke Xiula ter um corpo morto-vivo, apenas para puxá-lo para dentro da ^FFCC00 prajna star ^N, a fim de quebrar a bênção mágica, preste atenção Tianlei
+821	Vá para a Torre dos Deuses do Gelo do Sul! Bata o monstro do mar geral do mar Casa %d / 1 Casa tem um lote de pó de monstro do mar obstinado, preste atenção! O beijo Kraken pode fazer a Casa ^FFCC00 recuperar a vida ^N!
+822	Vá para o Pilar do Atlântico Sul! Quebre a bruxa do mar Surant %d / 1 A flauta de Surant mantém você dormindo, ^FFCC00 despertando os olhos para o chão ^O formigamento pode evitar que você adormeça
+823	Vá para o Pilar do Atlântico Norte! Quebre o dragão do mar Galeão %d / 1 ^FFCC00 Feijão ^N é um pequeno parceiro que pode ajudá-lo a lutar, eles são pressionados sob a pedra da estrada. Esmague todas as pedras, quanto mais, melhor!

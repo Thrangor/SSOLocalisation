@@ -2103,7 +2103,7 @@
 2102	Unable to load game data file! This error may be due to an incomplete update! \nClick \"Yes\": Update and verify the version. (Note: It may take a long time)\nClick \"No\": Manual update or version verification later.
 2103	Guardian Constellation 8
 2104	guardian constellation 8 ascending constellation
-2105	years ago
+2105	ago
 2106	%d god casting\r
 2107	^00ff00 Left click to go to God Cast\r
 2108	The target artifact has been cast, unable to transfer the number of castings

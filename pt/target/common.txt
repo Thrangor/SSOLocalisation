@@ -1339,7 +1339,7 @@
 1338	%s aconselha %s a usar bem as estratégias na luta de hoje, pois poderá trazer conquistas ainda mais perfeitos.
 1339	Levar uma flechada no joelho
 1340	%s ouviu %s dizer: lembro que, quando eu era o maioral, tinha um Power de mais de 5 milhões de competidores, até que levei uma flechada no joelho
-1341	Desejo de guerra 100%
+1341	Desejo de guerra 100 pr
 1342	Testemunhou todo o %s do evento e disse: O %s de hoje luta motivado.
 1343	Não caminhe no caminho comum
 1344	%s aconselha %s a quebrar as convenções na luta de hoje,
@@ -1969,143 +1969,143 @@
 1968	(Personalizar)
 1969	Primeiro Capítulo
 1970	Prova de sangue e fogo
-1971	社交
-1972	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1973	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1974	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1975	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600箭鱼座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1976	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1977	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600六分仪座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1978	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600仙后座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200^72fe00\r^0184ff白银圣衣委托书×3
-1979	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600巨蛇座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1980	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600乌鸦座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-1981	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-1982	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600罗盘座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-1983	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600白鲸座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-1984	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600网罟座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-1985	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600银莺座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-1986	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1987	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1988	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1989	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1990	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1991	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1992	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1993	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1994	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1995	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1996	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1997	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1998	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天马^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天马）
-1999	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天龙^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天龙）
-2000	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff白鸟^72fe00座\r并完成任务^0184ff转换！宿命之守护星（白鸟）
-2001	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff仙女^72fe00座\r并完成任务^0184ff转换！宿命之守护星（仙女）
-2002	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff凤凰^72fe00座\r并完成任务^0184ff转换！宿命之守护星（凤凰）
-2003	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600半人马座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2004	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天箭座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2005	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600御夫座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2006	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天鹰座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2007	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600鹿豹座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2008	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600武仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2009	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600三角座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2010	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600后发座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2011	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600英仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2012	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600孔雀座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2013	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600仙王座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2014	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600天琴座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2015	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600变色龙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2016	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天炉座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2017	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2018	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2019	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600海蛇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2020	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600剑鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2021	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南十字座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2022	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600北冕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2023	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天幕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2024	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600皇女座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2025	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600船尾座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2026	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600波江座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2027	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600盾牌座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2028	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600南冕座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2029	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2030	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2031	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2032	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2033	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2034	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2035	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2036	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×50\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2037	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2038	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2039	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2040	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2041	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2042	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2043	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2044	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff海飞龙\r^72fe00并完成任务^0184ff转换！宿命之守护星（海龙）
-2045	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2046	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2047	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600银蝇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2048	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2049	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天威^72fe00星\r并完成任务^0184ff转换！宿命之守护星（天威）
-2050	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2051	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天间星^ff0000冥衣\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2052	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天魔星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2053	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天哭星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2054	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天英星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2055	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天捷星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2056	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天牢星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2057	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天兽星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2058	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×100\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2059	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×125\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2060	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×150\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+1971	Social
+1972	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+1973	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+1974	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+1975	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600Peixe-espada^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1976	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+1977	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600六分仪座^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1978	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600仙后座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200^72fe00\r^0184ff白银圣衣委托书×3
+1979	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600巨蛇座^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1980	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600乌鸦座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+1981	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600南鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+1982	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600罗盘座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+1983	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600白鲸座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffff兑换需要:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+1984	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600网罟座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+1985	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600银莺座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+1986	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1987	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1988	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1989	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1990	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1991	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1992	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1993	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1994	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1995	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1996	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1997	^ff0000Não recebendo as roupas sagradas\r^ffffffObtenha o método 1:\r^72fe00在^0184ff黄金圣光使者^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffffObtenha o método 2:\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1998	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天马^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天马）
+1999	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天龙^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天龙）
+2000	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff白鸟^72fe00座\r并完成任务^0184ff转换！宿命之守护星（白鸟）
+2001	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff仙女^72fe00座\r并完成任务^0184ff转换！宿命之守护星（仙女）
+2002	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff凤凰^72fe00座\r并完成任务^0184ff转换！宿命之守护星（凤凰）
+2003	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600半人马座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2004	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600天箭座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2005	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600御夫座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2006	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600天鹰座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2007	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600鹿豹座^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2008	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600武仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2009	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600三角座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2010	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600后发座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2011	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600英仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2012	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600孔雀座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2013	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600仙王座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2014	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600天琴座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2015	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600变色龙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+2016	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600天炉座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2017	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+2018	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+2019	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600海蛇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+2020	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 84\rPrecisa ser o primeiro ^fff600剑鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2021	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600南十字座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+2022	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600北冕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+2023	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 94\rPrecisa ser o primeiro ^fff600天幕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2024	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600皇女座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2025	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600船尾座^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2026	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 60\rForça exigente 39960\rPrecisa ser o primeiro ^fff600波江座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×40
+2027	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600盾牌座^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2028	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 50\rForça exigente 5140\rPrecisa ser o primeiro ^fff600Escorpião do Sul^ff0000圣衣\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2029	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 30\rForça exigente 5140\r^72fe00No mestre de bronze ^0184ffJoseph^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff青铜圣衣碎片×15
+2030	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2031	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2032	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2033	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2034	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2035	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff潘多拉^72fe00 resgatar：\r^ffffffNecessidades de resgate:\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2036	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff朱利安^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣碎片×50\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2037	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff潘多拉^72fe00 resgatar：\r^ffffffNecessidades de resgate:\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2038	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff潘多拉^72fe00 resgatar：\r^ffffffNecessidades de resgate:\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2039	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2040	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2041	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2042	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2043	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2044	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff海飞龙\r^72fe00并完成任务^0184ff转换！宿命之守护星（海龙）
+2045	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2046	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2047	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 75\rForça exigente 39960\rPrecisa ser o primeiro ^fff600银蝇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2048	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 2\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2049	^ff0000Não recebendo as roupas sagradas\r^fff600Esta roupa sagrada profissional é obtida através da missão da linha principal\r^ffffff非本职业圣衣Como obtê-lo:\r^ff0000Nível requerido 59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天威^72fe00星\r并完成任务^0184ff转换！宿命之守护星（天威）
+2050	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^72fe00No artesão escuro^0184ff Safiros^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ffProcuração sagrada sombria\r^72fe00A procuração pode ser usada ^0184ff黑暗徽记×30^72fe00兑换
+2051	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天间星^ff0000冥衣\r^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2052	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天魔星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2053	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天哭星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2054	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天英星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2055	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天捷星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2056	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天牢星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2057	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido  Submersível 7\rPrecisa ser o primeiro ^fff600天兽星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2058	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff朱利安^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣碎片×100\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2059	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff朱利安^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣碎片×125\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2060	^ff0000Não recebendo as roupas sagradas\r^ffffffComo obtê-lo:\r^ff0000Nível requerido 80\r^72fe00在^0184ff朱利安^72fe00 resgatar\r^ffffffNecessidades de resgate:\r^fff600黄金圣衣碎片×150\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
 2061	2333
 2062	55555
 2063	888
-2064	获得足够战场声望点数之后可到${pos(-182,339,402,2,'夏洛克')}处兑换奖励
-2065	个人战力
-2066	个人即时
-2067	军团内
-2068	军团间
-2069	     本周日24时结算的所有玩家上周累积充值数据\r     以该榜单为依据，周二维护后将给第一名玩家发放时效1周黑珍珠特效翅膀时装\r     周二维护后，圣域神职区将在本周为第一名玩家竖立雕像，并以其名义为本服玩家发放福利！
+2064	Depois de obter pontos de reputação suficientes no campo de batalha, você pode ${pos(-182,339,402,2,'Shylock')} resgatar recompensa
+2065	força pessoal
+2066	pessoas instantaneamente
+2067	dentro da legião
+2068	Legião
+2069	     Todos os jogadores que se estabeleceram às 24:00 desta semana acumularam dados de recarga na semana passada.\r    Com base na lista, após a manutenção na terça-feira, o primeiro jogador receberá uma semana de moda especial com asas de efeito pérola negra.\r     Após a manutenção na terça-feira, o Santuário do Santuário erigirá uma estátua para o primeiro jogador esta semana e emitirá benefícios para os jogadores em seu nome!
 2070	
-2071	 每月会进行一次总榜刷新，并在每月1号重置上月榜单显示本月榜单，每个月第一周周二维护后发放上月排行榜称号。\r 玩家获得称号\r     傲视寒霜的绚烂    个人鲜花排行榜获得第1名\r   绽放那一瞬的美丽   个人鲜花排行榜获得第2名\r     万花丛中的闪耀    个人鲜花排行榜获得第3名\r     生如夏花的温暖    个人鲜花排行榜获得第4-10名
-2072	参赛资格的统计已经结束，该积分将在8月1日自动失效。请登陆官方网站确认最终入围军团名单，也请入围军团长注意接收参赛门票。
-2073	声望达到一定级别可在${pos(203,317,292,4,'今井宗久')}处购买物品
-2074	声望达到一定级别可在${pos(-236,350,352,2,'荷拉斯')}处购买物品
-2075	声望达到一定级别可在${pos(-236,350,356,2,'古利亚斯')}处购买物品
-2076	声望达到一定级别可在${pos(-236,350,360,2,'克西弗斯')}处购买物品
-2077	声望达到一定级别可在${pos(-236,350,364,2,'阿高迪约')}处购买物品
-2078	声望达到一定级别可在${pos(-239,358,306,2,'西弗勒斯')}处购买珠链
-2079	声望达到一定级别可在${pos(-278,343,220,2,'守护星军需官')}处购买物品
-2080	可在${pos(-264,356,309,2,'传承商店')}处购买礼包
-2081	可在${pos(-204,337,16,2,'神战使者安迪娜')}处使用神战点
-2082	可在${pos(-227,337,66,2, '女神恩赐使者柯蒂丝')}处兑换
-2083	1.  开启随身仓库服务\r2.  开启随身聚能服务
-2084	拥有永久生效属性称号“钱包鼓鼓的”\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2085	拥有永久生效属性称号“勇往直前的淘金者”\r开启VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2086	拥有永久生效属性称号“疯狂敛财者”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2087	拥有永久生效属性称号“璀璨钻石大亨”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2088	月度返还福利200星券
-2089	月度返还福利600星券
-2090	月度返还福利2000星券
-2091	1.  月度返还福利4000星券\r2.  尊享MVIP尊贵标识
-2092	1.  月度返还福利5000星券\r2.  尊享MVIP尊贵标识
-2093	1.  月度返还福利8500星券\r2.  尊享MVIP尊贵标识
-2094	1.  月度返还福利32000星券\r2.  尊享MVIP尊贵标识
-2095	1.  月度返还福利40000星券\r2.  尊享MVIP尊贵标识
-2096	1.  月度返还福利60000星券\r2.  尊享MVIP尊贵标识
-2097	1.  月度返还福利80000星券\r2.  尊享MVIP尊贵标识
-2098	1.  月度返还福利126000星券\r2.  尊享MVIP尊贵标识
-2099	1.  月度返还福利180000星券\r2.  尊享MVIP尊贵标识
-2100	1.  月度返还福利280000星券\r2.  尊享MVIP尊贵标识
-2101	1.  月度返还福利415000星券\r2.  尊享MVIP尊贵标识
-2102	无法加载游戏数据文件！此错误可能是更新不完全所致！\n点击\"是\"：进行版本更新和验证。(注：可能需要花费较长时间)\n点击\"否\"：稍后手动更新或版本验证。
-2103	守护星座8
-2104	守护星座8升阶星座
-2105	前
-2106	第%d次神铸\r
-2107	^00ff00左键点击进行神铸\r
-2108	目标神器已经神铸，无法转移神铸次数
-2109	待转移神器神铸次数高于目标神器神铸次数上限
-2110	举报骗子
+2071	 Uma atualização total da lista será realizada todos os meses e a lista mensal será redefinida no primeiro dia de cada mês para exibir a lista do mês.O primeiro mês de cada mês receberá o título do mês anterior após a manutenção.\r Jogador recebe título\r     A linda lista de flores pessoais de Frost, exaltada, conquistou o primeiro lugar\r   Florescendo no momento, a lista pessoal de flores ganhou o segundo lugar\r     Brilhando nas flores, o terceiro lugar na lista pessoal de flores\r     O calor das flores do verão é de 4 a 10 na lista de flores individual.
+2072	As estatísticas das qualificações foram concluídas e os pontos expiram automaticamente em 1º de agosto. Por favor, visite o site oficial para confirmar a lista final dos finalistas, por favor, digite também o líder da equipe para receber os ingressos.
+2073	Reputação atinge um certo nível ${pos(203,317,292,4,'Munehisa Imai')} Itens de compra
+2074	Reputação atinge um certo nível ${pos(-236,350,352,2,'Holas')} Itens de compra
+2075	Reputação atinge um certo nível ${pos(-236,350,356,2,'Guulias')} Itens de compra
+2076	Reputação atinge um certo nível ${pos(-236,350,360,2,'Kesworth')} Itens de compra
+2077	Reputação atinge um certo nível ${pos(-236,350,364,2,'Agadiyo')} Itens de compra
+2078	Reputação atinge um certo nível ${pos(-239,358,306,2,'Severus')} Itens de compra
+2079	Reputação atinge um certo nível ${pos(-278,343,220,2,'Estrela guardiã')} Itens de compra
+2080	Disponível em ${pos(-264,356,309,2,'Loja do património')} Pacote de compra
+2081	Disponível em ${pos(-204,337,16,2,'Deus guerra anjo Andina')} Use o ponto de guerra
+2082	Disponível em ${pos(-227,337,66,2, 'Deusa da Misericórdia')} resgatar
+2083	1.  Abra o serviço de armazém portátil\r2.  Ligue o serviço portátil
+2084	Tem um título de atributo efetivo permanente “Abaulamento da carteira”\rDesfrute de correio portátil, runas, armazém, coleta, serviços de shopping privilegiados VIP
+2085	Tem um título de atributo efetivo permanente “Garimpeiros de ouro que são corajosos”\rHabilite o acesso ao canal VIP Desfrute de correio portátil, runas, armazém, reunião, serviço de shopping privilegiado VIP
+2086	Tem um título de atributo efetivo permanente “Coletor de dinheiro louco”\rDesfrute de acesso ao canal VIP Desfrute de correio portátil, runas, armazém, reunião, serviço de shopping privilegiado VIP
+2087	Tem um título de atributo efetivo permanente “Magnata de diamante”\rDesfrute de acesso ao canal VIP Desfrute de correio portátil, runas, armazém, reunião, serviço de shopping privilegiado VIP
+2088	Benefício de retorno mensal cupom de 200 estrelas
+2089	Benefício de retorno mensal cupom de 600 estrelas
+2090	Benefício de retorno mensal cupom de 2000 estrelas
+2091	1. Benefício de retorno mensal cupom de 4000 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2092	1. Benefício de retorno mensal cupom de 5000 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2093	1. Benefício de retorno mensal cupom de 8500 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2094	1. Benefício de retorno mensal cupom de 32000 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2095	1. Benefício de retorno mensal cupom de 40000 estrelas \r2 Aproveite o logotipo diferenciado do MVIP
+2096	1. Benefício de retorno mensal cupom de 60000 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2097	1. Benefício de retorno mensal cupom de 80000 estrelas \r2.Desfrute do MVIP Premium Logo
+2098	1. Benefício de retorno mensal cupom de 126000 estrelas \r2 Aproveite o logotipo diferenciado do MVIP
+2099	1. Benefício de retorno mensal cupom de 180000 estrelas \r2 Aproveite o logotipo diferenciado do MVIP
+2100	1. Benefício de retorno mensal cupom de 280000 estrelas \r2.Desfrute do logotipo diferenciado do MVIP
+2101	1. Benefício de retorno mensal cupom de 415000 estrelas \r2 Aproveite o logotipo diferenciado do MVIP
+2102	Não foi possível carregar o arquivo de dados do jogo! Este erro pode ser devido a uma atualização incompleta!\nClique em \"Sim\"： Faça atualizações e verificação de versão.(Nota: pode demorar muito tempo)\nClique em \"Não\"： Atualize manualmente ou verifique a versão posteriormente.
+2103	Constelação guardiã 8
+2104	Constelação do Guardião 8 constelação ascendente
+2105	antes de
+2106	O primeiro %d god casting\r
+2107	^00ff00Clique esquerdo para formar um deus\r
+2108	O artefato alvo foi lançado, incapaz de transferir o número de peças vazadas
+2109	O número de artefatos a serem transferidos é maior que o artefato de destino
+2110	Mentiroso do relatório

@@ -2402,7 +2402,7 @@
 2401	Não! Não! Não! Não quero matar ninguém, não quero matar ninguém, não quero matar ninguém!
 2402	Aioria!
 2403	Aioria, deixe que eu, Cássios, seja seu adversário! Quero ver do que  esse irmãozinho do traidor é capaz!
-2404	Huh? Um Aspirante a Cavaleiro que entrou gritando de repente na Casa de Leão! Será que você consegue suportar 1% do meu Relâmpago de Plasma?
+2404	Huh? Um Aspirante a Cavaleiro que entrou gritando de repente na Casa de Leão! Será que você consegue suportar 1 do meu Relâmpago de Plasma?
 2405	Não! Cássios!!!
 2406	Seiya, somente com a morte de alguém é que a pessoa pode despertar do Satã Imperial do Grande Mestre. Isso não foi por você, mas sim porque não queria que Shina ficasse triste ou morresse por você......
 2407	Minha cabeça ......minha cabeça ...... eu entendi, este é o prazer de matar! Ah, ainda quero continuar a matar, matar!
@@ -4135,51 +4135,51 @@
 4134	Uso máximo de Cartão de Felicitações de Ano Novo: 30 unidades
 4135	Que prêmio mais generoso!
 4136	
-4137	狄蒂斯
-4138	蝼蚁，你确实已经命不久矣！
-4139	冥界幻象
-4140	哈哈，哈哈，哈哈哈哈……为什么你又来到这里，为什么你还没有死去，你也想品尝死亡的冰凉吗？痛陈心扉的，撕裂的痛苦吗！！！
-4141	艾德？你们怎么在这里，艾德，难道你还活着？
-4142	活着？死了？活着是为了什么？死了又是为了什么？我曾经活着吗？我现在死了吗？
-4143	艾德，艾德，你要去哪？
-4144	突然出现的裂隙是什么？不对，这个裂隙可以源源不断的运送冥界士兵！
-4145	这些冥界幻象怎么会出现？为什么这些幻想会攻击我？艾德究竟去了哪了？
-4146	这些幻象？究竟是什么力量控制了这些？这些究竟是真实的，还是仅仅是我自己的臆想？
-4147	哈哈哈哈，简直可笑！将死之人还能说大话！
-4148	这……这渗出的血迹……可恶！我不得饶你！我要让你吃更多的苦，不仅仅是肉体，连精神也要折磨得千疮百孔！
-4149	天马座！在杀死你之前，我要先杀了你的姐姐！你看清楚了！
-4150	达纳托斯！我不会让你为所欲为的！
-4151	哦？可你有什么能耐呢？
-4152	住口！无论如何我都不会认输的！
-4153	咦？这个小宇宙是……
-4154	啧啧啧，帮助打败过自己的雅典娜，波塞冬还真是没出息的神呢！
-4155	黄、黄金圣衣……
-4156	穿过异次元空间来助我们一臂之力……
-4157	哼！在神的面前，黄金圣衣算什么援军！
-4158	竟然又站了起来！你们不是已经无计可施只能等死了吗？
-4159	借由雅典娜之血而复活的圣衣竟然进化成了神圣衣！
-4160	圣衣居然还隐藏着这样的秘密！好像力量也跟着圣衣一起恢复了……
-4161	哼！就算神圣衣再怎么接近神衣，也只不过是圣衣罢了，对隶属神籍的我，根本不足为惧！
-4162	平原上一个人都没有……刚才那个紫龙果然是假的，真正的紫龙应该已经遇到了危险！
-4163	周围有一圈奇怪的火焰……他们的意识可能被这些 火焰压制住了！
-4164	你再往森林深处走。
-4165	就是你让我心爱的仙女们全都害怕得唱不出歌来了。
-4166	谁？你是冥斗士吗？
-4167	呵，我是达纳托斯，自神话时代起就一直侍奉冥王，如同左右手般受他倚重的亲信。
-4168	雅典娜？她正永久地长眠在神圣大瓷里。过不了多久，她的血液就会被吸干，雅典娜就会没命！
-4169	修普诺斯！不用与他废话了，就让我赶快解决掉他们吧！
-4170	可别一不小心花太多时间，而害得哈迪斯神殿被血弄脏哦。
-4171	%s有事找你
-4172	第四卷 出发！命运的少年！
-4173	剧情副本
-4174	挑战任务
-4175	侦探任务
-4176	奇遇任务
-4177	活动任务
-4178	圣衣任务
-4179	指引任务
-4180	称号任务
-4181	极限任务
-4182	节日任务
-4183	需要等级达到30级
-4184	等级太低，需要100级以上才可以召唤旗帜
+4137	Didis
+4138	Kera Formiga, você já morreu em breve!
+4139	Ilusão do submundo
+4140	Haha, haha, hahahaha ... Por que você está aqui de novo, por que você ainda não está morto, quer provar a frieza da morte? Coração doloroso, dor rasgando! ! !
+4141	Ed? Como você está aqui, Ed, você ainda está vivo?
+4142	Viver? Morto? O que é isso para viver? O que é isso para a morte? Eu estou vivo? Eu estou morto agora?
+4143	Ed, Ed, onde você está indo?
+4144	Qual é a rachadura repentina? Não, esse crack pode continuar transportando os soldados do submundo!
+4145	Como essas ilusões do submundo podem aparecer? Por que essas fantasias estão me atacando? Para onde Ed foi?
+4146	Essas ilusões? Que poder está controlando isso? São reais ou apenas meus próprios delírios?
+4147	Hahahaha, é ridículo! Os mortos ainda serão capazes de falar alto!
+4148	Isso ... Esse sangue vaza ... Droga! Eu não posso te poupar! Quero que você coma mais amargura, não apenas a carne, mas até o espírito é atormentado!
+4149	Pegasus! Antes de te matar, eu tenho que matar sua irmã primeiro! Você vê isso claramente!
+4150	Danatos! Eu não vou deixar você fazer o que quiser!
+4151	Oh? Mas o que você pode fazer?
+4152	Live! Eu não vou admitir a derrota de qualquer maneira!
+4153	O que? Este pequeno universo é ...
+4154	Ei, para ajudar a derrotar Athena, Poseidon é realmente um deus!
+4155	Amarelo, ouro roupas sagradas ...
+4156	Passando pelo espaço alienígena para nos ajudar ...
+4157	Oh! Diante de Deus, qual é o reforço do Santo Pano de Ouro!
+4158	realmente se levantou de novo! Você já não pode esperar até morrer?
+4159	A roupa sagrada que foi ressuscitada pelo sangue de Atena evoluiu para uma roupa sagrada!
+4160	As roupas sagradas realmente escondem esse segredo! Parece que o poder também se recuperou com as roupas sagradas ...
+4161	Hey! Mesmo que as roupas sagradas estejam próximas das roupas de Deus, é apenas um vestido sagrado.Eu não tenho medo de ser um membro dos deuses!
+4162	Não há ninguém nas planícies ... O dragão roxo era falso, e o verdadeiro dragão roxo deveria estar em perigo!
+4163	Há uma chama estranha por volta de  ... Sua consciência pode ser suprimida por essas chamas!
+4164	Você vai fundo na floresta.
+4165	É você quem faz minhas amadas fadas todos com medo de cantar canções.
+4166	Quem? Você é um gladiador?
+4167	Oh, eu sou Danatos, estou servindo Plutão desde os tempos da mitologia, e confio nele como mão esquerda e direita.
+4168	Athena? Ela está dormindo permanentemente na porcelana sagrada. Depois de um tempo, seu sangue será drenado e Athena estará morta!
+4169	Supras! Não fale bobagens com ele, deixe-me resolvê-los rapidamente!
+4170	acidentalmente não gaste muito tempo, e o Templo de Hades está manchado de sangue.
+4171	%s tem algo para procurar por você
+4172	Volume 4 Partida! Garoto do destino!
+4173	cópia da trama
+4174	Challenge Mission
+4175	Missão de detetive
+4176	Missão de aventura
+4177	Tarefa de Atividade
+4178	Missão da Roupa Sagrada
+4179	Tarefa de orientação
+4180	Tarefa do título 
+4181	Extreme Mission
+4182	Festival Mission
+4183	Requer nível até nível 30
+4184	O nível está muito baixo, precisa do nível 100 ou superior para chamar a bandeira

@@ -1,86 +1,86 @@
 0	A group of 3 or more members is required to activate
-1	The $ {name} LV does not complete the requirements
-2	O participation number of Ouro's Challenge of $ {name} is esgotou ou Ponto de Ares insufficient
+1	The ${name} LV does not complete the requirements
+2	O participation number of Ouro's Challenge of ${name} is esgotou ou Ponto de Ares insufficient
 3	Or group não recebeu a Quest Desafio de Ouro! Leão Valente
 4	O seu participation number of Desafio de Ouro is esgotou ou Ponto de Ares insufficient
 5	Or group não recebeu a Quest Ouro Challenge! Peixes Vaidoso
 6	Or group não recebeu a Quest Ouro Challenge! Libra Fair
-7	Proteja Saori's participation number of $ {name} has been exhausted
-8	$ {name} already participated in Proteja Saori, can not participate again in that period
+7	Proteja Saori's participation number of ${name} has been exhausted
+8	${name} already participated in Proteja Saori, can not participate again in that period
 9	The participation number of Proteja Saori has been exhausted
 10	Already participated in Proteja Saori, can not participate again in that period
-11	Proteja Atenea participation number of $ {name} has been exhausted
-12	$ {name} already participated in Protect Athena, can not participate again in that period
+11	Proteja Atenea participation number of ${name} has been exhausted
+12	${name} already participated in Protect Athena, can not participate again in that period
 13	The participation number of Proteja Atenea has been exhausted
 14	Already participated in Protect Athena, can not participate again in that period
-15	O Counter-Attack No. of $ {name} is esgotou ou Ponto de Ares insufficient
+15	O Counter-Attack No. of ${name} is esgotou ou Ponto de Ares insufficient
 16	O group não recebeu a Quest Contra-Ataque I! Abismo do Fogo e Gelo
 17	O seu Participation number of Counter-Attack is esgotou ou Ponto de Ares insufficient
 18	Or group não recebeu a Quest Contra-Ataque II! Giant wolf gives Montanha de Neve
 19	Or group não recebeu a Quest Contra-Ataque III! Deus Demonic Country of Gelo
-20	$ {name} already participated in the Tempest at Atlantis
+20	${name} already participated in the Tempest at Atlantis
 21	Already participated in the Tempest at Atlantis
 22	$ ​​{name} already participated in Demonic Apocalypse
 23	Already participated in Demonic Apocalypse
-24	$ {name} already participated in Crisis of the Twelve Houses
+24	${name} already participated in Crisis of the Twelve Houses
 25	Already participated in Crisis of the Twelve Houses
-26	$ {name} already participated in the Requiem of the Shrine
+26	${name} already participated in the Requiem of the Shrine
 27	Already participated in the Requiem of the Sanctuary
 28	A group of 2 or more members is required to activate
-29	$ {name} requires the item: ^0065feRuta de Estrella ^N. When passing the ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
+29	${name} requires the item: ^0065feRuta de Estrella ^N. When passing the ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
 30	Required item: ^0065fe Star Route ^N. Going from ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
-31	The $ {name} LV is less than 70
-32	$ {name} needs the item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
+31	The ${name} LV is less than 70
+32	${name} needs the item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
 33	The LV is less than 70
 34	Necessary item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
-35	The $ {name} LV is less than 80
+35	The ${name} LV is less than 80
 36	The LV is less than 80
-37	$ {name} precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Beginning) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
+37	${name} precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Beginning) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
 38	Precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Início) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
-39	The $ {name} LV is less than 90
-40	The number of Dungeon [Heroic] participations from $ {name} has run out or the Hero Points did not reach 45
+39	The ${name} LV is less than 90
+40	The number of Dungeon [Heroic] participations from ${name} has run out or the Hero Points did not reach 45
 41	The LV is less than 90
 42	The number of Dungeon participations [Heroic] has sold out or Hero Points did not reach 45
-43	The $ {name} LV is less than 60
+43	The ${name} LV is less than 60
 44	The LV is less than 60
 45	OR Participation number of Counter-Attack is esgotou ou Ponto de Ares insufficient
-46	O nº de participações da Dungeon [Heroic] of $ {name} esgotou ou os Pontos Heroicos não atingiram 10
+46	O nº de participações da Dungeon [Heroic] of ${name} esgotou ou os Pontos Heroicos não atingiram 10
 47	O nº de participações da Dungeon [Heroic] es esgotou ou os Pontos Heroicos não atingiram 10
-48	OR remaining number of participações of Counter-Attack of $ {name} é insufficient or Ponto de Ares insufficient
+48	OR remaining number of participações of Counter-Attack of ${name} é insufficient or Ponto de Ares insufficient
 49	O rest of participações de Contra-Ataque and insufficient or Ponto de Ares insufficient
-50	The number of participations of [Heroic] Castillo de Sinigrado of $ {name} has sold out
-51	$ {name} already participated in [Heroic] Castillo de Sinigrado, can not participate again in that period
+50	The number of participations of [Heroic] Castillo de Sinigrado of ${name} has sold out
+51	${name} already participated in [Heroic] Castillo de Sinigrado, can not participate again in that period
 52	The LV is less than 95
 53	The number of entries of [Heroic] Castillo de Sinigrado has sold out
 54	Already participated in [Heroic] Castillo de Sinigrado, can not participate again in that period
-55	Player's level $ {name} does not reach the requested level of 100
-56	Ponto Heroico do jogador $ {name} são insufficient
-57	O jogadores $ {name} já participou de [Heroic] Doze Casas Divinas I, during this period I can not participate novamente
+55	Player's level ${name} does not reach the requested level of 100
+56	Ponto Heroico do jogador ${name} são insufficient
+57	O jogadores ${name} já participou de [Heroic] Doze Casas Divinas I, during this period I can not participate novamente
 58	Level less than 100
 59	Pontos de herói necessários to enter em [Heroic] Doze Casas Divinas I são insufficient
 60	Already participated in [Heroic] Twelve Divine Houses I, can not participate again in that period
-61	O jogadores $ {name} já participou de [Heroic] Doze Casas Divinas II, during this period I can not participate novamente
+61	O jogadores ${name} já participou de [Heroic] Doze Casas Divinas II, during this period I can not participate novamente
 62	Pontos de héro to enter em [Heroic] Doze Casas Divinas II is not enough
 63	Already participated in [Heroic] Twelve Divine Houses II, can not participate again in that period
 64	A group of 4 or more members is required to activate
-65	$ {name} já participou de <Libra! Memories of Dohko>
+65	${name} já participou de <Libra! Memories of Dohko>
 66	The LV does not complete the requirements
 67	Já participou de <Libra! Memories of Dohko>
-68	$ {name} já participou de <Ruptura! Desafio de Escorpião>
+68	${name} já participou de <Ruptura! Desafio de Escorpião>
 69	Já participou de <Ruptura! Desafio de Escorpião>
-70	$ {name} já participou de <Aproximação! Crise de Sagitário>
+70	${name} já participou de <Aproximação! Crise de Sagitário>
 71	Já participou de <Aproximação! Crise de Sagitário>
-72	$ {name} already participated in Sonata Infernal
+72	${name} already participated in Sonata Infernal
 73	I participated in Lamento! Infernal Sonata
-74	$ {name} already participated in Butterflies of the Underworld
+74	${name} already participated in Butterflies of the Underworld
 75	Already participated in Butterflies of the Underworld
-76	$ {name} já participou de <Capricórnio! Kendo of Shura>
+76	${name} já participou de <Capricórnio! Kendo of Shura>
 77	Já participou de <Capricórnio! Kendo of Shura>
 78	A group of 6 or more members is required to activate
-79	$ {name} already participated in the Dream of the Goddess
+79	${name} already participated in the Dream of the Goddess
 80	Or group não recebeu a Quest: Delegação de Saori Kido
 81	Already participated in the Dream of the Goddess
-82	$ {name} já participou de <Aquário! Exceptional Strike>
+82	${name} já participou de <Aquário! Exceptional Strike>
 83	Já participou de <Aquário! Exceptional Strike>
 84	Battle Objective:
 85	Wait for the start of the fight

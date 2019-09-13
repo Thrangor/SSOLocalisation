@@ -673,7 +673,7 @@
 672	^ffff00Ataque +80\rDefesa +80\rAtaque crítico +3%\r ^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
 673	Prêmio pela participação do Evento "Colecione Armaduras, eleve o seu Power"
 674	^0099ccCavaleiro do Ataque
-675	^ffff00Taxa de crítico +2%\rRedução de resistência da propriedade total +1\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+675	^ffff00Taxa de crítico +2 \rRedução de resistência da propriedade total +1\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
 676	Prêmio pela participação do Evento "Recompensas pelas Conquistas"
 677	^0099ccLenda de Ouro
 678	^ffff00HP +1000\rPrecisão +100\rEvasão +100\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
@@ -1523,7 +1523,7 @@
 1522	^ff6c00Violador Dimensional
 1523	Título de prêmio do evento do Ranking de Recarga
 1524	^ff6c00Lenda Imortal
-1525	^ff6c00Onipresente
+1525	^ff6c00Dominando os deuses dos Três Reinos & Irmão
 1526	^ff6c00Ore Por Mim
 1527	Prêmio de título pré-definido da Disputa Multiservidor
 1528	^ff6c00Marido Exemplar
@@ -1744,10 +1744,10 @@
 1743	VIII · Cavaleiro de Athena
 1744	IX · Cavaleiro Lendário
 1745	
-1746	尊贵速成礼包中获得
-1747	至尊新手礼包中获得
-1748	17173成长礼包中获得
-1749	媒体速成礼包中获得
-1750	闪耀前程礼包中获得
-1751	多玩豪华闪耀礼包中获得
-1752	网易至尊礼包中获得
+1746	Obtido em  Premium Fast Pack
+1747	Obtido no pacote Extreme Newbie 
+1748	Obtido em  17173 Pacote de Crescimento
+1749	obtido no pacote de falha de mídia
+1750	Obtido no Pacote Futuro Brilhante de 
+1751	Aproveite ainda mais o pacote de luxo e brilho
+1752	Obtido no  Netease Extreme Gift Pack

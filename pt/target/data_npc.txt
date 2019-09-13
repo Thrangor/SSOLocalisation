@@ -15468,10 +15468,10 @@
 15467	Abrir
 15468	Essência do Cosmo
 15469	Recolher
-15470	红色灌木
-15471	采集
-15472	黄色灌木
-15473	采集
-15474	蓝色灌木
-15475	采集
-15476	福利
+15470	arbusto vermelho
+15471	aquisição
+15472	arbusto amarelo
+15473	aquisição
+15474	arbusto azul
+15475	aquisição
+15476	Bem-estar

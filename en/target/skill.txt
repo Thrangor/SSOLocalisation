@@ -95,7 +95,7 @@
 94	Required skill level not enough
 95	Ability interrupted.
 96	Incorrect destination, you can not use the item.
-97	Skill has not yet been loaded.
+97	Skill still under cooldown...
 98	Find the place where the item can be used.
 99	Can not be used in motion.
 100	Skill can not be moved.
@@ -673,8 +673,8 @@
 672	^O021 final blow on the resource monster ^O009 you used the final blow tool on the resource monster
 673	^O021^ffff00 standard status of attack element
 674	^O021^ffff00 standard basic element status
-675	^O021^ffff00 Galactic Explosion\r^O009^ffffff continue to receive damage
-676	^O021^ffff00 Galactic Explosion
+675	^O021^ffff00 Galaxian Explosion\r^O009^ffffff continue to receive damage
+676	^O021^ffff00 Galaxian Explosion
 677	^O021^ffff00 Sekishiki\r^O009^ffffff continue to receive damage
 678	^O021^ffff00 Sekishiki
 679	^O021^ffff00 Original Skills Level of Leo Skill 1
@@ -1165,7 +1165,7 @@
 1164	^O021 Shina Admiration ^O009 Increase Air Ownership Attack by 1%
 1165	^O021 Water Element Essence Water Resistance element ^O009 increased 10 plank
 1166	^O021 Sealing technique to fake dead ^O009 Increase HP by 500, 2%
-1167	^O021 Nebular Reflection\r^O009 Decreases Critical Chance by 2%
+1167	^O021 Nebula Reflection\r^O009 Decreases Critical Chance by 2%
 1168	^O021 Eternal Memory of Queen's Island ^O009 CritChance increase of 1%, increase fire-resistant 5
 1169	^O021 Eternal Soul Loyal ^O009 Resistance to all element increases by 3 points
 1170	^O021^ffff00 Monster
@@ -1456,7 +1456,7 @@
 1455	^O021 Skills Available 4
 1456	^O021^ffff00 Reaching Taurus\r^O009^ffffff overthrown by a strong attack
 1457	^O021^ffff00 Reaching Taurus
-1458	^O021Supernova Titanic
+1458	^O021Titans' Nova
 1459	^O021^ffff00 Reckless\r^O009^ffffff Mad cow attack power increased dramatically.
 1460	^O021^ffff00 Reckless
 1461	^O021^ffff00 mad cow Tongshu\r^O009^ffffff continue to lose blood
@@ -2128,7 +2128,7 @@
 2127	^O021^ffff00 deceleration\r^O009^ffffff reduce speed
 2128	^O021^ffff00 giant horn_repelir
 2129	^O021^ffff00 confusion\r^O009^ffffff Lost mind
-2130	^O021^ffff00 extradimensional space_ pulling
+2130	^O021^ffff00 Another Dimension_ pulling
 2131	^O021^ffff00 dead plot to reinforce the attack.
 2132	The speed of a light ray will be in
 2133	^O021^ffff00 speed of a ray of light
@@ -2489,7 +2489,7 @@
 2488	^O021^ffff00 pink blood
 2489	^O021^ffff00 White Rose thorn\r^O009^ffffff is white thorn rose to the ground, when the red white rose when, will die.
 2490	^O021^ffff00 White Rose Thorn
-2491	^O021^ffff00 vampire white roses\r^O009^ffffff white rose petals were dyed red, Aphrodite's life was restored.
+2491	^O021^ffff00 Bloody Roses\r^O009^ffffff white rose petals were dyed red, Aphrodite's life was restored.
 2492	^O021^ffff00 white roses vampires
 2493	When a man successfully slaughters a person, Aphrodite will thus have life restored.
 2494	^O021^ffff00 imperfect body\r^O009^ffffff because ritual is destroyed, the body did not become completely exposed flaws
@@ -3064,7 +3064,7 @@
 3063	^O021 After funereal_magnification damage reduction goddess
 3064	^O021^ffff00 opera house _0 general confusion
 3065	^O021 Opera House _7 Tasks Ice Coffin Chandelier
-3066	^O021 opera house _7 chandelier effect of extradimensional space
+3066	^O021 opera house _7 chandelier effect of Another Dimension
 3067	^O021^ffff00 Camus Diamond Dust
 3068	^O021 inter-services team PK BUFF tournament hidden
 3069	^O021 ^O009 ^ffff00 career punish ^ffffff this occupation over the battlefield limit, be punished.
@@ -3751,7 +3751,7 @@
 3750	^O021^ffff00Performance LV8\r^O009 ^ffffffRequires 800 HP per second
 3751	^O021^ffff00Performance LV8
 3752	^O021 Evolution__ Cygnus_Cygnus bottles of light status monster trigger abilities
-3753	^O021^ffff00Intermunity to Exile\r^O009 ^ffffffYou can not enter extradimensional space again.
+3753	^O021^ffff00Intermunity to Exile\r^O009 ^ffffffYou can not enter Another Dimension again.
 3754	^O021^ffff00 Immunity to Exile
 3755	^O021^ffff00 Undecided Heart\r^O009 ^ffffffYou can instantly change to Saint or Devil
 3756	^O021^ffff00 Undecided Heart
@@ -6606,10 +6606,10 @@
 6605	^O021^ffff00 LabyrinthFantasy of triggering special effects during combat
 6606	^O021^ffff00Fantasy of the Labyrinth
 6607	^O021 Labyrinth Fatigue
-6608	^O021 Galactic Explosion\r^O009Acknowledged
+6608	^O021 Galaxian Explosion\r^O009Acknowledged
 6609	^O021^ffff00 Labyrinth Phantasy\r\r^O009^ffffff
-6610	^O021^ffff00 Galactic Explosion\r^O009 ^ffffffReduces resistance to damage
-6611	^O021^ffff00 Galactic Explosion\r^O009 ^ffffffDown
+6610	^O021^ffff00 Galaxian Explosion\r^O009 ^ffffffReduces resistance to damage
+6611	^O021^ffff00 Galaxian Explosion\r^O009 ^ffffffDown
 6612	^O021^ffff00Inferno Inflamdo ffffffChance to trigger special effects during combat
 6613	^O021^ffff00Inferno Inflamdo
 6614	^O021 Inflamed Hell
@@ -6805,7 +6805,7 @@
 6804	Additional Damage: %d\rBonus Water damage: %d\rHits 2 times\rDamage: %d%%\rGenerates 20 points of Diamond Dust\r\t ^00FF00Aquarius Advanced ^FFFF00\rAfter releasing, you will enter ^c0c0ff [Gold Explosion] ^FFFF00 status\rThis state will not trigger again within 30 seconds after usage
 6805	Cygnus attacks its enemies at a distance with its Diamond Dust.\rIf the Diamond Dust bar is above 70, apply the status ^c0c0ff [Freezing Stars] ^A2FFFF on the target, causing it to receive 50%% more damage from ^c0c0ff [Cold Shock] ^A2FFFF for 15s.
 6806	Within the next 8 seconds of use, the next consumption of Diamond Dust is reduced by 50%%
-6807	Aurora EXecution
+6807	Aurora Execution
 6808	Consume %d Diamond Dust points
 6809	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rStatus: 6m\rAccount 9x\rDamage: {^FFABFC %d%% ^FFFF00} pushes target 1m and can be knocked down by 3s Aquarius Technique ^FFFF00\rAfter releasing the Aurora Blast, you gain a 20-point increase in resistance reduction of all abnormal statuses for 4s
 6810	Additional Damage: %d\rBonus Water damage: %d\rScale: 6m\rHits 9 times\rDective year: %d%%\rEither blow pushes target 1m and can be knocked down for 3s\r\t ^00FF00 Aquarius Technique ^FFFF00\rAfter releasing the Aurora Blast, you gain a 20-point increase in resistance reduction in all abnormal statuses, for 4s
@@ -7037,7 +7037,7 @@
 7036	Leo - Lightning
 7037	Tricyclics Leo - Leo - Lightning
 7038	Zi secretly, hit deal decent damage.
-7039	Rising Dragon of Rozan
+7039	Fist of the Rising Dragon
 7040	Zi end esoteric, causing great damage.
 7041	Rozan Aralia day
 7042	Zi common boxing, causing damage.
@@ -7529,18 +7529,18 @@
 7528	Rozan_Habilidad de Espião del Santuário 1
 7529	Rozan_Habilidad de Espião del Santuário 2
 7530	Rozan Shadow Spy Ability 3
-7531	Star Extinction
+7531	Starlight Extinction
 7532	Additional Attack: {^FFABFC %d ^FFFF00}\rBonus Earth Damage: {^FFABFC %d ^FFFF00}\rBonus Fire Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: { ^FFABFC %d ^FFFF00}\rBonus Air Damage: {^FFABFC %d ^FFFF00}\r Cause Damage {^FFABFC %d%% ^FFFF00}
 7533	Additional Attack: %d\rBonus Earth Damage: %d\rBonus Fire Damage: %d\rBonus Water Damage: %d\rBonus Air Damage: %d\rCause Damage %d %%
-7534	Supernova Titanic
-7535	Galactic Explosion
-7536	Waves of Hell
-7537	Plasma Lightning
+7534	Titans' Nova
+7535	Galaxian Explosion
+7536	Praesepe Underworld Waves
+7537	Lightning Plasma
 7538	Divine Surrender
-7539	A Hundred Dragons by Rozan
+7539	One Hundred Dragons Force
 7540	Golden Arrow
-7541	Scarlet Needle
-7542	Gold Holy Sword
+7541	Scarlet Needle... Antares!
+7542	Sacred Excalibur
 7543	Roses Piranhas
 7544	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 7545	Additional Damage: %d\rBonus Air damage:  %d Minimum Damage: %d %%
@@ -7551,7 +7551,7 @@
 7550	Additional Attack: {^FFABFC %d ^FFFF00} Bonus Earth Damage: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
 7551	Additional Attack: %d Bonus Earth Damage Attack: %d Cause Damage %d %%
 7552	Attack enemies around the target, causing a lot of damage and throwing them
-7553	Nebular Storm
+7553	Nebula Storm
 7554	Additional Attack: {^FFABFC %d ^FFFF00} Additional Ray Property Attack: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
 7555	Additional Attack: %d Additional Ray Property Attack: %d Cause Damage %d %%
 7556	Attacks the target and deals damage to their enemies on the way, causing them a lot of damage and setting them afire.
@@ -7654,7 +7654,7 @@
 7653	Increase 10 Water Resistance points Additional fighting power 50 Protective Constellation Skill Exclusive: ^00FF00 %s Cygnus ^FFFF00
 7654	Sealing Technique for pretending to be dead
 7655	Increases HP Limit by 2%% +500 Additional fighting power 50 Protective Constellation Skill Exclusive: ^00FF00 %s Dragon ^FFFF00
-7656	Nebular Refuge
+7656	Nebula Refuge
 7657	Increase CritChance reduction by 2%% Additional Fighting Power 50 Protective Constellation Skill Exclusive: ^00FF00 %s Andromeda ^FFFF00
 7658	Eternal Memory of Queen's Island
 7659	Increases Critical Chance by 1%% and raises Fire Property's Fire Resistance by 5 points. Additional Fighting Power 50 Protective Constellation Skill Exclusive: ^00FF00 %s Phoenix ^FFFF00
@@ -7891,9 +7891,9 @@
 7890	Powerful energy that goes beyond the atomic explosion! Exit with speed of light!
 7891	Essence of the Cosmo
 7892	Thorn of Roses
-7893	Holy Sword Sanctions, end the endless darkness!
-7894	Holy Sword Combo
-7895	Holy Sword shine with gathered energy from Cosmo! Tremble, earth!
+7893	Sword Excalibur Sanctions, end the endless darkness!
+7894	Sacred Sword Excalibur
+7895	Sword Excalibur shine with gathered energy from Cosmo! Tremble, earth!
 7896	Crystal Pump
 7897	Increases the number of bombs by 1 when ^c0c0ff[%s]^FFFF00 is not used in charged form. If the ability is charged, the damage of the bombs increases by 20%%. \r Constellation exclusive ability: ^00FF00 %s Cygnus ^FFFF00
 7898	^c0c0ffNeed 3 of the Cygnus Armor ^A2FFFF
@@ -8139,7 +8139,7 @@
 8138	Stand up
 8139	Leo's Fist
 8140	Leo's powerful attack, causing great damage to the frontal area
-8141	Plasma Lightning
+8141	Lightning Plasma
 8142	Strong attack, can cause great damage to nearby enemies.
 8143	Furious Leo Fist
 8144	Can restore some HP.
@@ -8341,17 +8341,17 @@
 8340	Cold Windy Field
 8341	Attack Power: %d Damage Caused by %d%% From within 2 meters of your enemies, it will withstand full damage. From its 2 to 4 meters of enemy, it will withstand 80%% damage. Of its more than 4 meters from the enemy, it will support 50%% damage
 8342	For your own enemies within 6 yards of damage range, the greater the distance, the less damage is done by reducing the ability release when the damage of 30%%
-8343	rotating power star dust
-8344	Additional Attack: %d Damage Caused %d%% for 4 seconds of Silence
+8343	Stardust Revolution
+8344	Additional Attack: %d\rDamage Caused %d%%\rSilences for 4 seconds
 8345	^ff0000 little space when you can use enemies ^A2FFFF in front of wide arc damage of 60 degrees, and reduce under damage damage enemy release abilities by 30 %%
-8346	giant horn
+8346	Great Horn
 8347	Enemies within 80 degrees in front of the fan inflict damage and repelling effect when the wound release abilities suffered by 30 %%
 8348	^ff0000 Little space when you can use ^A2FFFF on the enemies within their own range of 7 yards, causing damage and stun the injuries release abilities suffered by 30 %%
 8349	For your own enemies within the range of 8 yards, when damage caused by the release of damage skills is reduced by 30 %%
 8350	Imperial Satan
 8351	Additional Attack: %d Damage Caused %d%% ^c0c0ff [Magical Emperor Nebula Boxing] ^FFFF00 another is a confusing status.
 8352	^ff0000 Little space when using ^A2FFFF can cause a lot of damage to a single enemy, and give them the illusion of release abilities when damage is reduced by 30 %%
-8353	extradimensional space
+8353	Another Dimension
 8354	^ff0000 Little space when you can use ^A2FFFF causing huge damage to a single enemy, and dragged his side to pull the release abilities, the damage is reduced by 30 %%
 8355	Additional attack: %ddanos %d%% caused ^c0c0ff [dead air plot] ^FFFF00 increase your attack power %d for 20 seconds
 8356	For your own enemies within 6 yards of damage range, and improve your attack skills when a period of time to release damage is reduced by 30 %%
@@ -8365,7 +8365,7 @@
 8364	reincarnation
 8365	Additional attack: %d damage %d%% caused ^c0c0ff [reincarnation] ^FFFF00silence for 5 seconds.
 8366	^ff0000 Little space when you can use ^A2FFFF to enemies within 10 yards around each other, causing damage and silencing effect when releasing the skills skills suffered by 30 %%
-8367	Dance in Lun
+8367	Ring of Heavenly Treasure
 8368	Increase your own defense power during the release of the skill %d\rAdditional attack power: %d\r causes %d%% damage
 8369	^ff0000 Little space when you can use ^A2FFFF on the enemies within their own range of 7 meters, causing damage, reduces energy swing when the self-defense during the launch of the skills be wounded release 30 %%
 8370	His enemies within the target range of damage about 4 meters and incidental hitting effect when the release of the wounds skills suffered by 30 %%
@@ -8489,14 +8489,14 @@
 8488	Space and the physical transfer of photons by strangling combination! Let's all physical and spiritual annihilation of the enemy!
 8489	tremendous power, so that the enemy body to explode!
 8490	The body of a small outbreak universe, can make heaven and earth shake!
-8491	In extradimensional space unlimited destruction, annihilation!
+8491	In Another Dimension unlimited destruction, annihilation!
 8492	The coercion of the universe, who can resist!
-8493	Plot air dead flame pale ghost
+8493	Praesepe Demonic Blue Flames
 8494	Burning the soul of the enemy is more effective than the destruction of the flesh!
 8495	No soul, but also want to do!
 8496	In the six circles in the sink, everyone was tortured!
 8497	An offensive and defensive, can make all the enemies surrender!
-8498	Wave sung clamp
+8498	Restriction!
 8499	My enemy who will suffer endless pain!
 8500	More kind and horror, the latest Yijizhiming needle!
 8501	days Aegis
@@ -8919,7 +8919,7 @@
 8918	Plenty of damage on target
 8919	Damage incurred per second damage %d%% under each enemy once again suffer damage, damage increased 8 %%, stacks up the release stack 10 immune system control skills and reduce damage by 50 %%
 8920	On its own about 15 meters from the enemy, causing huge damage.
-8921	Nebular Chain
+8921	Nebula Chain
 8922	common attack, can accumulate a Cosmo of energy
 8923	Scroll Defense
 8924	Focus on defensive movements, constantly defensive front rotation in getting small outbreak of the universe when you can generate high protective shield energy, you can continue to accumulate Cosmo of energy note: Only use this ability when the outbreak of Cosmo of summoning guards.
@@ -9149,12 +9149,12 @@
 9148	Sea field cover of 6 meters, 10 seconds purge in the domain of abnormal immune status to restore a little life every 1.5 seconds.
 9149	Sea Witch clothes scales star launched to summon the sea areas 20 to get a certain probability of being attacked.
 9150	technology proud Capricorn Shura - even cut the sword, the power of infinity.
-9151	boxing plasma beam
-9152	Lightning fist atomic beam
-9153	boxing diamond powder - Original
-9154	Real Demon Rose
-9155	Vampire White Rose
-9156	Off Gold Armor
+9151	Lightning Bolt
+9152	Lightning Thunderbolt
+9153	Diamond Dust
+9154	Royal Demon Rose
+9155	Bloody Rose
+9156	Disrobe the Gold Armor
 9157	Nebula Explosion
 9158	Explosion chains the nebula, able to stun the target.
 9159	Eagle Fist
@@ -9250,7 +9250,7 @@
 9249	boxing award
 9250	dimensional confinement
 9251	Not only confined to the body, more enemy abilities imprisoned
-9252	extradimensional space for people, can not see anything, not even think about what skills to use
+9252	Another Dimension for people, can not see anything, not even think about what skills to use
 9253	Katyusha Pope rocket launcher, put him boom boom!
 9254	three hand
 9255	boxe Cyclone
@@ -9375,7 +9375,7 @@
 9374	Reduces cooldown by 8s.
 9375	Golden Triangle
 9376	^c0c0ff Send the allied or enemy target to another dimension for 3s.\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Golden Dimension] ^FFFF00
-9377	Place yourself or other players in extradimensional space (no effect on monsters). After entering the extradimensional space can not be seen by other people (excluding monsters), and you will not be able to see other people. Reduces damage by 80%% for 6s.\rAfter the target goes to another dimension, it will fall under the status of ^c0c0ff [Exile Immunity] ^A2FFFF can not be targeted for this ability for the next 30s. The enemy that is thrown into the extradimensional space will be silenced.
+9377	Place yourself or other players in Another Dimension (no effect on monsters). After entering the Another Dimension can not be seen by other people (excluding monsters), and you will not be able to see other people. Reduces damage by 80%% for 6s.\rAfter the target goes to another dimension, it will fall under the status of ^c0c0ff [Exile Immunity] ^A2FFFF can not be targeted for this ability for the next 30s. The enemy that is thrown into the Another Dimension will be silenced.
 9378	Incarnation of God
 9379	This ability has additional effects with the Good State.
 9380	Ability to recover HP: {^FFABFC %d ^FFFF00} \ FFFF00\r\t ^00FF00 Fulfillment of the Good ^FFFF00\rHP recovery: {^FFABFC %d ^FFFF00}\rThe explosion adds extra focus to the target, can be accumulated 3x, and each accumulation increases 3%% of the critical attack\rDuration: 10s\rAfter accumulating 3x, it is not possible to obtain the Blast cure of that skill\r\t ^00FF00Genius technique ^FFFF00 \ cure at 10 %%
@@ -11511,7 +11511,7 @@
 11510	light Aiolia
 11511	Increase the optical element of ATK 1%% Additional exclusive 50 combat abilities Guardian Constellation: ^00FF00 %s Lira ^FFFF00
 11512	Dragon of the Sea: Gal of Wildness
-11513	\t ^c0c0ff [Galaxy detonation] ^FFFF00Gallon ambition in a real image of the target random release randomly starburst Galaxy, players around the target and cause a lot of damage and is up to 4 seconds, the probability of Galaxy starburst release 1, 2 , 3, 4 times are 25%% damage every %d %%. ^c0c0ff [extradimensional coercion] ^FFFF00 Kanon ambitions release extradimensional space, so that enemies around within 7 meters and 5 seconds of silence in exhausted extradimensional space, consumed 20 points per resistance for 8 seconds; and the owner damage reduced by 80 %%, was attacked 10 times after the disappearance of the status for up to 12 seconds. When releasing the trigger comes with control effects (Squire was also attacked frequency of consumption) \t artifact value of probability trigger effect associated with the divine.
+11513	\t ^c0c0ff [Galaxy detonation] ^FFFF00Gallon ambition in a real image of the target random release randomly starburst Galaxy, players around the target and cause a lot of damage and is up to 4 seconds, the probability of Galaxy starburst release 1, 2 , 3, 4 times are 25%% damage every %d %%. ^c0c0ff [extradimensional coercion] ^FFFF00 Kanon ambitions release Another Dimension, so that enemies around within 7 meters and 5 seconds of silence in exhausted Another Dimension, consumed 20 points per resistance for 8 seconds; and the owner damage reduced by 80 %%, was attacked 10 times after the disappearance of the status for up to 12 seconds. When releasing the trigger comes with control effects (Squire was also attacked frequency of consumption) \t artifact value of probability trigger effect associated with the divine.
 11514	Gallon get blessed after use, fight provoked probability ^c0c0ff [Galaxy detonation] ^A2FFFF or ^c0c0ff [extradimensional coercion] ^A2FFFF
 11515	Black Dragon even play
 11516	Because 260%% + 4%% * stars wound down, two seconds.
@@ -12787,8 +12787,8 @@
 12786	Deals damage of 260%% + 4%% * star level\rCongering, initially, at 1.5s (at each stellar level, adding an extra 0.5s)
 12787	Inflicts damage to target within range area, slowing it down.\rThe effect of skill and damage increases according to the stellar level of the Squire
 12788	Gemini: Gemini's Object
-12789	\t ^c0c0ff [Labyrinth of Illusions] ^FFFF00 \r A maze is created around the target\rThe target and enemies around it are stunned by damage %d%% damage.\r^c0c0ff [Galactic Explosion ] ^FFFF00\rAcumulate a large amount of cosmo-energy around the target, reducing the Resistance against damage by 15%% and knocking it to the ground for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12790	After using it, you can get the blessing of Saga. There is a chance during the battle to activate ^c0c0ff [Labyrinth of Illusions] ^A2FFFF or ^c0c0ff [Galactic Explosion] ^A2FFFF
+12789	\t ^c0c0ff [Labyrinth of Illusions] ^FFFF00 \r A maze is created around the target\rThe target and enemies around it are stunned by damage %d%% damage.\r^c0c0ff [Galaxian Explosion ] ^FFFF00\rAcumulate a large amount of cosmo-energy around the target, reducing the Resistance against damage by 15%% and knocking it to the ground for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
+12790	After using it, you can get the blessing of Saga. There is a chance during the battle to activate ^c0c0ff [Labyrinth of Illusions] ^A2FFFF or ^c0c0ff [Galaxian Explosion] ^A2FFFF
 12791	Shaka: Virgo Artifact
 12792	\t ^c0c0ff [Burning Hell] ^FFFF00\rLine the flames of hell toward the target, straight\rReduce the resistance to damage of the targets in a straight line by 15 %%, for 6s \ aCause %d%% of damage.\r^c0c0ff [Pose of Lotus] ^FFFF00\rThe lotus flower slows down movement and knocks enemies for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
 12793	After using it, you can get the blessing of Shaka. There is a chance during the battle to activate ^c0c0ff [Burning Hell] ^A2FFFF or ^c0c0ff [Lotus Pose] ^A2FFFF

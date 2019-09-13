@@ -457,37 +457,37 @@
 456	Ir para Ilha Flutuante
 457	Saída da Ilha Flutuante
 458	Doze Casas Divinas
-459	大众战场临时
-460	女神！仲夏的神祈！
-461	师徒系统介绍人
-462	银河激斗篇积分兑换NPC
-463	传承！黄金试炼领取人
-464	圣战回忆领取人
-465	集结！十二宫危机领取人
-466	军团管理员泽拉
-467	免费双倍发放
-468	青铜匠师
-469	白银匠师
-470	黑暗匠师
-471	黄金匠师
-472	情缘点兑换
-473	结为密友
-474	离婚登记处
-475	黄金圣光使者
-476	祭祀学徒
-477	战场指引
-478	副本周常
-479	战场军需官
-480	符文镶嵌师
-481	深渊！魔星的末日领取人
-482	重生！圣域镇魂歌领取人
-483	大反攻！冰国邪神领取人
-484	守护星大使
-485	守护星军需官
-486	小伙伴训练师
-487	基加美修
-488	神战使者
-489	扫荡使者
-490	绶带出售 摩尔
-491	试炼幻境传送
-492	潘多拉
+459	Campo de batalha público temporário
+460	deusa! O deus do solstício de verão!
+461	Introdutor de sistema de tutoria
+462	Galaxy Fighting Points são trocados por NPC
+463	herança! Destinatário do estudo Gold
+464	Receptor Jihad Memórias
+465	montagem! Destinatário da crise do zodíaco
+466	Administrador da Legião Zela
+467	liberação dupla grátis
+468	Bronzesmith
+469	Ourives
+470	Mestre das Trevas
+471	ourives
+472	Troca DE Pontos DE Amor
+473	tornou-se um amigo próximo
+474	Registro DE Divórcio
+475	Mensageiro da Luz Dourada
+476	aprendizagem sacrificial
+477	Diretrizes do campo de batalha
+478	cópias frequentemente
+479	Intendente do campo de batalha
+480	Embutimento de Runa
+481	Abismo! Destinatário do dia do juízo final do dia do julgamento final
+482	Renascido! Santuário Cidade recipiente de canção de alma
+483	grande contra-ataque! Receptor de espíritos malignos do país do gelo
+484	Embaixador Guardian Star
+485	Intendente do Guardian Star
+486	Treinador de parceiros
+487	Kigamei
+488	Godbringer
+489	messenger arrebatador
+490	Fita cinto para venda Moore
+491	transferência de ilusão de julgamento
+492	Pandora

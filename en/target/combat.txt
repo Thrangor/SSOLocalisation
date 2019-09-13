@@ -197,7 +197,7 @@
 196	Countdown
 197	Time of departure:
 198	This item can not be used in the Arena
-199	Directed hit $ {npc (28614, "the glory of the flag")} Exchange houses
+199	Directed hit ${npc(28614, "the glory of the flag")} Exchange houses
 200	You will get %s Flowers %d hit you!
 201	%d VS %d
 202	In that condition hit the room to write a password, please enter a password

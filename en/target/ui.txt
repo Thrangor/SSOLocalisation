@@ -815,9 +815,9 @@
 814	Turtle Protection Attack + 1 Defense 1000
 815	Turtle Protection Attack + 1 Defense + 1000 Defense + 1000 Defense + 1000
 816	Stop
-817	Bath
+817	Refine
 818	Level:
-819	Bathed:
+819	Progress:
 820	Clear Relic enchantments.
 821	By resetting the ore level, a certain amount of aura will return.
 822	Bronze Ore
@@ -4357,15 +4357,15 @@
 4356	Dispossession
 4357	Inventory filled
 4358	PK Configuration
-4359	VS attack does not start: red / amari names.
-4360	VS attack does not start: white names
-4361	Does not start VS attack: Guild
-4362	Alter
+4359	Don't attack: red / orange name players
+4360	Don't attack: white name players
+4361	Don't attack: guild members
+4362	Confirm
 4363	Cancel
 4364	The current scenario can not be changed for PK configuration
 4365	Points PK: 1000
-4366	Choose alve by TAB
-4367	Does not start attack VS: Alliance
+4366	TAB switches target
+4367	Don't attack: alliance members
 4368	Divine Benefactor
 4369	Name First Name First Name
 4370	Sign

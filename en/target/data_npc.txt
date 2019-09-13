@@ -9326,7 +9326,7 @@
 9325	74 valley spectra
 9326	54 Walk in Sawori
 9327	76 Warehouse Manager
-9328	77 Claude Village de Rodrio
+9328	77 Claude Roderio Village
 9329	77 Petty Officer
 9330	78 Blacksmith
 9331	79 Bread vendor

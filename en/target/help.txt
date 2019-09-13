@@ -1151,9 +1151,9 @@
 1150	ONLY next segment can open a seventh sense Cosmo!
 1151	star system (65)
 1152	When you open star-tracking system, you can significantly improve your combat capabilities!
-1153	Silver cloth two (75)
+1153	Silver Armor Tier 2 (75)
 1154	The nextNext thread can wield the first two sets of silver cloth!
-1155	8 small sense universe
+1155	8th sense
 1156	ONLY next segment can open an eighth Cosmo sense!
 1157	Artifact (level 70)
 1158	When opening artifact system can significantly improve your combat ability!

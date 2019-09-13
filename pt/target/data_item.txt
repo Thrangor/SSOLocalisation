@@ -14741,5 +14741,5 @@
 14740	Fórmula: Pão de mel delicioso
 14741	Fórmula: Pão seco delicioso
 14742	Fórmula: Pão de centeio delicioso
-14743	金星时光短裤
-14744	金星引力短裤
+14743	Calções Venus Time
+14744	Calções Venus Gravity

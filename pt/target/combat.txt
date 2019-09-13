@@ -89,7 +89,7 @@
 88	Uma pequena bandeira
 89	Pts. de hab.
 90	Capture os pontos de bandeira
-91	^ff0000Recursos laterais vermelhos %​​d ^ffffffVS^0000ff %d Recursos azuis
+91	^ff0000Recursos laterais vermelhos %d ^ffffffVS^0000ff %d Recursos azuis
 92	Tem certeza de que quer deixar o campo de batalha é?
 93	Tem certeza de que deseja iniciar a votação para expulsar o %s do campo de batalha?
 94	%s será expulso do grupo pela votação.\rSe não escolher, o voto será sim quando o tempo se esgotar
@@ -322,10 +322,10 @@
 321	Após 10 segundos, a base do Exército entrará em status de preparação para a guerra.
 322	A base do Exército entrou em status de preparação para a guerra
 323	Ínicio da classificação do Exército
-324	^0000ff%d蓝方玩家
-325	占领积分
+324	^0000ff%d jogador da festa azul
+325	Pontos de ocupação
 326	0
-327	寻径至${npc(28614,\"荣耀之旗\")}兑换处
+327	Caminho para ${npc(28614,\"Bandeira da glória\")} escritório de câmbio
 328	122
 329	16
 330	354

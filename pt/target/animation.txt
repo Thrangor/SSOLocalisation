@@ -1599,8 +1599,8 @@
 1598	Se a constelação de Lira é seu signo guardião,
 1599	então sua armadura deve ser a de Lira.
 1600	A Armadura de Lira possui uma bela afinação musical. Ao usá-la, você terá o poder da música
-1601	希望的少年啊！
-1602	聚集到雅典娜的身边吧！
-1603	测试动画
-1604	章节封面
+1601	Garoto da esperança!
+1602	Reunidos ao lado de Atena!
+1603	animação de teste
+1604	capas de capítulos
 1605	

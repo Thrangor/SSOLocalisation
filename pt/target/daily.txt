@@ -834,76 +834,76 @@
 833	Descrição: Os jogadores podem receber a missão diária Repelir o Mal. O objetivo da missão é derrotar 5 mil monstros aleatórios. A premiação está repleta de itens, participe!
 834	Descrição:\rPeríodo: 20:00 às 22:00\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
 835	Descrição:\rPeríodo: 20:00 às 22:00\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
-836	12级以上当天获得55点活跃度可开启，70级以上开启此宝箱还可额外获得2个神器碎片。
-837	12级以上当天获得110点活跃度可开启，70级以上开启此宝箱还可额外获得3个神器碎片。
-838	12级以上当天获得180点活跃度可开启，70级以上开启此宝箱还可额外获得3个神器碎片。
-839	[活动]传承！黄金试炼（神战三环）
-840	[活动]大反攻！冰国邪神（神战三环）
-841	[活动]圣战回忆
-842	15级以上
-843	35级以上(^fffd44掉落29-48级装备^N)
-844	45级以上(^fffd44掉落38-56级装备^N)
-845	55级以上(^fffd44掉落48-63级装备^N)
-846	70级以上(^fffd44掉落68-81级装备^N)
-847	80级以上(^fffd44掉落78-89级装备^N)
-848	[战场]胜利！战场的荣耀
-849	[个人]超级跑跑(幸运星)
-850	30-100级(^fffd44只能获得59级奖励^N)
-851	60级以上(^fffd44掉落56-68级装备^N)
-852	68级以上(^fffd44掉落60-75级装备^N)
-853	90级以上(^fffd44掉落89-99级装备^N)
-854	[个人]超级跑跑
-855	[月度]女神！仲夏的神祈
-856	[月度]复生狂欢-天降宝箱
-857	[月度]中秋！桂花酒的幻想
-858	[活动]危急！女神的心意
-859	[军团]过大年！黄金军团
-860	[活动]复生！大斗技场神话（神战）
-861	[战场]胜利！王者之路
-862	[活动]逆流！黄金试炼（神战三环）
-863	（6人）
-864	[活动]梦神！如梦似归尘（神战三环）
-865	[节日]爱神征集令
-866	110级以上
-867	(6-12人 推荐满队)
-868	[节日]圣诞老人的困境
-869	[活动]风暴！封印之壶（神战英雄）
-870	[节日]浴火！天降宝箱
-871	各种血等
-872	与高级活动“重生！圣域镇魂歌”共同计次。\r每天12：00-14：00、20：00-22：00开启。\r集结！十二宫危机中怪物等级为队伍成员的平均等级，每天只能参加一次活动，建议组满6人再去参加。\r背景：冥王的势力正在入侵圣域，圣斗士们快去保卫圣域大门！
-873	圣战回忆3人组队即可参加，建议多叫上一些队友。\r背景：玩家在祭奠前代圣战死去的圣斗士时，突然被莫名的力量影响，回到了前次圣战中的圣域，亲历了上次圣战的艰苦战斗。
-874	圣斗士世界中流传着各种各样圣斗士的故事，那些荣耀的英雄将获得世人的敬仰，而那些邪恶的势力也将为世人所警醒。为了将这些事迹广为流传，车田老师决定将收集到的故事素材创作一部新的作品。\r任务：单人参加。\r60级后可在扫荡使者安迪菲处使用扫荡卡直接完成。
-875	所有神战三环共同计次。\r本活动包括2个有顺序关系的连环挑战副本：\r“双鱼试炼”——“天秤试炼”或“狮子试炼”\r参加任一副本计数1次，每天可累计参加6次，参加“双鱼试炼”需消耗1点神战点，参加“天秤试炼”或“狮子试炼”需消耗2点神战点！
-876	十风穴每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r凤凰座一辉带领的黑暗圣斗士大闹银河竞技场，夺取了射手座的黄金圣衣！\r如今他们盘踞在富士山的十风穴！去挑战强大的一辉和黑暗圣斗士，夺回黄金圣衣吧！
-877	战斗规模：24v24\r等级段划分：40—59；60—79；80—94；95—潜修2；潜修3—潜修10\r为了磨练战斗技艺，迎接新的圣战，圣斗士们在圣战古战场阿提卡遗迹进行实战训练！\r可在神战使者安迪娜处使用神战点接取任务：冲锋！阿提卡遗迹，完成后可获得大量奖励。
-878	黄金十二宫(始)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r纱织小姐来到圣域与教皇对决，却被教皇派来的刺客用黄金箭射中。为了拯救女神的生命，必须在十二小时内突破由黄金圣斗士把守的十二宫。\r你们能够战胜白羊座的穆先生、金牛座的阿鲁迪巴和神秘的双子座圣斗士吗？
-879	黄金十二宫(续)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破巨蟹宫、狮子宫和处女宫。\r残忍的巨蟹座会杀死每一个对手；勇猛的狮子座的出拳速度接近光速；处女座的沙加被称为最接近神的人。爱与正义的少年，你们能够击败这些强大的对手吗？
-880	黄金十二宫(终)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破天秤宫、天蝎宫和射手宫。\r天秤座的童虎老师在庐山隐居；射手座的艾俄罗斯死于十三年前的阴谋；以为这样就能够轻松过关吗？天蝎座的米罗可是能使出任何人都无法抵挡的必杀一击。
-881	黄金十二宫(余)每周最多可参加10次，需要先参加[副本]黄金十二宫(终)，获得物品：^61f2ff星之轨迹^N后才能参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破摩羯宫、水瓶宫和双鱼宫。\r摩羯座的圣剑能够斩断一切的有形之物；水瓶座的冻气连分子的运动都能都冻结；双鱼座的剧毒玫瑰是无法逾越的最后屏障。爱与正义的少年，你们还能继续前进吗？
-882	射手之心每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救襁褓中的雅典娜，保护射手座逃脱摩羯座的追击！
-883	圣斗士的成长往往需要伴随着激烈的战斗，女神雅典娜为了磨练她的圣斗士们，决定让他们通过各种磨练来提升自己的实力。斗士们，努力在各种考验中成长吧！
-884	所有神战三环共同计次。本活动包括2个有顺序关系的连环挑战副本：\r“冰火深渊”——“巨狼雪山”或“冰国邪神”\r参加任一副本计数1次，每天可累计参加6次，参加“冰火深渊”消耗1点神战点，参加“巨狼雪山”或“冰国邪神”消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据59级以下的玩家人数，给60级以上玩家发放传承值奖励。
-885	冰海神殿每周最多可参加10次，需要先参加[副本]黄金十二宫(余)，获得物品：^61f2ff冰之羽翼^N后才能参加。\r冰之国公主瓦尔基里被尼伯龙根的指环诅咒，化身成女武神。她被海皇势力控制，占据了封印在冰海之下的海皇神殿与雅典娜对抗。为了从诅咒中解救瓦尔基里公主，冲破这封锁冰原的极夜，爱与正义的少年，向着冰海神殿前进吧！
-886	值此端午之际，众多圣斗士都聚集到了庐山。宁静的庐山此刻显得热闹非凡。村长也特别邀请你去庐山参加他们端午节的庆典。还等什么，快去狂欢吧！
-887	仲夏之夜来临时，正是梦神俄尼里伊力量最强大的时候，而雅典娜则要在这一天进行重要的星辰祷告仪式，她会在仪式中消耗许多精力。\r变身为黄金战士，以黄金小宇宙与神的共鸣为女神回复体力，并且阻止前来袭击的梦神及其党羽。
-888	战斗规模：18v18\r等级段划分：80—94；95—潜修2；潜修3—潜修10\r为了与哈迪斯的对抗训练年轻的圣斗士，雅典娜创造了这个混沌战场。在混沌战场中一方为雅典娜部队，另一方扮演冥王的部队，双方进行实战演练。只有最真实的对抗才能磨砺出与神对抗的能力，为了大地的和平，奋斗吧！少年。
-889	在圣斗士之中有很多来自东方一个古老国度的少年。\r这几天正是那个国家的国庆节。可是，身为守护大地和平的圣斗士，少年们无法离开圣域返回自己的国家。因此每年这个时候教皇都命魔铃在圣域为他们进行简单的庆祝。
-890	活动期间，在国庆！东方之龙、中秋夜！月饼大爆炸和觉醒！沙加的六道活动中，随机奖励道具“国”“庆”“快”“乐”四个物品（不绑定）。\r单字物品可以直接打开获得少量经验和金券，集齐4个字可与爱米丽兑换大量经验，每日可兑换1次。
-891	活动时间：12月24日—12月30日，每晚20：00—21：00。\r每隔10分钟将在游戏界面随机弹出宝箱，点击宝箱即可领取海量经验和神秘大奖！每次弹出只有2分钟的领取时间，请大家不要错过！
-892	每周只能完成1次，组满6人方可参加。\r队长需携带物品：城户纱织的委托书，在辰巳德丸处带领队伍接取任务：城户纱织的委托，然后方可参加。
-893	参加复生！大斗技场神话需消耗2次庐山三环计次，庐山三环剩余次数不满2次时无法参加！大斗技场是穆先生利用念力制造出来的试炼场，只有真正有实力的圣斗士们才能通过这里的试炼。
-894	缩小世界中的6V6战场，玩家需要在众多英雄中选择1个获取力量，并使用此力量击败敌方玩家，并最终摧毁对方的堡垒。每周一、三、五、日领取任务后才能获得奖励哦！
-895	梦神带着一群冥斗士准备埋伏在天空战场偷袭圣斗士的事情被正准备中秋节的兔子们知道了，兔子们通知了圣斗士，并为圣斗士准备了新研制的秘密月饼，圣斗士们都变得巨大无比，准备一起踩扁冥斗士吧！
-896	时间回到史昂同冥斗士一起闯入十二宫的那一刻，帮助童虎老师对抗昔日的战友——挑战和童虎老师同样强大的白羊座史昂。
-897	一众冰斗士占据了蓝冰堡。企图与雅典娜对抗，让大地再次燃起战火。\r忠诚的圣斗士们，去踏平蓝冰堡，粉碎他们的企图。\r英雄点数达到60以上时可以参加,每周最多可参加5次，与其他英雄副本共同计次。难度较高，推荐组满队伍再去参加。\r
-898	哈迪斯城是冥斗士在地面的阵地，同时也是地面通往冥界的入口。\r圣斗士们冲入哈迪斯城，粉碎冥王的爪牙,才能打通前往冥界拯救雅典娜的道路。\r英雄点数达到60以上时可以参加,每周最多可参加5次，与其他英雄副本共同计次。难度较高，推荐组满队伍再去参加。\r
-899	所有神战三环共同计次。本活动包括3个有顺序关系的连环挑战副本：\r“逆流！双鱼试炼”——“逆流！天秤试炼”或“逆流！狮子试炼”\r参加任一副本计数1次，每天可累计参加6次，参加“逆流！双鱼试炼”需消耗1点神战点，参加“逆流！天秤试炼”或“逆流！狮子试炼”需消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据89级以下的玩家人数，给90级以上玩家发放传承值奖励。
-900	所有神战三环共同计次。本活动包括3个有顺序关系的连环挑战副本：\r“梦起！夏虫朝菌”——“梦幻！断山残崖”或“梦醒！飞流直下”\r参加任一副本计数1次，每天可累计参加6次，参加“梦起！夏虫朝菌”需消耗1点神战点，参加“梦幻！断山残崖”或“梦醒！飞流直下”需消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据89级以下的玩家人数，给90级以上玩家发放传承值奖励。
-901	活动时间：11月11日至11月17日，每天上线可找爱神之子领取活动任务，完成任务后不仅能获得任务奖励还能获得特别道具浪漫之证，集齐9个浪漫之证可以兑换特别称号一枚。
-902	活动时间：11月11日至11月17日，每天中午12点-14点或晚上20点-22点上线即可领取对对碰参与券1-10其中之一，6-10为稀有数字，使用物品后会拥有一个数字BUFF，需要寻找数字相加等于11的另一个数字BUFF拥有者。身上拥有两个数字BUFF且相加等于11时自动会接取奖励任务。注意：两个数字BUFF不能同时来自自己，必须寻找其他玩家一起完成。
-903	史诗级团队装备副本，每周每个BOSS仅仅有1次掉落，难度越高，掉落越好，因此请各位圣斗士珍惜自己的掉落机会\r注意，现在史诗副本与英雄副本分开记次，玩家可以攻略英雄副本之后继续攻略史诗副本。\r建议1个坦克玩家，3个治疗玩家，8个输出玩家组队。\r英雄点数达到60以上时可以参加,每周可以进入无限次，但是每周每个BOSS只有一次掉落。
-904	黄金服专有福利，每日可以领取大量经验以及一个小时的3.5倍经验时间
-905	黄金服专有福利，每日可以领取1000星券以及10张扫荡卡
-906	活动时间：2月10日-3月9日，活动期间，每日完成相应等级的哀嚎、女神及孵蛋3大本，每个副本均可获得“新春汤圆”1份，凭3份新春汤圆，每日可至Q版教皇处，兑换花灯门票1张。兑换的同时，获取一定的经验及金券。凭10张花灯门票，可在2月18日-3月9日期间，在Q版教皇处兑换丰厚的元宵节大礼1份，剩下不足10张的花灯门票可以单张兑换小奖品。
-907	参加风暴！女神的封印之壶需消耗2次庐山三环计次，庐山三环剩余次数不满2次时无法参加！女神又被抓走了！我为什么会说又……这次居然是被已经封印的海皇之灵带走了，不过我们勇敢的圣斗士一定可以将女神大大顺利救回的！
-908	活动时间：3月17日—3月23日，每晚20：00—21：00。\r每隔10分钟将在游戏界面随机弹出宝箱，点击宝箱即可领取神秘大奖！每次弹出只有2分钟的领取时间，请大家不要错过！
+836	No 12º nível e acima, é possível obter 55 pontos de atividade para abrir.Se você abrir esta caixa do tesouro acima do nível 70, poderá obter 2 fragmentos de artefato adicionais.
+837	No 12º nível e acima, é possível obter 110 pontos de atividade para abrir.Se você abrir esta caixa do tesouro acima do nível 70, poderá obter 3 fragmentos de artefato adicionais.
+838	No 12º nível e acima, é possível obter 180 pontos de atividade para abrir.Se você abrir esta caixa do tesouro acima do nível 70, poderá obter 3 fragmentos de artefato adicionais.
+839	herança [atividade]! Prova de Ouro (God of War 3)
+840	[Evento] grande contra-ataque! Deus Mal do País do Gelo (3º Anel de Deus)
+841	[Evento] Memórias da Jihad
+842	15 ou superior
+843	nível 35 ou superior (^fffd44 reduz o nível de equipamento 29-48 ^N)
+844	45 ou superior (^fffd44 solta o equipamento 38-56 ^N)
+845	55 ou superior (^fffd44 solta o equipamento 48-63 ^N)
+846	nível 70 ou superior (^fffd44 reduz o equipamento de nível 68-81 ^N)
+847	80 ou superior (^fffd44 solta 78-89 equipamentos ^N)
+848	vitória [no campo de batalha]! Glória do campo de batalha
+849	[pessoa] super corrida (estrela da sorte)
+850	nível 30-100 (^fffd44 pode receber apenas 59 recompensas ^N)
+851	60 ou superior (^fffd44 solta 56-68 equipamentos ^N)
+852	nível 68 ou superior (^fffd44 reduz o equipamento de nível 60-75 ^N)
+853	90 ou superior (^fffd44 descarta o equipamento 89-99 ^N)
+854	super corrida [pessoal]
+855	deusa [mensal]! O deus do solstício reza
+856	[Mensal] Carnaval do Renascimento - Baú do Tesouro Celestial
+857	[Mensal] Festival do meio do outono! Ostra de vinho osmanthus
+858	[Evento] Crítico! Deusa da mente
+859	[Exército] ao longo dos anos! Legião de Ouro
+860	[Evento] Ressurreição! Mito do Grande Campo de Lutador (Guerra dos Deuses)
+861	vitória [no campo de batalha]! O caminho para o rei
+862	[Atividade] Contracorrente! Julgamento de Ouro (God of War 3)
+863	(6 pessoas)
+864	[Evento] Sonhe com Deus! Como um sonho para voltar ao pó (o terceiro anel dos deuses)
+865	[Festival] Ordem da coleção Eros
+866	110 ou superior
+867	(6-12 pessoas recomendam a equipe completa)
+868	[Festival] O dilema do Papai Noel
+869	[Atividades] Tempestade! Pote selado (Deus dos Heróis)
+870	[Festival] Bathfire! Baú do tesouro celestial
+871	vários tipos de sangue, etc.
+872	e o evento de alto nível "Renascimento! Santuário da Terra Santa". \rAbra todos os dias das 12: 00-14: 00 e 20: 00-22: 00. Assembléia! Na crise do zodíaco, o nível de monstro é o nível médio dos membros da equipe, e apenas um evento pode ser realizado a cada dia. É recomendável que o grupo tenha 6 pessoas para participar. Antecedentes: O poder de Plutão está invadindo o santuário, e os santos guerreiros vão defender os portões do santuário!
+873	A jihad chama três pessoas para participar da equipe, é recomendável chamar alguns colegas de equipe. Antecedentes: Quando a comemoração dos santos guerreiros que morreram na jihad anterior, o jogador foi subitamente afetado pelo poder inexplicável, retornou ao santuário na jihad anterior e experimentou a dura batalha da última jihad.
+874	- A história dos vários santos circula no mundo de Saint Seiya: os heróis da glória serão respeitados pelo mundo, e as forças do mal serão vigiadas pelo mundo. Para divulgar essas histórias amplamente, o professor Chetian decidiu criar um novo trabalho a partir dos materiais coletados. \rTask: participação única. Após o nível \r60, você pode usar o cartão de varredura diretamente no messenger de varredura Andyfi.
+875	Todas as batalhas e três anéis são contados juntos. Esta atividade inclui 2 cópias do desafio em série com relacionamento sequencial: "Pisces Trial" - "Litender Trial" ou "Lion Trial" Participa de qualquer contagem de cópias 1 vez, pode participar cumulativamente 6 por dia Em segundo lugar, são necessários 1 ponto de guerra para participar do "Julgamento de Peixes" e 2 pontos para participar do "Julgamento de Litli" ou "Julgamento do Leão"!
+876	A Caverna do Vento Dez pode participar até 10 vezes por semana, e a dificuldade é alta.Recomenda-se concluir a equipe e participar. O Phoenix Saint Seiya liderou o Dark Saint Seiya para a Galaxy Arena e capturou o santo de ouro de Sagitário! Agora eles estão entrincheirados nas dez cavernas eólicas do Monte Fuji! Desafie os poderosos Yihui e os Santos das Trevas para recuperar o Santo Pano Dourado!
+877	Escala de combate: 24v24 \r segmentação de grau: 40-59; 60-79; 80-94; 95-submersível 2; submersível 3-submersível 10 \r, a fim de aprimorar as habilidades de combate e conhecer a nova jihad, sagrado Os lutadores realizaram treinamento real nas ruínas do antigo campo de batalha Attica! Você pode usar o ponto de batalha de Deus para pegar a missão no deus guerreiro Andina: Charge! As ruínas da Ática podem ser recompensadas com muitas recompensas.
+878	O Zodíaco Dourado (início) pode participar até 10 vezes por semana, e a dificuldade é alta.Recomenda-se concluir a equipe e depois participar. A senhorita Saori veio ao santuário para confrontar o papa, mas o assassino enviado pelo papa disparou com uma flecha de ouro. Para salvar a vida da deusa, é necessário romper a décima segunda casa guardada pelos santos de ouro em doze horas. Você pode derrotar o Sr. Mu de Áries, Arudiba de Touro e o misterioso Gêmeos Saint Seiya?
+879	O Zodíaco Dourado (continuação) pode participar até 10 vezes por semana, e a dificuldade é alta, é recomendável completar a equipe e depois participar. Para salvar a Miss Yao, que foi baleada pelo Golden Arrow, ela deve atravessar o Palácio do Câncer, o Palácio do Leão e o Palácio da Virgem. O Câncer Cruel mata todos os oponentes; a velocidade de soco do bravo Leo está próxima da velocidade da luz; o Shaka de Virgem é conhecido como o mais próximo de Deus. Adolescentes de amor e justiça, você pode derrotar esses oponentes poderosos?
+880	O Zodíaco Dourado (final) pode participar até 10 vezes por semana, e a dificuldade é alta.Recomenda-se completar a equipe e depois participar. Para salvar a Miss Yao, que foi baleada pelo Flecha Dourada, ele deve atravessar o Palácio de Libra, o Palácio de Escorpião e o Palácio dos Arqueiros. O professor de Tonghu, de Libra, se aposentou em Lushan; a Ai Russia, de Sagitário, morreu em uma conspiração há 13 anos; pensou que seria fácil passar? Miro de Escorpião é um assassino que não pode ser resistido por ninguém.
+881	O Zodíaco Dourado (Yu) pode participar até 10 vezes por semana, você precisa participar do [Copiar] Zodíaco Dourado (final), obtenha o item: ^61f2ff trajetória em estrela ^N antes de poder participar. A fim de salvar a Miss Yao, que foi baleada pelo Golden Arrow, ele deve atravessar o Palácio de Capricórnio, o Palácio de Aquário e o Palácio de Peixes. A espada sagrada de Capricórnio pode cortar todas as coisas tangíveis; o gás congelado de Aquário e até os movimentos moleculares podem congelar; a rosa venenosa de Peixes é a última barreira que não pode ser atravessada. Adolescentes de amor e justiça, você pode seguir em frente?
+882	O coração do atirador pode participar até 10 vezes por semana, e a dificuldade é alta.Recomenda-se completar a equipe e depois participar. A fim de salvar Athena no meio da batalha, proteja Sagitário da busca de Capricórnio!
+883	O crescimento de Saint Seiya muitas vezes precisa ser acompanhado de batalhas ferozes.Para afiar seus santos, Atena decidiu deixá-los melhorar suas forças através de vários temperamentos. Lutadores, tentem crescer em todos os tipos de testes!
+884	Todas as batalhas e três anéis são contados juntos. Esta atividade inclui 2 cópias do desafio em série com relacionamento sequencial: "Icefire Abyss" - "Giant Wolf Mountain" ou "Ice Country Evil God" para participar de qualquer contagem de cópias 1 vez, pode participar 6 vezes por dia, participar "Icefire Abyss" consome 1 ponto de guerra e participa de "Giant Snow Mountain" ou "Ice Country Evil" consome 2 pontos de guerra. \r pode ser completado diretamente usando o cartão de varredura no messenger varrendo Andy. \r Suporta o "modo de equipe de herança". No modo de equipe de herança, o desembaraço aduaneiro recompensa o valor da herança do jogador com base no número de jogadores abaixo do nível 59.
+885	O Templo do Gelo  pode participar até 10 vezes por semana. Você precisa participar do [copiar] Golden Zodiac (Yu), obter o item: ^61f2ff wing of ice ^N antes de poder participar. A princesa Valquíria, na Islândia, foi amaldiçoada pelo anel de Nibelungen e se transformou em uma valquíria feminina. Ela era controlada pelo imperador do mar e ocupava o selo do imperador do mar sob o mar de gelo contra Atena. A fim de salvar a princesa da Valquíria da maldição, rompa a noite desse bloqueio de gelo, o garoto de amor e justiça, marcha em direção ao Templo de Gelo e Gelo!
+886	Por ocasião do Festival do Barco-Dragão, muitos santos se reuniram em Lushan. A tranquila montanha Lushan é muito animada neste momento. O chefe da vila também o convida especialmente a visitar Lushan para participar das celebrações do Dragon Boat Festival. O que você está esperando, vá para a festa!
+887	A noite de verão chega, é o momento mais poderoso do deus dos deuses, e Athena realizará uma importante cerimônia de oração estelar neste dia; ela consumirá muita energia na cerimônia. Tornou-se um guerreiro de ouro, revivendo a força física da deusa com o universo de ouro e a ressonância de Deus, e impediu que o deus dos sonhos e as penas de seu grupo chegassem ao ataque.
+888	Escala de combate: 18v18 \r segmentação de classe: 80-94; 95 submersível 2; submersível 3 - submersível 10 \r Para treinar o jovem Saint Seiya com Hades, Athena criou este campo de batalha caótico . No campo de batalha caótico, um lado é a força de Athena, o outro lado exerce o poder de Plutão e os dois lados realizam exercícios práticos. Somente o confronto mais real pode aguçar a capacidade de confrontar Deus e lutar pela paz da terra! Adolescente.
+889	Entre os santos guerreiros, há muitos adolescentes de um país antigo do Oriente. Estes dias são o dia nacional desse país. No entanto, como um guerreiro sagrado que guarda a paz da terra, os adolescentes não podem deixar o santuário e retornar ao seu país. Portanto, nesta época do ano, o papa tem um sino mágico para celebrá-los no santuário.
+890	Durante o evento, no Dia Nacional! Dragão do Oriente, noite do meio do outono! Mooncake big bang e despertar! Nas seis atividades de Shaka, quatro itens (não vinculados) são aleatoriamente premiados por "Nacional", "Celebração", "Rápido" e "Le". Itens de uma única palavra podem ser abertos diretamente para obter uma pequena quantidade de experiência e cupons.Colete 4 palavras para trocar muita experiência com Emily e trocá-la uma vez por dia.
+891	Horário do evento: 24 a 30 de dezembro, 20: 00-21: 00 todas as noites. A cada 10 minutos irá aparecer aleatoriamente a arca do tesouro na interface do jogo, clique na arca do tesouro para receber experiência maciça e prêmio de mistério! Apenas 2 minutos de pick-up por pop-up, por favor, não perca!
+892	O pode ser preenchido apenas uma vez por semana e um grupo de 6 pessoas pode participar. O capitão precisa levar itens: o poder da procuração da cidade de tecelagem de fios, a pílula de Chen Yude para liderar a equipe a assumir a tarefa: a comissão da tecelagem de fios da cidade e depois participar.
+893	Participe da ressurreição! O mito do grande campo de batalha precisa consumir 2 vezes o terceiro anel da montanha Lushan.Quando o número restante do terceiro anel da montanha Lushan é inferior a 2 vezes, é impossível participar! O grande campo de batalha é um campo de testes que Mu usou para criar sua mente. Somente os santos realmente poderosos podem passar no teste aqui.
+894	Encolhendo o campo de batalha 6V6 no mundo, os jogadores precisam escolher um dos muitos heróis para ganhar poder, e usar esse poder para derrotar jogadores inimigos e, eventualmente, destruir a fortaleza do outro. Você pode receber recompensas após receber a tarefa às segundas, quartas, sextas e domingos!
+895	Sonhe Deus com um grupo de gladiadores que se preparam para uma emboscada no campo de batalha do céu para atacar o Saint Seiya é conhecido pelos coelhos que estão se preparando para o Festival do Meio Outono, informaram os santos aos coelhos e prepararam um recém-desenvolvido bolo secreto da lua para Saint Seiya, Saint Seiya Eles são todos enormes, prontos para pisar nos guerreiros planos!
+896	Hora de voltar ao momento em que Shi'an e os gladiadores invadiram a décima segunda casa, ajudando Tong Hu a lutar contra os antigos camaradas - o desafio de Áries, o mesmo Áries poderoso que o professor.
+897	Um grupo de guerreiros do gelo ocupa o Forte do Gelo Azul. Tentando confrontar Athena, deixe a terra acender a guerra novamente. Santos leais, vá para o castelo de gelo azul, esmague suas tentativas. Os pontos de herói podem ser participados quando atingirem 60 anos ou mais.Você pode participar até 5 vezes por semana e contar com outros heróis. A dificuldade é alta, é recomendável completar a equipe e depois participar. \r
+898	Hades City é a posição do gladiador no chão e na entrada do submundo. Santos correram para a cidade de Hades e esmagaram os servos de Plutão para atravessar o caminho para salvar Athena no submundo. Os pontos de herói podem ser participados quando atingirem 60 anos ou mais.Você pode participar até 5 vezes por semana e contar com outros heróis. A dificuldade é alta, é recomendável completar a equipe e depois participar. \r
+899	Todas as batalhas e três anéis são contados juntos. Esta atividade inclui 3 cópias do desafio em série com relacionamento seqüencial: "Contra-corrente! Teste de Peixes" - "Contra-corrente! Teste de Libra" ou "Contra-corrente! Teste de Leão" Participe de qualquer contagem de cópias uma vez por dia Pode participar 6 vezes no total, participar de "contracorrente! Teste de Peixes" precisa consumir 1 ponto de guerra, participar de "contracorrente! Teste de Libra" ou "contracorrente! Teste de Leão" precisa consumir 2 pontos de guerra. \r pode ser completado diretamente usando o cartão de varredura no messenger varrendo Andy. Suporta o "modo de equipe de herança". No modo de equipe de herança, o desembaraço aduaneiro recompensa o valor da herança do jogador com base no número de jogadores abaixo do nível 89.
+900	Todas as batalhas e três anéis são contados juntos. Esta atividade inclui 3 cópias do desafio em série, com relacionamento seqüencial: "Sonho! Erros de verão" - "Sonho! Penhascos quebrados da montanha" ou "Acorde! Voando para baixo" Participe de qualquer contagem de cópias 1 vez, você pode participar 6 vezes por dia, participar de "Dream! Summer bugs" precisa consumir 1 ponto de guerra, participar de "Dream! Broken Mountain Cliff" ou "Wake Up! Flying Down" leva 2 pontos Deus luta. \r pode ser completado diretamente usando o cartão de varredura no messenger varrendo Andy. Suporta o "modo de equipe de herança". No modo de equipe de herança, o desembaraço aduaneiro recompensa o valor da herança do jogador com base no número de jogadores abaixo do nível 89.
+901	Tempo da atividade: de 11 a 17 de novembro, você pode encontrar o filho do deus do amor para realizar a tarefa todos os dias.Depois de concluir a tarefa, você não apenas pode obter a recompensa da tarefa, mas também o certificado romântico de adereços especiais.Recolha 9 certificados românticos. Resgatar um título especial.
+902	Horário da atividade: de 11 a 17 de novembro, todos os dias das 12:00 às 14:00 ou das 20:00 às 02:00, você pode obter um dos cupons de participação de 1 a 10, 6 a 10 é um número raro. Depois de usar o item, haverá um número BUFF e você precisará encontrar outro proprietário do número BUFF cujo número seja igual a 11. O corpo possui dois BUFFs digitais e soma 11 para receber automaticamente a tarefa de recompensa. Nota: Dois números de BUFF não podem surgir ao mesmo tempo e devem ser encontrados junto com outros jogadores.
+903	A equipe épica tem uma cópia do equipamento. Cada BOSS tem apenas uma gota por semana. Quanto maior a dificuldade, melhor a queda. Por favor, peça ao Saint Seiya que aprecie sua chance de cair. Observe que a cópia épica agora está separada da cópia do herói. Record, o jogador pode continuar a atacar a cópia épica após Raiders a cópia do herói. sugere um jogador de tanque, três jogadores de tratamento e oito jogadores de saída. Os pontos Hero podem ser participados quando atingirem 60 anos ou mais.Você pode inserir um número ilimitado de vezes por semana, mas cada CHEFE cai apenas uma vez por semana.
+904	Benefícios exclusivos do  Gold Service, uma grande quantidade de experiência por dia e 3,5 vezes o tempo por hora
+905	Benefícios Exclusivos do Serviço Gold, 1000 Star Certificates e 10 Sweep Cards por dia
+906	Horário do evento: 10 de fevereiro a 9 de março, durante o evento, o nível correspondente de luto, deusa e ovos para incubação será concluído diariamente.Todas as cópias receberão 1 cópia de "New Spring Tangyuan" com 3 novas fontes. Tang Yuan, diariamente para a versão Q do Papa, redenção de um bilhete de lanterna. Ao mesmo tempo do resgate, adquira uma certa quantidade de experiência e comprovantes. Com 10 bilhetes para lanternas, você pode resgatar um presente rico do Festival das Lanternas na versão Q do Papa, de 18 de fevereiro a 9 de março. Os 10 bilhetes restantes para lanternas podem ser trocados por pequenos prêmios.
+907	Participe da tempestade! O pote de foca da deusa precisa consumir 2 vezes a contagem de três anéis de Lushan, e o número restante do terceiro anel da montanha de Lushan não pode ser participado quando for inferior a 2 vezes! A deusa foi levada embora de novo! Por que digo de novo ... Desta vez, foi levado pelo selo do Rei do Mar, mas nossos bravos santos devem ser capazes de salvar grandemente a deusa!
+908	Horário do evento: 17 a 23 de março, 20: 00-21: 00 todas as noites. A cada 10 minutos irá aparecer aleatoriamente a arca do tesouro na interface do jogo, clique na arca do tesouro para receber o prêmio de mistério! Apenas 2 minutos de pick-up por pop-up, por favor, não perca!

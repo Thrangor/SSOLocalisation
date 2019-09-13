@@ -581,38 +581,38 @@
 580	No evento "Crise nas Doze Casas", a EXP obtida e os drops tem relação com qual atributo do personagem?
 581	No evento "Prova de Ouro", a EXP obtida os drops tem relação com qual atributo do personagem?
 582	
-583	如何快速找到包裹内可用魔盒分解的装备？
-584	打开魔盒分解页，包裹内闪亮的即是
-585	一目十行的快速扫过装备说明
-586	所有装备都可以分解
-587	所有装备都无法分解
-588	当你发现经验涨满却无法升级时，要如何升级？
-589	按C键打开面板，手动升级
-590	继续游戏，等级会自动提升
-591	做活动，自动提升
-592	打副本，自动提升
-593	足够的觉悟才能升级，如何才能提高觉悟值？
-594	学习技能或升级技能
-595	击杀怪物
-596	做任务
-597	组队副本
-598	哪几个部位可以使用魔盒升阶提升属性？
-599	灵石、手环、徽章和珠链
-600	发带，戒指，项链
-601	上衣，裤子
-602	时装
-603	点击雷达左侧战力体检按钮进行查看
-604	处女座 
-605	沙加 
-606	凤翼天翔 
-607	凤凰座 
+583	Como encontrar rapidamente o equipamento que pode ser decomposto na embalagem?
+584	Abra a página de decomposição da caixa mágica, o interior da embalagem é brilhante
+585	Percorra rapidamente a descrição do equipamento
+586	Todo o equipamento pode ser decomposto
+587	Todo o equipamento não pode ser quebrado
+588	Como você atualiza quando descobre que sua experiência está completa, mas não pode atualizá-lo?
+589	Pressione C para abrir o painel e atualizar manualmente.
+590	continuar o jogo, o nível aumentará automaticamente
+591	realizando atividades, melhorando automaticamente
+592	Cópia  hit, atualizar automaticamente
+593	Consciência suficiente pode ser aprimorada, como podemos aumentar a consciência?
+594	Habilidades de aprendizagem ou atualização
+595	matar monstro
+596	para fazer a tarefa
+597	cópias da equipe
+598	Quais partes podem usar a caixa mágica para atualizar os atributos?
+599	Lingshi, pulseira, crachá e corrente de miçangas
+600	faixa de cabelo, anel, colar
+601	top, calça
+602	Moda 
+603	Clique no lado esquerdo do botão radar para visualizar
+604	Virgem
+605	Shaka
+606	Fengyi Tianxiang
+607	Phoenix
 608	12
 609	24
 610	48
 611	64
-612	星矢 
-613	艾欧里亚 
-614	朱狄加 
-615	黄金匕首 
-616	上周军团活跃度前200名
-617	上周军团活跃度掉到前200名以后
+612	Seiya
+613	Aeoria
+614	Judija
+615	Adaga de ouro 
+616	Na semana passada, os 200 principais regimentos
+617	Na semana passada, a atividade da Legião caiu para o top 200

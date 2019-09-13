@@ -12296,7 +12296,7 @@
 12295	Starlight Fragment
 12296	Corrupted Crystal
 12297	Underworld Starlight
-12298	exchange note 4 coins 星 华
+12298	exchange note 4 coins
 12299	Starlight of Pegasus
 12300	Cygnus Starlight
 12301	Dragon Starlight
@@ -12311,7 +12311,7 @@
 12310	Quintessence of the Sea
 12311	Star Crystal
 12312	Star Jade
-12313	Starlight
+12313	Star Light
 12314	Star Splendor
 12315	Silver Star Dust
 12316	Goddess of God
@@ -13759,15 +13759,15 @@
 13758	Exchange Bên. of Gem.
 13759	Silver Star Dust Fountain
 13760	Source of Fusion
-13761	Fuente de Campo
+13761	Field Fountain
 13762	Soft Pearl
 13763	Big Pearl
 13764	Giant Shellfish Pearl
 13765	Pearl of Kraken
 13766	Tears of Mermaid
-13767	Venom of Ortiga
+13767	Venom of Nettle
 13768	Poison of Narcissus
-13769	Poison of Estramonio
+13769	Jimsonweed Poison
 13770	Poison of Poppy
 13771	Carnivorous Plant Poison
 13772	Bloodstone

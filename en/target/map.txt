@@ -142,9 +142,9 @@
 141	Army Rating Map
 142	Map Test
 143	Aegean Sea Bay
-144	Test Illusion 2 (Level 55)
+144	Illusion Test 2 (Level 55)
 145	Illusion Test 3 (Level 65)
-146	Test Illusion 4 (Level 75)
+146	Illusion Test 4 (Level 75)
 147	Illusion Test 5 (Level 85)
 148	Illusion Test 6 (Level 95)
 149	Illusion Test 1 (Level 45)

@@ -354,6 +354,6 @@
 353	^ff0000Evolução de %s completa
 354	^ff0000Evolução do equipamento do Escudeiro completa
 355	^ff0000Material insuficiente
-356	守护星级别过低，无法装备
-357	携带等级
-358	同一个ID的守护星只能收藏一个
+356	O nível de estrela do guardião é muito baixo para ser equipado
+357	carregando grau
+358	estrelas guardiãs da mesma identificação só podem coletar uma

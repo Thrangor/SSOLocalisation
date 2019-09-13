@@ -327,12 +327,12 @@
 326	Cor 13
 327	Cor 14
 328	Não é possível criar um personagem com este signo. É necessário alterar o signo de um personagem já existente, contanto que ele possua, no mínimo, nível 59
-329	正在登录游戏……请稍候
+329	Fazendo login no jogo ... aguarde
 330	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
 331	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8强大的治疗者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
 332	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人超高伤害\r  ^fff2c8◆大范围多人伤害\r  ^fff2c8◆灼烧（持续伤害）\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
 333	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人石化、沉默\r  ^fff2c8◆队伍攻防提升\r  ^fff2c8◆单人攻击降低\r  ^fff2c8◆反弹伤害\r\r^a4d1ff出生地：\r  ^fff2c8庐山
 334	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆多人减速、沉默\r  ^fff2c8◆单人攻防降低\r  ^fff2c8◆小范围群攻\r  ^fff2c8◆冰之能量增强技能\r\r^a4d1ff出生地：\r  ^fff2c8庐山
 335	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
-336	守护星座7说明
-337	守护星座8说明
+336	Guardian Constellation 7 Descrição
+337	Guardian Constellation 8 Descrição

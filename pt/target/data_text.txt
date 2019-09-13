@@ -2617,26 +2617,26 @@
 2616	A batalha daqui é extremamente penosa.
 2617	Vila da Neve, a neve cai como o espírito.
 2618	A Vila Kohoutek precisa de toda força!
-2619	　　本活动包括3个有顺序关系的连环挑战副本，我这里是第1个——双鱼试练。你们组队后，在我这里领取任务，就可以参加了，参加需消耗1点神战点。\n　　本周剩余^e12500${repu(71)}点神战点^N。\n^e12500与高级活动“大反攻！冰国邪神”共同计次。^N
-2620	　　本活动包括3个有顺序关系的连环挑战副本，我这里是第2个——天秤试练。你们组队后，在我这里领取任务，就可以参加了，参加需消耗1点神战点。\n　　本周剩余^e12500${repu(71)}点神战点^N。\n^e12500与高级活动“大反攻！冰国邪神”共同计次。^N
-2621	　　本活动包括3个有顺序关系的连环挑战副本，我这里是第3个——狮子试练。你们组队后，在我这里领取任务，就可以参加了，参加需消耗1点神战点。\n　　本周剩余^e12500${repu(71)}点神战点^N。\n^e12500与高级活动“大反攻！冰国邪神”共同计次。^N
-2622	圣域入口附近出现了大量冥王势力的爪牙。\n圣斗士们快去保卫圣域大门，守护雅典娜神像。\n（活动在12：00-14：00与20：00-22：00两个时段开启。每天可参与一次。）\n^e12500与高级活动“重生！圣域镇魂歌”共同计次。^N
-2623	最近一段时间海啸频发，人们都在祈求女神的光辉降临，据我观察，这可能跟很久很久以前沉没的亚特兰蒂斯有关，快去调查一下吧。\n（风暴！亚特兰蒂斯每天只能参加一次。）\n^e12500与高级活动“深渊！魔星的末日”共同计次。^N
-2624	你们可以从这里前往上次圣战，亲历那一次惨烈的战斗。\n（圣战回忆每天最多可进入两次）
-2625	最近黄泉之井附近总是出现不寻常的事情，真是令人担忧啊。
-2626	　　我还是非常怀念那个伊豆的舞女。
-2627	　　女神的圣斗士们，去往塔耳塔洛斯，取得可以制造处女座佛珠的木栾子果实，迎接即将到来的圣战吧！（每天只能参加一次。）\n　\n　　^e12500本活动支持“传承团队模式”。^N\n队长可以创建团队，要求团队成员：\n1. 60级以上的玩家3-6人；\n2. 25-59级的玩家0-6人。\n　　传承团队模式中，如果59级以下的玩家人数大于等于3人，那么60级以上玩家即可获得最高传承值奖励。
-2628	　　纱织小姐现在很危险，圣域、海皇、冥王都想要抓她，女神需要你们的保卫！　\n　　^e12500本活动支持“传承团队模式”。^N\n队长可以创建团队，要求团队成员：\n1. 60级以上的玩家3-6人；\n2. 25-59级的玩家0-6人。\n　　传承团队模式中，如果59级以下的玩家人数大于等于3人，那么60级以上玩家即可获得最高传承值奖励。
-2629	　　没想到庐山的端午节这么快就结束了！我现在已经有点期待明年的端午节了，我想那个时候一定会更热闹！
-2630	　　雅典娜为了圣斗士的全面提升，每周赐予105点神战点，妥善使用可加速圣斗士的发展，该点数不可累积，每周六早晨六点重置。\n　　本周剩余^e12500${repu(71)}点神战点^N。\n　　^0184ff请按“V”键查询当前神战点^N.　
-2631	　　传说中的第八感，也许通过六道轮回的试炼你可以一窥其中的奥秘。
-2632	　　女神的圣斗士们，虽然已经攻入了冥界地狱，但仍不可掉以轻心，前方的战斗将更加艰苦！（每天只能参加一次。）\n　\n　　^e12500本活动支持“传承团队模式”。^N\n队长可以创建团队，要求团队成员：\n1. 90级以上的玩家3-6人；\n2. 25-89级的玩家0-6人。\n　　传承团队模式中，如果89级以下的玩家人数大于等于3人，那么90级以上玩家即可获得最高传承值奖励。
-2633	　　凭^d181ff城户纱织的委托书^N可在我这里带领队伍参加“危急！女神的心意”（每周只能参加一次，组满6人方可参加。）\n　\n　　^e12500参加活动“深渊！魔星的末日”和“哀嚎！地狱奏鸣曲”有一定几率获得物品^d181ff城户纱织的委托书^N。\n　　“危急！女神的心意”不支持团队模式，请不要创建团队。
-2634	　　别人都说我和卡西欧士长的很像，我却不这么认为。\n　　顺便说一句，我只在每周一、三、五、日才上班。
-2635	紫龙他……紫龙遇到了危险，快……快去帮帮他
-2636	    本次银河擂台赛8强已经决出，让我们恭喜以下8支队伍。\n    祖丨国丨万丨岁1队\n    英雄の联盟1队\n    和联胜\n    圣斗の传说\n    曼彻斯特联★\n    神话\n    邪恶ら之眼\n    幽冥圣魔殿\n    请参与竞猜的玩家尽快领取竞猜奖励
-2637	    本次银河擂台赛全部名次已经决出，让我们恭喜以下队伍。\n    ^ff0000冠军：祖丨国丨万丨岁1队\n    亚军：幽冥圣魔殿\n    季军：曼彻斯特联★\n    ^N请参与竞猜的玩家尽快领取竞猜奖励
-2638	　　大斗技场是依靠白羊座穆先生的强大念力制造出来的训练场，在这个斗技场中你们将面对上代圣斗士和冥斗士的挑战，只有真正有实力的圣斗士们才可能挑战过。（每天只能参加一次。）\n　\n　　^e12500本活动支持“传承团队模式”。^N\n队长可以创建团队，要求团队成员：\n1. 90级以上的玩家3-6人；\n2. 25-89级的玩家0-6人。\n　　传承团队模式中，如果89级以下的玩家人数大于等于3人，那么90级以上玩家即可获得最高传承值奖励。
-2639	　　春节快乐！春节天天乐，天天都快乐~~\n我们为您在春节期间准备了丰富的活动：约定！元宵节的礼物、福利！新春的贺礼，祝大家玩的愉快！
-2640	　　春节快乐！春节天天乐，天天都快乐~~\n我们为您在春节期间准备了丰富的活动：新春！女神的祝福、微信！幸福的水饺，祝大家玩的愉快！
-2641	　　愚蠢的人类，再看一眼你们的圣域吧，不久这里将成为我们的汪洋大海！
+2619	Esta atividade inclui 3 cópias do desafio em série com relacionamento seqüencial.Eu sou o primeiro - o julgamento de Peixes. Depois de se unir, você pode realizar a tarefa aqui e participar: é preciso 1 ponto para lutar. \n Nesta semana, os restantes ^e12500 $ {repu (71)} apontam para o ponto de batalha ^N. \n ^e12500 e as atividades de alto nível "grande contra-ataque! espíritos malignos do País do Gelo" contavam juntos. ^N
+2620	Esta atividade inclui 3 cópias do desafio em série com relacionamento seqüencial.Eu sou o segundo aqui - julgamento de Libra. Depois de se unir, você pode realizar a tarefa aqui e participar: é preciso 1 ponto para lutar. \n Nesta semana, os restantes ^e12500 $ {repu (71)} apontam para o ponto de batalha ^N. \n ^e12500 e as atividades de alto nível "grande contra-ataque! espíritos malignos do País do Gelo" contavam juntos. ^N
+2621	Esta atividade inclui 3 cópias do desafio em série com relação de sequência.Eu sou o terceiro - o julgamento do leão. Depois de se unir, você pode realizar a tarefa aqui e participar: é preciso 1 ponto para lutar. \n Nesta semana, os restantes ^e12500 $ {repu (71)} apontam para o ponto de batalha ^N. \n ^e12500 e as atividades de alto nível "grande contra-ataque! espíritos malignos do País do Gelo" contavam juntos. ^N
+2622	Um grande número de servos das forças de Plutão apareceu perto da entrada do Santuário. Os santos defenderão o portão do santuário e guardarão a estátua de Atena. \n (O evento está aberto das 12: 00h às 14: 00h e das 20: 00h às 22: 00h. Você pode participar uma vez por dia.) \n ^e12500 e o evento de alto nível "Rebirth! Sanctuary Town Soul" . ^N
+2623	Recentemente, o tsunami tem sido frequente e as pessoas estão orando pela glória da deusa.De acordo com minha observação, isso pode estar relacionado à Atlântida, que afundou há muito tempo.Vá e investigue. \n (Storm! Atlantis pode participar apenas uma vez por dia.) \n ^e12500 e o evento de alto nível "Abismo! O fim da estrela mágica" contou juntos. ^N
+2624	Você pode ir daqui até a última guerra santa e experimentar a feroz batalha. \n (as memórias da jihad podem entrar até duas vezes por dia)
+2625	É realmente preocupante que sempre tenham acontecido coisas incomuns perto do poço de Huangquan.
+2626	Ainda sinto muita falta da dançarina de Izu.
+2627	A deusa da deusa, vá para Tartalos, pegue o fruto da mula de madeira que pode fazer as contas de Virgem e dê as boas-vindas à próxima jihad! (Apenas uma vez por dia.) \n \n ^e12500 Esta atividade oferece suporte ao "modo de equipe de herança". ^N \nO Capitão pode criar uma equipe e perguntar aos membros da equipe: \n1. 3-6 jogadores acima do nível 60; \n2. Jogadores 0-6 nos níveis 25-59. \n No modo de equipe de herança, se o número de jogadores abaixo do nível 59 for maior ou igual a 3, os jogadores acima do nível 60 podem receber o maior valor de herança.
+2628	A senhorita Daisy é muito perigosa agora: o santuário, Haihuang e Plutão querem pegá-la. A deusa precisa de sua defesa! \n ^e12500 Esta atividade suporta o "modo de equipe de herança". ^N \nO Capitão pode criar uma equipe e perguntar aos membros da equipe: \n1. 3-6 jogadores acima do nível 60; \n2. Jogadores 0-6 nos níveis 25-59. \n No modo de equipe de herança, se o número de jogadores abaixo do nível 59 for maior ou igual a 3, os jogadores acima do nível 60 podem receber o maior valor de herança.
+2629	Eu não esperava que o Festival do Barco-Dragão em Lushan terminasse tão cedo! Agora estou ansioso pelo Festival do Barco-Dragão no próximo ano, acho que será mais animado naquele momento!
+2630	Athena dá 105 pontos de guerra ao Santo Guerreiro para o avanço geral dos Santos.O uso adequado pode acelerar o desenvolvimento de Saint Seiya.Este ponto não pode ser acumulado e é reiniciado todos os sábados às 6 horas da manhã. \n Nesta semana, os restantes ^e12500 $ {repu (71)} apontam para o ponto de batalha ^N. \n ^0184ffPor favor, pressione "V" para consultar o ponto de batalha atual ^N.
+2631	O oitavo sentido da lenda, talvez através das seis tentativas de reencarnação você possa vislumbrar o mistério.
+2632	A deusa da deusa, embora já tenha marcado o inferno do submundo, mas não possa ser tomada de ânimo leve, a batalha pela frente será mais difícil! (Apenas uma vez por dia.) \n \n ^e12500 Esta atividade oferece suporte ao "modo de equipe de herança". ^N \nO Capitão pode criar uma equipe e perguntar aos membros da equipe: \n1. Os jogadores acima do nível 90 são 3-6; \n2. Os jogadores do nível 25-6 são 0-6. \n No modo de equipe de herança, se o número de jogadores abaixo do nível 89 for maior ou igual a 3, jogadores acima do nível 90 podem receber a maior recompensa pelo valor da herança.
+2633	Com a procuração de Yoshito Yarn ^N, a equipe pode participar da "emergência! A mente da deusa" (apenas uma vez por semana, apenas 6 pessoas podem participar.) \n \n ^e12500 A participação no evento "Abismo! O Fim da Estrela Mágica" e "Luto! Sonata do Inferno" têm a chance de obter o poder do artigo. \n "Emergência! Deusa da Mente" não suporta o modo de equipe, por favor não crie uma equipe.
+2634	Todos os outros disseram que eu sou muito parecido com Cassio, mas acho que não. \n A propósito, só vou trabalhar toda segunda, quarta, sexta e domingo.
+2635	Zilong Ele ... Zilong está em perigo, rápido ... vá ajudá-lo
+2636	Os 8 melhores da competição Galaxy foram decididos. Parabenizamos as 8 equipes a seguir. \n 祖 丨 国 万 丨 岁 1 Heroes \n Heroes の aliança 1 equipe \n e liansheng \n 斗斗 の n \n Manchester United ★ \n mito \n mito \n malévolo \n n Por favor, participe do questionário para receber a recompensa o mais rápido possível
+2637	Todos os rankings desta competição Galaxy foram decididos, parabenizamos as seguintes equipes. \n ^ff0000 Campeão: 岁 丨 国 丨 万 丨 岁 2º classificado: Nether St. Hall \n Terceiro classificado: Manchester United ★ \n ^N Por favor participe do teste para obter o teste o mais rápido possível
+2638	O grande campo de batalha é um campo de treinamento construído pelas mentes fortes de Áries Mu. Neste campo de batalha, você enfrentará os desafios dos santos anteriores e dos gladiadores, apenas os santos realmente poderosos podem desafiar. . (Apenas uma vez por dia.) \n \n ^e12500 Esta atividade oferece suporte ao "modo de equipe de herança". ^N \nO Capitão pode criar uma equipe e perguntar aos membros da equipe: \n1. Os jogadores acima do nível 90 são 3-6; \n2. Os jogadores do nível 25-6 são 0-6. \n No modo de equipe de herança, se o número de jogadores abaixo do nível 89 for maior ou igual a 3, jogadores acima do nível 90 podem receber a maior recompensa pelo valor da herança.
+2639	Festival da Primavera feliz! Feliz Ano Novo Chinês, feliz todos os dias ~~ \n Preparamos muitas atividades para você durante o Festival da Primavera: a nomeação! Presentes e benefícios do Festival das Lanternas! Feliz Ano Novo, desejo a todos um bom tempo!
+2640	Feliz Ano Novo Chinês! Feliz Ano Novo Chinês, feliz todos os dias ~~ \n Preparamos muitas atividades para você durante o Festival da Primavera: Ano Novo! Bênção da deusa, WeChat! Bolinhos felizes, desejo a todos um bom momento!
+2641	Humanos estúpidos, dê uma olhada no seu santuário, e em breve será o nosso vasto oceano!

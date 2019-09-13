@@ -688,24 +688,24 @@
 687	————Cavaleiros da Deusa!!
 688	Processamento suspeita que tenha Cavalo de Tróia dentro do jogo, por favor apague o diretórios das pastas executáveis antes de entrar no jogo, recomenda o uso de software antivírus para verificar.
 689	No momento do colapso do processamento suspeita que tenha Cavalo de Tróia dentro do jogo, por favor apague o diretórios das pastas executáveis antes de entrar no jogo, recomenda o uso de software antivírus para verificar.
-690	^fff600第一届银河擂台赛，参赛时间到时，可以凭比赛入场券进入相应的赛场中\r持有观战入场券时，可以进入赛场观战，入场券在6w级世界BOSS宝箱中随机掉落\r每方最多18人参战，每场比赛最多可以容纳80人观战，满员后则无法进入
-691	暴击率+%.0f%%
-692	暴击率减免+%.0f%%
-693	幸运一击率+%.0f%%
-694	生命力+%.0f%%
-695	地攻击+%.0f%%
-696	水攻击+%.0f%%
-697	火攻击+%.0f%%
-698	风攻击+%.0f%%
-699	攻击力下限+%.0f%%
-700	攻击力上限+%.0f%%
-701	防御力+%.0f%%
-702	暴击伤害+%.0f%%
-703	暴伤减免+%.0f%%
-704	攻击力+%.0f%%
-705	招架+%.0f%%
-706	破甲+%.0f%%
-707	雷攻击+%.0f%%
-708	所有属性抗性+%d
-709	所有属性抗性减免+%d
-710	所有属性攻击+%.0f%%
+690	^fff600Na primeira competição Galaxy, quando o tempo de entrada termina, você pode entrar no campo correspondente com o ingresso do jogo. Se você possui o ingresso para o jogo, pode entrar no estádio para assistir ao jogo. O ingresso é selecionado aleatoriamente no baú do tesouro do mundo 6W BOSS. Caindo Cada participante tem no máximo 18 pessoas participando da batalha. Cada jogo pode acomodar até 80 pessoas para assistir ao jogo. Depois de cheio, elas não podem entrar.
+691	Taxa de golpe crítico +%.0f %%
+692	Redução da taxa de crítico +%.0f %%
+693	de taxa de acerto com sorte +%.0f %%
+694	vitalidade +%.0f %%
+695	de ataque ao solo +%.0f %%
+696	ataque de água +%.0f %%
+697	ataque de fogo +%.0f %%
+698	ataque do vento +%.0f %%
+699	menor poder de ataque +%.0f %%
+700	limite de poder de ataque +%.0f %%
+701	Defesa +%.0f %%
+702	de dano crítico +%.0f %%
+703	redução violenta de lesões +%.0f %%
+704	poder de ataque +%.0f %%
+705	desvio +%.0f %%
+706	Armadura de Sunder +%.0f %%
+707	ataques com raios +%.0f %%
+708	todos os atributos em resistência + %d
+709	Todos os atributos reduzem a resistência + %d
+710	Todos os ataques de atributo +%.0f %%

@@ -466,9 +466,9 @@
 465	O código de convite de ouro que você preencheu já foi usado
 466	Não é possível entrar no serviço de fluxo reverso
 467	Não é possível usar o código promocional de ouro no serviço de fluxo reverso
-468	LINK - 您已经连续三次使用密保卡登陆失败，为了您的帐号安全，系统已将您的帐号暂时封停。您可以在10分钟后再次尝试登录。
-469	您已绑定电话密保，请致电010-5885-8566进行解锁后登录
-470	为了优化服务器负载，因该帐号长时间未登录游戏，已被封禁，请与客服联系
-471	账号存在恶意登录的嫌疑，10分钟内禁止登录，如果不是本人登录，请与客服联系。
-472	您已连续三次输入令牌密码错误，为了您的账号安全，系统已将您的账号暂时封停。您可以在10分钟后再次尝试登录。
-473	您是快速注册用户，账号信息尚不完善，存在严重安全隐患，请您及时登录完美通行证补填账号信息后再尝试登录。
+468	LINK - Você não conseguiu fazer login usando o cartão de segurança três vezes seguidas.Para segurança da sua conta, sua conta foi temporariamente suspensa. Você pode tentar fazer login novamente após 10 minutos.
+469	Você vinculou seu segredo telefônico, ligue para 010-5885-8566 para desbloquear e fazer login.
+470	Para otimizar a carga do servidor, a conta foi banida porque não está conectada há um longo tempo. Entre em contato com o atendimento ao cliente.
+471	A conta tem suspeita de login mal-intencionado. É proibido fazer login em 10 minutos. Se você não estiver logado, entre em contato com o atendimento ao cliente.
+472	Você inseriu o erro de senha do token três vezes seguidas.Para segurança da sua conta, sua conta foi temporariamente suspensa. Você pode tentar fazer login novamente após 10 minutos.
+473	Você é um usuário registrado rapidamente, as informações da conta não são perfeitas, há sérios riscos à segurança, faça o login no passaporte perfeito para preencher as informações da conta e tente fazer o login.
