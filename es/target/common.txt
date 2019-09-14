@@ -373,58 +373,58 @@
 372	• Marca del Rey (Resistencia a la Tierra):\rSaturno + Marte + Sol + Luna + Urano\rSaturno + Marte + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rSaturno + Marte + Sol + Luna + Neptuno\rSaturno + Marte + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rSaturno + Marte + Sol + Luna + Plutón\rSaturno + Marte + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rSaturno + Marte + Sol + Urano + Neptuno\rSaturno + Marte + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rSaturno + Marte + Sol + Urano + Plutón\rSaturno + Marte + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rSaturno + Marte + Sol + Luna + Polaris\rSaturno + Marte + Sol + Urano + Polaris
 373	• Marca del Rey (Resistencia a la Tierra):\rBenetnasch + Júpiter + Sol + Luna + Urano\rBenetnasch + Júpiter + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rBenetnasch + Júpiter + Sol + Luna + Neptuno\rBenetnasch + Júpiter + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rBenetnasch + Júpiter + Sol + Luna + Plutón\rBenetnasch + Júpiter + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rBenetnasch + Júpiter + Sol + Urano + Neptuno\rBenetnasch + Júpiter + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rBenetnasch + Júpiter + Sol + Urano + Plutón\rBenetnasch + Júpiter + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rBenetnasch + Júpiter +Sol + Luna + Polaris\rBenetnasch + Júpiter + Sol + Urano + Polaris
 374	• Marca do Rei (Resistência à Terra):\rJúpiter + Benetnasch + Sol + Lua + Urano\rJúpiter + Benetnasch + Sol + Netuno + Plutão\r• Marca de Baleia (Resistência à Água):\rJúpiter + Benetnasch + Sol + Lua + Netuno\rJúpiter + Benetnasch + Lua + Urano + Netuno\r• Marca de Fênix (Resistência à Fogo):\rJúpiter + Benetnasch + Sol + Lua + Plutão\rJúpiter + Benetnasch + Lua + Urano + Plutão\r• Marca de Pégasus (Resistência à Vento):\rJúpiter + Benetnasch + Sol + Urano + Netuno\rJúpiter + Benetnasch + Lua + Netuno + Plutão\r• Marca do Titã (Resistência à Trovão):\rJúpiter + Benetnasch + Sol + Urano + Plutão\rJúpiter + Benetnasch + Urano + Netuno + Plutão\r• Marca Sagrada (Resistência à Luz):\rJúpiter + Benetnasch + Sol + Lua + Polaris\rJúpiter + Benetnasch + Sol + Urano + Polaris
-375	Personaje
-376	Artículos
-377	Habilidades
-378	Quests
-379	Social
-380	Ejército
-381	Tutela
-382	Pet
-383	Ítem Mall
-384	Sistema
-385	Armadura
-386	Escudero
-387	Cosmos
-388	Astrología
-389	Reliquia
-390	Alma
-391	Desarrollo Divino
-392	Divinidad
-393	Espelho Quebrado
-394	Universo
-395	Habilidad de Armadura
-396	Caja Mágica
-397	Tienda Personal
-398	Combo
-399	Producir
-400	Grupo
-401	Misión
-402	Ranking
-403	Logro
-404	Álbum
-405	Reputación
-406	Tesoro
-407	Bloqueo de Seguridad
-408	Examen Físico
-409	Enciclopedia
-410	Sacar fotos
-411	Guardia
-412	Proceso
+375	Per
+376	Art
+377	Hab
+378	Mis
+379	Soc
+380	Eje
+381	Esc
+382	Mas
+383	Mall
+384	Sis
+385	Arm
+386	Esc
+387	Cos
+388	Ast
+389	Rel
+390	Alm
+391	Des
+392	Div
+393	Esp
+394	Uni
+395	HaA
+396	CaM
+397	TiP
+398	Comb
+399	Pro
+400	Gru
+401	Mis
+402	Ran
+403	Log
+404	Álb
+405	Rep
+406	Tes
+407	BlS
+408	ExF
+409	Enc
+410	Foto
+411	Gua
+412	Proc
 413	Chat
 414	Ocultar 1
 415	Ocultar 2
-416	Competición
-417	Casa del Tesoro
-418	Doce Casas
-419	Estación de Radio
+416	Comp
+417	CaT
+418	12C
+419	EsR
 420	Atenea
 421	Star
 422	Ocultar 3
-423	Artículos bloqueados
+423	ArB
 424	Clan
-425	Gran Maestro
-426	Cambiar
+425	GranM
+426	Cam
 427	Comprando cualquier valor de Star, ¡Serás promovido al nivel VIP 1!
 428	1. Almacén portátil\r2. Perfeccionamiento portátil\r3. Sistema "Recompensa", el premio de recompensa acumula por máximo 1 día
 429	1. Claveteado de Runa portátil\r2. Almacén portátil\r3. Perfeccionamiento portátil

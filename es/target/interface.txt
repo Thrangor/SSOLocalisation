@@ -998,34 +998,34 @@
 997	Alvo de Asistencia
 998	Personaje
 999	Tienda Comercio
-1000	Inventario
-1001	Quests
-1002	Habilidades
-1003	Mapa
-1004	Cosmos
-1005	Armadura
-1006	Amigos
-1007	Ejército
-1008	Ranking
-1009	Ataques
-1010	Producción
-1011	Escudero
-1012	Sistema
-1013	Calendario
-1014	Grupo
-1015	Colegas
-1016	Mascota
-1017	Ilustración
-1018	Logros
-1019	Reputación
-1020	Hab. de Armadura
-1021	Cámara
-1022	Tesoro de la Diosa
+1000	Inv
+1001	Mis
+1002	Hab
+1003	Map
+1004	Cos
+1005	Arm
+1006	Ami
+1007	Ejér
+1008	Rank
+1009	Ata
+1010	Prod
+1011	Esc
+1012	Sis
+1013	Cal
+1014	Gru
+1015	Ami
+1016	Masc
+1017	Ilu
+1018	Log
+1019	Repu
+1020	HabA
+1021	Cám
+1022	Dios
 1023	VIP
-1024	Proceso
-1025	Tutela
-1026	Astromancia
-1027	Espiritú de Arm.
+1024	Pro
+1025	Tut
+1026	Ast
+1027	Esp
 1028	Interfaz
 1029	Música
 1030	Sonido
