@@ -162,7 +162,7 @@
 161	^O009Leave Party
 162	^O009Removing the party
 163	^O009Find a party
-164	^O009Tarde
+164	^O009Trade
 165	^O009Vend
 166	^O009 Invite for the clan
 167	^O009Fly
@@ -172,14 +172,14 @@
 171	^O009 Mutual Encouragement
 172	^O009Combo ( %d)
 173	^O009 Basic Pet Care
-174	^O009Montar
+174	^O009Mount
 175	^O009Conversation
 176	^O009Base of the Guild
 177	^O009Meditation
 178	^O009When you use, you enter Prayer status.\rGANacia of EXP every 10 seconds.\rDon seconds you retrieve 60 HP and 20 Energy points.\rThe automatic movement will be interrupted
 179	^O009Chant of Glory
 180	^O009Necessary: ​​LV 20+\rAl enter the Glory Bath.\rCan 5 minutes receive EXP Reserve\rThe EXP gain varies according to the Power\rLimit of use of 8 hours per day.
-181	^O009Volve with the frame
+181	^O009Fly With Your Mount
 182	^O009Necessary: ​​Flying Mount
 183	^O009Hide Players
 184	^O009Hide Pets
@@ -2017,7 +2017,7 @@
 2016	^O021^ffff00 intoxication\r^O009^ffffff damage sustained
 2017	^O021^ffff00 weak\r^O009^ffffff attack down
 2018	^O021^ffff00 burning\r^O009^ffffff damage sustained
-2019	The	slow speed of movement is retarded.
+2019	The	slow speed of movement is broken.
 2020	^O021^ffff00 slow
 2021	^O021^ffff00 Neptune-damage caused by additional lightning
 2022	^O021^ffff00 status-area flow
@@ -4222,7 +4222,7 @@
 4221	^O021^ffff00 Death Row\r^O009^ffffff is blocked and reduce resistance.
 4222	^O021^ffff00 Death Row
 4223	The deceleration is delayed.
-4224	^O021^ffff00 underworld\r^O009^ffffff is retarded and reduced resistance to
+4224	^O021^ffff00 underworld\r^O009^ffffff is broken and reduced resistance to
 4225	^O021^ffff00 butterfly underworld
 4226	^O021^ffff00 Summoner death
 4227	^O021^ffff00 Cloudy Stars - Initial Trigger Skills Answer 2
@@ -4234,7 +4234,7 @@
 4233	^O021 Meng days - unlimited calling skills
 4234	^O021^ffff00 Shadow Protection\r\r^O009^ffffff Shadow Dragon offers HP recovery and damage reduction
 4235	^O021^ffff00 Shadow Protection
-4236	Save deceleration resistance\r^O009^ffffff is retarded and reduces the resistance to deceleration.
+4236	Save deceleration resistance\r^O009^ffffff is broken and reduces the resistance to deceleration.
 4237	^O021^ffff00 Save the deceleration resistor
 4238	When the server reaches a more advanced process, Miracle Guild will receive a corresponding reinforcement
 4239	When the server reaches a more advanced process, Miracle Guild will receive a corresponding enhancement
@@ -7771,7 +7771,7 @@
 7770	roundabout kick
 7771	The basic moves of Aioros
 7772	lightning fly kick
-7773	Aeolus's brute force attack
+7773	Aioros's brute force attack
 7774	The Word of Justice
 7775	Make the enemy ashamed in the words of justice
 7776	Restoring life
@@ -11049,7 +11049,7 @@
 11048	Out of it, teens!
 11049	Tornado floating strike cap
 11050	Summon three cyclone groups, blow fly and give the opponent pain!
-11051	Aeolus force
+11051	Aioros force
 11052	Increases the good partner attack.However, good things always have side effects.
 11053	sacred chains
 11054	Ray shot two bombs, damage the enemy
@@ -12822,11 +12822,11 @@
 12821	Makes the target stunned.\rThe effect of ability and increased damage varies according to LV. Stealth of the Squire
 12822	Spiritual Storm
 12823	Increases Damage Reduction: 1 * LV. Stellar
-12824	Go to perform the conversion
+12824	Switch movement mode
 12825	Switch Walk / Run Status
 12826	Search Target
 12827	Looking at the nearest monster
-12828	Auxiliary
+12828	Assist
 12829	Select the target of your current target
 12830	Party Invite
 12831	Invite the target to join your party
@@ -12837,7 +12837,7 @@
 12836	Trade
 12837	Trade with the currently selected target. Target must be within 10 meters.
 12838	Vend
-12839	Set up a vend where you can sell and buy items
+12839	Set up a vendor where you can sell and buy items
 12840	Invite the clan
 12841	Pick Up
 12842	Pick Up items and coins on the ground. Newly dropped items are collected first.
@@ -12857,7 +12857,7 @@
 12856	Chant of Glory
 12857	^ffffffCheck current status of the Glory Box. The Chant of Glory can be used for 8 hours per day. Every 5 minutes receive Storage EXP. Amount depends on the level of the character.
 12858	Flight with mount
-12859	Start / Cancel Flight with Montaría
+12859	Start / Cancel Flight with Mount
 12860	Fly
 12861	Start / Cancel Flight
 12862	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds

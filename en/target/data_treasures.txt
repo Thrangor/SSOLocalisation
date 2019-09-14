@@ -334,7 +334,7 @@
 333	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
 334	Item Voucher [Squire]
 335	Collect a certain amount to redeem the ruler equipment.
-336	Ben.Diosa ☆ Aries (II)
+336	Goddess' Gift ☆ Aries (II)
 337	Open the reputation of the goddess and gain extra rewards from the goddess.
 338	Metis Determination Light
 339	The will of the intelligent goddess allows you to relearn combat skills.
@@ -558,7 +558,7 @@
 557	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
 558	Destination Data
 559	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-560	Ben.Diosa ☆ Aries (II)
+560	Goddess' Gift ☆ Aries (II)
 561	Open the reputation of the goddess and gain extra rewards from the goddess.
 562	Roses
 563	A valuable flower that can be used to give a friend.\rActivities above level 60.
@@ -595,29 +595,29 @@
 594	Star Jade*5
 595	Pegasus Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
 596	Star Crystal*5
-597	Pegasus Saint Cloth 11-16 stars cast.\rThere is a large drop in activity above level 50.
+597	Pegasus Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
 598	Star Splendor*5
-599	Pegasus Saint Cloth is a 17-32 star cast.\rThere is a large drop in activity above level 70.
+599	Pegasus Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
 600	Bronze Star Dust*5
-601	Used in ordinary bronze sacred clothing.\rThere is a large drop in activity above level 30.
+601	Used in ordinary bronze sacred clothing.\rDrops frequency in instances above level 30.
 602	Silver Star Dust*5
-603	Used for ordinary silver sacred clothing.\rThere is a large drop in activity above level 50.
+603	Used for ordinary silver sacred clothing.\rDrops frequency in instances above level 50.
 604	Star Brightness [Earth]*5
-605	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
+605	Used for Gold Armor.\rDrops frequency in instances above level 70.
 606	Star Brightness [Fire]*5
-607	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
+607	Used for Gold Armor.\rDrops frequency in instances above level 70.
 608	Star Brightness [Water]*5
-609	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
+609	Used for Gold Armor.\rDrops frequency in instances above level 70.
 610	Star Bright [Wind]*5
-611	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
+611	Used for Gold Armor.\rDrops frequency in instances above level 70.
 612	Spiritual Light*10
-613	Used to equip the energy.\rThere is a large drop in activity above level 30.
+613	Used to equip the energy.\rDrops frequency in instances above level 30.
 614	Spiritual Light +*10
-615	Used to equip the energy.\rThere is a large drop in activity above level 50.
+615	Used to equip the energy.\rDrops frequency in instances above level 50.
 616	Soul Light*10
-617	Used to equip the energy.\rThere is a large drop in activity above level 30.
+617	Used to equip the energy.\rDrops frequency in instances above level 30.
 618	Soul Light +*10
-619	Used to equip the energy.\rThere is a large drop in activity above level 50.
+619	Used to equip the energy.\rDrops frequency in instances above level 50.
 620	Young Passionate
 621	Advance bravely and burn! Cosmo!
 622	Immature
@@ -805,7 +805,7 @@
 804	Blood of Hades*20
 805	It can improve the effect when the star casts the Holy Armour.
 806	Starlight*5
-807	The Pegasus Saint Cloth is a 33-48 star cast.\rThere is a large drop in activity above level 80.
+807	The Pegasus Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
 808	Underworld Starlight*5
 809	Used for the necessities of the sacred clothing.
 810	Cosmic Key

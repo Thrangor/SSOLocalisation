@@ -24,18 +24,18 @@
 23	^a800ffFlores x999
 24	^a800ff Thor's Chimera x1: Flying Horse Swap
 25	^a800ffOther random large prizes
-26	Change of equipment [Squire] x60
+26	Item Voucher [Squire] x60
 27	Burning Soul x8
 28	Alma Feroz x8
 29	Skill Change [Squire] x3
-30	Change of equipment [Squire] x18
+30	Item Voucher [Squire] x18
 31	Burning Soul x3
 32	Alma Feroz x3
 33	Black Star Crystal x125
 34	Stool Fragment x50
 35	Bronze Blood x10
 36	Skill Change [Squire] x1
-37	Change of equipment [Squire] x6
+37	Item Voucher [Squire] x6
 38	Burning Soul x1
 39	Soul Feroz x1
 40	Black Star Crystal x25
@@ -43,7 +43,7 @@
 42	Expansion of warehouse x1
 43	Stool Fragment x10
 44	Black Star Jade x10
-45	Change of equipment [Squire] x1
+45	Item Voucher [Squire] x1
 46	Book of the Golden Oracle x1
 47	Burning Soul x2
 48	Soul Feroz x2
@@ -72,7 +72,7 @@
 71	^a800ff Cosmic Chakra x999
 72	^a800ff Flying Monarchy: Tiamat · Ice and Fire Interest x1
 73	^a800ff Demon Demon (perfect) x1
-74	Change of equipment [Squire]
+74	Item Voucher [Squire]
 75	Black Star Crystal
 76	Fragment of Stole
 77	Bronze Blood

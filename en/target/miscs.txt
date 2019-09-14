@@ -111,8 +111,8 @@
 110	Prohibited to sell article.
 111	Mute Reason: %s
 112	Reasons for the Blockade: Disturb the order in the Sanctuary
-113	%s beat %s in duel.
-114	Duel between %s and %s ended as a draw.
+113	&%s& beat &%s& in duel.
+114	Duel between &%s& and &%s& ended as a draw.
 115	You can not enter into a decisive struggle in fighting status
 116	The invitation to the decisive fight was already sent to the other player, please wait until he responds.
 117	The Protective Constellation does not meet the requirements, it is not possible to do it that way.

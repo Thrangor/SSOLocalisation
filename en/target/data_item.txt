@@ -6296,7 +6296,7 @@
 6295	Soul of the Relic 150 pieces
 6296	Demonic Blood 5 pieces
 6297	God · Sagittarius
-6298	Benefit! Change of equipment [Squire]
+6298	Benefit! Item Voucher [Squire]
 6299	Benefit! Starfish Orange
 6300	Benefit! Fragment of Gem
 6301	Benefit! Light of Venus
@@ -7724,18 +7724,18 @@
 7723	Cosmic Key
 7724	Insignia of the Divine Artifact
 7725	Skill Change [Squire]
-7726	Change of equipment [Squire]
+7726	Item Voucher [Squire]
 7727	Burning Soul
 7728	Fierce Soul
-7729	Change of Ability [Squire]
-7730	Change of equipment [Squire]
+7729	Skill Change [Squire]
+7730	Item Voucher [Squire]
 7731	Burning Soul
 7732	Fierce Soul
 7733	Black Star Crystal
 7734	Fragment of Stole
 7735	Bronze Blood
 7736	Change skill [Squire]
-7737	Change of equipment [Squire]
+7737	Item Voucher [Squire]
 7738	Burning Soul
 7739	Fierce Soul
 7740	Black Star Crystal
@@ -7770,7 +7770,7 @@
 7769	^a800ffDark demon (perfect) x1
 7770	^a800ff too many big random prizes
 7771	Skill Change [Squire]
-7772	Change of equipment [Squire]
+7772	Item Voucher [Squire]
 7773	Burning Soul
 7774	Fierce Soul
 7775	Goddess Favor ☆ Singles Day Gift
@@ -7789,18 +7789,18 @@
 7788	Cosmic Key
 7789	Insignia of the Divine Artifact
 7790	Skill Change [Squire]
-7791	Change of equipment [Squire]
+7791	Item Voucher [Squire]
 7792	Burning Soul
 7793	Fierce Soul
-7794	Change of Ability [Squire]
-7795	Change of equipment [Squire]
+7794	Skill Change [Squire]
+7795	Item Voucher [Squire]
 7796	Burning Soul
 7797	Fierce Soul
 7798	Black Star Crystal
 7799	Fragment of Stole
 7800	Silver Blood
 7801	Skill Change [Squire]
-7802	Change of equipment [Squire]
+7802	Item Voucher [Squire]
 7803	Burning Soul
 7804	Fierce Soul
 7805	Black Star Crystal
@@ -7819,33 +7819,33 @@
 7818	Certification of Knight of the Princess
 7819	Power Fuser
 7820	Divine Stone of the Storm
-7821	Ben.Diosa ☆ Pisces
+7821	Goddess' Gift ☆ Pisces
 7822	Divine Stone of the Storm
 7823	Cosmic Key
 7824	Skill Change [Squire]
-7825	Change of equipment [Squire]
+7825	Item Voucher [Squire]
 7826	Burning Soul
 7827	Fierce Soul
 7828	Skill Change [Squire]
-7829	Change of equipment [Squire]
+7829	Item Voucher [Squire]
 7830	Burning Soul
 7831	Fierce Soul
 7832	Black Star Crystal
 7833	Fragment of Stole
 7834	Bronze Blood
 7835	Change skill [Squire]
-7836	Change of equipment [Squire]
+7836	Item Voucher [Squire]
 7837	Burning Soul
 7838	Fierce Soul
 7839	Black Star Crystal
 7840	Inventory Expansion
-7841	Ben.Diosa ☆ Tanabata (Linked)
+7841	Goddess' Gift ☆ Tanabata (Linked)
 7842	^a800ff Star child of \ tanabata x1 (maximum qualification limit 4000)
 7843	^a800ff Tanabata's mother star x1 (maximum qualification limit 4000)
 7844	^a800ff flowers X999
 7845	^a800ff Chimera · deThor x1: Flying frame change
 7846	^a800ff too many big random prizes
-7847	Change of equipment [Squire] x60
+7847	Item Voucher [Squire] x60
 7848	Burning Soul x8
 7849	Fierce Soul x8
 7850	Skill Change [Squire] x3
@@ -7856,7 +7856,7 @@
 7855	Fragment of Stool x50
 7856	Bronze Blood x10
 7857	Skill Change [Squire] x1
-7858	Change of equipment [Squire] x6
+7858	Item Voucher [Squire] x6
 7859	Burning Soul x1
 7860	Fierce Soul x1
 7861	Black Star Crystal x25
@@ -7882,13 +7882,13 @@
 7881	Change equipment [Squire] x60
 7882	Burning Soul [Orange] x8
 7883	Fierce Soul [Orange] x8
-7884	Change of equipment [Squire] x18
+7884	Item Voucher [Squire] x18
 7885	Skill Change [Squire] x3
 7886	Silver Drill x10
 7887	Oracle of Athena x3
 7888	Burning Soul [Orange] x3
 7889	Fierce Soul [Orange] x3
-7890	Change of equipment [Squire] x6
+7890	Item Voucher [Squire] x6
 7891	Oracle of Athena x1
 7892	Skill Change [Squire] x1
 7893	Black Star Crystal x25
@@ -7912,16 +7912,16 @@
 7911	^a800ffQ Squire version Ikki x1
 7912	^a800ff too many big random prizes
 7913	Skill Change [Squire] x6
-7914	Change of equipment [Squire] x60
+7914	Item Voucher [Squire] x60
 7915	Burning Soul [Orange] x8
 7916	Fierce Soul [Orange] x8
-7917	Change of equipment [Squire] x18
+7917	Item Voucher [Squire] x18
 7918	Skill Change [Squire] x3
 7919	Silver drill x10
 7920	Oracle of Athena x3
 7921	Burning Soul [Orange] x3
 7922	Fierce Soul [Orange] x3
-7923	Change of equipment [Squire] x6
+7923	Item Voucher [Squire] x6
 7924	Oracle of Athena x1
 7925	Skill Change [Squire] x1
 7926	Black Star Crystal x25
@@ -7933,7 +7933,7 @@
 7932	Star Bright [Water] x10
 7933	Star Bright [Wind] x10
 7934	Black Star Jade x20
-7935	Change of equipment [Squire] x1
+7935	Item Voucher [Squire] x1
 7936	Energy Fuser x5
 7937	Book of the Golden Oracle x1
 7938	Burning Soul x2
@@ -7945,10 +7945,10 @@
 7944	Q Squire version shyriu x1
 7945	^a800ff too many big random prizes
 7946	Skill Change [Squire] x3
-7947	Change of equipment [Squire] x60
+7947	Item Voucher [Squire] x60
 7948	Burning Soul x8
 7949	Fierce Soul x8
-7950	Change of equipment [Squire] x18
+7950	Item Voucher [Squire] x18
 7951	Certification drill x10
 7952	Burning Soul x3
 7953	Fierce Soul x3
@@ -7978,14 +7978,14 @@
 7977	Q Squire version shyriu x1
 7978	^a800ff too many big random prizes
 7979	Skill Change [Squire] x3
-7980	Change of equipment [Squire] x60
+7980	Item Voucher [Squire] x60
 7981	Burning Soul x8
 7982	Fierce Soul x8
-7983	Change of equipment [Squire] x18
+7983	Item Voucher [Squire] x18
 7984	Certification drill x10
 7985	Burning Soul x3
 7986	Fierce Soul x3
-7987	Change of equipment [Squire] x3
+7987	Item Voucher [Squire] x3
 7988	Burning Soul x1
 7989	Soul Feroz x1
 7990	Black Star Crystal x25
@@ -8017,7 +8017,7 @@
 8016	^a800ff Burning Alloy x100
 8017	^a800ffFierce Soul x100
 8018	Skill Change [Squire] x6
-8019	Change of equipment [Squire] x60
+8019	Item Voucher [Squire] x60
 8020	Burning Soul x8
 8021	Soul Fierce x8
 8022	Silver Drill x10
@@ -8055,7 +8055,7 @@
 8054	Fierce Soul x8
 8055	Certification drill x10
 8056	Soul of the Relic x5
-8057	Change of equipment [Squire] x18
+8057	Item Voucher [Squire] x18
 8058	Skill Change [Squire] x3
 8059	Soul of the Relic x3
 8060	Burning Soul x3
@@ -8070,7 +8070,7 @@
 8069	Burning Soul x1
 8070	Fierce Soul x1
 8071	Black Star Jade x20
-8072	Ben.Diosa ☆ Aquarius (II)
+8072	Goddess' Gift ☆ Aquarius (II)
 8073	^a800ff Mini Tremy x1 (4500 rating limit)
 8074	^e5872f Divine Light of Aries x1
 8075	^e5872f Gema Shape x9999
@@ -8086,18 +8086,18 @@
 8085	Cosmic Key
 8086	Relic Badge
 8087	Skill Change [Squire]
-8088	Change of equipment [Squire]
+8088	Item Voucher [Squire]
 8089	Burning Soul
 8090	Fierce Soul
 8091	Skill Change [Squire]
-8092	Change of equipment [Squire]
+8092	Item Voucher [Squire]
 8093	Burning Soul
 8094	Fierce Soul
 8095	Black Star Crystal
 8096	Fragment of Stole
 8097	Bronze Blood
-8098	Change of Ability [Squire]
-8099	Change of equipment [Squire]
+8098	Skill Change [Squire]
+8099	Item Voucher [Squire]
 8100	Burning Soul
 8101	Fierce Soul
 8102	Black Star Crystal
@@ -8119,24 +8119,24 @@
 8118	Cosmic Key
 8119	Relic Badge
 8120	Skill Change [Squire]
-8121	Change of equipment [Squire]
+8121	Item Voucher [Squire]
 8122	Burning Soul
 8123	Fierce Soul
 8124	Skill Change [Squire]
-8125	Change of equipment [Squire]
+8125	Item Voucher [Squire]
 8126	Burning Soul
 8127	Fierce Soul
 8128	Black Star Crystal
 8129	Fragment of Stole
 8130	Bronze Blood
 8131	Skill Change [Squire]
-8132	Change of equipment [Squire]
+8132	Item Voucher [Squire]
 8133	Burning Soul
 8134	Fierce Soul
 8135	Black Star Crystal
 8136	Inventory Expansion
 8137	Warehouse Expansion
-8138	Ben.Diosa ☆ Pisces
+8138	Goddess' Gift ☆ Pisces
 8139	^a800ff Sirens x1 (4500 rating limit)
 8140	^e5872fExcalibur of Capricorn x1
 8141	^a800ffGolden Gold Light x999
@@ -8149,22 +8149,22 @@
 8148	Certification of Knight of the Princess
 8149	Energy Fuser
 8150	Divine Stone of the Storm
-8151	Ben.Diosa ☆ Pisces
+8151	Goddess' Gift ☆ Pisces
 8152	Divine Stone of the Storm
 8153	Cosmic Key
-8154	Change of Ability [Squire]
-8155	Change of equipment [Squire]
+8154	Skill Change [Squire]
+8155	Item Voucher [Squire]
 8156	Burning Soul
 8157	Fierce Soul
 8158	Skill Change [Squire]
-8159	Change of equipment [Squire]
+8159	Item Voucher [Squire]
 8160	Burning Soul
 8161	Fierce Soul
 8162	Black Star Crystal
 8163	Fragment of Stole
 8164	Bronze Blood
-8165	Change of Ability [Squire]
-8166	Change of equipment [Squire]
+8165	Skill Change [Squire]
+8166	Item Voucher [Squire]
 8167	Burning Soul
 8168	Fierce Soul
 8169	Black Star Crystal
@@ -8184,25 +8184,25 @@
 8183	Divine Stone of the Storm
 8184	Cosmic Key
 8185	Insignia of the Divine Artifact
-8186	Change of Ability [Squire]
-8187	Change of equipment [Squire]
+8186	Skill Change [Squire]
+8187	Item Voucher [Squire]
 8188	Burning Soul
 8189	Fierce Soul
-8190	Change of Ability [Squire]
-8191	Change of equipment [Squire]
+8190	Skill Change [Squire]
+8191	Item Voucher [Squire]
 8192	Burning Soul
 8193	Fierce Soul
 8194	Black Star Crystal
 8195	Fragment of Stole
 8196	Silver Blood
 8197	Skill Change [Squire]
-8198	Change of equipment [Squire]
+8198	Item Voucher [Squire]
 8199	Burning Soul
 8200	Fierce Soul
 8201	Black Star Crystal
 8202	Authorization to extend Backpack
 8203	Authorization to extend Warehouse
-8204	Ben.Diosa ☆ Virgo (III)
+8204	Goddess' Gift ☆ Virgo (III)
 8205	^a800ffMini Pharaoh x1 (4500 rating maximum limit)
 8206	^e5872f Griffin Handbook x1
 8207	^e5872f Gema Shape x9999
@@ -8235,7 +8235,7 @@
 8234	Alraune Challenge Coupon
 8235	Fragment of Stole
 8236	Stellar condensed stone
-8237	Ben.Diosa ☆ Taurus (III)
+8237	Goddess' Gift ☆ Taurus (III)
 8238	^a800ffMini Misty x1 (4500 rating maximum limit)
 8239	^e5872fWorm Beads x1
 8240	^e5872f Gemstone Shape x9999
@@ -8251,24 +8251,24 @@
 8250	Cosmic Key
 8251	Insignia of the Divine Artifact
 8252	Skill Change [Squire]
-8253	Change of equipment [Squire]
+8253	Item Voucher [Squire]
 8254	Burning Soul
 8255	Fierce Soul
 8256	Change of skill [Squire]
-8257	Change of equipment [Squire]
+8257	Item Voucher [Squire]
 8258	Burning Soul
 8259	Fierce Soul
 8260	Black Star Crystal
 8261	Fragment of Stole
 8262	Silver Blood
-8263	Change of Ability [Squire]
-8264	Change of equipment [Squire]
+8263	Skill Change [Squire]
+8264	Item Voucher [Squire]
 8265	Burning Soul
 8266	Fierce Soul
 8267	Black Star Crystal
 8268	Authorization to extend Backpack
 8269	Authorization to extend Warehouse
-8270	Ben.Diosa ☆ Scorpio (IV)
+8270	Goddess' Gift ☆ Scorpio (IV)
 8271	^a800ffMini Papillon x1 (maximum qualification limit 4500)
 8272	^e5872f Basilisk Helix x1
 8273	^e5872f Gema Fragment x9999
@@ -8300,8 +8300,8 @@
 8299	Alraune Challenge Coupon
 8300	Fragment of Stole
 8301	Stellar condensed stone
-8302	Change of Ability [Squire]
-8303	Ben.Diosa ☆ Aries (III)
+8302	Skill Change [Squire]
+8303	Goddess' Gift ☆ Aries (III)
 8304	^a800ffMini Black Andromeda x1 (4500 qualification limit)
 8305	^e5872fCalrog Code x1
 8306	^e5872f Gema Fragment x9999
@@ -8317,24 +8317,24 @@
 8316	Cosmic Key
 8317	Insignia of the Divine Artifact
 8318	Skill Change [Squire]
-8319	Change of equipment [Squire]
+8319	Item Voucher [Squire]
 8320	Burning Soul
 8321	Fierce Soul
 8322	Skill Change [Squire]
-8323	Change of equipment [Squire]
+8323	Item Voucher [Squire]
 8324	Burning Soul
 8325	Fierce Soul
 8326	Black Star Crystal
 8327	Fragment of Stole
 8328	Silver Blood
 8329	Change of skill [Squire]
-8330	Change of equipment [Squire]
+8330	Item Voucher [Squire]
 8331	Burning Soul
 8332	Fierce Soul
 8333	Black Star Crystal
 8334	Authorization to extend Backpack
 8335	Authorization to extend Warehouse
-8336	Ben.Diosa ☆ Cancer (III)
+8336	Goddess' Gift ☆ Cancer (III)
 8337	^a800ffMini Jango x1 (4500 rating maximum limit)
 8338	^e5872 Wyvern Dragon Spade x1
 8339	^e5872f Gema Fragment x9999
@@ -8354,20 +8354,20 @@
 8353	Burning Soul
 8354	Fierce Soul
 8355	Skill Change [Squire]
-8356	Change of equipment [Squire]
+8356	Item Voucher [Squire]
 8357	Burning Soul
 8358	Fierce Soul
 8359	Black Star Crystal
 8360	Fragment of Stole
 8361	Silver Blood
 8362	Skill Change [Squire]
-8363	Change of equipment [Squire]
+8363	Item Voucher [Squire]
 8364	Burning Soul
 8365	Fierce Soul
 8366	Black Star Crystal
 8367	Authorization to extend Backpack
 8368	Authorization to extend Warehouse
-8369	Ben.Diosa ☆ Libra (III)
+8369	Goddess' Gift ☆ Libra (III)
 8370	^a800ffMini Charon x1 (4500 rating maximum limit)
 8371	^e5872f Dana's Misleading Caption x1
 8372	^e5872f Gema Fragment x9999
@@ -8400,7 +8400,7 @@
 8399	Fragment of Stole
 8400	Stellar condensed stone
 8401	Skill Change [Squire]
-8402	Ben.Diosa ☆ Leo (III)
+8402	Goddess' Gift ☆ Leo (III)
 8403	^a800ffMini Zelos x1 (4500 rating maximum limit)
 8404	^e5872From Minotaur x1
 8405	^e5872f Gema Shape x9999
@@ -8416,24 +8416,24 @@
 8415	Cosmic Key
 8416	Insignia of the Divine Artifact
 8417	Skill Change [Squire]
-8418	Change of equipment [Squire]
+8418	Item Voucher [Squire]
 8419	Burning Soul
 8420	Fierce Soul
 8421	Skill Change [Squire]
-8422	Change of equipment [Squire]
+8422	Item Voucher [Squire]
 8423	Burning Soul
 8424	Fierce Soul
 8425	Black Star Crystal
 8426	Fragment of Stole
 8427	Silver Blood
 8428	Skill Change [Squire]
-8429	Change of equipment [Squire]
+8429	Item Voucher [Squire]
 8430	Burning Soul
 8431	Fierce Soul
 8432	Black Star Crystal
 8433	Authorization to extend Backpack
 8434	Authorization to extend Warehouse
-8435	Ben.Diosa ☆ Gemini (III)
+8435	Goddess' Gift ☆ Gemini (III)
 8436	^a800ffMini Capella x1 (4500 rating maximum limit)
 8437	^e5872fEspada de Hades [Legend] x1
 8438	^e5872f Gema Fragment x9999
@@ -8449,24 +8449,24 @@
 8448	Cosmic Key
 8449	Insignia of the Divine Artifact
 8450	Skill Change [Squire]
-8451	Change of equipment [Squire]
+8451	Item Voucher [Squire]
 8452	Burning Soul
 8453	Fierce Soul
-8454	Change of Ability [Squire]
-8455	Change of equipment [Squire]
+8454	Skill Change [Squire]
+8455	Item Voucher [Squire]
 8456	Burning Soul
 8457	Fierce Soul
 8458	Black Star Crystal
 8459	Fragment of Stole
 8460	Silver Blood
-8461	Change of Ability [Squire]
-8462	Change of equipment [Squire]
+8461	Skill Change [Squire]
+8462	Item Voucher [Squire]
 8463	Burning Soul
 8464	Fierce Soul
 8465	Black Star Crystal
 8466	Authorization to extend Backpack
 8467	Authorization to extend Warehouse
-8468	Ben.Diosa ☆ Aquarius (III)
+8468	Goddess' Gift ☆ Aquarius (III)
 8469	^a800ffMini Black Cygnus x1 (4500 maximum qualification limit)
 8470	^e5872f Sphinx Gear x1
 8471	^e5872f Gema Fragment x9999
@@ -8481,19 +8481,19 @@
 8480	Divine Stone of the Storm
 8481	Cosmic Key
 8482	Insignia of the Divine Artifact
-8483	Change of Ability [Squire]
-8484	Change of equipment [Squire]
+8483	Skill Change [Squire]
+8484	Item Voucher [Squire]
 8485	Burning Soul
 8486	Fierce Soul
-8487	Change of Ability [Squire]
-8488	Change of equipment [Squire]
+8487	Skill Change [Squire]
+8488	Item Voucher [Squire]
 8489	Burning Soul
 8490	Fierce Soul
 8491	Black Star Crystal
 8492	Fragment of Stole
 8493	Silver Blood
 8494	Skill Change [Squire]
-8495	Change of equipment [Squire]
+8495	Item Voucher [Squire]
 8496	Burning Soul
 8497	Fierce Soul
 8498	Black Star Crystal
@@ -8506,18 +8506,18 @@
 8505	^a800ffDigital Blood (perfect) x1
 8506	^a800ff too many big random prizes
 8507	Skill Change [Squire]
-8508	Change of equipment [Squire]
+8508	Item Voucher [Squire]
 8509	Burning Soul
 8510	Fierce Soul
-8511	Change of Ability [Squire]
-8512	Change of equipment [Squire]
+8511	Skill Change [Squire]
+8512	Item Voucher [Squire]
 8513	Burning Soul
 8514	Fierce Soul
 8515	Black Star Crystal
 8516	Fragment of Stole
 8517	Bronze Blood
 8518	Skill Change [Squire]
-8519	Change of equipment [Squire]
+8519	Item Voucher [Squire]
 8520	Burning Soul
 8521	Fierce Soul
 8522	Black Star Crystal
@@ -8525,14 +8525,14 @@
 8524	Warehouse Expansion
 8525	Fragment of Stole
 8526	Black Star Jade
-8527	Change of equipment [Squire]
+8527	Item Voucher [Squire]
 8528	Golden Oracle Book
 8529	Burning Soul
 8530	Fierce Soul
 8531	Advanced Silver Pack
 8532	Bolsa de Estrellas II
 8533	Condensed Star Light
-8534	Ben.Diosa ☆ Taurus
+8534	Goddess' Gift ☆ Taurus
 8535	^a800ff Mini Ban x1 (4500 rating limit)
 8536	^e5872f Sagittarius Arch x1
 8537	^e5872f Burning Soul x999
@@ -8545,27 +8545,27 @@
 8544	Certification of Knight of the Princess
 8545	Power Fuser
 8546	Divine Stone of the Storm
-8547	Ben.Diosa ☆ Pisces
+8547	Goddess' Gift ☆ Pisces
 8548	Divine Stone of the Storm
 8549	Cosmic Key
 8550	Skill Change [Squire]
-8551	Change of equipment [Squire]
+8551	Item Voucher [Squire]
 8552	Burning Soul
 8553	Fierce Soul
 8554	Skill Change [Squire]
-8555	Change of equipment [Squire]
+8555	Item Voucher [Squire]
 8556	Burning Soul
 8557	Fierce Soul
 8558	Black Star Crystal
 8559	Fragment of Stole
 8560	Bronze Blood
 8561	Skill Change [Squire]
-8562	Change of equipment [Squire]
+8562	Item Voucher [Squire]
 8563	Burning Soul
 8564	Fierce Soul
 8565	Black Star Crystal
 8566	Inventory Expansion
-8567	Ben.Diosa ☆ Taurus (II)
+8567	Goddess' Gift ☆ Taurus (II)
 8568	^a800ff Mini Pegasus Black x1 (4500 rating limit)
 8569	^e5872f Lymnades Basin x1
 8570	^e5872f Gema Fragment x9999
@@ -8581,24 +8581,24 @@
 8580	Cosmic Key
 8581	Relic Badge
 8582	Skill Change [Squire]
-8583	Change of equipment [Squire]
+8583	Item Voucher [Squire]
 8584	Burning Soul
 8585	Fierce Soul
 8586	Skill Change [Squire]
-8587	Change of equipment [Squire]
+8587	Item Voucher [Squire]
 8588	Burning Soul
 8589	Fierce Soul
 8590	Black Star Crystal
 8591	Fragment of Stole
 8592	Bronze Blood
-8593	Change of Ability [Squire]
-8594	Change of equipment [Squire]
+8593	Skill Change [Squire]
+8594	Item Voucher [Squire]
 8595	Burning Soul
 8596	Fierce Soul
 8597	Black Star Crystal
 8598	Inventory Expansion
 8599	Warehouse Expansion
-8600	Ben.Diosa ☆ Scorpio (III)
+8600	Goddess' Gift ☆ Scorpio (III)
 8601	^a800ff Mini Sorento x1 (4500 rating limit)
 8602	^ffff00Tour of Poseidon [Legend] x1
 8603	^e5872f Gema Shape x9999
@@ -8614,24 +8614,24 @@
 8613	Cosmic Key
 8614	Relic Insignia
 8615	Skill Change [Squire]
-8616	Change of equipment [Squire]
+8616	Item Voucher [Squire]
 8617	Burning Soul
 8618	Fierce Soul
-8619	Change of Ability [Squire]
-8620	Change of equipment [Squire]
+8619	Skill Change [Squire]
+8620	Item Voucher [Squire]
 8621	Burning Soul
 8622	Fierce Soul
 8623	Black Star Crystal
 8624	Fragment of Stole
 8625	Bronze Blood
 8626	Skill Change [Squire]
-8627	Change of equipment [Squire]
+8627	Item Voucher [Squire]
 8628	Burning Soul
 8629	Fierce Soul
 8630	Black Star Crystal
 8631	Inventory Expansion
 8632	Warehouse Expansion
-8633	Ben.Diosa ☆ Cancer (II)
+8633	Goddess' Gift ☆ Cancer (II)
 8634	^a800ff Mini Moses x1 (4500 rating limit)
 8635	^e5872f Blood of Scylla x1
 8636	^e5872f Gema Shape x9999
@@ -8646,25 +8646,25 @@
 8645	Divine Stone of the Storm
 8646	Cosmic Key
 8647	Relic Badge
-8648	Change of Ability [Squire]
-8649	Change of equipment [Squire]
+8648	Skill Change [Squire]
+8649	Item Voucher [Squire]
 8650	Burning Soul
 8651	Fierce Soul
-8652	Change of Ability [Squire]
-8653	Change of equipment [Squire]
+8652	Skill Change [Squire]
+8653	Item Voucher [Squire]
 8654	Burning Soul
 8655	Fierce Soul
 8656	Black Star Crystal
 8657	Fragment of Stole
 8658	Bronze Blood
-8659	Change of ability [Squire]
-8660	Change of equipment [Squire]
+8659	Skill Change [Squire]
+8660	Item Voucher [Squire]
 8661	Burning Soul
 8662	Fierce Soul
 8663	Black Star Crystal
 8664	Inventory Expansion
 8665	Warehouse Expansion
-8666	Ben.Diosa ☆ Capricorn (III)
+8666	Goddess' Gift ☆ Capricorn (III)
 8667	^a800ffMini Kanon x1 (4500 rating maximum limit)
 8668	^e5872fManager of Alraune x1
 8669	^e5872f Gema Fragment x9999
@@ -8680,24 +8680,24 @@
 8679	Cosmic Key
 8680	Insignia of the Divine Artifact
 8681	Skill Change [Squire]
-8682	Change of equipment [Squire]
+8682	Item Voucher [Squire]
 8683	Burning Soul
 8684	Fierce Soul
 8685	Skill Change [Squire]
-8686	Change of equipment [Squire]
+8686	Item Voucher [Squire]
 8687	Burning Soul
 8688	Fierce Soul
 8689	Black Star Crystal
 8690	Fragment of Stole
 8691	Silver Blood
 8692	Skill Change [Squire]
-8693	Change of equipment [Squire]
+8693	Item Voucher [Squire]
 8694	Burning Soul
 8695	Fierce Soul
 8696	Black Star Crystal
 8697	Authorization to extend Backpack
 8698	Authorization to extend Warehouse
-8699	Ben.Diosa ☆ Gemini (II)
+8699	Goddess' Gift ☆ Gemini (II)
 8700	^a800ff Mini Isaak x1 (4500 rating limit)
 8701	^e5872fMagnetic Flame x1
 8702	^e5872f Gema Shape x9999
@@ -8713,24 +8713,24 @@
 8712	Cosmic Key
 8713	Insignia of Relic
 8714	Skill Change [Squire]
-8715	Change of equipment [Squire]
+8715	Item Voucher [Squire]
 8716	Burning Soul
 8717	Fierce Soul
 8718	Skill Change [Squire]
-8719	Change of equipment [Squire]
+8719	Item Voucher [Squire]
 8720	Burning Soul
 8721	Fierce Soul
 8722	Black Star Crystal
 8723	Fragment of Stole
 8724	Bronze Blood
 8725	Change of skill [Squire]
-8726	Change of equipment [Squire]
+8726	Item Voucher [Squire]
 8727	Burning Soul
 8728	Fierce Soul
 8729	Black Star Crystal
 8730	Inventory Expansion
 8731	Warehouse Expansion
-8732	Ben.Diosa ☆ Virgo (II)
+8732	Goddess' Gift ☆ Virgo (II)
 8733	^a800ff Mini Dante x1 (4500 rating limit)
 8734	^e5872 Intensive Kraken x1
 8735	^e5872f Gema Shape x9999
@@ -8745,25 +8745,25 @@
 8744	Divine Stone of the Storm
 8745	Cosmic Key
 8746	Insignia of Relic
-8747	Change of Ability [Squire]
-8748	Change of equipment [Squire]
+8747	Skill Change [Squire]
+8748	Item Voucher [Squire]
 8749	Burning Soul
 8750	Fierce Soul
 8751	Skill Change [Squire]
-8752	Change of equipment [Squire]
+8752	Item Voucher [Squire]
 8753	Burning Soul
 8754	Fierce Soul
 8755	Black Star Crystal
 8756	Fragment of Stole
 8757	Bronze Blood
 8758	Skill Change [Squire]
-8759	Change of equipment [Squire]
+8759	Item Voucher [Squire]
 8760	Burning Soul
 8761	Fierce Soul
 8762	Black Star Crystal
 8763	Inventory Expansion
 8764	Warehouse Expansion
-8765	Ben.Diosa ☆ Sagittarius (III)
+8765	Goddess' Gift ☆ Sagittarius (III)
 8766	^a800ffShunrei Q Version (4500 rating maximum)
 8767	^e5872fRemo of Acheron x1
 8768	^e5872f Gema Fragment x9999
@@ -8779,24 +8779,24 @@
 8778	Cosmic Key
 8779	Insignia of the Divine Artifact
 8780	Change of skill [Squire]
-8781	Change of equipment [Squire]
+8781	Item Voucher [Squire]
 8782	Burning Soul
 8783	Fierce Soul
 8784	Skill Change [Squire]
-8785	Change of equipment [Squire]
+8785	Item Voucher [Squire]
 8786	Burning Soul
 8787	Fierce Soul
 8788	Black Star Crystal
 8789	Fragment of Stole
 8790	Silver Blood
-8791	Change of Ability [Squire]
-8792	Change of equipment [Squire]
+8791	Skill Change [Squire]
+8792	Item Voucher [Squire]
 8793	Burning Soul
 8794	Fierce Soul
 8795	Black Star Crystal
 8796	Authorization to extend Backpack
 8797	Authorization to extend Warehouse
-8798	Ben.Diosa ☆ Libra (II)
+8798	Goddess' Gift ☆ Libra (II)
 8799	^a800ff Mini Dragon NEGRO x1 (4500 skill limit)
 8800	^e5872fViolence of Dragon of the Sea x1
 8801	^e5872f Gemstone Shape x9999
@@ -8812,24 +8812,24 @@
 8811	Cosmic Key
 8812	Insignia of Relic
 8813	Skill Change [Squire]
-8814	Change of equipment [Squire]
+8814	Item Voucher [Squire]
 8815	Burning Soul
 8816	Fierce Soul
-8817	Change of Ability [Squire]
-8818	Change of equipment [Squire]
+8817	Skill Change [Squire]
+8818	Item Voucher [Squire]
 8819	Burning Soul
 8820	Fierce Soul
 8821	Black Star Crystal
 8822	Fragment of Stole
 8823	Bronze Blood
-8824	Change of Ability [Squire]
-8825	Change of equipment [Squire]
+8824	Skill Change [Squire]
+8825	Item Voucher [Squire]
 8826	Burning Soul
 8827	Fierce Soul
 8828	Black Star Crystal
 8829	Inventory Expansion
 8830	Warehouse Expansion
-8831	Ben.Diosa ☆ Leo (II)
+8831	Goddess' Gift ☆ Leo (II)
 8832	^a800ff Mini Black Phoenix x1 (4500 rating limit)
 8833	^e5872f Wisdom Ring of Crisaor x1
 8834	^e5872f Gema Fragment x9999
@@ -8844,25 +8844,25 @@
 8843	Divine Stone of the Storm
 8844	Cosmic Key
 8845	Insignia of Relic
-8846	Change of Ability [Squire]
-8847	Change of equipment [Squire]
+8846	Skill Change [Squire]
+8847	Item Voucher [Squire]
 8848	Burning Soul
 8849	Fierce Soul
-8850	Change of Ability [Squire]
-8851	Change of equipment [Squire]
+8850	Skill Change [Squire]
+8851	Item Voucher [Squire]
 8852	Burning Soul
 8853	Fierce Soul
 8854	Black Star Crystal
 8855	Fragment of Stole
 8856	Bronze Blood
 8857	Skill Change [Squire]
-8858	Change of equipment [Squire]
+8858	Item Voucher [Squire]
 8859	Burning Soul
 8860	Fierce Soul
 8861	Black Star Crystal
 8862	Inventory Expansion
 8863	Warehouse Expansion
-8864	Ben.Diosa ☆ Aries (II)
+8864	Goddess' Gift ☆ Aries (II)
 8865	^a800ff Mini Io x1 (4500 rating limit)
 8866	^ffff00Central of Athena [Legend] x1
 8867	^e5872f Gema Fragment x9999
@@ -8877,25 +8877,25 @@
 8876	Divine Stone of the Storm
 8877	Cosmic Key
 8878	Relic Badge
-8879	Change of Ability [Squire]
-8880	Change of equipment [Squire]
+8879	Skill Change [Squire]
+8880	Item Voucher [Squire]
 8881	Burning Soul
 8882	Fierce Soul
 8883	Skill Change [Squire]
-8884	Change of equipment [Squire]
+8884	Item Voucher [Squire]
 8885	Burning Soul
 8886	Fierce Soul
 8887	Black Star Crystal
 8888	Fragment of Stole
 8889	Bronze Blood
 8890	Skill Change [Squire]
-8891	Change of equipment [Squire]
+8891	Item Voucher [Squire]
 8892	Burning Soul
 8893	Fierce Soul
 8894	Black Star Crystal
 8895	Inventory Expansion
 8896	Warehouse Expansion
-8897	Ben.Diosa ☆ Tanabata
+8897	Goddess' Gift ☆ Tanabata
 8898	^a800ff star Tanabata x1 (maximum qualification limit 4000)
 8899	^a800ff Tanabata's mother star x1 (maximum qualification limit 4000)
 8900	^a800ff flowers X999
@@ -8912,7 +8912,7 @@
 8911	Fragment of Stool x50
 8912	Bronze Blood x10
 8913	Skill Change [Squire] x1
-8914	Change of equipment [Squire] x6
+8914	Item Voucher [Squire] x6
 8915	Burning Soul x1
 8916	Fierce Soul x1
 8917	Black Star Crystal x25
@@ -8928,7 +8928,7 @@
 8927	Star Tote Bag II x1
 8928	Condensed Star Light x5
 8929	Hyper Potion IV x1
-8930	Ben.Diosa ☆ Scorpio (IV)
+8930	Goddess' Gift ☆ Scorpio (IV)
 8931	^a800ffMini Worm x1 (Practice max 4500)
 8932	^e5872fDohko: Libra Shield x1
 8933	^e5872f Gema Shape x9999
@@ -8993,7 +8993,7 @@
 8992	Alraune Challenge Coupon
 8993	Fragment of Stole
 8994	Condensed Meteorite
-8995	Change of Ability [Squire]
+8995	Skill Change [Squire]
 8996	Blessing of the Goddess ☆ Sagittarius (IV)
 8997	^a800ffMini Shura x1 (Practice max 4500)
 8998	^e5872fTouro: Elmo Dourado x1
@@ -9059,7 +9059,7 @@
 9058	Alraune Challenge Coupon
 9059	Fragment of Stole
 9060	Condensed Meteorite
-9061	Change of Ability [Squire]
+9061	Skill Change [Squire]
 9062	Blessing of the Goddess ☆ Aquarius (IV)
 9063	^a800ffMini Aphrodite x1 (Practice max 4500)
 9064	^e5872fGirls: Gemini Object x1
@@ -9092,7 +9092,7 @@
 9091	Alraune Challenge Coupon
 9092	Fragment of Stole
 9093	Condensed Meteorite
-9094	Change of Ability [Squire]
+9094	Skill Change [Squire]
 9095	Blessing of the Goddess ☆ Libra (IV)
 9096	^a800ffMini Aioros x1 (Practice max 4500)
 9097	^e5872fDeus do Sono: Wings of Hypnos x1
@@ -9126,7 +9126,7 @@
 9125	Fragment of Stole
 9126	Condensed Meteorite
 9127	Skill Change [Squire]
-9128	Ben.Diosa ☆ Sagittarius
+9128	Goddess' Gift ☆ Sagittarius
 9129	^a800ff Squire: Snow Ball Doll x1 (red or purple)
 9130	^e5872fBeads of Virgo x1
 9131	^a800ffLights of Gold x999
@@ -9136,18 +9136,18 @@
 9135	Burning Soul
 9136	Fierce Soul
 9137	Skill Change [Squire]
-9138	Change of equipment [Squire]
+9138	Item Voucher [Squire]
 9139	Burning Soul
 9140	Fierce Soul
 9141	Skill Change [Squire]
-9142	Change of equipment [Squire]
+9142	Item Voucher [Squire]
 9143	Burning Soul
 9144	Fierce Soul
 9145	Black Star Crystal
 9146	Fragment of Stole
 9147	Bronze Blood
 9148	Change of skill [Squire]
-9149	Change of equipment [Squire]
+9149	Item Voucher [Squire]
 9150	Burning Soul
 9151	Fierce Soul
 9152	Black Star Crystal
@@ -9155,11 +9155,11 @@
 9154	Warehouse Expansion
 9155	Fragment of Stole
 9156	Black Star Jade
-9157	Change of equipment [Squire]
+9157	Item Voucher [Squire]
 9158	Book Oracle of Gold
 9159	Burning Soul
 9160	Fierce Soul
-9161	Ben.Diosa ☆ Aries
+9161	Goddess' Gift ☆ Aries
 9162	^a800ff Mini Nachi x1 (4500 rating limit)
 9163	^e5872Facuum of Aquarius x1
 9164	^a800ff Demon blood x999
@@ -9172,27 +9172,27 @@
 9171	Certification of Knight of the Princess
 9172	Energy Fuser
 9173	Divine Stone of the Storm
-9174	Ben.Diosa ☆ Pisces
+9174	Goddess' Gift ☆ Pisces
 9175	Divine Stone of the Storm
 9176	Cosmic Key
 9177	Skill Change [Squire]
-9178	Change of equipment [Squire]
+9178	Item Voucher [Squire]
 9179	Burning Soul
 9180	Fierce Soul
 9181	Skill Change [Squire]
-9182	Change of equipment [Squire]
+9182	Item Voucher [Squire]
 9183	Burning Soul
 9184	Fierce Soul
 9185	Black Star Crystal
 9186	Fragment of Stole
 9187	Bronze Blood
-9188	Change of Ability [Squire]
-9189	Change of equipment [Squire]
+9188	Skill Change [Squire]
+9189	Item Voucher [Squire]
 9190	Burning Soul
 9191	Fierce Soul
 9192	Black Star Crystal
 9193	Inventory Expansion
-9194	Ben.Diosa ☆ Aquarius
+9194	Goddess' Gift ☆ Aquarius
 9195	^a800ff Son of the God of Love Eros x1 (maximum qualification limit 4500)
 9196	^e5872f Pisces Rage x1
 9197	^a800ff Hades blood x999
@@ -9207,25 +9207,25 @@
 9206	Mark of the divine artifact
 9207	Sixth Lottery Period
 9208	Divine Stone of the Storm
-9209	Change of Ability [Squire]
-9210	Change of equipment [Squire]
+9209	Skill Change [Squire]
+9210	Item Voucher [Squire]
 9211	Burning Soul
 9212	Fierce Soul
 9213	Skill Change [Squire]
-9214	Change of equipment [Squire]
+9214	Item Voucher [Squire]
 9215	Burning Soul
 9216	Fierce Soul
 9217	Black Star Crystal
 9218	Fragment of Stole
 9219	Bronze Blood
 9220	Change of skill [Squire]
-9221	Change of equipment [Squire]
+9221	Item Voucher [Squire]
 9222	Burning Soul
 9223	Fierce Soul
 9224	Sixth Lottery Period
 9225	Inventory Expansion
 9226	Warehouse Expansion
-9227	Ben.Diosa ☆ Cancer
+9227	Goddess' Gift ☆ Cancer
 9228	^a800ff Mini Nachi x1 (4500 rating limit)
 9229	^e5872f Cancer Plans x1
 9230	^e5872f Gemstone Shape x9999
@@ -9241,24 +9241,24 @@
 9240	Cosmic Key
 9241	Insignia of Relic
 9242	Skill Change [Squire]
-9243	Change of equipment [Squire]
+9243	Item Voucher [Squire]
 9244	Burning Soul
 9245	Fierce Soul
 9246	Change of skill [Squire]
-9247	Change of equipment [Squire]
+9247	Item Voucher [Squire]
 9248	Burning Soul
 9249	Fierce Soul
 9250	Black Star Crystal
 9251	Fragment of Stole
 9252	Bronze Blood
 9253	Skill Change [Squire]
-9254	Change of equipment [Squire]
+9254	Item Voucher [Squire]
 9255	Burning Soul
 9256	Fierce Soul
 9257	Black Star Crystal
 9258	Expansion of Inventory
 9259	Warehouse Expansion
-9260	Ben.Diosa ☆ Capricorn (II)
+9260	Goddess' Gift ☆ Capricorn (II)
 9261	^a800ff Mini Tremy x1 (4500 rating limit)
 9262	^e5872f Divine Mariner of Aries x1
 9263	^e5872f Gema Fragment x9999
@@ -9274,24 +9274,24 @@
 9273	Cosmic Key
 9274	Relic Badge
 9275	Change of skill [Squire]
-9276	Change of equipment [Squire]
+9276	Item Voucher [Squire]
 9277	Burning Soul
 9278	Fierce Soul
 9279	Change of skill [Squire]
-9280	Change of equipment [Squire]
+9280	Item Voucher [Squire]
 9281	Burning Soul
 9282	Fierce Soul
 9283	Black Star Crystal
 9284	Fragment of Stole
 9285	Bronze Blood
 9286	Skill Change [Squire]
-9287	Change of equipment [Squire]
+9287	Item Voucher [Squire]
 9288	Burning Soul
 9289	Fierce Soul
 9290	Black Star Crystal
 9291	Inventory Expansion
 9292	Warehouse Expansion
-9293	Ben.Diosa ☆ Virgo
+9293	Goddess' Gift ☆ Virgo
 9294	^a800ff Marin Version x1 (maximum limit of 4500)
 9295	^e5872f Athena's Shield [Legend] x1
 9296	^e5872f Gema Shape x9999
@@ -9307,24 +9307,24 @@
 9306	Cosmic Key
 9307	Relic Badge
 9308	Skill Change [Squire]
-9309	Change of equipment [Squire]
+9309	Item Voucher [Squire]
 9310	Burning Soul
 9311	Fierce Soul
 9312	Skill Change [Squire]
-9313	Change of equipment [Squire]
+9313	Item Voucher [Squire]
 9314	Burning Soul
 9315	Fierce Soul
 9316	Black Star Crystal
 9317	Fragment of Stole
 9318	Bronze Blood
-9319	Change of Ability [Squire]
-9320	Change of equipment [Squire]
+9319	Skill Change [Squire]
+9320	Item Voucher [Squire]
 9321	Burning Soul
 9322	Fierce Soul
 9323	Black Star Crystal
 9324	Inventory Expansion
 9325	Warehouse Expansion
-9326	Ben.Diosa ☆ Leo
+9326	Goddess' Gift ☆ Leo
 9327	^a800ff June version x1 (4500 rating limit)
 9328	^e5872fColillo de Leo x1
 9329	^e5872f Gema Fragment x9999
@@ -9340,24 +9340,24 @@
 9339	Cosmic Key
 9340	Insignia of Relic
 9341	Skill Change [Squire]
-9342	Change of equipment [Squire]
+9342	Item Voucher [Squire]
 9343	Burning Soul
 9344	Fierce Soul
-9345	Change of Ability [Squire]
-9346	Change of equipment [Squire]
+9345	Skill Change [Squire]
+9346	Item Voucher [Squire]
 9347	Burning Soul
 9348	Fierce Soul
 9349	Black Star Crystal
 9350	Fragment of Stole
 9351	Bronze Blood
-9352	Change of Ability [Squire]
-9353	Change of equipment [Squire]
+9352	Skill Change [Squire]
+9353	Item Voucher [Squire]
 9354	Burning Soul
 9355	Fierce Soul
 9356	Black Star Crystal
 9357	Inventory Expansion
 9358	Warehouse Expansion
-9359	Ben.Diosa ☆ Scorpio (II)
+9359	Goddess' Gift ☆ Scorpio (II)
 9360	^a800ff Mini Jamian x1 (4500 rating limit)
 9361	^e5872fCold Gold Scorpion x1
 9362	^e5872f Gema Fragment x9999
@@ -9373,24 +9373,24 @@
 9372	Cosmic Key
 9373	Relic Badge
 9374	Change of skill [Squire]
-9375	Change of equipment [Squire]
+9375	Item Voucher [Squire]
 9376	Burning Soul
 9377	Fierce Soul
-9378	Change of Ability [Squire]
-9379	Change of equipment [Squire]
+9378	Skill Change [Squire]
+9379	Item Voucher [Squire]
 9380	Burning Soul
 9381	Fierce Soul
 9382	Black Star Crystal
 9383	Fragment of Stole
 9384	Bronze Blood
 9385	Skill Change [Squire]
-9386	Change of equipment [Squire]
+9386	Item Voucher [Squire]
 9387	Burning Soul
 9388	Fierce Soul
 9389	Black Star Crystal
 9390	Inventory Expansion
 9391	Warehouse Expansion
-9392	Ben.Diosa ☆ Aquarius (II)
+9392	Goddess' Gift ☆ Aquarius (II)
 9393	^a800ff Mini Algol (4500 rating limit)
 9394	^e5872fGolden Taurus Box x1
 9395	^e5872f Gema Fragment x9999
@@ -9406,24 +9406,24 @@
 9405	Cosmic Key
 9406	Insignia of Relic
 9407	Skill Change [Squire]
-9408	Change of equipment [Squire]
+9408	Item Voucher [Squire]
 9409	Burning Soul
 9410	Fierce Soul
 9411	Skill Change [Squire]
-9412	Change of equipment [Squire]
+9412	Item Voucher [Squire]
 9413	Burning Soul
 9414	Fierce Soul
 9415	Black Star Crystal
 9416	Fragment of Stole
 9417	Bronze Blood
 9418	Skill Change [Squire]
-9419	Change of equipment [Squire]
+9419	Item Voucher [Squire]
 9420	Burning Soul
 9421	Fierce Soul
 9422	Black Star Crystal
 9423	Inventory Expansion
 9424	Warehouse Expansion
-9425	Ben.Diosa ☆ Sagittarius (II)
+9425	Goddess' Gift ☆ Sagittarius (II)
 9426	^a800ff Mini Orpheus x1 (4500 rating limit)
 9427	^e5872fPlate Gold Lice x1
 9428	^e5872f Gema Fragment x9999
@@ -9438,25 +9438,25 @@
 9437	Divine Stone of the Storm
 9438	Cosmic Key
 9439	Relic Badge
-9440	Change of Ability [Squire]
-9441	Change of equipment [Squire]
+9440	Skill Change [Squire]
+9441	Item Voucher [Squire]
 9442	Burning Soul
 9443	Fierce Soul
 9444	Change of skill [Squire]
-9445	Change of equipment [Squire]
+9445	Item Voucher [Squire]
 9446	Burning Soul
 9447	Fierce Soul
 9448	Black Star Crystal
 9449	Fragment of Stole
 9450	Bronze Blood
 9451	Skill Change [Squire]
-9452	Change of equipment [Squire]
+9452	Item Voucher [Squire]
 9453	Burning Soul
 9454	Fierce Soul
 9455	Black Star Crystal
 9456	Inventory Expansion
 9457	Warehouse Expansion
-9458	Ben.Diosa ☆ Libra
+9458	Goddess' Gift ☆ Libra
 9459	^a800ff Mini Ichi x1 (4500 rating limit)
 9460	^e5872fNunchaku of Libra x1
 9461	^e5872f Gema Fragment x9999
@@ -9471,25 +9471,25 @@
 9470	Divine Stone of the Storm
 9471	Cosmic Key
 9472	Relic InsiInsignia
-9473	Change of Ability [Squire]
-9474	Change of equipment [Squire]
+9473	Skill Change [Squire]
+9474	Item Voucher [Squire]
 9475	Burning Soul
 9476	Fierce Soul
-9477	Change of Ability [Squire]
-9478	Change of equipment [Squire]
+9477	Skill Change [Squire]
+9478	Item Voucher [Squire]
 9479	Burning Soul
 9480	Fierce Soul
 9481	Black Star Crystal
 9482	Fragment of Stole
 9483	Bronze Blood
 9484	Skill Change [Squire]
-9485	Change of equipment [Squire]
+9485	Item Voucher [Squire]
 9486	Burning Soul
 9487	Fierce Soul
 9488	Black Star Crystal
 9489	Inventory Expansion
 9490	Warehouse Expansion
-9491	Ben.Diosa ☆ Gemini
+9491	Goddess' Gift ☆ Gemini
 9492	^e800ff Mini Geki x1 (4500 rating limit)
 9493	^e5872f Gemini mask x1
 9494	^e5872f Gema Fragment x9999
@@ -9502,22 +9502,22 @@
 9501	Certification of Knight of the Princess
 9502	Energy Fuser
 9503	Divine Stone of the Storm
-9504	Ben.Diosa ☆ Pisces
+9504	Goddess' Gift ☆ Pisces
 9505	Divine Stone of the Storm
 9506	Cosmic Key
 9507	Skill Change [Squire]
-9508	Change of equipment [Squire]
+9508	Item Voucher [Squire]
 9509	Burning Soul
 9510	Fierce Soul
 9511	Skill Change [Squire]
-9512	Change of equipment [Squire]
+9512	Item Voucher [Squire]
 9513	Burning Soul
 9514	Fierce Soul
 9515	Black Star Crystal
 9516	Fragment of Stole
 9517	Bronze Blood
 9518	Skill Change [Squire]
-9519	Change of equipment [Squire]
+9519	Item Voucher [Squire]
 9520	Burning Soul
 9521	Fierce Soul
 9522	Black Star Crystal
@@ -9653,7 +9653,7 @@
 9652	Alraune Challenge Coupon
 9653	Fragment of Stole
 9654	Condensed Meteorite
-9655	Change of Ability [Squire]
+9655	Skill Change [Squire]
 9656	Blessing of the Goddess ☆ Aquarius (IV)
 9657	^a800ffBên. of the Goddess ☆ Pandora (Lim. of Practice: 4500)
 9658	^e5872fDeep: Infernal Shoulder Pad x1
@@ -9850,8 +9850,8 @@
 9849	Alraune Challenge Coupon
 9850	Fragment of Stole
 9851	Condensed Meteorite
-9852	Change of Ability [Squire]
-9853	Ben.Diosa ☆ Scorpio
+9852	Skill Change [Squire]
+9853	Goddess' Gift ☆ Scorpio
 9854	^a800ff Squire: Q Soldier version of the Sanctuary x1
 9855	^e5872f Medusa's Shield of Perseus x1
 9856	^a800ff Spiritual Source I x999
@@ -9861,18 +9861,18 @@
 9860	Burning Soul
 9861	Fierce Soul
 9862	Skill Change [Squire]
-9863	Change of equipment [Squire]
+9863	Item Voucher [Squire]
 9864	Burning Soul
 9865	Fierce Soul
-9866	Change of ability [Squire]
-9867	Change of equipment [Squire]
+9866	Skill Change [Squire]
+9867	Item Voucher [Squire]
 9868	Burning Soul
 9869	Fierce Soul
 9870	Black Star Crystal
 9871	Fragment of Stole
 9872	Bronze Blood
-9873	Change of Ability [Squire]
-9874	Change of equipment [Squire]
+9873	Skill Change [Squire]
+9874	Item Voucher [Squire]
 9875	Burning Soul
 9876	Fierce Soul
 9877	Black Star Crystal
@@ -9880,11 +9880,11 @@
 9879	Warehouse Expansion
 9880	Fragment of Stole
 9881	Black Star Jade
-9882	Change of equipment [Squire]
+9882	Item Voucher [Squire]
 9883	Book Oracle Gold
 9884	Burning Soul
 9885	Fierce Soul
-9886	Ben.Diosa ☆ Newcomer
+9886	Goddess' Gift ☆ Newcomer
 9887	^a800ffDark demon (perfect) x1
 9888	^e5872fDigital Artifact Symbol x1
 9889	^e5872f Gemstone Shape x9999
@@ -9903,21 +9903,21 @@
 9902	Classic Mount Badge
 9903	Insignia of the Classic Protective Constellation
 9904	Skill Change [Squire]
-9905	Change of equipment [Squire]
+9905	Item Voucher [Squire]
 9906	Burning Soul
 9907	Fierce Soul
 9908	Skill Change [Squire]
-9909	Change of equipment [Squire]
+9909	Item Voucher [Squire]
 9910	Burning Soul
 9911	Fierce Soul
 9912	Black Star Crystal
 9913	Fragment of Stole
 9914	Silver Blood
 9915	Skill Change [Squire]
-9916	Change of equipment [Squire]
+9916	Item Voucher [Squire]
 9917	Burning Soul
 9918	Fierce Soul
-9919	Ben.Diosa ☆ New Year
+9919	Goddess' Gift ☆ New Year
 9920	^a800ff Mini Algol (4500 rating limit)
 9921	^e5872f Taurus Gold Cup x1
 9922	^a800ff Garden party of wind, rain and deer x1
@@ -9932,19 +9932,19 @@
 9931	Divine Stone of the Storm
 9932	Cosmic Key
 9933	Relic Badge
-9934	Change of Ability [Squire]
-9935	Change of equipment [Squire]
+9934	Skill Change [Squire]
+9935	Item Voucher [Squire]
 9936	Burning Soul
 9937	Fierce Soul
 9938	Skill Change [Squire]
-9939	Change of equipment [Squire]
+9939	Item Voucher [Squire]
 9940	Burning Soul
 9941	Fierce Soul
 9942	Black Star Crystal
 9943	Fragment of Stole
 9944	Bronze Blood
 9945	Skill Change [Squire]
-9946	Change of equipment [Squire]
+9946	Item Voucher [Squire]
 9947	Burning Soul
 9948	Fierce Soul
 9949	Black Star Crystal
@@ -9978,11 +9978,11 @@
 9977	^a800ff flowers X999
 9978	^a800ff Chimera · deThor x1: Change of flying frame
 9979	^a800ff too many big random prizes
-9980	Change of equipment [Squire] x60
+9980	Item Voucher [Squire] x60
 9981	Burning Soul x8
 9982	Fierce Soul x8
 9983	Skill Change [Squire] x3
-9984	Ben.Diosa ☆ Virgo
+9984	Goddess' Gift ☆ Virgo
 9985	^a800ff Mini Marin x1 (4500 rating limit)
 9986	^e5872fBeads of Virgo x1
 9987	^e5872f Gemstone Shape x9999
@@ -10002,20 +10002,20 @@
 10001	Burning Soul
 10002	Fierce Soul
 10003	Skill Change [Squire]
-10004	Change of equipment [Squire]
+10004	Item Voucher [Squire]
 10005	Burning Soul
 10006	Fierce Soul
 10007	Black Star Crystal
 10008	Fragment of Stole
 10009	Bronze Blood
 10010	Skill Change [Squire]
-10011	Change of equipment [Squire]
+10011	Item Voucher [Squire]
 10012	Burning Soul
 10013	Fierce Soul
 10014	Black Star Crystal
 10015	Inventory Expansion
 10016	Warehouse Expansion
-10017	Ben.Diosa ☆ Pisces
+10017	Goddess' Gift ☆ Pisces
 10018	^a800ff Sirens x1 (4500 rating limit)
 10019	^e5872fExcalibur of Capricorn x1
 10020	^a800ffLight Sacred Gold x999
@@ -10028,22 +10028,22 @@
 10027	Certification of Knight of the Princess
 10028	Power Fuser
 10029	Divine Stone of the Storm
-10030	Ben.Diosa ☆ Pisces
+10030	Goddess' Gift ☆ Pisces
 10031	Divine Stone of the Storm
 10032	Cosmic Key
-10033	Change of Ability [Squire]
-10034	Change of equipment [Squire]
+10033	Skill Change [Squire]
+10034	Item Voucher [Squire]
 10035	Burning Soul
 10036	Fierce Soul
-10037	Change of Ability [Squire]
-10038	Change of equipment [Squire]
+10037	Skill Change [Squire]
+10038	Item Voucher [Squire]
 10039	Burning Soul
 10040	Fierce Soul
 10041	Black Star Crystal
 10042	Fragment of Stole
 10043	Bronze Blood
-10044	Change of ability [Squire]
-10045	Change of equipment [Squire]
+10044	Skill Change [Squire]
+10045	Item Voucher [Squire]
 10046	Burning Soul
 10047	Fierce Soul
 10048	Black Star Crystal
@@ -10064,24 +10064,24 @@
 10063	Cosmic Key
 10064	Relic Badge
 10065	Skill Change [Squire]
-10066	Change of equipment [Squire]
+10066	Item Voucher [Squire]
 10067	Burning Soul
 10068	Fierce Soul
-10069	Change of Ability [Squire]
-10070	Change of equipment [Squire]
+10069	Skill Change [Squire]
+10070	Item Voucher [Squire]
 10071	Burning Soul
 10072	Fierce Soul
 10073	Black Star Crystal
 10074	Fragment of Stole
 10075	Bronze Blood
-10076	Change of Ability [Squire]
-10077	Change of equipment [Squire]
+10076	Skill Change [Squire]
+10077	Item Voucher [Squire]
 10078	Burning Soul
 10079	Fierce Soul
 10080	Black Star Crystal
 10081	Inventory Expansion
 10082	Warehouse Expansion
-10083	Ben.Diosa ☆ Taurus
+10083	Goddess' Gift ☆ Taurus
 10084	^a800ff Mini Ban x1 (4500 rating limit)
 10085	^e5872f Sagittarius x1
 10086	^e5872fBurning Soul x999
@@ -10094,27 +10094,27 @@
 10093	Certification of Knight of the Princess
 10094	Power Fuser
 10095	Divine Stone of the Storm
-10096	Ben.Diosa ☆ Pisces
+10096	Goddess' Gift ☆ Pisces
 10097	Divine Stone of the Storm
 10098	Cosmic Key
-10099	Change of Ability [Squire]
+10099	Skill Change [Squire]
 10100	Change Equipment [Squire]
 10101	Burning Soul
 10102	Fierce Soul
-10103	Change of ability [Squire]
-10104	Change of equipment [Squire]
+10103	Skill Change [Squire]
+10104	Item Voucher [Squire]
 10105	Burning Soul
 10106	Fierce Soul
 10107	Black Star Crystal
 10108	Fragment of Stole
 10109	Bronze Blood
 10110	Change of skill [Squire]
-10111	Change of equipment [Squire]
+10111	Item Voucher [Squire]
 10112	Burning Soul
 10113	Fierce Soul
 10114	Black Star Crystal
 10115	Inventory Expansion
-10116	Ben.Diosa ☆ Libra
+10116	Goddess' Gift ☆ Libra
 10117	^a800ff Mini Ichi x1 (4500 rating limit)
 10118	^e5872fNunchaku of Libra x1
 10119	^e5872f Gema Fragment x9999
@@ -10130,24 +10130,24 @@
 10129	Cosmic Key
 10130	Relic Badge
 10131	Change of skill [Squire]
-10132	Change of equipment [Squire]
+10132	Item Voucher [Squire]
 10133	Burning Soul
 10134	Fierce Soul
 10135	Change of skill [Squire]
-10136	Change of equipment [Squire]
+10136	Item Voucher [Squire]
 10137	Burning Soul
 10138	Fierce Soul
 10139	Black Star Crystal
 10140	Fragment of Stole
 10141	Bronze Blood
-10142	Change of Ability [Squire]
-10143	Change of equipment [Squire]
+10142	Skill Change [Squire]
+10143	Item Voucher [Squire]
 10144	Burning Soul
 10145	Fierce Soul
 10146	Black Star Crystal
 10147	Inventory Expansion
 10148	Warehouse Expansion
-10149	Ben.Diosa ☆ Capricorn (II)
+10149	Goddess' Gift ☆ Capricorn (II)
 10150	^a800ff Mini Tremy x1 (4500 rating limit)
 10151	^e5872f Divine Mariner of Aries x1
 10152	^e5872f Gema Shape x9999
@@ -10163,24 +10163,24 @@
 10162	Cosmic Key
 10163	Relic Insignia
 10164	Change of skill [Squire]
-10165	Change of equipment [Squire]
+10165	Item Voucher [Squire]
 10166	Burning Soul
 10167	Fierce Soul
-10168	Change of Ability [Squire]
-10169	Change of equipment [Squire]
+10168	Skill Change [Squire]
+10169	Item Voucher [Squire]
 10170	Burning Soul
 10171	Fierce Soul
 10172	Black Star Crystal
 10173	Fragment of Stole
 10174	Bronze Blood
 10175	Change skill [Squire]
-10176	Change of equipment [Squire]
+10176	Item Voucher [Squire]
 10177	Burning Soul
 10178	Fierce Soul
 10179	Black Star Crystal
 10180	Inventory Expansion
 10181	Warehouse Expansion
-10182	Ben.Diosa ☆ Aries
+10182	Goddess' Gift ☆ Aries
 10183	^a800ff Mini Jabu x1 (upper limit of 4500 qualification)
 10184	^e5872Facuum of Aquarius x1
 10185	^a800ff Demon blood x999
@@ -10193,27 +10193,27 @@
 10192	Certification of Knight of the Princess
 10193	Energy Fuser
 10194	Divine Stone of the Storm
-10195	Ben.Diosa ☆ Pisces
+10195	Goddess' Gift ☆ Pisces
 10196	Divine Stone of the Storm
 10197	Cosmic Key
 10198	Change of skill [Squire]
-10199	Change of equipment [Squire]
+10199	Item Voucher [Squire]
 10200	Burning Soul
 10201	Fierce Soul
 10202	Skill Change [Squire]
-10203	Change of equipment [Squire]
+10203	Item Voucher [Squire]
 10204	Burning Soul
 10205	Fierce Soul
 10206	Black Star Crystal
 10207	Fragment of Stole
 10208	Bronze Blood
 10209	Change of skill [Squire]
-10210	Change of equipment [Squire]
+10210	Item Voucher [Squire]
 10211	Burning Soul
 10212	Fierce Soul
 10213	Black Star Crystal
 10214	Inventory Expansion
-10215	Ben.Diosa ☆ Aquarius
+10215	Goddess' Gift ☆ Aquarius
 10216	^a800ff Son of the God of Love Eros x1 (maximum qualification limit 4500)
 10217	^e5872Fray of Pisces x1
 10218	^a800ff Hades blood x999
@@ -10229,24 +10229,24 @@
 10228	Sixth Lottery Period
 10229	Divine Stone of the Storm
 10230	Change of skill [Squire]
-10231	Change of equipment [Squire]
+10231	Item Voucher [Squire]
 10232	Burning Soul
 10233	Fierce Soul
 10234	Skill Change [Squire]
-10235	Change of equipment [Squire]
+10235	Item Voucher [Squire]
 10236	Burning Soul
 10237	Fierce Soul
 10238	Black Star Crystal
 10239	Fragment of Stole
 10240	Bronze Blood
 10241	Change of skill [Squire]
-10242	Change of equipment [Squire]
+10242	Item Voucher [Squire]
 10243	Burning Soul
 10244	Fierce Soul
 10245	Sixth Lottery Period
 10246	Inventory Expansion
 10247	Warehouse Expansion
-10248	Ben.Diosa ☆ Cancer
+10248	Goddess' Gift ☆ Cancer
 10249	^a800ff Mini Nachi x1 (4500 rating limit)
 10250	^e5872f Cancer Plans x1
 10251	^e5872f Gemstone Shape x9999
@@ -10261,25 +10261,25 @@
 10260	Divine Stone of the Storm
 10261	Cosmic Key
 10262	Relic Badge
-10263	Change of Ability [Squire]
-10264	Change of equipment [Squire]
+10263	Skill Change [Squire]
+10264	Item Voucher [Squire]
 10265	Burning Soul
 10266	Fierce Soul
 10267	Change of skill [Squire]
-10268	Change of equipment [Squire]
+10268	Item Voucher [Squire]
 10269	Burning Soul
 10270	Fierce Soul
 10271	Black Star Crystal
 10272	Fragment of Stole
 10273	Bronze Blood
-10274	Change of Ability [Squire]
+10274	Skill Change [Squire]
 10275	Change equipment [Squire]
 10276	Burning Soul
 10277	Fierce Soul
 10278	Black Star Crystal
 10279	Inventory Expansion
 10280	Warehouse Expansion
-10281	Ben.Diosa ☆ Leo
+10281	Goddess' Gift ☆ Leo
 10282	^a800ffQ June version x1 (4500 rating limit)
 10283	^e5872fColillo de Leo x1
 10284	^e5872f Gema Shape x9999
@@ -10295,24 +10295,24 @@
 10294	Cosmic Key
 10295	Relic Badge
 10296	Change of skill [Squire]
-10297	Change of equipment [Squire]
+10297	Item Voucher [Squire]
 10298	Burning Soul
 10299	Fierce Soul
 10300	Skill Change [Squire]
-10301	Change of equipment [Squire]
+10301	Item Voucher [Squire]
 10302	Burning Soul
 10303	Fierce Soul
 10304	Black Star Crystal
 10305	Fragment of Stole
 10306	Bronze Blood
 10307	Skill Change [Squire]
-10308	Change of equipment [Squire]
+10308	Item Voucher [Squire]
 10309	Burning Soul
 10310	Fierce Soul
 10311	Black Star Crystal
 10312	Expansion of Inventory
 10313	Warehouse Expansion
-10314	Ben.Diosa ☆ Gemini
+10314	Goddess' Gift ☆ Gemini
 10315	^a800ff Mini command x1 (4500 rating limit)
 10316	^e5872f Gemini mask x1
 10317	^e5872f Gema Fragment x9999
@@ -10325,27 +10325,27 @@
 10324	Certification of Knight of the Princess
 10325	Power Fuser
 10326	Divine Stone of the Storm
-10327	Ben.Diosa ☆ Pisces
+10327	Goddess' Gift ☆ Pisces
 10328	Divine Stone of the Storm
 10329	Cosmic Key
 10330	Change of skill [Squire]
-10331	Change of equipment [Squire]
+10331	Item Voucher [Squire]
 10332	Burning Soul
 10333	Fierce Soul
-10334	Change of Ability [Squire]
-10335	Change of equipment [Squire]
+10334	Skill Change [Squire]
+10335	Item Voucher [Squire]
 10336	Burning Soul
 10337	Fierce Soul
 10338	Black Star Crystal
 10339	Fragment of Stole
 10340	Bronze Blood
-10341	Change of Ability [Squire]
+10341	Skill Change [Squire]
 10342	Change equipment [Squire]
 10343	Burning Soul
 10344	Fierce Soul
 10345	Black Star Crystal
 10346	Inventory Expansion
-10347	Ben.Diosa ☆ Sagittarius (II)
+10347	Goddess' Gift ☆ Sagittarius (II)
 10348	^a800ff Mini Orpheus x1 (4500 rating limit)
 10349	^e5872fGray Gold Liaison x1
 10350	^e5872f Gema Fragment x9999
@@ -10360,19 +10360,19 @@
 10359	Divine Stone of the Storm
 10360	Cosmic Key
 10361	Relic Badge
-10362	Change of Ability [Squire]
-10363	Change of equipment [Squire]
+10362	Skill Change [Squire]
+10363	Item Voucher [Squire]
 10364	Burning Soul
 10365	Fierce Soul
 10366	Change of skill [Squire]
-10367	Change of equipment [Squire]
+10367	Item Voucher [Squire]
 10368	Burning Soul
 10369	Fierce Soul
 10370	Black Star Crystal
 10371	Fragment of Stole
 10372	Bronze Blood
 10373	Change of skill [Squire]
-10374	Change of equipment [Squire]
+10374	Item Voucher [Squire]
 10375	Burning Soul
 10376	Fierce Soul
 10377	Black Star Crystal
@@ -10394,18 +10394,18 @@
 10393	Cosmic Key
 10394	Insignia of Relic
 10395	Skill Change [Squire]
-10396	Change of equipment [Squire]
+10396	Item Voucher [Squire]
 10397	Burning Soul
 10398	Fierce Soul
 10399	Skill Change [Squire]
-10400	Change of equipment [Squire]
+10400	Item Voucher [Squire]
 10401	Burning Soul
 10402	Fierce Soul
 10403	Black Star Crystal
 10404	Fragment of Stole
 10405	Bronze Blood
 10406	​​Change of skill [Squire]
-10407	Change of equipment [Squire]
+10407	Item Voucher [Squire]
 10408	Burning Soul
 10409	Fierce Soul
 10410	Black Star Crystal

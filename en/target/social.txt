@@ -1,5 +1,5 @@
 0	/Current
-1	/Group
+1	/party
 2	/Friends
 3	/Colleagues
 4	/MP
@@ -36,7 +36,7 @@
 35	Friendship: %s
 36	Degree of friendship: %d / 10000
 37	The number of groups of friends reached the maximum limit
-38	Please, indicate a name for your group of friends:
+38	Please, indicate a name for your party of friends:
 39	Create group
 40	Move Friend
 41	Click on the list to select a group of friends
@@ -94,56 +94,56 @@
 93	Favorite
 94	It is not a relationship of intimate friendship
 95	It is not a company relationship
-96	Invitation to form a group
-97	Application to enter the group
-98	The request to enter the group has already been delivered to the Captain of the opposing group, please wait for the answer.
-99	You sent a request to form a group, please wait until the other party answers ...
+96	Invitation to form a party
+97	Application to enter the party
+98	The request to enter the party has already been delivered to the Captain of the opposing party, please wait for the answer.
+99	You sent a request to form a party, please wait until the other party answers ...
 100	%s is your teammate, it is not possible to invite him to form a team.
 101	You can not invite yourself.
-102	&%s& ( %s %s) invites you to join the group, do you accept the invitation? \rSummary of collecting items: for items of quality %s or lower, use the %s method
-103	&%s& ( %s %s) request group union, do you agree?
-104	&%s& invited &%s& to join the group, do you agree?
+102	&%s& ( %s %s) invites you to join the party, do you accept the invitation? \rSummary of collecting items: for items of quality %s or lower, use the %s method
+103	&%s& ( %s %s) request party union, do you agree?
+104	&%s& invited &%s& to join the party, do you agree?
 105	The Captain agreed to his invitation for %s
 106	The Captain rejected his invitation for %s
-107	%s invited him to join the group, but this request was ignored, as he has exceeded the time
+107	%s invited him to join the party, but this request was ignored, as he has exceeded the time
 108	The invitation to form a team exceeded the time limit, the other party did not answer
 109	The invitation to team up exceeded the time limit; his Captain did not answer.
-110	&%s& invited &%s& to enter the group, but this request was ignored, it exceeded the time
-111	You are already in a group, it is not possible to accept the invitation to be part of the team of other groups
+110	&%s& invited &%s& to enter the party, but this request was ignored, it exceeded the time
+111	You are already in a party, it is not possible to accept the invitation to be part of the team of other groups
 112	%s offline
 113	%s online
 114	%s changed to this line
 115	%s changed for %s
 116	%s was promoted to Captain
-117	%s left the group
+117	%s left the party
 118	%s left the team and %s was promoted to Captain
 119	%s promoted %s to Captain
-120	%s was eliminated from the group
-121	More than half (including half) of the members agree that %s be expelled from the group
+120	%s were kicked from the party
+121	More than half (including half) of the members agree that %s be expelled from the party
 122	The team was undone
-123	&%s& was added to the group
+123	&%s& was added to the party
 124	&%s& thank you, but reject your invitation
 125	&%s& obtained %d units of %s
-126	%s asked to enter the group, but the number of group members is already complete.
-127	%s invited you to join the group, but currently you have already formed a team.
-128	%s rejected the group distribution form of the new proposal!
+126	%s asked to enter the party, but the number of party members is already complete.
+127	%s invited you to join the party, but currently you have already formed a team.
+128	%s rejected the party distribution form of the new proposal!
 129	Pick up freely
 130	The Captain changed the way to collect items: for quality items %s or low, use the %s method
-131	%s asked to enter the group, but this request has been ignored, because it exceeded the time
+131	%s asked to enter the party, but this request has been ignored, because it exceeded the time
 132	The request to form a team exceeded the time limit; the other party did not answer.
-133	How to collect items from the group in which you are: for quality article %s or below, use the %s method
-134	Are you sure you want to leave or undo the group?
-135	It is not possible to find the group
+133	How to collect items from the party in which you are: for quality article %s or below, use the %s method
+134	Are you sure you want to leave or undo the party?
+135	It is not possible to find the party
 136	Confirm
 137	Not Confirmed
 138	Reject
 139	This player
 140	%d meters
-141	The Captain wants to expel %s from the group, do you agree?
+141	The Captain wants to expel %s from the party, do you agree?
 142	This teammate is not online, it is not possible to find the path automatically
 143	This teammate is in an unknown location, it is not possible to find the path automatically
 144	%s Requested that all members be in [ %s] to meet, do you want to leave immediately?
-145	Meeting notice sent successfully to group members
+145	Meeting notice sent successfully to party members
 146	%s are in line to participate in %s %s
 147	Countdown waiting for the player to enter the field: %s
 148	Countdown to this competition:
@@ -153,8 +153,8 @@
 152	Team Victory Blue
 153	Draw
 154	Do you want to leave the Multiserver area?
-155	%s and %s will change group
-156	%s was changed for another group
+155	%s and %s will change party
+156	%s was changed for another party
 157	Open troop news interface
 158	The Captain who is at level %d or above can create a troop
 159	It is not possible to locate the troop
@@ -170,13 +170,13 @@
 169	It is not possible to undo a troop in the middle of the Instance Zone.
 170	Raid
 171	%s is not online.
-172	The group in which %s is found is complete!
-173	The group in which %s is found is non-existent!
-174	The captain of the opposing group is not online!
-175	%s rejected your request for group formation.
-176	%s rejected your request for group formation.
-177	%s already entered another group.
-178	You can not form a group in the Coliseum
+172	The party in which %s is found is complete!
+173	The party in which %s is found is non-existent!
+174	The captain of the opposing party is not online!
+175	%s rejected your request for party formation.
+176	%s rejected your request for party formation.
+177	%s already entered another party.
+178	You can not form a party in the Coliseum
 179	Target is in the Colosseum, fails in the invitation for team formation
 180	The vote for the expulsion has already been opened
 181	The vote has not yet received the vote of more than half of the members of the team
@@ -198,18 +198,18 @@
 197	Battlefield not found
 198	It is not possible to enter
 199	Closed battlefield
-200	A. The Ruins of the God of War only supports, temporarily, Multiserver 5v5 Competition, and registered players need to reach level 90B. Ruins of the God of War will be opened in a different period every day. A) Differentiate individual enrollment period, team formation enrollment period, as well as the closing period. B) During the individual enrollment period, the player only you can register with your own name, and the system will search and integrate you with a group of 5 peoplec) During the registration period for team formation, the player registers as a group, and only the Captain can click on the registration button) In team registrations, all members are required to reach level 90. If the group has 5 people, the number of people with the same Constellation can not be greater than 2. There is no strict requirement on the member of the team. equipment that is in a period of penalty for flight. The system will proceed with the combination of the agreement with the Player's Coliseum Fighting Power; this Power of Struggle will be altered according to the highest Wrestling Power Index of the player's history, as well as the frequency of victory.) In the team's training registration, the system will do its best to combine groups with Wrestling Power of the Coliseum that are similar b) If, after a long period, you can not find an opponent that matches the requirements, the search field will be expandedD. A little after the inscriptions, after the system finishes the combinations and all the players send the invitations, all of them will have a time of 60s to click on confirm) After all the players confirm, teleportation begins to enter the camp b) If the player refuses to click and the combination fails, the player will suffer a penalty for fleeing, and the other players will continue in formation as before.) The player who suffers a penalty for flight will not be able to register again for 15 minutes and, At the same time, a certain value of EXP of Competition will be discounted. In this month, the greater the number of times that was penalized by flight, the greater the EXP of competition that will be discounted at a time. ( Please be careful) The player who is inside the Colosseum, for having left him for certain reasons, caused the enemy's victory, which is equivalent to giving a penalty for flight. When the player is entering the team building Coliseum, a part of the BUFF will be cleaned, inhibiting the effect of resistance medicine and clothing resistance. At the same time, it prohibits the use of a part of drugs. In the Ruins of the God of War, it does not matter if they lose or win, all players will get a defined Competition EXP and Reputation of the Competition prize. A) All week, the system will close the Competition EXP count once the player has improvements in the function of the corresponding level, according to the player's EXP Index, at the moment. b) The level of Competition has a total of 15 levels, and the corresponding EXP Index required follows: 1. Competition EXP needed for Level 1:02. Required Competition EXP for Level 2: 2003. Required Competition EXP for Level 3: 7004. Required Competition EXP for Level 4: 15005. Required Competition EXP for Level 5: Competition 26006.EXP necessary for the Level 6: Required Competition 40007.EXP for Level 7: 57008.EXP of Required Competition for Level 8: 77009.EXP of Required Competition for Level 9: 1000010.EXP of Required Competition for Level 10: 1260011.EXP of Required Competition for Level 11: 1550012.EXP of Required Competition for Level 12: 1870013.EXP of Required Competition for Level 13: 2220014.EXP of Required Competition for Level 14: 2600015.EXP of Required Competition for Level 15: 30100c) The current Competition level will decide the maximum limit of Coliseum prize Reputation that the player can obtain in this week) Following the increase of the level of Competition, the player can obtain unstick icons of According to the corresponding level, it can be displayed above the avatar of the character. The reputation of the Competition prize can be used to change with an NPC determined by an exclusive and high-quality award from the Ruins of the God of War. Competition will be cleared after the end of Sunday of the fourth week of each seasonG. All week, the system will issue the list of the ranking of this server according to the level of Competition and the Power of Fight of Competition of the Players
-201	A. After the player starts teleporting for the field, the system will determine a random wrestling mode. A) Different modes have different rebirth rules and win conditions. When the time of 90s of preparation after the opening of the field finishes, the group that had characters that have not managed to enter the field, will cause the opposing group to win directlyC. If a group ignores the restriction rule of the Constellation, during registration, it will be forced to change constellation and, after the 90s to enter the field, it will be considered directly as victory of the opposing group. After the 6s wait after the player's death, he will be automatically revived at the rebirth point, and will have a period of 10s of invincibility.) Within this period, one who has the initiative to attack other players will be stripped of invincibilityE. Specification of the fight mode and victory rules follow below) Slaughter Mode1. In this way, the group that first kills 32 players of the enemy group 32 times will get the victory2. All players can revive without limits, until the victory is determined3. If neither team wins the victory within a certain time, this will be determined taking into account the comparison of the total damage of the groups b) Elite Protection Mode1. In this mode, the first to kill the elite group of players will get the victory2. In addition to the elite players, the other members of the group can revive without limits of times3. In the individual registration, the system will select the player with the highest Fighting Power of the Coliseum within the group already formed, so that it becomes elite4. In the registration for team formation, the Captain in the registration element will become the elite player of that group5. The captain, within a certain limit, will give the group members an increase of BUFF6. If neither team wins the victory within a certain time, it will be determined taking into account the comparison of the amount of blood remaining from the elite. the groups7.Take into account, in this way, if the Captain leaves the Colosseum for any reason, it will automatically be considered as victory of the other groupc) Capture of the Flag1 Mode. After a certain time, after the opening of the field, the flag will appear on a bridge, in the middle of the field2. Players who obtain the flag and return to the point of birth of their team, will win the victory immediately3. The players who obtained the flag will have their speed reduced and their Stamina bar emptied4. If you kill the player who is carrying the flag, it will fall in the place of origin, and the players will be able to steal it5. In this mode, all players can revive unlimited6. If neither team wins the victory within a certain time, it will be determined taking into account the comparison of the total damages of the groups
+200	A. The Ruins of the God of War only supports, temporarily, Multiserver 5v5 Competition, and registered players need to reach level 90B. Ruins of the God of War will be opened in a different period every day. A) Differentiate individual enrollment period, team formation enrollment period, as well as the closing period. B) During the individual enrollment period, the player only you can register with your own name, and the system will search and integrate you with a party of 5 peoplec) During the registration period for team formation, the player registers as a party, and only the Captain can click on the registration button) In team registrations, all members are required to reach level 90. If the party has 5 people, the number of people with the same Constellation can not be greater than 2. There is no strict requirement on the member of the team. equipment that is in a period of penalty for flight. The system will proceed with the combination of the agreement with the Player's Coliseum Fighting Power; this Power of Struggle will be altered according to the highest Wrestling Power Index of the player's history, as well as the frequency of victory.) In the team's training registration, the system will do its best to combine groups with Wrestling Power of the Coliseum that are similar b) If, after a long period, you can not find an opponent that matches the requirements, the search field will be expandedD. A little after the inscriptions, after the system finishes the combinations and all the players send the invitations, all of them will have a time of 60s to click on confirm) After all the players confirm, teleportation begins to enter the camp b) If the player refuses to click and the combination fails, the player will suffer a penalty for fleeing, and the other players will continue in formation as before.) The player who suffers a penalty for flight will not be able to register again for 15 minutes and, At the same time, a certain value of EXP of Competition will be discounted. In this month, the greater the number of times that was penalized by flight, the greater the EXP of competition that will be discounted at a time. ( Please be careful) The player who is inside the Colosseum, for having left him for certain reasons, caused the enemy's victory, which is equivalent to giving a penalty for flight. When the player is entering the team building Coliseum, a part of the BUFF will be cleaned, inhibiting the effect of resistance medicine and clothing resistance. At the same time, it prohibits the use of a part of drugs. In the Ruins of the God of War, it does not matter if they lose or win, all players will get a defined Competition EXP and Reputation of the Competition prize. A) All week, the system will close the Competition EXP count once the player has improvements in the function of the corresponding level, according to the player's EXP Index, at the moment. b) The level of Competition has a total of 15 levels, and the corresponding EXP Index required follows: 1. Competition EXP needed for Level 1:02. Required Competition EXP for Level 2: 2003. Required Competition EXP for Level 3: 7004. Required Competition EXP for Level 4: 15005. Required Competition EXP for Level 5: Competition 26006.EXP necessary for the Level 6: Required Competition 40007.EXP for Level 7: 57008.EXP of Required Competition for Level 8: 77009.EXP of Required Competition for Level 9: 1000010.EXP of Required Competition for Level 10: 1260011.EXP of Required Competition for Level 11: 1550012.EXP of Required Competition for Level 12: 1870013.EXP of Required Competition for Level 13: 2220014.EXP of Required Competition for Level 14: 2600015.EXP of Required Competition for Level 15: 30100c) The current Competition level will decide the maximum limit of Coliseum prize Reputation that the player can obtain in this week) Following the increase of the level of Competition, the player can obtain unstick icons of According to the corresponding level, it can be displayed above the avatar of the character. The reputation of the Competition prize can be used to change with an NPC determined by an exclusive and high-quality award from the Ruins of the God of War. Competition will be cleared after the end of Sunday of the fourth week of each seasonG. All week, the system will issue the list of the ranking of this server according to the level of Competition and the Power of Fight of Competition of the Players
+201	A. After the player starts teleporting for the field, the system will determine a random wrestling mode. A) Different modes have different rebirth rules and win conditions. When the time of 90s of preparation after the opening of the field finishes, the party that had characters that have not managed to enter the field, will cause the opposing party to win directlyC. If a party ignores the restriction rule of the Constellation, during registration, it will be forced to change constellation and, after the 90s to enter the field, it will be considered directly as victory of the opposing party. After the 6s wait after the player's death, he will be automatically revived at the rebirth point, and will have a period of 10s of invincibility.) Within this period, one who has the initiative to attack other players will be stripped of invincibilityE. Specification of the fight mode and victory rules follow below) Slaughter Mode1. In this way, the party that first kills 32 players of the enemy party 32 times will get the victory2. All players can revive without limits, until the victory is determined3. If neither team wins the victory within a certain time, this will be determined taking into account the comparison of the total damage of the groups b) Elite Protection Mode1. In this mode, the first to kill the elite party of players will get the victory2. In addition to the elite players, the other members of the party can revive without limits of times3. In the individual registration, the system will select the player with the highest Fighting Power of the Coliseum within the party already formed, so that it becomes elite4. In the registration for team formation, the Captain in the registration element will become the elite player of that group5. The captain, within a certain limit, will give the party members an increase of BUFF6. If neither team wins the victory within a certain time, it will be determined taking into account the comparison of the amount of blood remaining from the elite. the groups7.Take into account, in this way, if the Captain leaves the Colosseum for any reason, it will automatically be considered as victory of the other groupc) Capture of the Flag1 Mode. After a certain time, after the opening of the field, the flag will appear on a bridge, in the middle of the field2. Players who obtain the flag and return to the point of birth of their team, will win the victory immediately3. The players who obtained the flag will have their speed reduced and their Stamina bar emptied4. If you kill the player who is carrying the flag, it will fall in the place of origin, and the players will be able to steal it5. In this mode, all players can revive unlimited6. If neither team wins the victory within a certain time, it will be determined taking into account the comparison of the total damages of the groups
 202	The Client of the Game does not have data related to the Coliseum
 203	Registration (Individual)
 204	Registration (team formation)
 205	Exit the row
-206	Only the Captain of the group manages to register in the team formation mode
+206	Only the Captain of the party manages to register in the team formation mode
 207	Incorrect registration period
-208	In team building mode, the maximum allowed is %d people per group
-209	In team formation mode, the maximum of each Constellation within the enrolled group is %d people
+208	In team building mode, the maximum allowed is %d people per party
+209	In team formation mode, the maximum of each Constellation within the enrolled party is %d people
 210	Currently not yet completing level 90, you can not enroll
-211	Among the members of the group, players who do not complete level 90 will not be able to register
+211	Among the members of the party, players who do not complete level 90 will not be able to register
 212	Coliseum of Competition between teams
 213	%d victories %d defeats
 214	Open
@@ -523,7 +523,7 @@
 522	%s of %s closed
 523	The struggle between the Guild %s and the Guild %s of the Classifications ended in a draw
 524	Guild %s defeated Guild %s in the Qualifiers
-525	After the end of the Qualifiers, the Marshal of the divine group can receive an extra prize with ${npc(32788)}, at the Guild Base
+525	After the end of the Qualifiers, the Marshal of the divine party can receive an extra prize with ${npc(32788)}, at the Guild Base
 526	Glass resources of the red team: %d %d
 527	Blue team glass resources: %d %d
 528	Countdown to the term: %s
@@ -779,7 +779,7 @@
 778	The Guild has not yet joined, this item can not be used
 779	Article does not belong to this Guild, it can not be opened
 780	Guild %d:
-781	Group number %d:
+781	party number %d:
 782	Divine Rank Guilds
 783	Gold Rank Guilds
 784	Silver Rank Guilds
@@ -833,7 +833,7 @@
 832	Required to submit contribution of %d, Confirm receipt?
 833	Operation of received articles canceled
 834	There is no space in the Guild warehouse, division of articles
-835	The permit has already been configured by the administration, it is not possible to group
+835	The permit has already been configured by the administration, it is not possible to party
 836	Articles here can not be grouped
 837	The properties of the articles are not the same, they can not be grouped
 838	%s deposited %dx %s
@@ -945,7 +945,7 @@
 944	Event
 945	^32B500 You can sign up
 946	^0077D9 In the row
-947	^0077D9 Line up the group
+947	^0077D9 Line up the party
 948	^999999 Number of times sold out
 949	^999999 Unavailable
 950	^999999 Level not applicable
@@ -960,11 +960,11 @@
 959	Maximum allowed %d people
 960	Unlimited number of people
 961	Unlimited level difference
-962	It is necessary that the difference between the level of all the members of the group is not greater than %d
-963	Only the Captain can lead the group to the rank
+962	It is necessary that the difference between the level of all the members of the party is not greater than %d
+963	Only the Captain can lead the party to the rank
 964	Just the Captain can leave the line
-965	The system has already found an automatic combination for you with a group for the Instance Zone 「 %s」. Do you want to enter the group and teleport to the entrance of the Instance Zone?
-966	The system has already found an automatic combination for you with a group for the Event 「 %s」. Do you want to join the group and teleport to the event ticket?
+965	The system has already found an automatic combination for you with a party for the Instance Zone 「 %s」. Do you want to enter the party and teleport to the entrance of the Instance Zone?
+966	The system has already found an automatic combination for you with a party for the Event 「 %s」. Do you want to join the party and teleport to the event ticket?
 967	You rejected the automatic combination team, you left the queue: %s
 968	Some people challenged this combination, it's back for the queue
 969	Teammate %s challenged this combination, all have been removed from the queue
@@ -978,15 +978,15 @@
 977	^F91919 Canceled (Class Restrictions)
 978	^F91919 Canceled (difference between levels is large)
 979	^F91919 Replace
-980	As there were members who did not accept the invitation, after correspondence with the group, all have been removed from the line
-981	As I do not accept the invitation, after correspondence with the group, it has been removed from the line
-982	You or your group / troop already participated in the row: %s, await correspondence
+980	As there were members who did not accept the invitation, after correspondence with the party, all have been removed from the line
+981	As I do not accept the invitation, after correspondence with the party, it has been removed from the line
+982	You or your party / troop already participated in the row: %s, await correspondence
 983	Already accepted
 984	You wait for a long time in the ^ff0000 %s ^N, if you want to participate in the queue of ^ff0000 %s ^N? ^F91919 at the same time Remember: Advanced level events such as %s, increase the corresponding speed , but the prize is small.
-985	In a group, you can only queue and cancel by the boss
+985	In a party, you can only queue and cancel by the boss
 986	In a troop, you can only queue and cancel by the boss
 987	Currently, you can not enter this queue: %s
-988	Currently, your group / troop can not participate in this queue, because its %s members do not meet the conditions: %s
+988	Currently, your party / troop can not participate in this queue, because its %s members do not meet the conditions: %s
 989	Server error
 990	Conditions are not enough, can not be queued
 991	Incorrect device ID

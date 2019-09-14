@@ -4620,7 +4620,7 @@
 4619	Warehouse
 4620	Minamoto no Yoshitsune
 4621	Warehouse
-4622	Enter the map of the protective badge
+4622	Flag Guard Map
 4623	Exit the map of the protective badge
 4624	Adriana
 4625	Save Return
@@ -11030,7 +11030,7 @@
 11029	Premises
 11030	Exchange of Articles
 11031	Exchange of Articles
-11032	Exchange of Montarías
+11032	Mounts
 11033	Mount Alada
 11034	Award Exchange
 11035	Change
@@ -12682,7 +12682,7 @@
 12681	Lava Battle Camp guide
 12682	Emissary of the god of war - Anlina
 12683	Complete Attica battlefield
-12684	Flying battlefield - montaria NPC
+12684	Flying battlefield - mount NPC
 12685	Complete flying battlefield
 12686	Change of lottery ticket from shopping NPC
 12687	Treasure seller NPC grants mission

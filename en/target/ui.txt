@@ -1670,17 +1670,17 @@
 1669	Details>
 1670	Restoration Domain
 1671	Attack Domain
-1672	Alcan.
-1673	Contr.
-1674	Expl.
-1675	Sop.
-1676	Def.
-1677	Ataq.
-1678	Alcan.
-1679	Contr.
-1680	Expl.
-1681	Sop.
-1682	Def.
+1672	RAN
+1673	CON
+1674	DPS
+1675	SUP
+1676	DEF
+1677	ATK
+1678	RAN
+1679	CON
+1680	DPS
+1681	SUP
+1682	DEF
 1683	Attac.
 1684	Characteristics: melee began unique tactics: revenge accumulate and sprout, motivate teams, instant acceleration, playing
 1685	Escolha or Sign
@@ -1698,20 +1698,20 @@
 1697	Tornado
 1698	Restoration Domain
 1699	Attack Domain
-1700	Alcan.
+1700	RAN
 1701	Contr
-1702	Expl.
-1703	Sop.
-1704	Def.
-1705	Ataq.
-1706	Alcan.
-1707	Contr.
-1708	Expl.
-1709	Sop.
-1710	Def.
-1711	Ataq.
+1702	DPS
+1703	SUP
+1704	DEF
+1705	ATK
+1706	RAN
+1707	CON
+1708	DPS
+1709	SUP
+1710	DEF
+1711	ATK
 1712	Features: melee began unique tactics: revenge accumulate and sprout, motivate teams, instant acceleration, playing
-1713	Escolha um Sign
+1713	Choose a Sign
 1714	Selected sign
 1715	Dragon
 1716	Phoenix
@@ -1720,8 +1720,8 @@
 1719	Cygnus
 1720	Pegasus
 1721	Previous Video of Sign
-1722	Dragon of the Sea
-1723	Wyrm
+1722	Sea Dragon
+1723	Wyvern
 1724	Copy name
 1725	Add as a Friend
 1726	Private message
@@ -3664,7 +3664,7 @@
 3663	^ffcb4a requirement ^ffffff to release the data to decide the ownership of the item
 3664	^ffcb4a requirement ^ffffff to release the data to decide the ownership of the item
 3665	Charity of Athena
-3666	The use of Ben.Diosa ☆ accumulates the Blessing Value, \rdando the opportunity to receive a \rBendition that will be obtained directly.
+3666	The use of Goddess' Gift ☆ accumulates the Blessing Value, \rdando the opportunity to receive a \rBendition that will be obtained directly.
 3667	By acquiring all the Blessings, you will gain \r ^ff0000 at least 50000pts. of Blessing Value. \r ^NAl acquire that Blessing Value, the same amount of Emerald will be received.
 3668	Use
 3669	10 consecutive times
@@ -8448,7 +8448,7 @@
 8447	Web Mall
 8448	^ff00ff Goddess blessing value ^N:
 8449	999999999
-8450	required amount
+8450	Cost
 8451	1234567890
 8452	12345
 8453	0/0
