@@ -1156,21 +1156,22 @@
 1155	Fama
 1156	0
 1157	
-1158	去${dynamic_dir(55, "\日程表"\)}推荐界面下寻找[活动]贵鬼辞典并完成一次
-1159	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]集结！十二宫危机并完成一次
-1160	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]风暴！亚特兰蒂斯并完成一次
-1161	去${dynamic_dir(55, "\日程表"\)}界面寻找[副本]十风穴并完成一次
-1162	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[战场]阿提卡遗迹并获得胜利
-1163	去${dynamic_dir(55, "\日程表"\)}周常界面寻找[活动]诛杀邪恶并完成一次
-1164	使用${dynamic_dir(5, "\星铸系统"\)}并星铸任意一件圣衣到2级
-1165	去${dynamic_dir(26, "\英雄竞技场"\)}界面参加一次竞技场
-1166	去${dynamic_dir(44, "\星券商城"\)}消费一次
-1167	在${dynamic_dir(1, "\小宇宙系统"\)}中进行一次占星，装上一个星魂，并星力值达到500
-1168	使用${dynamic_dir(3, "\魔盒系统"\)}拆分一件装备
-1169	使用${dynamic_dir(4, "\魔盒系统"\)}升阶一件装备
-1170	在${dynamic_dir(56, "\称号系统"\)}中装备任意一个称号
-1171	去${npc(14838)}处领取双倍经验并在${dynamic_dir(6, "\双倍经验系统"\)}中开启一次
-1172	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]女神的圣斗士并完成一次
-1173	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]命运的试炼并完成一次
-1174	使用${dynamic_dir(5, "\星铸系统"\)}再星铸其他任意一件圣衣到5级
-1175	在${dynamic_dir(1, "\小宇宙系统"\)}中使星力值达到1000
+1158	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Noble Ghost Dictionary.
+1159	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] ¡Montaje! La crisis del zodiaco
+1160	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Atlantis! Tormenta
+1161	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Cueva de los diez vientos
+1162	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} Y gana [Campo de batalla] Ruinas de ática
+1163	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Matar el mal
+1164	Usa ${dynamic_dir(5, "\Sistema Star Cast"\)} y mejora la armadura sagrada al Nvl 2
+1165	Verificar ${dynamic_dir(26, "\Arena de heroes"\)} y participa en el area de batallas
+1166	Verificar ${dynamic_dir(44, "\Mercado de esmeraldas"\)} y compra algo
+1167	En el ${dynamic_dir(1, "\Sistema de Cosmo"\)} mejore un horoscopo, Instale una estrella de sol y lunar por valor de 500
+1168	Usa ${dynamic_dir(3, "\Sistema de Magic Box"\)} dividir una pieza de equipo
+1169	Usa ${dynamic_dir(4, "\Sistema de Magic Box"\)} dividir una pieza de equipo
+1170	En el ${dynamic_dir(56, "\Sistema de Titulos"\)} Use cualquier titulo
+1171	Verificar ${npc(14838)} recibir doble de experiencia ${dynamic_dir(6, "\Sistema Doble EXP"\)} Para desbloquearlo
+1172	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Diosa de los santos
+1173	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Rastro del destino
+1174	Usa ${dynamic_dir(5, "\Sistema Star Cast"\)} y mejorar cualquier armadura sagrada a Nvl5 
+1175	En ${dynamic_dir(1, "\Sistema de Cosmo"\)} agregue estrellas por un valor de 1000
+
