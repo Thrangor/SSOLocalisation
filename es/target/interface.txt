@@ -1,10 +1,10 @@
 0	Cargar - %s
 1	Junción de Ordén - %s
 2	Artículo en uso
-3	Invocar Pet
-4	Recuperar Pet
-5	Ajustar Pet
-6	Remover Ajuste Pet
+3	Invocar Mascota
+4	Recuperar Mascota
+5	Ajustar Mascota
+6	Remover Ajuste Mascota
 7	** Tú **
 8	^d8d7a1Cargando el juego, espere por favor...
 9	^d8d7a1Conectando, %d seg/%d seg
@@ -48,7 +48,7 @@
 47	Contraseña de 3 a 8 caracteres.
 48	Recibir el doble requiere el doble de consumo de reputación del sistema, deseas recibir?
 49	No preguntar de nuevo
-50	Sistema: Por ser menor de 18 años, recibirás avisos en el juego con respeto al tiempo adecuado para estar online.
+50	Sistema: Por ser menor de 18 años, recibirás avisos en el juego con resMascotao al tiempo adecuado para estar online.
 51	Tiempo online: %s \rTiempo de juego saludable, \r¡Siga adelante y tenga un buen juego!
 52	Tiempo online: %s \rEstás jugando durante mucho tiempo, \r¡Haga una pausa y tome agua :)!
 53	Sugestión Saludable: Acumulaste 1 hora de juego continuo.
@@ -199,7 +199,7 @@
 198	Repeler contra flotación, agarro, golpe de cuerpo tiene la probabilidad de inmunidad
 199	Se puede reducir la duración de efectos de silencio, control de movimiento y confusión
 200	Se puede reducir la duración de efectos de envenenamiento, sangrado y quemadura
-201	Se puede reducir la duración de efectos de caída, congelación y petrificación
+201	Se puede reducir la duración de efectos de caída, congelación y Mascotarificación
 202	Se puede reducir la duración de efectos de maldición
 203	Invalidar partes de la resistencia al control del enemigo
 204	Invalidar partes de la resistencia al prejuicio del enemigo
@@ -278,7 +278,7 @@
 277	Resistencia a Quemadura \t%.2f
 278	Resistencia a Caída \t%.2f
 279	Resistencia a Congelación \t%.2f
-280	Resistencia a Petrificación \t%.2f
+280	Resistencia a Mascotarificación \t%.2f
 281	Resistencia a Reducción de Velocidad \t%.2f
 282	Resistencia al Debilitamiento \t%.2f
 283	Ignorar resistencia al control \t%.2f
@@ -288,7 +288,7 @@
 287	Ignorar resistencia a quemadura \t%.2f
 288	Ignorar resistencia a caída \t%.2f
 289	Ignorar resistencia a congelación \t%.2f
-290	Ignorar resistencia a petrificación \t%.2f
+290	Ignorar resistencia a Mascotarificación \t%.2f
 291	Ignorar resistencia a redución de velocidad \t%.2f
 292	Ignorar resistencia al debilitamiento \t%.2f
 293	Aumento de porcentaje de EXP obtenida \t%d
@@ -333,14 +333,14 @@
 332	Tarjeta de Regalo
 333	[Desafío]Epopeya Estelar
 334	Baño de Gloria
-335	Procreación de Pet
+335	Procreación de Mascota
 336	Recibir bebé procreado
 337	Hasta luego.
 338	Crear alianza del ejército
 339	Lista de alianza de ejército
 340	Alterar Elemento
 341	Cambiar índice de Astro EXP
-342	Entrar en la arena de competición
+342	Entrar en la arena de comMascotaición
 343	Descubrir adversario del campo actual
 344	Consultar hechos de guerra
 345	Premio de W.O.
@@ -469,7 +469,7 @@
 468	Será votado para ser expulsado del campo de batalla
 469	Mostrar todo
 470	[Qst]General
-471	[Qst]Repetición
+471	[Qst]ReMascotaición
 472	Teletransporte
 473	Punto esencial
 474	Servicios
@@ -619,7 +619,7 @@
 618	Dijiste a &%s&: %s
 619	Yo a &%s&: %s
 620	Has enviado tu mensaje de voz muy rápido, para enviarlo dos veces, es necesario un intervalo de 2 segundos.
-621	Por favor, no hable muy rápido al repetir su mensaje de voz, para reenviar dos veces es necesario un intervalo de 3 segundos.
+621	Por favor, no hable muy rápido al reMascotair su mensaje de voz, para reenviar dos veces es necesario un intervalo de 3 segundos.
 622	Error al enviar el mensaje de voz, necesitas el apoyo del “Megáfono del Canal del Mundo” para permitir que todas las personas escuchen tu voz.
 623	Error al enviar el mensaje de voz, necesitas el apoyo del "Megáfono del Canal de Transmisión" para permitir que todas las personas escuchen tu voz.
 624	Error en la transmisión, necesitas del soporte del Orden Divina de Hermes" para permitir que todas las personas escuchen tu voz.
@@ -840,7 +840,7 @@
 839	Aunque en el camino del sufrimiento, cardos y espinas detrás de la Puerta del Infierno, Shun todavía es capaz de tener misericordia. En cualquier momento mantén tus principios; eso es un código importante de que debes acordarte.
 840	Hoy tienes que aprender la fuerza de la determinación de Ikki de la Fénix, no te tornes dudoso por preocupaciones excepcionales. ¡No dejes escapar la oportunidad para después lamentarte!
 841	El tú de hoy necesita recuperar el poder de la amistad, tal vez pienses que no hay nada ni nadie de confianza en el mundo, pero si desistes de las amistades y las lágrimas, no habrá esperanza de victoria.
-842	El tú de hoy creerá que todos los días son repeticiones del pasado, sin embargo, el Caballero Shiryu me ha dejado contarte que para luchar con valentía, es necesario pagar un precio y eso definitivamente no es para el presente y sí para el futuro.
+842	El tú de hoy creerá que todos los días son reMascotaiciones del pasado, sin embargo, el Caballero Shiryu me ha dejado contarte que para luchar con valentía, es necesario pagar un precio y eso definitivamente no es para el presente y sí para el futuro.
 843	El tú de hoy está demasiado serio, es preciso saber que la verdad de este mundo es inconstante, no existe el mal pleno ni la justicia plena, no seas excesivamente correcto.
 844	El tú de hoy tiene que acordarse que soñar no es imposible. Lo que has empezado a entender que el sueño es imposible de alcanzar, ya ha llegado al fin de la vida. ¡Por favor, deja tu Cosmos quemarse!
 845	Tener compasión apropiadamente no es, de ningún modo, algo malo; dedicarse a la compasión es tu guía de viajes para atraer la buena suerte del tú de hoy. Muchas personas, através de Dohko, comprenden que la vida es única, y que por eso, puede generar una luz preciosa e inestimable.
@@ -997,7 +997,7 @@
 996	Enfocar alvo reciente
 997	Alvo de Asistencia
 998	Personaje
-999	Item Mall
+999	Tienda Comercio
 1000	Inventario
 1001	Quests
 1002	Habilidades
@@ -1014,7 +1014,7 @@
 1013	Calendario
 1014	Grupo
 1015	Colegas
-1016	Pet
+1016	Mascota
 1017	Ilustración
 1018	Logros
 1019	Reputación
@@ -1091,11 +1091,11 @@
 1090	Hab. Escudero 2
 1091	Consagración
 1092	Interacción
-1093	Nombre de otros Pets
+1093	Nombre de otras Mascotas
 1094	Nombre de monstruos
 1095	Otros jugadores
 1096	Efectos de Luz
-1097	Otros Pets
+1097	Otras Mascotas
 1098	Monstruos
 1099	Usar el chat
 1100	Seleccionar alvo
@@ -1105,17 +1105,17 @@
 1104	Elegir a sí mismo
 1105	Modo Vídeo
 1106	
-1107	学习和提升战斗技能可以提升觉悟值人物在19，29，39，49，59级升级时需要达到一定的觉悟值
-1108	获得经验：
-1109	获得历练：
-1110	${npc(33799,\"点此寻径\")}
-1111	${jump(63,\"点击查看详情\")}
-1112	今日最多可获%s点经验和%s金券
-1113	今日最多可获%s点历练和%s金券
-1114	<商城>每周礼包
-1115	${npc(39771,\"寻径至冰河\")}
-1116	${npc(39802,\"寻径至紫龙\")}
-1117	主快捷栏12
-1118	主扩展快捷栏1_12
-1119	主扩展快捷栏2_12
-1120	主扩展快捷栏3_12
+1107	Aprender y mejorar las habilidades de combate puede aumentar la conciencia. Los valores deben alcanzar un cierto nivel de conciencia al subir a nivel 19, 29, 39, 49, y 59 .
+1108	Ganar experiencia：
+1109	Obtener experiencia：
+1110	${npc(33799,'Ir a')}
+1111	${jump(63,'Click aqui para detalles')}
+1112	Llegar a %s EXP y %s cash hoy
+1113	Subir a %s EXP y %s cash hoy
+1114	<Comercio>Paquete semanal
+1115	${npc(39771,'Ir a')}
+1116	${npc(39802,'Ir a')}
+1117	Barra de acceso directo principal 12
+1118	Barra de acceso directo a la extensión principal 1_12
+1119	Barra de acceso directo a la extensión principal 2_12
+1120	Barra de acceso directo a la extensión principal 3_12

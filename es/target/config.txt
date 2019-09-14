@@ -678,7 +678,7 @@
 677	Para enviar un mensaje para el mundo es necesario tener un buen parlante como herramienta
 678	En el menú de opciones del sistema podrás cambiar los atajos del teclado, puedes abrir el menú presionando la tecla ESC
 679	Cuando reciba un nuevo mensaje, busque la carpeta de mensajes para verificar
-680	Si se quedó atascado, por favor, presione la tecla ESC para abrir el menú y haga click en la opción "Se Trabó"
+680	Si se quedó atascado, por favor, presione la tecla ESC para abrir el menú y haga click en la opción "Unstuck"
 681	Si usted no ha alcanzado los 18 años de edad,entonces,al superar las 3 horas de juego, se le pedirá que haga una pausa.
 682	Por favor, no crea en cualquier información no oficial que involucre el nombre del sitio web en el juego
 683	Por favor, no divulgue su cuenta ni contraseña para no estar sujeta a la pérdida de estas.
