@@ -462,8 +462,8 @@
 461	Guia Sistema de Discipulos
 462	Npc Intercambiar Puntos de lucha Galactica
 463	¡Heredado! Destinatario de prueba de oro
-464	Recipiente Memoria de la Guerra Santa
-465¡Montaje! Destinatario de la crisis del zodiaco
+464 Recipiente Memoria de la Guerra Santa
+465 ¡Montaje! Destinatario de la crisis del zodiaco
 466	Zara
 467	Pago doble Gratis
 468	Artesano de Bronze

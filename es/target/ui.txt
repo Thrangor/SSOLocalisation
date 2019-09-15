@@ -3683,7 +3683,7 @@
 3682	Horario
 3683	Bendición
 3684	Nombre
-3685	Caja Mágica
+3685	C. Mágica
 3686	Actualización de propiedad de Traje
 3687	Actua.
 3688	Evolución de equipamientos
