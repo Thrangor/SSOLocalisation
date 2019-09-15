@@ -462,8 +462,8 @@
 461	Guia Sistema de Discipulos
 462	Npc Intercambiar Puntos de lucha Galactica
 463	¡Heredado! Destinatario de prueba de oro
-464 Recipiente Memoria de la Guerra Santa
-465 ¡Montaje! Destinatario de la crisis del zodiaco
+464	Recipiente Memoria de la Guerra Santa
+465	¡Montaje! Destinatario de la crisis del zodiaco
 466	Zara
 467	Pago doble Gratis
 468	Artesano de Bronze
@@ -479,7 +479,7 @@
 478	Copia a menudo
 479	Intendente del campo de batalla
 480	Incrustación de runas
-481 ¡Abismo! Apocalipsis de la estrella demoníaca
+481	¡Abismo! Apocalipsis de la estrella demoníaca
 482	¡Renacimiento! Réquiem del santuario
 483	¡Gran contraataque! Dios demoníaco de la tierra de hielo
 484	Emisario del Escudero
