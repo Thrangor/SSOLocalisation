@@ -1682,7 +1682,7 @@
 1681	Sop.
 1682	Def.
 1683	Ataq.
-1684	         Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
+1684	Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
 1685	Escolha o Signo
 1686	Signo elegido
 1687	Dragón
@@ -1710,7 +1710,7 @@
 1709	Sop.
 1710	Def.
 1711	Ataq.
-1712	         Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
+1712	Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
 1713	Escolha um Signo
 1714	Signo elegido
 1715	Dragón
