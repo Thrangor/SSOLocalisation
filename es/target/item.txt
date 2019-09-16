@@ -1307,7 +1307,7 @@
 1306	Daños de Ataque Crítico +%d[%d*%d%%]\r\r
 1307	Reducción de daño crítico +%d [%d*%d%%]\r
 1308	Ataque de Luz +%d[%d*%d%%]\r
-1309	ataque de propiedad principal +%d[%d*%d%%]\r
+1309	Ataque de propiedad principal +%d[%d*%d%%]\r
 1310	Desactivado: %s (%d)\r
 1311	Activado:%s (%d)\r
 1312	★%dx mejora perfecta\r
