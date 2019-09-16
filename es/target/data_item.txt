@@ -14741,5 +14741,5 @@
 14740	Fórmula: Pan de Miel Delicioso
 14741	Fórmula: Pan Seco Delicioso
 14742	Fórmula: Pan de Centeno Delicioso
-14743	金星时光短裤
-14744	金星引力短裤
+14743	Shorts Frescos Venus
+14744	Shorts Gravitacion Venus

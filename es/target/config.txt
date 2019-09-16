@@ -634,13 +634,13 @@
 633	Usando el teletransportador puedes ir y volver rápidamente de diferentes partes del mapa
 634	Presionando la tecla ALT arrastra los artículos para separarlos en un pila
 635	La tarjeta de visita puede ayudarte a recordar el nombre de otras personas, sin revelar su localización
-636	Si el equipamiento está dañado, necesitas repararlo para poder usarlo
+636	Si el equipamiento está dañado, necesitaras repararlo para poder usarlo
 637	GT puede ayudarte a comunicarse con compañeros de equipo, llama y enciende el micrófono al entrar en el equipo
 638	Cuando quieras substituir tu equipamiento, usa la función de cambio
-639	¡En el artículo «Tienda» puedes comprar una gran variedad de herramientas en promoción!
-640	En la zona de instancia, el uso racional de tu energía permite que seas más eficiente en la luchas!
-641	En la zona de instancia, formar un equipo permite que pases de fase con más eficiencia y no reduce la recompensa de cada persona
-642	Al caer recompensas en la batalla, si usted no las atrapa rápidamente ellas poderán desaparecer.
+639	¡En el apartado «Tienda» puedes comprar una gran variedad de herramientas en promoción!
+640	En las instancias usa tu energía con cuidado para que seas más eficiente en la luchas!
+641	En las instancias, formar un equipo permite que la termines con mayor facilidad y no reduce la recompensa de cada persona
+642	Si no recoges las recompensas de batalla estas desapareceran.
 643	En determinados momentos, en algún lugar del juego podrás elegir salir de la ciudad «BOSS».  Al defenderlo recibirá una gran recompensa , ¡Vaya a luchar!
 644	La copia de los equipos así como los eventos serán utilizados todas las semanas a las 6:00 am
 645	Después de formar los equipos, si el capitán hace click en el botón "Reunir equipo" por debajo de la propia cabeza, reunirá a todos los compañeros del equipo y se buscará automáticamente el camino hacia el capitán
@@ -680,7 +680,7 @@
 679	Cuando reciba un nuevo mensaje, busque la carpeta de mensajes para verificar
 680	Si se quedó atascado, por favor, presione la tecla ESC para abrir el menú y haga click en la opción "Unstuck"
 681	Si usted no ha alcanzado los 18 años de edad,entonces,al superar las 3 horas de juego, se le pedirá que haga una pausa.
-682	Por favor, no crea en cualquier información no oficial que involucre el nombre del sitio web en el juego
+682	Por favor, no crea en cualquier información no oficial que involucre el nombre del juego o nuestro sitio web.
 683	Por favor, no divulgue su cuenta ni contraseña para no estar sujeta a la pérdida de estas.
 684	Vincular la contraseña de seguridad puede disminuir los posibilidades de perder la cuenta.
 685	Cuando pienses que tu juego esta con "Lag", click en el atajo "Estandar" en el menú "Opciones" y el sistema será ajustado de acuerdo con las configuraciones de su computadora
