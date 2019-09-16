@@ -158,7 +158,7 @@
 157	Obtener Armadura %s
 158	Refinar %d activar nivel
 159	Nivel actual: %d.\rAl llenar la barra, el nivel y los atributos de armadura mejorarán.\rCuyo la Bendición pasar %d, cada refinación hay la probabilidad de activar la 'Dádiva Divina', que evoluciona la armadura directamente.
-160	Armadura %s
+160	Armadura %s.
 161	Elegir Armadura
 162	Puedes usar %s\rEste artículo puede aumentar enormemente la estabilidad de la refinación, ¿Desea usarlo?\rTambién puedes clicar en la imagen del artículo para usarlo cuyo estés en las herramientas auxiliares de consumo de refinación
 163	Usar
@@ -4229,7 +4229,7 @@
 4228	^fff600 Después de abrir, obtendrá:  ^0184ff Fragmento de la Armadura de Plata ×25  ^0184ff estrellasy *20  ^0184ff Luz de experiencia *10  ^a800ff Sangre de Plata *5 ^a800ff 17Y Paquete de regalo de sangre caliente nivel 90 *1  ^fff600 Plata *500000  ^0184ff Haga clic en el botón derecho para utilizar
 4229	^fff600 Después de abrir, obtendrá:  ^a800ff Sangre Demoníaca * 10  ^0184ff estrellasy *30  ^0184ff Fragmento de Armadura de Oro ^ffffff*1 ^a800ff Sangre de Plata *5 ^fff600 Plata *800000  ^fff600 Título limitado *1 ^0184ff Haga clic en el botón derecho para utilizar
 4230	^ffffffAl usar, obtendrás: \r^a800ffPájaro del amor más sólido que el oro\r^ff0000Nota: Reputación puede alcanzar, no consumible\r^0184ffHaga click en el botón derecho para usar
-4231	^fff600 Con esto, está ^72fe00 Soari y las Albóndigas de Tatsumi en la mansión ^fff600 utilizalo,  llevo a la tropa para participar ^a800ff ¡Crítico! Sentimientos de la Diosa  ^fff600。 ¡Por último podrá obtener gran cantidad de premios!  ^fff600 miembro por encima del vicelíder puede consumir en el ejército 10000 del fondo del ejército en cambio de un ingreso o despúes del nivel 25 obtenerlo en el siguiente evento: ^72fe00 ¡Crítico! Guardián de la Diosa  ^72fe00 ¡Crítico! Guardián de la Diosa
+4231	^fff600 Con esto, está ^72fe00 Soari y las Albóndigas de Tatsumi en la mansión ^fff600 utilizalo,  llevo a la tropa para participar ^a800ff ¡Crítico! Sentimientos de la Diosa  ^fff600. ¡Por último podrá obtener gran cantidad de premios!  ^fff600 miembro por encima del vicelíder puede consumir en el ejército 10000 del fondo del ejército en cambio de un ingreso o despúes del nivel 25 obtenerlo en el siguiente evento: ^72fe00 ¡Crítico! Guardián de la Diosa  ^72fe00 ¡Crítico! Guardián de la Diosa
 4232	^fff600 Después de usar, obtendrá: ^a800ff Pirata· Carrera del Águila  ^0184ff Haga clic en el botón derecho para utilizar
 4233	^fff600 estas propiedad del ejército emitió un tesoro secreto  Después de la abertura puede obtener los siguientes premios  ^72fe00 500.000 Plata Sangre Demoníaca x 5  Alma del Artefacto Divino x5  Esencia del Alma Estelar x5 ^0184ff cada persona sólo puede abrir esta bolsa dos veces por día ^fff600 recomendar que el ejército organice este montón de premios de artículos contribuido para los miembros del ejército.
 4234	^ff0000 Año Nuevo especial presenta acerca del rojo ^a800ff Abrir y obtener 1 unidad de Luz Sagrada Gold y gran cantidad de Plata ^0184ff Haga clic en el botón derecho para utilizar
@@ -7661,8 +7661,8 @@
 7660	Lindos sombreros de moda de garra de gato leopardo, para chicas.
 7661	Lindo tocado de moda de garra de gato azul cielo, para chicas.
 7662	Puedes cambiarlo por los artículos necesarios para Pegaso y las Alas.
-7663	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
-7664	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
+7663	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía..
+7664	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía..
 7665	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 7666	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 7667	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
@@ -7716,8 +7716,8 @@
 7715	Lindo sombreros de moda de garra de gato leopardo, para chicas.
 7716	Lindo tocado de moda de garra de gato azul cielo, para chicas.
 7717	Puedes cambiarlo por los artículos necesarios para Pegaso y las Alas.
-7718	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
-7719	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
+7718	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía..
+7719	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía..
 7720	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 7721	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 7722	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.

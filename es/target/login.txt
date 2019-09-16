@@ -8,7 +8,7 @@
 7	Cuenta
 8	Clave
 9	R.Clave
-10	Entrar Auto
+10	forzar
 11	Confirmar
 12	Cancelar
 13	Entrar
@@ -64,7 +64,7 @@
 63	Entrando... ¡Espere!
 64	Entrando, tiempo restante %d segundos, tiempo transcurrido %d segundos.
 65	Conectando al servidor
-66	Lista de personajes
+66	Obteniendo lista de personajes
 67	Lista de personajes obtenida
 68	Si el servidor no responde por un largo tiempo puede ser que la conexión ha expirado, por favor, intente conectarse de nuevo.
 69	Para garantizar la seguridad de tu cuenta, retira tu Perfect Aegis del slot de USB y mantengalo en seguro.
