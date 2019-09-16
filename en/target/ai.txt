@@ -360,7 +360,7 @@
 359	$noname$UImidThe first attack of the Underworld was prevented.The server entered the Golden Age, releasing level 89 and the Episode of Hades (previous chapter).
 360	$noname$UImidWhen the legendary Great Eclipse arises, the world will be covered by darkness forever. Knights, open the Portal of the Underworld! Only after a long night will it dawn.
 361	$noname$UImidEternal darkness is approaching. The servant will enter the Age of Darkness, releasing level 99 and Episode of Hades (next chapter).
-362	$noname$UImidAtenea entered the Underworld to go to Hades. Knights, open the Path to the Underworld! Athena needs your protection!
+362	$noname$UImidAthena entered the Underworld to go to Hades. Knights, open the Path to the Underworld! Athena needs your protection!
 363	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
 364	$noname$UImidThe Great Eclipse has already begun. Knights, go beyond Pandora's restriction, destroy the Wailing Wall and enter the Champs de Elysees, returning light to Earth!
 365	$noname$UImidThe Wailing Wall was destroyed. Activated the Hades Bitterness Event, releasing level 10 of the Concentrated Practice and the Episode of Fields of Elysees

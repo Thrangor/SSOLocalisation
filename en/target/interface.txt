@@ -352,7 +352,7 @@
 351	Athena authentication
 352	Create 12 Houses
 353	Sorry, you are not yet a VIP user, recharge 1 dollar to enjoy the warehouse service that you brought with you.
-354	LeVel %d
+354	LV %d
 355	(Inactive)
 356	(Active)
 357	You can continue to receive Lucky Coins for free, try for more information

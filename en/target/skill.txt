@@ -3629,7 +3629,7 @@
 3628	^O021 gold evolution_nebula swirl_status skills monster fairy pulled
 3629	^O021 Gold Fairy Evolution__ Summon Demons and Monsters Monster Status
 3630	^O021^ffff00 Athena's Willpower During this period the Determination skills become instantaneous
-3631	^O021^ffff00Valuntad de Atenea
+3631	^O021^ffff00Valuntad de Athena
 3632	^O021 fairies gold__ evolution of light therapy Status Lun
 3633	^O021 gold evolution__ Phoenix meal slight reduction physical status
 3634	^O021^ffff00 Damage Protection Damage Reduction increases 40%
@@ -5935,7 +5935,7 @@
 5934	^O021^ffff00Virgem-Treasure of the Sky-Burning Damage
 5935	^O021^ffff00 Blue Flame Alma was fortified
 5936	^O021^ffff00 Blue Flame
-5937	^O021Escudero_Dragón Marino Version Q_Liberar the fog
+5937	^O021Squire_Dragón Marino Version Q_Liberar the fog
 5938	^O021Cancer-Empty
 5939	^O021Doze Homes
 5940	^O021^ffff00 Telekinesis Circle\r\r^O009^ffffff You were intimidated by the telekinesis of the Aries Skeleton, you can not move

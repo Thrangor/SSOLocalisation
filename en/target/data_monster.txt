@@ -7352,7 +7352,7 @@
 7351	Knight
 7352	Knight
 7353	Knight
-7354	Niebla Roja_II_Mostrar_Atenea
+7354	Niebla Roja_II_Mostrar_Athena
 7355	Tornado
 7356	Incident of the Red Mist_II_Show point to throw the Monster
 7357	Blindly obedient puppet

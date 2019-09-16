@@ -1038,8 +1038,8 @@
 1037	You challenged the Master indicated by the system.
 1038	%s ( %d points)
 1039	Level of mutual friendship exceeded %d, you can add as guardianship. It will quickly increase the feeling between the two ~
-1040	%s (LV %d, %s) Looking at you with a pathetic face \r %s
-1041	Like my teacher, I will be a well-behaved disciple!
+1040	%s (LV %d, %s) asks politely:\r %s
+1041	Please, be my master and teach me!
 1042	Can become a Disciple below level %d
 1043	You are currently a teacher, you can not become a Disciple
 1044	You already have a Master, you can not become a disciple of someone else

@@ -6453,7 +6453,7 @@
 6452	Large Gift Pack of the Devout Knight
 6453	Big gift package of Mutual Affection
 6454	Affection Mutual Fashion Kit
-6455	Caja 3333x Sangre de Atenea
+6455	Caja 3333x Sangre de Athena
 6456	Divine Blood of Athena x9999
 6457	PGP Mission Gift Pack
 6458	PGP surprise gift package

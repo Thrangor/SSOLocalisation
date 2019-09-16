@@ -6857,11 +6857,11 @@
 6856	Kiki
 6857	Kiki
 6858	Commander of the sanctuary troops
-6859	Poor residents of the Sanctuary
-6860	Grain merchants from the sanctuary
-6861	Grain merchants from the sanctuary
-6862	Merchants of grain from the sanctuary
-6863	Grain merchants from the sanctuary
+6859	Poor resident
+6860	Grain Merchant
+6861	Grain Merchant
+6862	Grain Merchant
+6863	Grain Merchant
 6864	Shaka
 6865	Virgo
 6866	Shaka
@@ -7458,16 +7458,16 @@
 7457	Super motion point
 7458	Recovery point
 7459	Theodemar
-7460	Twelve Houses I
+7460	12 Houses I
 7461	Priest
 7462	Patzinger
-7463	Twelve Houses II
+7463	12 Houses II
 7464	Priest
 7465	Xellos
-7466	Twelve Houses III
+7466	12 Houses III
 7467	Priest
 7468	Hohenheim
-7469	Twelve Houses IV
+7469	12 Houses IV
 7470	Priest
 7471	Oshino Meme
 7472	<Zodiac Specialist>
@@ -8967,7 +8967,7 @@
 8966	Invasion of the snowman - diabolical reefs
 8967	Snowman Invasion - Forest of Darkness
 8968	01 Event of the Santuario_Camon
-8969	02 Event of Santuario_Atenea
+8969	02 Event of Santuario_Athena
 8970	03 Event of the Santuario_announcement of peace
 8971	04 Event of the Sanctuary_Leah
 8972	05 Event of the Sanctuary_exploradores
@@ -10797,7 +10797,7 @@
 10796	Carapacho del Alma NPC Distribute Mission
 10797	Emissary of the Divine Artifacts
 10798	Distribute NPC titles
-10799	System01 Choice of Atenea_sign
+10799	System01 Choice of Athena_sign
 10800	System02 Choice of Pegasus_sign
 10801	System03 Choice of sign_Dragon
 10802	System04 Choice of sign_Scan
@@ -10868,7 +10868,7 @@
 10867	Dia de los Solteros_Hijo del Dios del Amor
 10868	Glorious Day of the Soltero
 10869	Dia del Soltero_Deméter's special ear_distribuido
-10870	Dia del Soltero_Atenea_distribuido
+10870	Dia del Soltero_Athena_distribuido
 10871	Dia duplo_2014 Christmas tree
 10872	Dia duplo_2014 Santa Claus
 10873	Dia duplo_Ice Carnival of the Ambassador celebration
@@ -10879,18 +10879,18 @@
 10878	Liga Extraordinarios_Misión de Camp de batalla distributed
 10879	Liga Extraordinarios_Delivery of the red team distributed
 10880	Liga Extraordinarios_Delivery of the blue team distributed
-10881	Escudero_Heroe of the red team pays account 01 Transformation of Seiya
-10882	Escudero_Heroe of the red team pays an account 02 Transformation of the Black Dragon
-10883	Escudero_Personaje paid for the red team 03 Transformation of Shunrei
-10884	Escudero_Heroe of the red team pays count 03 Sirena Transformation
-10885	Escudero_Personaje paid for the red team 04 Transformation of the Sea Dragon
-10886	Escudero_Personality paid for the red team 05 Transformation of Black Cygnus
-10887	Escudero_Heroe of the blue team pays account 03 Transformation of Seiya
-10888	Escudero_Heroe of the blue team pays an account 02 Transformation of the Black Dragon
-10889	Escudero_Personality paid for the blue team 03 Transformation of Shunrei
-10890	Escudero_Heroe of the blue team pays count 03 Sirena Transformation
-10891	Escudero_Personality paid for the blue team 04 Transformation of the Sea Dragon
-10892	Escudero_Personaje payment for the blue team 05 Transformation of Black Cygnus
+10881	Squire_Heroe of the red team pays account 01 Transformation of Seiya
+10882	Squire_Heroe of the red team pays an account 02 Transformation of the Black Dragon
+10883	Squire_Personaje paid for the red team 03 Transformation of Shunrei
+10884	Squire_Heroe of the red team pays count 03 Sirena Transformation
+10885	Squire_Personaje paid for the red team 04 Transformation of the Sea Dragon
+10886	Squire_Personality paid for the red team 05 Transformation of Black Cygnus
+10887	Squire_Heroe of the blue team pays account 03 Transformation of Seiya
+10888	Squire_Heroe of the blue team pays an account 02 Transformation of the Black Dragon
+10889	Squire_Personality paid for the blue team 03 Transformation of Shunrei
+10890	Squire_Heroe of the blue team pays count 03 Sirena Transformation
+10891	Squire_Personality paid for the blue team 04 Transformation of the Sea Dragon
+10892	Squire_Personaje payment for the blue team 05 Transformation of Black Cygnus
 10893	Lantern Valentine_01 Enigma Ball1
 10894	Lantern Valentine_02 Ball Enigma2
 10895	Lantern Valentine_03 Ball Enigma3
@@ -11375,7 +11375,7 @@
 11374	Chapter 3 Main Realm Marin 4
 11375	Secondary Realm 02 Puerto _ Jump mission with the villagers
 11376	01 Event of the Sanctuary_Carmo
-11377	02 Event of the Santuario_Atenea
+11377	02 Event of the Santuario_Athena
 11378	03 Event of the Sanctuary_announcement of peace
 11379	04 Event of the Sanctuary_Leah
 11380	05 Event of the Sanctuary_exploradores
@@ -13171,7 +13171,7 @@
 13170	Mission crafting guidelines
 13171	Emissary of the Divine Artifacts
 13172	Distribute NPC titles
-13173	System01 Choice of Atenea_sign
+13173	System01 Choice of Athena_sign
 13174	System02 Choice of sign_Pegasus
 13175	System03 Choice of sign_Dragon
 13176	System04 Choice of sign_Scan

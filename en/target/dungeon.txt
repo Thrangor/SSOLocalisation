@@ -9,9 +9,9 @@
 8	${name} already participated in Proteja Saori, can not participate again in that period
 9	The participation number of Proteja Saori has been exhausted
 10	Already participated in Proteja Saori, can not participate again in that period
-11	Proteja Atenea participation number of ${name} has been exhausted
+11	Proteja Athena participation number of ${name} has been exhausted
 12	${name} already participated in Protect Athena, can not participate again in that period
-13	The participation number of Proteja Atenea has been exhausted
+13	The participation number of Proteja Athena has been exhausted
 14	Already participated in Protect Athena, can not participate again in that period
 15	O Counter-Attack No. of ${name} is esgotou ou Ponto de Ares insufficient
 16	O group não recebeu a Quest Contra-Ataque I! Abismo do Fogo e Gelo

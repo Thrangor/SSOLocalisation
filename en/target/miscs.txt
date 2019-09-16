@@ -62,7 +62,7 @@
 61	%s was expelled by the teacher
 62	%s has betrayed the teacher
 63	%s was accepted by the teacher
-64	You climbed to the %d level
+64	You achieved level %d!
 65	The level of Concentrated Practice has risen to the level %d
 66	Obtained %d EXP points from the Auxiliary Sign
 67	%dx %s collected

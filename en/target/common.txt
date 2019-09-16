@@ -609,7 +609,7 @@
 608	%dh %dmin
 609	%dd %dh
 610	Remaining time:
-611	Cont:
+611	Time:
 612	%s x %d
 613	%04d-%02d-%02d %02d:%02d
 614	Sunday

@@ -442,7 +442,7 @@
 441	Restrictions
 442	Restart
 443	Desmont.
-444	Bloq./Des.
+444	Lock./Des.
 445	Update
 446	Only the Marshal
 447	Only soldiers can receive
@@ -2327,7 +2327,7 @@
 2326	Evolu.
 2327	Collection
 2328	Active
-2329	Escudero
+2329	Squire
 2330	Equipment
 2331	Boots
 2332	Helm
@@ -2339,7 +2339,7 @@
 2338	Attribute
 2339	Power extra:
 2340	Rooms
-2341	Quanos characters has the name of the Escudero
+2341	Quanos characters has the name of the Squire
 2342	Star Rating:
 2343	Training
 2344	LV 100
@@ -2930,9 +2930,9 @@
 2929	Refine armor
 2930	Prepare equipment
 2931	Astromancy of the Cosmo
-2932	Protect the skills of the Escudero
+2932	Protect the skills of the Squire
 2933	Accessory
-2934	Escudero
+2934	Squire
 2935	Collection
 2936	Other
 2937	Power of struggle and evolution that the armor has brought
@@ -3136,11 +3136,11 @@
 3135	After the end of the process, the items will be blocked again.
 3136	Stop
 3137	Inventory
-3138	Escudero
+3138	Squire
 3139	Place the item that will be used.
 3140	Error reminder here
 3141	Unlock items and the Squire to use them. To unlock the items you need to wait for a period of 7 days. ^ffdf00 The protection of the extension is as follows: block of items can not be deleted, exchanged, sold or discarded. After blocking the equipment can not be used, the ability can not be changed and the capacity will be renewed.
-3142	Bloq
+3142	Lock
 3143	After blocking the items, click to start the release After 7 days, the capacity will be ready to be released.
 3144	Unlocking
 3145	After the conclusion of the countdown, click to unlock the items
@@ -4146,8 +4146,8 @@
 4145	Race:
 4146	Torada
 4147	Torada
-4148	Bloq
-4149	Bloq
+4148	Lock
+4149	Lock
 4150	Confirm
 4151	Name of the pet in use
 4152	Confirm
@@ -7195,7 +7195,7 @@
 7194	Reload 1 Real and win a free gift. Receive once a month.
 7195	Win free prize
 7196	Card recharge
-7197	Laptop shop
+7197	Portable Shop
 7198	Current month:
 7199	Currently 99 points
 7200	Preview of the next month's prize
@@ -7259,7 +7259,7 @@
 7258	Confirm
 7259	Espelho Quebrado
 7260	Cosmo
-7261	Escudero
+7261	Squire
 7262	Astrology
 7263	Relic
 7264	Spirit of Armor
@@ -7320,12 +7320,12 @@
 7319	Apprentices
 7320	Candidates
 7321	Countdown: 59s
-7322	System of tutelary indication
+7322	Master - Disciple System
 7323	Reject
 7324	Accept
-7325	Before the apprentice become a teacher, the mentor may receive extra moral points
+7325	Master gains additional benefits when disciple advances!
 7326	Sign xxx; xx of Level xx, is looking at you with a pathetic face. "Would you like to be my teacher?" "
-7327	NOTE: If both parties agree, they will be considered as protected by the indication system!
+7327	NOTE: After confirmation, master-disciple relationship will be established.
 7328	Ruins of the God of War
 7329	Automatic enrollment
 7330	Exit the group
@@ -7910,17 +7910,17 @@
 7909	Progress of negotiation of the other player
 7910	Negotiate
 7911	Blockade progress of the other player
-7912	Bloq
+7912	Lock
 7913	Progress of the negotiation itself
 7914	Negotiate
 7915	Progress of the blockade itself
-7916	Bloq
+7916	Lock
 7917	Finish
 7918	Cancel
 7919	Gold:
 7920	Insert value
-7921	Bloq
-7922	Bloq
+7921	Lock
+7922	Lock
 7923	Athena 001
 7924	Level 1
 7925	Cheat

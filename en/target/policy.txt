@@ -1570,25 +1570,25 @@
 1569	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the second round is already released. Knights above level 30 can receive it!
 1570	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the first round is already released, Knights above level 30 can receive it!
 1571	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the second round is already released. Knights above level 30 can receive it!
-1572	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Atenea: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
-1573	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Atenea: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
+1572	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
+1573	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
 1574	Insects, how dare they hurt me!
 1575	The power of lightning is also in my fist!
 1576	Distance is not a problem for me, it dies!
 1577	Athena, you have not appeared yet, right, then I will kill your followers!
-1578	$noname$UImid ^e12500 Projection of the God of the Dream: Evil Stars, come closer, we will receive Hades Reborn and start a new Holy War! ^Ffff00Atenea: Knights, defeat the God of Dream and start the fight, like this, You will get my blessing! ^N
-1579	$noname$UImid ^e12500 Projection of the God of the Dream: Evil Stars, come closer, we will receive Hades Reborn and start a new Holy War! ^Ffff00Atenea: Knights, defeat the God of Dream and start the fight, like this, You will get my blessing! ^N
-1580	$noname$UImid ^e12500Reine of the Underworld, Persephone: When the nine great planets Realm up, the world will plunge into eternal darkness !! ^FFFF00Atenea: Knights, defeat the Queen of the Underworld and start the fight, so, you will get my blessing! ^N
-1581	$noname$UImid ^e12500Reine of the Underworld, Persephone: When the nine great planets Realm up, the world will plunge into eternal darkness! ^FFFF00Atenea: Knights, defeat the Queen of the Underworld and start the fight, so, you will get my blessing! ^N
-1582	$noname$UImid ^e12500Intention of Hades: The existence of life has no meaning, in the end everything results in death! I, King of the Underworld, Hades, will tread the Earth again! ^FFFF00Atenea: Knights, defeat the King of the Underworld and start the fight, you will get my blessing! ^N
-1583	$noname$UImid ^e12500Intention of Hades: The existence of life has no meaning, in the end everything results in death! I, King of the Underworld, Hades, will tread the Earth again! ^FFFF00Atenea: Knights, defeat the King of the Underworld and start the fight, you will get my blessing! ^N
+1578	$noname$UImid ^e12500 Projection of the God of the Dream: Evil Stars, come closer, we will receive Hades Reborn and start a new Holy War! ^Ffff00Athena: Knights, defeat the God of Dream and start the fight, like this, You will get my blessing! ^N
+1579	$noname$UImid ^e12500 Projection of the God of the Dream: Evil Stars, come closer, we will receive Hades Reborn and start a new Holy War! ^Ffff00Athena: Knights, defeat the God of Dream and start the fight, like this, You will get my blessing! ^N
+1580	$noname$UImid ^e12500Reine of the Underworld, Persephone: When the nine great planets Realm up, the world will plunge into eternal darkness !! ^FFFF00Athena: Knights, defeat the Queen of the Underworld and start the fight, so, you will get my blessing! ^N
+1581	$noname$UImid ^e12500Reine of the Underworld, Persephone: When the nine great planets Realm up, the world will plunge into eternal darkness! ^FFFF00Athena: Knights, defeat the Queen of the Underworld and start the fight, so, you will get my blessing! ^N
+1582	$noname$UImid ^e12500Intention of Hades: The existence of life has no meaning, in the end everything results in death! I, King of the Underworld, Hades, will tread the Earth again! ^FFFF00Athena: Knights, defeat the King of the Underworld and start the fight, you will get my blessing! ^N
+1583	$noname$UImid ^e12500Intention of Hades: The existence of life has no meaning, in the end everything results in death! I, King of the Underworld, Hades, will tread the Earth again! ^FFFF00Athena: Knights, defeat the King of the Underworld and start the fight, you will get my blessing! ^N
 1584	King of the Underworld !! Through your strength, I will kill everyone equally!
 1585	They are following the path of ruin!
-1586	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Atenea: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
-1587	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Atenea: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
-1588	$noname$UImidAtenea entered the Underworld to go to Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
-1589	$noname$UImidAtenea entered the Underworld to go to Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
-1590	$noname$UImidAtenea entered the Underworld to send Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
+1586	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Athena: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
+1587	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Athena: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
+1588	$noname$UImidAthena entered the Underworld to go to Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
+1589	$noname$UImidAthena entered the Underworld to go to Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
+1590	$noname$UImidAthena entered the Underworld to send Hades. Knights, Open the Road to the Underworld! Athena needs your protection!
 1591	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
 1592	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
 1593	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
@@ -2901,7 +2901,7 @@
 2900	I came for the National Day, remember to go see our presentation !!!
 2901	I'm in a good mood today, I'll leave the gifts for you !!!
 2902	It looks like a rat running from here to there!
-2903	$UImid$nonameAtenea: Thank you Knights, they destroyed the Hades conspiracy!
+2903	$UImid$nonameAthena: Thank you Knights, they destroyed the Hades conspiracy!
 2904	Miss Saori, I came to save you!
 2905	Oh! Hades cheated on me ...... Miss Saori, I will defeat Hades safely ......
 2906	$spec questportrait_565
@@ -7152,7 +7152,7 @@
 7151	Aphrodite, I tried ...
 7152	$spec questportrait_485
 7153	They are following the path of ruin!
-7154	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Atenea: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
+7154	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Athena: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
 7155	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
 7156	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
 7157	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
@@ -7226,7 +7226,7 @@
 7225	$spec sound_1051
 7226	$spec questportrait_561
 7227	Big rabbit! Run fast!
-7228	$UImid$nonameAtenea: Thank you Knights, they destroyed the Hades conspiracy!
+7228	$UImid$nonameAthena: Thank you Knights, they destroyed the Hades conspiracy!
 7229	It looks like a rat running from here to there!
 7230	$UImid$noname System Announcement: Within the Sanctuary of Realm 15, a large number of National Day Clowns will appear, from 12:00 a.m. to 1:00 p.m. After killing them, you will get plenty of gifts. Knights, move!
 7231	$UImid$noname System Announcement: Within the Sanctuary of Realm 15, a large number of National Day Clowns will appear, from 9:00 pm to 10:00 pm. After killing them, they will get plenty of gifts. Knights, move!

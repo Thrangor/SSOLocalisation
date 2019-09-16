@@ -419,8 +419,8 @@
 418	%s (exhibit)
 419	On multi-server, it is not possible to use Star in item Mall
 420	When many people are in saddle, it is not possible to use Star in the Mall item
-421	%Gold I64d
-422	%I64d Star
+421	%I64d Gold
+422	%I64d Stars
 423	Rates collected on %s ^N, got %s
 424	%s was obtained
 425	Successful sale.\r%s
@@ -430,7 +430,7 @@
 429	Confirm sale:\r^f00000 %s ^N\rSale price:\r^f0f000 %s ^N, Term: %s
 430	Ready for sale successfully
 431	Gold insufficient, it is not possible to sell
-432	Star insuficiene, it is not possible to sell
+432	Star insufficient, it is not possible to sell
 433	Insufficient custody rate, it is not possible to sell
 434	Please select the Coin for sale
 435	Please insert the price
@@ -1797,7 +1797,7 @@
 1796	Important tool necessary to increase Guild base from level 6 to level 7.\r^ff7d2f After the increase of the base of the Guild in the event, it can receive from the emitter of Athena.\r^ff7d2f Go quickly to the administrator of the construction Main and increase the Base from level 6 to level 7.\r^7fffff (Each time you open the event to increase the base, you will have an interval of 1 hour)
 1797	Important tool necessary to increase base of the Guild from level 7 to level 8.\r^ff7d2f After the increase of the base of the Guild in the event, it can receive from the emitter of Athena.\r^ff7d2f Go quickly to the administrator of the construction Main and increase the Base of level 7 to level 8.\r^7fffff (Each time you open the event to increase the base, you will have an interval of 1 hour)
 1798	^7fffff Open with treasure box key base increase reward.\r^ff7d2f Use the reward of the Goddess as quickly as possible!
-1799	^ffffffThe powerful force of the zither seal is used to purify those Souls of the Reborn Knights of the Underworld.\r^fff600Can only be used on the Knight's soul\r^72fe00Use after clicking
+1799	^ffffffThe powerful force of the zither seal is used to purify those Souls of the Reborn Knights of the Underworld.\r^fff600Can only be used on the Knight's soul\r^72fe00Click to use
 1800	^ffffffYou can directly consult the ^72fe00Bronze Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1801	^ffffffYou can directly consult the ^72fe00Silver Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1802	^ffffffYou can directly consult the ^72fe00Original Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
@@ -2006,14 +2006,14 @@
 2005	^ffffffMedicamento colorful cure\rno is clear what is the effectiveness of each one
 2006	^ffffff Big crab, its meat is fresh and delicate
 2007	^ffffff Emanates a wonderful smell of tea
-2008	^ffffffIt smells sweet, it seems\rse is preparing the honey that the bears most like to eat\r^fff600Necessary to reach a certain place\r^72fe00Use after clicking
-2009	^ffffffOnly the beast will like the piece of\rCarne, emitting an unpleasant\rOlor\r^fff600Necessary to reach determined place\r^72fe00Use after clicking
-2010	^ffffffThe box attracts a lot of attention,\rel apprentice outside the law will surely go to notice it\r^fff600Necessary to reach a certain place\r^72fe00Use after clicking
-2011	^ffffffSwimpy Old, you can certainly\rto raise a loud and clear sound\r^fff600Need to reach specific place\r^72fe00Use after clicking
-2012	^ffffffIt looks like a very old wooden plate\rIt smells strange\r^fff600Need to reach specific place\r^72fe00Use after clicking
-2013	^ffffff It seems that the basket made of bamboo is very strong,\r^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-2014	^ffffffTan impressive that seem\real, but in truth\rson only pieces of scrambled lead\r^fff600Necessary to reach a certain place\r^72fe00Use after clicking
-2015	^ffffffUsed to extract the memory of the bandit,\rcan emit a harmonious sound\r^fff600Necessary to reach determined place\r^72fe00Use after clicking
+2008	^ffffffIt smells sweet, it seems\rse is preparing the honey that the bears most like to eat\r^fff600Necessary to reach a certain place\r^72fe00Click to use
+2009	^ffffffOnly the beast will like the piece of\rCarne, emitting an unpleasant\rOlor\r^fff600Necessary to reach determined place\r^72fe00Click to use
+2010	^ffffffThe box attracts a lot of attention,\rel apprentice outside the law will surely go to notice it\r^fff600Necessary to reach a certain place\r^72fe00Click to use
+2011	^ffffffSwimpy Old, you can certainly\rto raise a loud and clear sound\r^fff600Need to reach specific place\r^72fe00Click to use
+2012	^ffffffIt looks like a very old wooden plate\rIt smells strange\r^fff600Need to reach specific place\r^72fe00Click to use
+2013	^ffffffIt seems that the basket made of bamboo is very strong,\rSuitable for crab catching\rReach destined location first\rClick to use
+2014	^ffffffTan impressive that seem\real, but in truth\rson only pieces of scrambled lead\r^fff600Necessary to reach a certain place\r^72fe00Click to use
+2015	^ffffffUsed to extract the memory of the bandit,\rcan emit a harmonious sound\r^fff600Necessary to reach determined place\r^72fe00Click to use
 2016	^fff600Bendition of the stars\rGet weekly in the Test of the Stars\r^ffffffWhen you open, you can get abundant prize\r^0184ffRight click to open
 2017	^ffffffThe jar can be filled with water\r^72fe00Despues to select the jar, click to use it
 2018	^ffffffJarra rota\r^72fe00Despue to select the jar, click to use it
@@ -2029,10 +2029,10 @@
 2028	^ffffffMedicamento del prophet para la tratamiento\r^72fe00Despúes to select the prophet, click to use it
 2029	^ffffff Stone engraved with strange runes\rIt seems to contain a mysterious force
 2030	^ffffffEmits a soft glow from the harp,\rIt seems to contain a surprising force
-2031	^ffffffIt gives a soft brightness of the harp,\rIt seems to contain a surprising force\r^fff600It is necessary to reach a certain place\r^72fe00Use after clicking
+2031	^ffffffIt gives a soft brightness of the harp,\rIt seems to contain a surprising force\r^fff600It is necessary to reach a certain place\r^72fe00Click to use
 2032	^ffffff Rigorous reprimand, scare people\r^72fe00Despues to select lazy ryoga, click to use it
-2033	^ffffffConcentration to awaken the essence of the hidden forces\rForce of the Cosmo!\r^fff600Necessary to reach a certain place\r^72fe00Use after clicking
-2034	^ffffffMarin used to distinguish the memory of the identity of the other party\r^fff600Necessary to reach specific place\r^72fe00Use after clicking
+2033	^ffffffConcentration to awaken the essence of the hidden forces\rForce of the Cosmo!\r^fff600Necessary to reach a certain place\r^72fe00Click to use
+2034	^ffffffMarin used to distinguish the memory of the identity of the other party\r^fff600Necessary to reach specific place\r^72fe00Click to use
 2035	^ffffffA letter written for Shaina\rThe letter begins thus the coldness\rla mask can not hide his face\rencantador...
 2036	^ffffffCaja Preciosa\r^72fe00Click here to use
 2037	^ffffff Kido Foundation's request for help letter\rKeep it in the ^72fe00Playa de la Esperanza ^ffffff to find ^72fe00Spy of the Kido Foundation\r^ffffffYou know how useful it is
@@ -2404,7 +2404,7 @@
 2403	^ffffffUtilize: Receive mission ^72fe00Reference letter for basic level learners\r^fff600Necessary reputation of the Light of Faith:\r^72fe00Respect\r^fff600This mission can ^a800ffmake magical transformation ^fff600of the Pearl of Precept of ^a800fflevel epic ^fff600for ^ff7d2fnivel ^fff600legendary\r^a800ffPerla of the Precept ^fff600can be purchased with Severo, in the Coliseum Grand, after the estimated reputation of the Light of Faith to be reached\r^0184ffRight click to use
 2404	^ffffffUsing: Receive the mission ^72fe00Reference letter for intermediate level apprentices\r^fff600Required level: 60\rReputation of the Light of Faith is required:\r^0184ffVeneration\r^fff600This mission may ^a800fill the magic transformation ^fff600de the Pearl of Illumination of ^a800fflevel epic ^fff600for ^ff7d2flevel ^fff600legendary\r^a800ffWhen the estimated reputation of the Light of Faith is reached, you can buy the Pearl of Illumination firmly, in the Coliseum Grand\r^0184ffRight click to use
 2405	^fff600Bronze Test commemorative item\rIt seems that they no longer have a function.
-2406	^ffffffitem used in the Cosmo / Astromancy\rUsado to open the ^72fe00AteneaOrculo\r^ffffffCan only be used after unlocking the Cosmo System in the LV 40
+2406	^ffffffitem used in the Cosmo / Astromancy\rUsado to open the ^72fe00AthenaOrculo\r^ffffffCan only be used after unlocking the Cosmo System in the LV 40
 2407	^ffffffClick with the right button to obtain:\r15,000 Cosmo Potential points\rIt is necessary to be in the LV.45\rUse shortcut Crtl + Right mouse button to use continuously
 2408	^ffffff Right click to obtain:\r150,000 Cosmo Potential points\rIt is necessary to be in the LV.45\rUse shortcut Crtl + Right mouse button to use continuously
 2409	^ffffffUse: can be converted to Box\r^ff0000Please avoid using tools for the transformation status below\r^0184ffRight click to use
@@ -3117,7 +3117,7 @@
 3116	^ffffffof common work , used to clean books 
 3117	^ffffffbalde full of water, used to clean the statue of Athena 
 3118	^ffffffglobo containing mysterious items 
-3119	^fff600After opening, you will get:\r^0184ffTears of Athena ^ffffffx2\r^fff600Special note: get tear from Atenea ^ff0000no negotiable\r^0184ffRight click to use 
+3119	^fff600After opening, you will get:\r^0184ffTears of Athena ^ffffffx2\r^fff600Special note: get tear from Athena ^ff0000no negotiable\r^0184ffRight click to use 
 3120	Young man with a burning heart 
 3121	Hairstyle of Seiya de Pegasus.\r
 3122	Dragon Shiryu hairstyle.
@@ -4283,7 +4283,7 @@
 4282	^72fe00invocation contains great power of telekinesis of the golden knight of Aries can help him in the battle ^fff600allowed use just inside the arena of the Coliseum Grand ^fff600sanctuary camp use available only to players ^0184ff30 seconds of Team Freezing 
 4283	^72fe00endless energy of invocation of the General of the Ocean Baian of Marine Horse can help you in the battle ^fff600allowed use just inside the lathe of Coliseum Grand ^fff600camp of the Emperor of the Seas use available only for the Players ^0184ff30 seconds of Freezing Equipment
 4284	^72fe00invocation of endless understanding of the strength of Milos's error of the Celestial Star of the Nobility can help him in battle ^fff600allowed use just inside the Grave Coliseum's lair ^fff600camp of the underworld use available only for players ^0184ff30 seconds of Freezing Team 
-4285	^72fe00Transformación en Atenea, libra una poderosa fuerza divina ^fff600uso disponible en el interior del torneo del Coliseo Grand, conforntar los jugadores añadir sello en el efecto ^fff600campamento del santuario uso disponible solo para los jugadores ^0184ffCuando se utiliza la autoinmunidad de control, tendrá 30 segundos de Equipo de congelación
+4285	^72fe00Transformación en Athena, libra una poderosa fuerza divina ^fff600uso disponible en el interior del torneo del Coliseo Grand, conforntar los jugadores añadir sello en el efecto ^fff600campamento del santuario uso disponible solo para los jugadores ^0184ffCuando se utiliza la autoinmunidad de control, tendrá 30 segundos de Equipo de congelación
 4286	^72fe00Transformation into Poseidon, unleashes a powerful fury of power ^fff600use available inside the Coliseum Grand tournament, against players add freeze in effect ^fff600Emperor's camp The Seas use only available for players ^0184ffWhen using autoimmunity control, you will have 30 seconds of freezing equipment
 4287	^72fe00Transformation in Hades, unleashes a powerful horror power of evil ^fff600use available inside the Coliseum Grand tournament, against players add reverse attack in effect ^fff600camp of the underworld use available only to players ^0184ffWhen control autoimmunity is used, you will have 30 seconds of freezing equipment 
 4288	^fff600After using, you will get Guild common occupancy ^0184ffBoundary level: above level 80 ^0184ffhas validity from 01/13/2014 - 01/19 / 2014 ^ffffff After use, it will disappear
@@ -6534,7 +6534,7 @@
 6533	^ff0000After increasing the category, fashion will be bound and can not be changed by advanced level kit\r^ff0000Fashion top suit with property can not be used to change corresponding sex kit\r^fff600When collecting 3 different basic types of ^72fe00Kit of Tutancâmon ^fff600You can with ^7fffffSent of the Expansion Event ^fff600change by Kit ^72fe00Tutankamón · Throne ^fff600, ^ff0000After the change, fashion will be bound 
 6534	^fff600When collecting 3 different basic types of ^72fe00Kit of Tutankhamun ^fff600You can ^7fffffFrom the Expansion Event ^fff600change by Kit ^72fe00Tutankamón · Throne ^fff600, ^ff0000After the change, fashion will be bound
 6535	^fff600When collecting 3 different basic types of ^72fe00Kit of Anubis ^fff600You can with ^7fffffSpread Event Send ^fff600change by Kit ^72fe00Anubis · Power ^fff600, ^ff0000After the change, fashion will be bound 
-6536	^fff600After opening for the 10th time ^a800ffFavor of the Goddess ☆ Taurus Version (III) ^fff600you will get\r^72fe00Atenea Light x5\rSilver Crystal x10\rDemonic Blood x10\rSpace Key time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Taurus Version ( III) x2\r^0184ffThis item can only be obtained once
+6536	^fff600After opening for the 10th time ^a800ffFavor of the Goddess ☆ Taurus Version (III) ^fff600you will get\r^72fe00Athena Light x5\rSilver Crystal x10\rDemonic Blood x10\rSpace Key time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Taurus Version ( III) x2\r^0184ffThis item can only be obtained once
 6537	^fff600After opening, you will get ^72fe00Anubis · Male Code Kit ^fff600o ^72fe00Tutankamón · Cursed feminine kit\r^fff600Distribute according to the player's sex\r^ff0000When collecting 3 different types of ^0184ffFashion package Dawn of the Nile River ^ff0000you with ^7fffffSpread Event Shift ^ff0000change by ^ff7d2f Fashionable Nile River Sunrise Final Pack 
 6538	^fff600After opening, you will get ^72fe00Anubis · Male Kit Scale ^fff600or ^72fe00Tutankamón · Female mask kit\r^fff600Distribute according to sex player\r^ff0000Al collect ^3 different fashion 0184ffPaquete dawn Nile ^^7fffffEnviado ff0000puede with Event Expansion ^^ff0000cambiar by ff7d2fPaquete end fashion dawn Nile
 6539	^fff600After opening, you will get ^72fe00Anubis · Celestial Fire male kit ^fff600o ^72fe00Tutankamón · Female scepter kit\r^fff600Distribute according to the player's gender\r^ff0000Also pick up 3 different types of ^0184ffFashionable Rio Dawn Pack Nilo ^ff0000can with ^7fffffSpread Event Shift ^ff0000change by ^ff7d2f Fashionable Nile River Sunrise Final Pack 
@@ -6726,12 +6726,12 @@
 6725	^fff600After opening, you will get:\r^ff7d2f Sacred Piece 3 [Taurus] ^ffffffx1\r^0184ffRight click to use 
 6726	^fff600After opening for the 10th time ^a800ffFavor of the Goddess ☆ Virgo Version (III) ^fff600You will get\r^72fe00Athena Light x5\rSilver Crystal x10\rDemonic Blood x10\rSpace Key time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Virgo Version (III) x2\r^0184ffThis item can only be get one time
 6727	^fff600After opening, you will get:\r^72fe00Kit Male of the Stars ^fff600o ^72fe00Kit Female of the Stars\r^fff600Distribute according to the sex of the player 
-6728	^fff600After opening for the 10th time ^a800ffFavor of the Goddess ☆ Beginner Version ^fff600You will get\r^72fe00Atenea light x5\rCrystal Silver x10 Demonic Blood x10\rSpace Key time x10\rSpiritual Power Font x10\rFavor of the Goddess ☆ Beginner Version x2\r^0184ffThis item can only be obtained once 
+6728	^fff600After opening for the 10th time ^a800ffFavor of the Goddess ☆ Beginner Version ^fff600You will get\r^72fe00Athena light x5\rCrystal Silver x10 Demonic Blood x10\rSpace Key time x10\rSpiritual Power Font x10\rFavor of the Goddess ☆ Beginner Version x2\r^0184ffThis item can only be obtained once 
 6729	^fff600Placa for classic celebratory fashion change\r^7fffffWhen collecting a certain number of plates, you can search the corresponding NPC for the exchange\r^0184ffDrop by advancing from level higher than 80 in the Hero Instance Zone
 6730	^fff600Classic Celebration Mount Change\r^7fffff When collecting a certain amount of beads, you can search for the corresponding NPC for the trade of\r^0184ffDrop by advancing above 60 in the Daily Instance Zone 
 6731	^0184ffClick right-click to use\r^ff6fb3With use you will receive ^72fe00th reputation point of goddess blessing\r^fff600You will also receive an extra random prize\r^fff600And opening for the 10th time you will get a Virgin Gift (III )\rAo to open, you will get:\r^72fe00Light of Athena x5 \r Silver Saga x10 \r Demon Saga x10 \r Cosmichave x10\rSpiritual Fountain I x10\rBlade of the Goddess ☆ Virgo (III) x2\r^0184ffThe gift of Virgo (III) may be obtained only once
 6732	^ff0000When collecting 72 units, you can change to a ^fff600Super Golden Blood\r^ff0000with just one, you can change it to ^a800ffBlood Blood ^ffffffx5\r^0184ffObtiene when going through the event Blessing of Darkness 
-6733	^fff600Open, You will get:\r^a800ffGold Blood ^ffffff × 50\r^a800ffStar Star Sun Wick ^ffffff × 50\r^a800ffStar Sun Crown Star x50\r^a800ffAtenea Blood ^ffffff × 20\r^72fe00Gem 1000\r^7fffff according to each\r^0184ffRight click to use it 
+6733	^fff600Open, You will get:\r^a800ffGold Blood ^ffffff × 50\r^a800ffStar Star Sun Wick ^ffffff × 50\r^a800ffStar Sun Crown Star x50\r^a800ffAthena Blood ^ffffff × 20\r^72fe00Gem 1000\r^7fffff according to each\r^0184ffRight click to use it 
 6734	^fff600Open, you will get:\r^a800ffDemon Blood ^ffffff × 10\r^a800ffGold Blood ^ffffff × 10\r^a800ffLlave Space Time ^ffffff × 10\r^a800ffSilver Crystal ^ffffff × 10\r^a800ffBronze Armor Shard ^ffffff × 30\r^0184ffRight click to use it
 6735	^fff600When you use, you will get:\r^a800ffSacred Golden Light ^ffffffx10\r^a800ffSacred Splendor ^ffffffx10\r^a800ffSacred Splendor + ^ffffffx10\r^a800ffScrap fragment ^ffffffx5\r^a800ffScrap Dragon ^ffffffx5\r^0184ffHaga right-click to use 
 6736	^ff0000Active Battle Record of the Gods\r^a800ffAl join 7, you can exchange them for two "Divine Artifact Insignia"\r^0184ffObtiene when completing the mission "Battle of the Gods_Recompensa de activity 
