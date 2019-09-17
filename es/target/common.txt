@@ -1969,143 +1969,143 @@
 1968	(Personalizar)
 1969	Primer capítulo
 1970	Prueba de sangre y fuego
-1971	社交
-1972	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1973	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1974	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1975	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600箭鱼座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1976	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-1977	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600六分仪座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1978	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600仙后座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200^72fe00\r^0184ff白银圣衣委托书×3
-1979	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600巨蛇座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-1980	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600乌鸦座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-1981	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-1982	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600罗盘座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-1983	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600白鲸座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-1984	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600网罟座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-1985	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600银莺座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-1986	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1987	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1988	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1989	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1990	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1991	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1992	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1993	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1994	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1995	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1996	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1997	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
-1998	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天马^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天马）
-1999	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天龙^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天龙）
-2000	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff白鸟^72fe00座\r并完成任务^0184ff转换！宿命之守护星（白鸟）
-2001	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff仙女^72fe00座\r并完成任务^0184ff转换！宿命之守护星（仙女）
-2002	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff凤凰^72fe00座\r并完成任务^0184ff转换！宿命之守护星（凤凰）
-2003	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600半人马座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2004	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天箭座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2005	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600御夫座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2006	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天鹰座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2007	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600鹿豹座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2008	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600武仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2009	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600三角座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2010	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600后发座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2011	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600英仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2012	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600孔雀座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2013	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600仙王座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2014	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600天琴座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2015	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600变色龙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2016	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天炉座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2017	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2018	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2019	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600海蛇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2020	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600剑鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
-2021	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南十字座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2022	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600北冕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2023	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天幕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
-2024	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600皇女座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2025	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600船尾座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2026	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600波江座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
-2027	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600盾牌座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2028	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600南冕座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
-2029	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
-2030	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2031	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2032	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2033	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2034	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2035	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2036	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×50\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2037	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2038	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
-2039	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2040	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2041	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2042	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2043	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2044	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff海飞龙\r^72fe00并完成任务^0184ff转换！宿命之守护星（海龙）
-2045	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2046	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2047	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600银蝇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
-2048	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2049	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天威^72fe00星\r并完成任务^0184ff转换！宿命之守护星（天威）
-2050	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
-2051	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天间星^ff0000冥衣\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2052	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天魔星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2053	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天哭星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2054	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天英星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2055	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天捷星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2056	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天牢星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2057	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天兽星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
-2058	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×100\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2059	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×125\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
-2060	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×150\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+1971	SOC
+1972	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1973	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1974	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1975	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Volans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1976	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1977	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Sextans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1978	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Cassiopeia^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200^72fe00\r^0184ffArmor Authorization [Silver]×3
+1979	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Serpent^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1980	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Crow^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+1981	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Piscis Aus.^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+1982	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Compass^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+1983	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Cetus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items:\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+1984	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Reticle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+1985	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Oriolus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+1986	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1987	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1988	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1989	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1990	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1991	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1992	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1993	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1994	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1995	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1996	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1997	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1998	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffPegasus^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Pegasus)
+1999	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffDragon^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Dragon)
+2000	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffCygnus^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Cygnus)
+2001	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffAndromeda^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Andromeda)
+2002	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffPhoenix^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Phoenix)
+2003	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Centaur^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2004	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Sagitta^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2005	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Auriga^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2006	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Eagle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2007	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Tarandus^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2008	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Hercules^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2009	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Triangle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2010	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Berenices^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2011	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Perseus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2012	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Pavo^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2013	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Cepheus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2014	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Lyraff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2015	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Chameleon^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2016	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Fornax^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2017	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2018	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2019	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Hydra^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2020	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Dorado^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2021	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Crux^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2022	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Corona Borealis^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2023	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Atrium^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2024	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Queen^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2025	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Puppis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2026	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Eridanus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2027	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Shield^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2028	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Corona Australis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2029	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2030	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2031	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2032	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2033	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2034	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2035	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffSurplice Shard×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffSurplice Shard^72fe00 can be obtained via ^fff600Golden Armor Shard^72fe00 or ^fff600Tears of Athena^72fe00
+2036	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Golden Armor Shard×50\r^0184ffSilver Shards×100\rBronze Shards×100
+2037	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffSurplice Shard×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffSurplice Shard^72fe00 can be obtained via ^fff600Golden Armor Shard^72fe00 or ^fff600Tears of Athena^72fe00
+2038	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffSurplice Shard×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffSurplice Shard^72fe00 can be obtained via ^fff600Golden Armor Shard^72fe00 or ^fff600Tears of Athena^72fe00
+2039	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2040	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2041	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2042	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2043	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2044	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffSea Dragon\r^72fe00and complete quest: ^0184ffConversion! Star of Fate (Sea dragon)
+2045	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2046	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2047	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Musca^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2048	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2049	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffWyern^72fe00\rand complete quest: ^0184ffConversion! Star of Fate (Wyvern)
+2050	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2051	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Acheron^ff0000 Scale\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2052	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Alraune^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2053	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Harpy^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2054	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Balrog^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2055	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Basilisk^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2056	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Minotaur^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2057	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Sphinx^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2058	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Golden Armor Shard×100\r^0184ffSilver Shards×100\rBronze Shards×100
+2059	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Golden Armor Shard×125\r^0184ffSilver Shards×100\rBronze Shards×100
+2060	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Golden Armor Shard×150\r^0184ffSilver Shards×100\rBronze Shards×100
 2061	2333
 2062	55555
 2063	888
-2064	获得足够战场声望点数之后可到${pos(-182,339,402,2,'夏洛克')}处兑换奖励
-2065	个人战力
-2066	个人即时
-2067	军团内
-2068	军团间
-2069	     本周日24时结算的所有玩家上周累积充值数据\r     以该榜单为依据，周二维护后将给第一名玩家发放时效1周黑珍珠特效翅膀时装\r     周二维护后，圣域神职区将在本周为第一名玩家竖立雕像，并以其名义为本服玩家发放福利！
+2064	After getting enough battlefield reputation points, you can visit ${pos(-182,339,402,2,'Sherlock')} to redeem rewards
+2065	Personal combat power
+2066	Personal instant
+2067	Within the Guild
+2068	Guild
+2069	     All players who settled at 24 o'clock this week accumulated accumulative data\r based on the list. After the maintenance on Tuesday, the first player will be given a time limit of 1 week. Black Pearl special effects wings fashion\r After the maintenance on Tuesday, Sanctuary The district will erect a statue for the first player this week and issue benefits to the players in its name!
 2070	
-2071	 每月会进行一次总榜刷新，并在每月1号重置上月榜单显示本月榜单，每个月第一周周二维护后发放上月排行榜称号.\r 玩家获得称号\r     傲视寒霜的绚烂    个人鲜花排行榜获得第1名\r   绽放那一瞬的美丽   个人鲜花排行榜获得第2名\r     万花丛中的闪耀    个人鲜花排行榜获得第3名\r     生如夏花的温暖    个人鲜花排行榜获得第4-10名
-2072	参赛资格的统计已经结束，该积分将在8月1日自动失效.请登陆官方网站确认最终入围军团名单，也请入围军团长注意接收参赛门票.
-2073	声望达到一定级别可在${pos(203,317,292,4,'今井宗久')}处购买物品
-2074	声望达到一定级别可在${pos(-236,350,352,2,'荷拉斯')}处购买物品
-2075	声望达到一定级别可在${pos(-236,350,356,2,'古利亚斯')}处购买物品
-2076	声望达到一定级别可在${pos(-236,350,360,2,'克西弗斯')}处购买物品
-2077	声望达到一定级别可在${pos(-236,350,364,2,'阿高迪约')}处购买物品
-2078	声望达到一定级别可在${pos(-239,358,306,2,'西弗勒斯')}处购买珠链
-2079	声望达到一定级别可在${pos(-278,343,220,2,'守护星军需官')}处购买物品
-2080	可在${pos(-264,356,309,2,'传承商店')}处购买礼包
-2081	可在${pos(-204,337,16,2,'神战使者安迪娜')}处使用神战点
-2082	可在${pos(-227,337,66,2, '女神恩赐使者柯蒂丝')}处兑换
-2083	1.  开启随身仓库服务\r2.  开启随身聚能服务
-2084	拥有永久生效属性称号“钱包鼓鼓的”\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2085	拥有永久生效属性称号“勇往直前的淘金者”\r开启VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2086	拥有永久生效属性称号“疯狂敛财者”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2087	拥有永久生效属性称号“璀璨钻石大亨”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
-2088	月度返还福利200星券
-2089	月度返还福利600星券
-2090	月度返还福利2000星券
-2091	1.  月度返还福利4000星券\r2.  尊享MVIP尊贵标识
-2092	1.  月度返还福利5000星券\r2.  尊享MVIP尊贵标识
-2093	1.  月度返还福利8500星券\r2.  尊享MVIP尊贵标识
-2094	1.  月度返还福利32000星券\r2.  尊享MVIP尊贵标识
-2095	1.  月度返还福利40000星券\r2.  尊享MVIP尊贵标识
-2096	1.  月度返还福利60000星券\r2.  尊享MVIP尊贵标识
-2097	1.  月度返还福利80000星券\r2.  尊享MVIP尊贵标识
-2098	1.  月度返还福利126000星券\r2.  尊享MVIP尊贵标识
-2099	1.  月度返还福利180000星券\r2.  尊享MVIP尊贵标识
-2100	1.  月度返还福利280000星券\r2.  尊享MVIP尊贵标识
-2101	1.  月度返还福利415000星券\r2.  尊享MVIP尊贵标识
-2102	无法加载游戏数据文件！此错误可能是更新不完全所致！\n点击\"是\"：进行版本更新和验证.(注：可能需要花费较长时间)\n点击\"否\"：稍后手动更新或版本验证.
-2103	守护星座8
-2104	守护星座8升阶星座
-2105	前
-2106	第%d次神铸\r
-2107	^00ff00左键点击进行神铸\r
-2108	目标神器已经神铸，无法转移神铸次数
-2109	待转移神器神铸次数高于目标神器神铸次数上限
-2110	举报骗子
+2071	 A total list refresh will be performed every month, and the monthly list will be reset on the 1st of each month to display the list of the month. The first month of each month will be issued the title of the previous month after maintenance. \r The player gets the title\r The gorgeous individual flower list of the arrogant frost gets the 1st place\r The beautiful individual flower list of the bloom gets the 2nd place\r The 3rd place of the shining individual flower list in the flower cluster \r Born like a summer flower, the warmth of individual flower list won the 4th-10th
+2072	The qualifications for the competition have been closed and the points will automatically expire on August 1. Please visit the official website to confirm the final list of the finalists, please also enter the team leader to receive the tickets.
+2073	Once reputation reaches a certain level visit ${pos(203,317,292,4,'Imai Sokyu')} to purchase items
+2074	Once reputation reaches a certain level visit ${pos(-236,350,352,2,'Horacio')} to purchase items
+2075	Once reputation reaches a certain level visit ${pos(-236,350,356,2,'Golias')} to purchase items
+2076	Once reputation reaches a certain level visit ${pos(-236,350,360,2,'Griveous')} to purchase items
+2077	Once reputation reaches a certain level visit ${pos(-236,350,364,2,'Agaris')} to purchase items
+2078	Once reputation reaches a certain level visit ${pos(-239,358,306,2,'Severe')} to purchase bead chain
+2079	Once reputation reaches a certain level visit ${pos(-278,343,220,2,'Star Quartermaster')} to purchase items
+2080	Available at ${pos(-264,356,309,2,'Legacy Store')}
+2081	Available at ${pos(-204,337,16,2,'Amanda')} war exchange
+2082	Available at ${pos(-227,337,66,2, 'Cristina')} exchange
+2083	1.  Open the portable warehouse service\r2.  Turn on the portable service
+2084	Permanent attribute title: “Full Portfolio”\rPortable mail, runes, warehouse, gathering, VIP privileged mall services
+2085	Permanent attribute title: “Courage Gold Rush”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2086	Permanent attribute title: “Fanatic Wealth”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2087	Permanent attribute title: “Bright Magnate”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2088	Monthly 200 Star Coins
+2089	Monthly 600 Star Coins
+2090	Monthly 2000 Star Coins
+2091	1.  Monthly 4000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2092	1.  Monthly 5000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2093	1.  Monthly 8500 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2094	1.  Monthly 32000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2095	1.  Monthly 40000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2096	1.  Monthly 60000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2097	1.  Monthly 80000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2098	1.  Monthly 126000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2099	1.  Monthly 180000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2100	1.  Monthly 280000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2101	1.  Monthly 415000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2102	Unable to load game data file! This error may be due to an incomplete update! \nClick \"Yes\": Update and verify the version. (Note: It may take a long time)\nClick \"No\": Manual update or version verification later.
+2103	Guardian Constellation 8
+2104	guardian constellation 8 ascending constellation
+2105	 ago
+2106	%d god casting\r
+2107	^00ff00 Left click to go to God Cast\r
+2108	The target artifact has been cast, unable to transfer the number of castings
+2109	The number of artifacts to be transferred is higher than the target artifact
+2110	Report bot

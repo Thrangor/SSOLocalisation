@@ -1579,47 +1579,47 @@
 1578	En el Castillo de Hades los fantasmas se agitan,¿Será una nueva conspiración del Rey del Inframundo?  Afortunadamente, el Santuario está preparado par lidiar con esos fantasmas con Bombas de Calabaza!  ¡ Vamos a bombardear todo!
 1579	¡Cáncer!  Zombis llegaron
 1580	En el Castillo de Hades, durante un largo tiempo los espíritus errantes entraban en el cuerpo de los muertos, transformándose en zombis terribles.  La Máscara de la Muerte de Cáncer tiene experiencia en lidiar con zombis, él permitirá que un Caballero utilice su fuerza para derrotar a los zombis, pero la Máscara de la Muerte también juega malas pasadas, y a veces puede transformar a algún Caballero en zombi
-1581	没有仇敌，无需使用仇敌追踪道具
-1582	拒绝军团申请
-1583	确定花费500000金币创建军团？
-1584	玩家等级需要达到30级
-1585	或金币500000
-1586	1 申请者需是军团长\r2 当前没有军团基地\r3 申请时间在每周二到每周日\r3 （注：每周二维护后上周活跃度200名内军团可申请）
-1587	成功竞拍上了%s，花费了%I64d的金币
-1588	您的金币不足
-1589	加价(%I64d金币)
-1590	银河争霸赛报名尚未开启，开启时间每周二晚19点%s
-1591	战神星空
-1592	银河争霸赛胜利奖金（团长）
-1593	竞拍星域 %s 失败，退还%s%s
-1594	防守星域 %s 胜利，作为团长，你获得战利品 %s%s
-1595	防守星域 %s 胜利，作为团员，你获得战利品 %s%s
-1596	进攻星域 %s 胜利，返回竞拍的%s%s
-1597	    ①获胜条件\r    ·进攻方获胜：破坏蓝方核心水晶\r    ·防守方获胜：破坏红方核心水晶或战斗时间结束时，蓝方核心水晶没有被破坏\r    ②水晶介绍\r    ·核心水晶：最重要的水晶，位于基地内，当对应阵营的防御水晶、能量水晶都被破坏时，核心水晶才能够被攻击\r     ·防御水晶：结界守护水晶，位于本方基地的外围一侧，战斗开始后才可以被攻击，不破坏无法进入对方基地\r    ·能量水晶：同防御水晶，位置在本方基地外围的另一侧\r    ·中央传送水晶：中立的黄色水晶，位于银河争霸赛中央区域，最后一击的玩家所属阵营获得占领权，有传送水晶的一方可以通过基地内中间传送区直接传送至中央区域\r    ③战斗对象\r    面对无归属的星域时，会与怪物进行pve战斗，当进攻已被占领的星域时，会与防守玩家进行pvp战斗\r    当军团占领星域超过10个时，可能会开启异界入侵，大量怪物入侵军团的星域.若防守失败，军团将失去被入侵的星域.占领星域越多，可能出现异界入侵的场次也越多.\r    ④参与限制\r    军团外围成员无法参与银河争霸.银河争霸战场中被降级为外围成员或被踢出军团的玩家，会被移出战场.\r    ⑤射手战车\r    最多同时拥有三辆射手战车，主要用于破坏对方的水晶，需要在本基地内点击战车变身\r    ⑥防御塔\r    在银河争霸赛基地中找NPC遗迹之魂领取防御塔，分为“耀光塔”和“霜冻塔”，领取后需要等待一段时间才能兑换，对空置的遗迹基座使用该道具可以召唤出本方的防御塔.\r    ⑦军团突袭\r    当军团长（代理军团长）位于银河争霸赛地图时，界面中下方会出现一个军团传送的图标，用于发起突袭制造出临时的传送门\r    ⑧不灭意志\r    当军团防守自己的最后一片领土时，会触发不灭意志.浴火凤凰，帮助玩家进行防守.\r    主城和小强星域不会触发不灭意志.\r    ⑨主场优势\r    当军团在己方阵营的星域战斗时，己方水晶血量翻倍.双方都是主场时，则都不会触发主场优势.\r    ⑩召唤卡\r    召唤卡召唤的英雄会对自身周围15米内的敌方水晶造成伤害.\r
-1598	    ①竞拍资格\r    ·军团加入阵营后才能参加银河争霸赛；阵营引导npc位置：圣域（-265,110）；\r    ·军团排位赛处于金组及以上的军团才能参与银河争霸竞拍；\r    ②竞拍规则\r    ·无占领星域的军团，可以竞拍本阵营最低阶星域和圣域白银星域,限竞拍一块；\r    ·有占领星域的军团，可以竞拍与当前占有星域相邻的任意星域，每周限竟拍三块；\r    ·有占领星域且本阵营主城已被占领的军团，可竞拍任意战神星空的白银级星域.拥有小强星域的军团在本阵营主城已被占领后，可直接竞拍战神星空的黄金级星域.在战神星空占领了星域后，须依连接关系竞拍相邻星域.\r    ·太阳神空的情况同战神星空.\r    ·主城与所有本星空黄金级星域相连，五小强星域与所有其他星域相连；\r    ·军团可依连接关系竞拍本阵营主城、战神星空主城与太阳神星空的主城，但不能竞拍其他阵营主城；\r    ·军团最多只能占领或竞拍一个主城；军团只能占领或竞拍一个青铜星域；\r    ③竞拍时间\r    ·竞拍星域窗口期为周四9:00->周四21:00，如发生抢点溢价，则最多可顺延至周四22：00；\r    ·所有星域的竞价结束后，会产生星域对战时间安排表；\r    ④竞拍金返还\r    ·未获得进攻权限的军团将全额返还竞拍金；\r    ·成功占领星域，返还90%竞拍金给进攻方；竞拍金额超过5亿时,返还4.5亿；\r    ·成功防守星域，防守方军团长和军团成功共获得进攻方90%竞拍金；竞拍金额超过5亿时,返还4.5亿；\r    ⑤其他\r    ·军团退出当前阵营时，失去所有已占星域；军团有竞拍星域时无法退出当前阵营；\r
-1599	    当军团占领领土后，根据占领的领土获得奖励.成员有自己的奖励，团长/代理军团长有额外的奖励，领奖时间是周一10：00-周五19：00，领奖人需要满40级，军团长/代理军团长领取特殊奖需要80级.\r    军团普通成员领奖的次数与帮派成员上限相同，即军团上限人数为200人，则每日只能领取200人次的普通奖励.\r    ①军团成员奖品如下：（绑定） \r    五小强星域：星云特产×6，星云宝袋×2 \r    白银星域：星云特产×4，星云宝袋×2\r    黄金星域：星云特产×10，星云宝袋×2\r    主城：星云特产×10 星云宝袋×2\r    ②军团长奖品如下：\r    繁荣度不超过1000的军团，依每100繁荣度军团长与代理军团长分别可获得1个繁荣度宝袋.\r    繁荣度超过1500的军团，军团长与代理军团长可额外获得繁荣度秘宝.随繁荣度增加，获得繁荣度宝袋的比率逐渐降低，获得繁荣度秘宝的比率逐渐提高.\r    占领主城的军团，会额外获得5个星云秘宝\r    ③军团长技能卡\r    占领非主城星域的军团每周可领取召唤卡任务,在一场银河争霸战场内召唤本阵营强力英雄协助战斗.\r    占领圣域、亚特兰蒂斯与哈迪斯城的军团每周可领取化身卡任务，在一场银河争霸赛场内化身为神，对敌人照成毁灭性打击.\r    占领主城的军团每周另可获得一张化身卡，可在银河争霸及银河斗技场外使用，化身为神，对敌人照成巨大的伤害.\r    ④有关物品的说明\r    星云特产：使用后获得绑定币和经验，与使用者级别有关；每天限30次，40级方可使用\r    星云宝袋：守护星装备兑换券×2，时空之钥×1，星魂精华×2，每天限6次，40级方可使用\r    星云秘宝：大量绑定币，神魔之血×5，时空之钥×5，神器之灵×5，每天限2次，60级方可使用\r    繁荣度宝袋：大量绑定币，黄金之血×5，白银之晶×5，星魂精华×5，每天限2次，60级方可使用\r    繁荣度秘宝：大量绑定币，神魔之血×5，神器之灵×5，星魂精华×5，每天限2次，60级方可使用\r    多余的物品，比如星云特产，星云宝袋可以卖店，售价分别为20000/50000.\r
-1600	    ①军团须先加入三大阵营中的一个，之后才能加入或创建联盟.\r    ②联盟可在未占领三大主城的军团间形成.占领辉煌之宫的军团与占领战神殿的军团不可相互结盟.联盟中的军团占领主城时，会自动退出联盟.\r    ③军团战力在服务器前两名的无法和其他军团结盟.联盟中的军团战力达到服务器前两名时，会自动退出联盟.\r    ④联盟中的军团需先退出联盟，才能改变军团阵营.\r    ⑤军团联盟的军团数上限是4个.\r    ⑥联盟中的军团成员可加入同联盟其他军团的银河争霸比赛，协助战斗.\r    ⑦联盟中的军团成员领取银河争霸“成员奖励”时，依联盟占领星域情况获得奖励.(上周结束时--周日24点，军团已在本联盟内方可生效.)\r
-1601	竞价失败，金币不足
-1602	领取每日任务失败，数量已满
-1603	竞价失败，排位赛分组在金组以下
-1604	战神阵营（无）
-1605	太阳神阵营（无）
-1606	成功任命了代理教皇
-1607	圣域伟大而神圣的教皇%s上线了，圣斗士们皆流露出敬畏的神情.
-1608	需要500000金币
-1609	您所在的军团没有基地，每周活跃度前200名的军团才可以申请基地哦
-1610	其他基地只能在晚上18点到凌晨2点之间进入
+1581	No enemies, no need to use enemy tracking props
+1582	Rejected Guild Application
+1583	Determined to spend 500000 gold coins to create a Guild?
+1584	Player level 30 required!
+1585	or gold coin 500000
+1586	1 Applicant needs to be the head of the Guild\r2 There is currently no Guild base\r3 Application time is from Tuesday to Sunday\r3 (Note: After the maintenance on Tuesday, last week, the activity of 200 inner legions can be applied)
+1587	Successfully bid on %s, spent %I64d gold coins
+1588	Your gold coins are insufficient
+1589	markup (%I64d gold coin)
+1590	Galaxy competition registration has not been opened, opening time every Tuesday night 19:00 %s
+1591	Ares Starry Sky
+1592	Galaxy Hegemony Victory Bonus (Head)
+1593	Bid star domain %s failed, refund %s%s
+1594	Defensive star field %s victory, as the head, you get the loot %s%s
+1595	Defensive star field %s victory, as a member, you get the spoils %s%s
+1596	Offensive star %s wins, returns to the auction's %s%s
+1597	    1 Winning conditions\r · Offensive side wins: Destroy the blue core crystal\r · Defensive side wins: Destroy the red core crystal or the end of the battle time, the blue core crystal is not destroyed\r 2 Crystal introduction\r · Core crystal The most important crystal is located in the base. When the defensive crystal and energy crystal of the corresponding camp are destroyed, the core crystal can be attacked. \ · Defensive crystal: enchantment guard crystal, located on the outer side of the base. After the battle begins, you can be attacked without breaking the enemy base. \r · Energy Crystal: The same as the defense crystal, located on the other side of the base of the base\r · Central transmission crystal: neutral yellow crystal, located in the Galaxy In the central area, the player's camp belonging to the last strike acquires the occupation right. The party that transmits the crystal can directly transmit to the central area through the intermediate transfer area in the base. \r 3 combat object\r When facing the unowned star field, it will be with the monster. Pve battle, when attacking the occupied star field, will pvp battle with the defensive player\r When the Guild occupied the star field more than 10 , You may open the outsider invasion, a large number of monsters invading legions of star field. If the defense fails, the Guild will lose the invaded star field. The more the occupied star domain, the more opportunities there may be for alien invasions. \r 4 Participation in restrictions\r The members of the Guild cannot participate in the Galaxy. Players who are demoted to peripheral members or kicked out of the regiment in the battlefield of the Galaxy will be removed from the battlefield. \r 5 Shooter chariot\r Up to three shooter chariots at the same time, mainly used to destroy the crystal of each other, you need to click on the chariot in the base to transform into a \r 6 defense tower\r Find NPC in the Galaxy competition base The soul of the relics receives the defensive tower, which is divided into "Yaoguang Tower" and "Frost Tower". After receiving it, it takes a while to redeem. For the vacant remnant pedestal, the props can summon the defensive tower of the party. \r 7 Guild raid\r When the head of the Guild (the head of the agency) is located in the map of the Galaxy Hegemony, a banner transmitted by the Guild will appear at the bottom of the interface to initiate a raid to create a temporary portal\r 8 will not destroy the will\ r When the Guild defends its last territory, it triggers an inexhaustible will. Bathfire Phoenix helps the player defend. \r The main city and the small strong star field will not trigger the immortal will. \r 9 Home advantage\r When the Guild fights in the star field of their own camp, the blood volume of their own crystal doubles. When both sides are at home, they will not trigger home advantage. \r 10 Summon Card\r The hero summoned by the summoning card will deal damage to enemy crystals within 15 meters of itself. \r
+1598	    1 Bidding Qualification\r · The corps can join the Galaxy to participate in the Galaxy Competition; the camp guides the npc location: Sanctuary (-265,110);\r · Guild qualifiers in the gold group and above can participate in the Galaxy bidding;\r 2 Auction Rules\r · The corps without the occupational star domain can bid for the lowest-order star field of the camp and the silver field of the sanctuary, and limit the bidding for one piece;\r ·The Guild with the occupational star field can bid for the current possession of the star field Any of the neighboring stars, three shots per week; \r · The occupying star field and the camp of the main city of the camp has been occupied, you can bid for any silver star field of the Ares starry sky. After the main city of the camp has been occupied, the Guild with the small strong star field can directly bid for the gold-level star field of the God of Stars. After the starry sky has occupied the star field, it is necessary to bid for the adjacent star field according to the connection relationship. \r · The situation of the sun god is empty with the sky of the gods. \r · The main city is connected to all the stars in the starry sky, and the five small strong stars are connected to all other stars;\r · Guild can bid for the main city of the camp, the main city of the gods and the sun god City, but can not bid for other camp main cities; \r · Guild can only occupy or bid for a main city; the Guild can only occupy or bid for a bronze star field;\r 3 bidding time\r · bidding star window window is week 4:00->Thursday at 21:00, if a premium is generated, it can be extended to 22:00 on Thursday;\r ·After the auction of all stars, the star-field battle schedule will be generated;\ r 4 Auction gold return\r · The Guild that has not obtained the offensive authority will return the bidding gold in full; \r · Successfully occupy the star field and return 90% of the auction money to the attacking party; when the auction amount exceeds 500 million, it will return 450 million; r · Successfully defended the star field, the defensive team leader and the Guild successfully won 90% of the offensive party's bid; when the auction amount exceeds 500 million, the return is 450 million; \r 5 Others\r · The regiment withdraws from the current camp and loses all Astrological field; when the Guild has a bidding star field Law exits the current camp;\r
+1599	    When the Guild occupied the territory, it was rewarded according to the occupied territory. Members have their own rewards. The head of the team/agent leader has additional rewards. The time for receiving the prize is 10:00 on Monday and 19:00 on Friday. The winner needs to be 40. The head of the Guild/agent leader needs special prizes. Level 80. \r The average number of members of the Guild is the same as the gang member's upper limit. That is, the upper limit of the Guild is 200, and only 200 ordinary rewards per day can be received. \r 1 Guild member prizes are as follows: (Binding) \r Five small strong star field: Nebula special product × 6, Nebula treasure bag × 2 \r Silver star field: Nebula special product × 4, Nebula treasure bag × 2 \r Gold star field : Xingyun specialty × 10, Nebula treasure bag × 2 \r Main city: Nebula special product × 10 Nebula treasure bag × 2 \r 2 Guild leader prizes are as follows:\r Guild with a boom of no more than 1000, according to the head of every 100 prosperous Guild A prosperous treasure bag can be obtained separately from the head of the agency. \r A regiment with a prosperity of more than 1,500, the head of the Guild and the head of the agency can gain extra prosperity. As the degree of prosperity increases, the rate of obtaining prosperous treasure bags gradually decreases, and the rate of gaining prosperity is gradually increasing. \r Occupy the Guild of the main city, you will get 5 additional nebula secrets\r 3 Guild chief skill card\r The Guild that occupied the non-main city star field can receive the summoning card mission every week, summon this camp in a battlefield of the Galaxy A powerful hero assists in the battle. \r The occupation of the Sanctuary, Atlantis and Hades City can receive the avatar card mission every week, incarnate as a god in a Galaxy hegemony, and devastating to the enemy. \r The corps occupying the main city can get another avatar card every week, which can be used outside the Galaxy Hegemony and the Galaxy Fighting Field. It is transformed into a god and takes great damage to the enemy. \r 4 Description of the item\r Nebula special product: Get the binding currency and experience after use, related to the user level; 30 times per day, 40 level can use \r Nebula treasure bag: Guardian star equipment exchange coupon × 2 Key to space and time × 1, star soul essence × 2, limited to 6 times a day, 40 level can use \r Nebula secret treasure: a large number of binding coins, the blood of the gods × 5, the key to space and time × 5, the spirit of artifact × 5, 2 times a day, 60 level can use \r Prosperity treasure bag: a large number of binding coins, gold blood × 5, silver crystal × 5, star soul essence × 5, 2 times a day, 60 level You can use \r prosperity secret treasure: a large number of binding coins, the blood of the demon × 5, the spirit of the artifact × 5, the essence of the soul soul × 5, 2 times a day, 60 can use \r extra items, such as nebula Specialties, Xingyun Baobao can be sold at the price of 20000/50000. \r
+1600	    1 The Guild must first join one of the three camps before joining or creating an alliance. \r 2 Alliance can form between the regiments that do not occupy the three main cities. The legions of the Palace of Occupation and the Guild of the Occupation War Temple cannot be aligned. When the Guild of the Alliance seizes the main city, it will automatically withdraw from the alliance. \r 3 Guild strength in the top two servers can not unite with other forces. When the corps in the league reaches the top two servers, they will automatically withdraw from the league. \r 4 The Guild in the league needs to withdraw from the league before they can change the Guild camp. \r 5 The rank of the Guild of the Guild Alliance is four. \r 6 The members of the Guild in the league can join the Galaxy hegemony competition with other legions of the Alliance to assist in the battle. \r 7 When the members of the Guild in the Alliance receive the "Member Reward" for the Galaxy hegemony, they are rewarded according to the situation of the Alliance's occupation of the Stars. (At the end of last week - at 24 o'clock on Sunday, the Guild is already in force within the Alliance.)\r
+1601	Bid failed, insufficient gold coins
+1602	Failed to receive daily tasks, the number is full
+1603	The auction failed, and the qualifying group was below the gold group.
+1604	God of War camp (none)
+1605	Helios camp (none)
+1606	Successfully appointed Acting Pope
+1607	The great and sacred Pope %s of the Sanctuary appeared in this Realm.
+1608	requires 500000 gold coins
+1609	Your Guild has no base, and the 200-strong team in the weekly activity can apply for the base.
+1610	Other bases can only enter between 18:00 and 2 am
 1611	
-1612	猎犬座星域
-1613	天枰座星域
-1614	勒托星域
-1615	达芙妮星域
-1616	卡珊德拉星域
-1617	赫尔墨斯星域
-1618	辉煌之宫
-1619	15级以上
-1620	女神！仲夏的神祈
-1621	摩羯！修罗的剑道
-1622	复生！大斗技场神话
-1623	国庆！拯救雅典娜
-1624	冥王哈迪斯趁着圣斗士们庆祝国庆节之际将女神雅典娜掳走.为了将女神救回，众圣斗士踏上了营救雅典娜的道路.待到众人终于追上冥王，却发现冥王哈迪斯和女神雅典娜变成了另一番模样.
+1612	Retriever
+1613	Scorpio Star Field
+1614	Leto Star Field
+1615	Daphne Star Field
+1616	Kassandra Star Field
+1617	Hermes Star Field
+1618	Palace of Brilliance
+1619	15 or higher
+1620	Goddess! Midsummer god pray
+1621	Capricorn! Shura's Kendo
+1622	Rebirth! Big battlefield myth
+1623	National Day! Save Athena
+1624	Hades will go to the goddess Athena as the Saints celebrate the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Hades, they found that Hades and Goddess Athena became another look.

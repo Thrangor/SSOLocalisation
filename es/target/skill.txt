@@ -184,7 +184,7 @@
 183	^O009Esconder Jugadores
 184	^O009Esconder Pets
 185	^O009Esconde o muestra Jugadores
-186	^O009Esconde o muestra Pets de otros Jugadores
+186	^O009Esconde o muestra Mascotas de otros Jugadores
 187	Ítems usados cancelados.
 188	Ítems insuficientes
 189	Energía insuficiente, el ítem no puede usarse.
@@ -1613,7 +1613,7 @@
 1612	^O021 combate animais de estimação crit passiva
 1613	^O021 animais de estimação combate passiva atacados
 1614	^O021 combate animais de estimação homem de defesa passiva
-1615	^O021 pets de combate ao ATK pessoas passivas
+1615	^O021 Mascotas de combate ao ATK pessoas passivas
 1616	^O021 Propriedades da água  combate pet de ataque as pessoas passivas
 1617	^O021 combate animais de estimação ataques de fogo pessoa passiva
 1618	^O021 combate animais de estimação pessoas passivas vento ataque propriedade
@@ -12860,218 +12860,218 @@
 12859	Iniciar/Cancelar Vuelo con Montaría
 12860	Volar
 12861	Iniciar/Cancelar Vuelo
-12862	对怪物造成2秒倒地，对玩家造成2秒定身\r附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12863	对怪物造成2秒倒地，对玩家造成2秒定身\r附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12864	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r倒地时间：3秒\r每点斗志提升25%%的总伤害
-12865	附加攻击力:%d\r附加雷属性攻击力:%d\r至少造成%d%%的伤害\r倒地时间：3秒\r每点斗志提升25%%的总伤害
+12862	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12863	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12864	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rDuration：3 seconds\rIncreases total damage by 25%% per rank
+12865	Additional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\rDuration：3 seconds\rIncreases total damage by 25%% per rank
 12866	
-12867	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r沉默时间：%d秒
-12868	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r沉默时间：%d秒
-12869	伤害提升：20%%\r持续时间：20秒\r效果范围：15米
-12870	短时间内提升自身移动速度和伤害抗性，并免疫定身和减速\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用
-12871	持续期间每2秒回复10点体力
-12872	状态持续15秒，期间每3秒自动回复一点斗志\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962射手守护]^FFFF00\r^c0c0ff额外获得体力回复\r被攻击时，攻击者的命中率大幅下降
-12873	持续期间每2秒回复生命上限的1%%
-12874	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r使目标移动速度减少60%%，持续6秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962曙光女神之怒]^FFFF00\r^c0c0ff伤害提升100%%，并100%%溅射目标周围的敌人\r同时可将目标冻结
-12875	附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r使目标移动速度减少60%%，持续6秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962曙光女神之怒]^FFFF00\r^c0c0ff伤害提升100%%，并100%%溅射目标周围的敌人\r同时可将目标冻结
-12876	白鸟座的进阶招式，运用极地冰寒伤害目标
-12877	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r冰霜路径宽度:6米\r攻击9次，共造成{^FFABFC%d%%^FFFF00}的伤害\r能够将选中的目标击倒3秒，每次打击都击退目标1米
-12878	附加攻击力:%d\r附加水属性攻击力:%d\r冰霜路径宽度:6米\r攻击9次，共造成%d%%的伤害\r能够将选中的目标击倒3秒，每次打击都击退目标1米
-12879	白鸟座的终极奥义，以曙光女神的冰霜轰击目标，冰霜会对其经过的路径上的敌人产生溅射伤害，技能开始施放时附加4秒免控
-12880	炸弹数量:%d\r炸弹附加攻击力:{^FFABFC%d^FFFF00}\r炸弹水属性攻击力:{^FFABFC%d^FFFF00}\r每个炸弹爆炸对周围3米的目标造成{^FFABFC%d%%^FFFF00}的伤害\r炸弹最多存在8秒\t^00FF00用键盘或右键按住快捷键不放可以蓄力：^FFFF00\r炸弹数量:3\r每个炸弹爆炸对周围3米的目标造成{^FFABFC%d%%^FFFF00}的伤害\r炸弹移动速度:6米/秒
-12881	炸弹数量:%d\r炸弹附加攻击力:%d\r炸弹水属性攻击力:%d\r每个炸弹爆炸对周围3米的目标造成%d%%的伤害\r炸弹最多存在8秒\t^00FF00用键盘或右键按住快捷键不放可以蓄力：^FFFF00\r炸弹数量:3\r每个炸弹爆炸对周围3米的目标造成%d%%的伤害\r炸弹移动速度:6米/秒
-12882	使得^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00能够减少目标{^FFABFC%d^FFFF00}点防御力和10点全属性抗性
-12883	使得^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00能够减少目标%d点防御力和10点全属性抗性
-12884	把敌方目标和其周围6米的单位拉到自己身前（如果要拉的是敌方玩家，只有当他是你选中的目标时才生效）\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962黄金锁链]^FFFF00\r^c0c0ff将目标拉至身前的同时，可将自身周围的怪物拉至身边，对主目标造成倒地效果
-12885	消耗%d%%的当前生命\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r攻击6次，共造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00天秤座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12886	消耗%d%%的当前生命\r附加攻击力:%d\r附加地属性攻击力:%d\r攻击6次，共造成%d%%的伤害\r\t^00FF00天秤座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12887	打击自身周围圆形6米范围的目标，造成大量仇恨\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害
-12888	打击自身周围圆形6米范围的目标，造成大量仇恨\r附加攻击力:%d\r附加地属性攻击力:%d\r造成%d%%的伤害
-12889	以龙纹之盾保护自己，最多吸收自己生命上限35%%的伤害，持续6秒\r开启护盾后的30秒内，你的下一次^c0c0ff[%s]^FFFF00伤害将大幅提高，并且附带减速效果，减少60%%的移动速度，持续4秒\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用
-12890	圣剑一出，谁与争辉\r击倒并重创目标方向矩形范围内的单位
-12891	燃魂状态下，被击倒的目标将无法回复生命
-12892	进入^00FF00燃魂^FFFF00状态，实力大幅提升，持续45秒\t^00FF00燃魂^FFFF00\r提高30%%的生命上限，并获得这么多生命\r^c0c0ff[%s]^FFFF00的伤害提高50%%，发动时消耗的生命提高100%%\r^c0c0ff[%s]^FFFF00得到强化，并且冷却时间减少2秒\r进入状态瞬间可立即解除自身控制
-12893	冻土半径:4米\r移动速度下降:60%%\r目标的防御力下降:%d\r冻土持续10秒
-12894	极寒半径:4米\r结冰需要时间:3秒\r冻结时间:3秒\r寒冰阵持续10秒\r\t^c0c0ff[黄金爆发]^FFFF00状态下\r进阶为^c0c0ff[^fff962水瓶之光]^FFFF00\r^c0c0ff召唤的极寒区域可向主人攻击的目标移动
-12895	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r50%%概率进入强化次元角锁状态\r\t^00FF00强化次元角锁^FFFF00\r下一次^00FF00次元角锁^FFFF00伤害提高50%%
-12896	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r50%%概率进入强化次元角锁状态\r\t^00FF00强化次元角锁^FFFF00\r下一次^00FF00次元角锁^FFFF00伤害提高50%%
-12897	附加攻击力:{^FFABFC%d^FFFF00}\r附加雷属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对目标定身:4秒\r减少移动速度:40%%
-12898	附加攻击力:%d\r附加雷属性攻击力:%d\r造成%d%%的伤害\r对目标定身:4秒\r减少移动速度:40%%
-12899	用锁链卷起目标猛烈的砸击地面，并溅射周围目标\r伤害随当前神威领域值变化，神威领域值满时造成伤害提高300%%\r对玩家和强力怪物使用时将以另一种形式发起进攻
-12900	自由星光持续时间:6秒\t^00FF00自由星光^FFFF00\r免受控制效果影响\r处于眩晕倒地浮空和沉默状态下也可使用
-12901	^c0c0ff巨蛇座圣衣星铸等级达到3级时获得^A2FFFF
-12902	^c0c0ff北冕座圣衣星铸等级达到3级时获得^A2FFFF
-12903	^c0c0ff巨蛇座圣衣星铸等级达到10级时获得^A2FFFF
-12904	^c0c0ff北冕座圣衣星铸等级达到10级时获得^A2FFFF
-12905	^c0c0ff盾牌座圣衣星铸等级达到3级时获得^A2FFFF
-12906	^c0c0ff南鱼座圣衣星铸等级达到3级时获得^A2FFFF
-12907	^c0c0ff盾牌座圣衣星铸等级达到10级时获得^A2FFFF
-12908	^c0c0ff南鱼座圣衣星铸等级达到10级时获得^A2FFFF
-12909	每次有10%%概率立即清除电浆风暴的冷却时间
-12910	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r减少移动速度:60%%
-12911	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r减少移动速度:60%%
-12912	打击目标，并溅射周围目标\r给目标立即附加5层烈焰焚烧状态\r产生的高温将使对手减速5秒
-12913	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\t^00FF00地狱烈焰^FFFF00\r持续造成伤害\r持续10秒\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12914	附加攻击力:%d\r附加火属性攻击力:%d\r至少造成%d%%的伤害\t^00FF00地狱烈焰^FFFF00\r持续造成伤害\r持续10秒\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12915	有30%%几率额外召唤一个黑暗凤凰座
-12916	冷却时间变为50秒，并且最后一击可使敌人眩晕5秒
-12917	领域之力状态下移动速度提升60%%
-12918	可使生命低于50%%的队友及自身瞬间回复生命上限5%%的血量,并且每秒回复生命上限的1%%
-12919	幻像附加攻击力:{^FFABFC%d^FFFF00}\r幻像附加火属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r黑暗四天王将存在20秒
-12920	幻像附加攻击力:%d\r幻像附加火属性攻击力:%d\r至少造成%d%%的伤害\r黑暗四天王将存在20秒
-12921	怒火之焰有10%%的概率立即清除该技能的冷却时间
-12922	有10%%几率召唤全部四大天王
-12923	此技能释放过程中，怪物们会忽略你的存在.
-12924	成功释放结束后可进入隐身状态，隐身效果将在释放到第2秒时触发,处于隐身状态时，将使[憎恨虐杀]和[幻魔拳]的伤害提升50%%
-12925	^c0c0ff箭鱼座圣衣星铸等级达到3级时获得^A2FFFF
-12926	^c0c0ff海蛇座圣衣星铸等级达到3级时获得^A2FFFF
-12927	^c0c0ff箭鱼座圣衣星铸等级达到10级时获得^A2FFFF
-12928	^c0c0ff海蛇座圣衣星铸等级达到10级时获得^A2FFFF
-12929	^c0c0ff六分仪座圣衣星铸等级达到3级时获得^A2FFFF
-12930	^c0c0ff六分仪座圣衣星铸等级达到10级时获得^A2FFFF
-12931	^c0c0ff变色龙座圣衣星铸等级达到3级时获得^A2FFFF
-12932	^c0c0ff变色龙座圣衣星铸等级达到10级时获得^A2FFFF
-12933	^c0c0ff[%s]^FFFF00有10%%的概率立即清除^c0c0ff[%s]^FFFF00的冷却时间\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12934	^c0c0ff船尾座圣衣星铸等级达到3级时获得^A2FFFF
-12935	^c0c0ff[%s]^FFFF00可使自己和队友的移动速度提升60%%\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12936	^c0c0ff船尾座圣衣星铸等级达到10级时获得^A2FFFF
-12937	^c0c0ff[%s]^FFFF00的冷却时间变为50秒.\r并且最后一击可使敌人眩晕5秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12938	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r倒地时间:{^FFABFC%d^FFFF00}秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12939	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r倒地时间:%d秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12940	^c0c0ff天琴座圣衣星铸等级达到16级时获得^A2FFFF瞬间冲击敌人身前，抱起目标重重的向地面撞击，并使周围目标倒地
-12941	^c0c0ff南十字座圣衣星铸等级达到3级时获得^A2FFFF
-12942	^c0c0ff南十字座圣衣星铸等级达到10级时获得^A2FFFF
-12943	^c0c0ff[%s]^FFFF00成功释放后进入隐身状态，隐身效果将在释放到第2秒时触发\r处于隐身状态时，将提高50%%^c0c0ff[%s]^FFFF00和^c0c0ff[%s]^FFFF00的伤害\r隐身效果将在释放任何技能时解除\r状态持续6秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12944	自己和15米范围内的队友将获得帝火之力状态\t^00FF00帝火之力^FFFF00\r每次受到攻击时，有15%%几率沉默攻击自己的敌人3秒，并将其附加炎帝之怒状态\r持续15秒\t^00FF00炎帝之怒^FFFF00\r每秒受到伤害\r减少移动速度20%%\r持续5秒\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12945	^c0c0ff[幻想迷乐]^FFFF00\r提升自己%d攻击力，对周围12米范围的敌人每秒进行一次攻击\r附加攻击力:%d\r造成%d%%伤害\r持续20秒
-12946	受到超新星力场的保护，使得下5次受到的伤害减少80%%，持续30秒\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用\r斗魂专属守护星座：^00FF00%s天马^FFFF00
-12947	^c0c0ff[%s]^FFFF00的冰封结束后，目标将受到强烈的诅咒，在接下来的5秒内将无法恢复生命和使用药品\r斗魂专属守护星座：^00FF00%s白鸟^FFFF00
-12948	消耗5%%最大生命值\r(如果身上有护盾效果，则不消耗生命)\r使自己立即解除控制，并且3秒内免疫控制，伤害抗性提升60%%\r处于浮空、倒地、冰冻、石化、沉默、混乱状态下也可使用\r血量低于15%%时，不可使用\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12949	技能施放期间，周围5米范围内的队友将免受控制效果的影响，同时伤害抗性提升20%%\r斗魂专属守护星座：^00FF00%s仙女^FFFF00
-12950	使自己获得地狱幻影状态\t^00FF00地狱幻影^FFFF00\r被攻击时，将进入隐身状态，同时在身边产生一个幻像.\r地狱幻影状态最多持续8秒\t^00FF00隐身^FFFF00\r敌人将无法看到你\r隐身状态最多持续10秒\r当施放技能或进入隐身状态3秒后受到伤害时，隐身将会立即解除\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12951	^c0c0ff[%s]^FFFF00可使自身每2秒回复10点体力\r^c0c0ff[%s]^FFFF00可使自身每2秒回复生命上限的1%%\r斗魂专属守护星座：^00FF00%s天马^FFFF00
-12952	^c0c0ff[%s]^FFFF00可使范围内的自己和队友所有异常抗性增加20点\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12953	燃魂状态下，被^c0c0ff[%s]^FFFF00和^c0c0ff[%s]^FFFF00控制的目标将无法被技能回复生命\r斗魂专属守护星座：^00FF00%s天龙^FFFF00
-12954	^c0c0ff[%s]^FFFF00可使生命低于50%%的队友及自身瞬间回复生命上限5%%的血量,并且每秒回复生命上限的1%%\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-12955	攻击附加^c0c0ff[生命枯萎]^FFFF00效果.最多叠加5层,每层对目标造成每秒%d点伤害,持续6秒\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒释放时，伤害提升30%%
-12956	攻击附加^c0c0ff[生命枯萎]^FFFF00效果.最多叠加5层,每层对目标造成每秒%d点伤害,持续6秒\r附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r蓄力1秒释放时，伤害提升30%%
-12957	攻击附加^c0c0ff[海龙的震慑]^FFFF00效果，最多叠加4层,每层减速0.5米/秒并降低4%%伤害抗性,持续10秒\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒释放时，伤害提升30%%
-12958	攻击附加^c0c0ff[海龙的震慑]^FFFF00效果，最多叠加4层,每层减速0.5米/秒并降低4%%伤害抗性,持续10秒\r附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r蓄力1秒释放时，伤害提升30%%
-12959	50%%几率额外增加一个<善之结晶>/<恶之结晶>
-12960	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00恶之结晶^FFFF00\r附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00善之结晶^FFFF00\r回复生命:{^FFABFC%d^FFFF00}\r爆炸为目标附加瞄准，可叠加2层，每层提升{^FFABFC%d^FFFF00}命中.持续4秒，叠加2层后，将无法受到此技能善之结晶的治疗\r\t^00FF00双子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12961	附加攻击力:%d\r附加水属性攻击力:%d\r至少造成%d%%的伤害\r\t^00FF00恶之结晶^FFFF00\r附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00善之结晶^FFFF00\r回复生命:%d\r爆炸为目标附加瞄准，可叠加2层，每层提升%d命中.持续4秒，叠加2层后，将无法受到此技能善之结晶的治疗\r\t^00FF00双子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-12962	技能回复生命:{^FFABFC%d^FFFF00}\r\t^00FF00善之结晶^FFFF00\r回复生命:{^FFABFC%d^FFFF00}\r爆炸为目标附加专注，可叠加3层，每层提升3%%暴击.持续10秒，叠加3层后，将无法受到此技能善之结晶的治疗
-12963	技能回复生命:%d\r\t^00FF00善之结晶^FFFF00\r回复生命:%d\r爆炸为目标附加专注，可叠加3层，每层提升3%%暴击.持续10秒，叠加3层后，将无法受到此技能善之结晶的治疗
-12964	^00FF00风行^FFFF00\r  飞行速度提高3米/秒，伤害抗性增加25%%，持续10秒
-12965	^00FF00风行^FFFF00\r  飞行速度提高3米/秒，伤害抗性增加15%%，持续10秒
-12966	^c0c0ff鹿豹座圣衣星铸等级达到10级时获得^A2FFFF
-12967	^c0c0ff波江座圣衣星铸等级达到10级时获得^A2FFFF
-12968	^c0c0ff波江座圣衣星铸等级达到3级时获得^A2FFFF
-12969	如果自己在受到完全控制（浮空、倒地、冰冻、石化、抱摔、沉默、混乱）时被攻击，则接下来的5秒内会生成一个护盾，减少20%%伤害，受到多次攻击将重置护盾的时间\r护盾结束后，需要15秒才能触发下一次效果\r  斗魂专属守护星座：^00FF00%s海龙^FFFF00
-12970	^c0c0ff鹿豹座圣衣星铸等级达到3级时获得^A2FFFF
-12971	附加攻击力:{^FFABFC%d^FFFF00}\r附加风属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r蓄力1秒可将伤害提升100%%\t^00FF00黄金箭之伤^FFFF00\r不能释放技能，同时不能被技能回复生命\r持续4秒\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[流星爆裂拳]^FFFF00进阶为^c0c0ff[^fff962原子爆裂拳]^FFFF00\r^c0c0ff[星辰乱坠]^FFFF00进阶为^c0c0ff[^fff962箭雨流星]^FFFF00\r^c0c0ff[星命守护]^FFFF00进阶为^c0c0ff[^fff962射手守护]^FFFF00
-12972	附加攻击力:%d\r附加风属性攻击力:%d\r造成%d%%的伤害\r蓄力1秒可将伤害提升100%%\t^00FF00黄金箭之伤^FFFF00\r不能释放技能，同时不能被技能回复生命\r持续4秒\r\t^00FF00射手座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[流星爆裂拳]^FFFF00进阶为^c0c0ff[^fff962原子爆裂拳]^FFFF00\r^c0c0ff[星辰乱坠]^FFFF00进阶为^c0c0ff[^fff962箭雨流星]^FFFF00\r^c0c0ff[星命守护]^FFFF00进阶为^c0c0ff[^fff962射手守护]^FFFF00
-12973	状态持续15秒，期间每3秒自动回复一点斗志\r每秒回复体力7点\r被攻击时，攻击者命中大幅降低持续5秒，此效果15秒只能触发一次
-12974	极寒半径:4米\r结冰需要时间:3秒\r冻结时间:3秒\r寒冰阵持续10秒
-12975	附加攻击力:{^FFABFC%d^FFFF00}\r附加水属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r使目标移动速度减少60%%，持续6秒\r冻结持续3秒
-12976	附加攻击力:%d\r附加水属性攻击力:%d\r造成%d%%的伤害\r使目标移动速度减少60%%，持续6秒\r冻结持续3秒
-12977	把敌方目标和其周围6米的单位拉到自己身前（如果要拉的是敌方玩家，只有当他是你选中的目标时才生效）\r主目标倒地时间：3秒
-12978	附加攻击力:{^FFABFC%d^FFFF00}\r附加火属性攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00艾欧里亚的援护^FFFF00\r伤害抗性提升40%%\r瞬间回复体力值100\r持续5秒\r处于眩晕倒地浮空和沉默状态下也可使用\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[凤凰幻动]^FFFF00进阶为^c0c0ff[^fff962狮子搏兔]^FFFF00\r^c0c0ff[火鸟之怒]^FFFF00进阶为^c0c0ff[^fff962狮王怒焰]^FFFF00\r^c0c0ff[死亡皇后之焰]^FFFF00进阶为^c0c0ff[^fff962狮王之影]^FFFF00
-12979	附加攻击力:%d\r附加火属性攻击力:%d\r造成%d%%的伤害\r\t^00FF00艾欧里亚的援护^FFFF00\r伤害抗性提升40%%\r瞬间回复体力值100\r持续5秒\r处于眩晕倒地浮空和沉默状态下也可使用\r\t^00FF00狮子座进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发\r^00FF00黄金爆发^FFFF00\r^c0c0ff[凤凰幻动]^FFFF00进阶为^c0c0ff[^fff962狮子搏兔]^FFFF00\r^c0c0ff[火鸟之怒]^FFFF00进阶为^c0c0ff[^fff962狮王怒焰]^FFFF00\r^c0c0ff[死亡皇后之焰]^FFFF00进阶为^c0c0ff[^fff962狮王之影]^FFFF00
-12980	海龙通过使用怜悯/憎恨技能可瞬间将善之力/恶之力的值涨满，无视^c0c0ff[虔诚]^A2FFFF的转换疲劳
-12981	冲刺距离:15米\r^00FF00龙火献祭^FFFF00\r  不断攻击周围5米范围内的敌人并附加^00FF00灼烧^FFFF00状态，持续5秒\r  附加攻击力:{^FFABFC%d^FFFF00}\r  每秒造成{^FFABFC%d%%^FFFF00}的伤害\r  对地面目标伤害减少50%%\r^00FF00灼烧^FFFF00\r  每秒受到{^FFABFC%d^FFFF00}点灼烧伤害，持续5秒
-12982	冲刺距离:15米\r^00FF00龙火献祭^FFFF00\r  不断攻击周围5米范围内的敌人并附加^00FF00灼烧^FFFF00状态，持续5秒\r  附加攻击力:%d\r  每秒造成%d%%的伤害\r  对地面目标伤害减少50%%\r^00FF00灼烧^FFFF00\r  每秒受到%d点灼烧伤害，持续5秒
-12983	冲刺距离:15米\r^00FF00生命之血^FFFF00\r  持续自己和治疗周围5米的队友，每秒回复{^FFABFC%d^FFFF00}生命，持续5秒\r  对地面目标效果减少50%%
-12984	冲刺距离:15米\r^00FF00生命之血^FFFF00\r  持续自己和治疗周围5米的队友，每秒回复%d生命，持续5秒\r  对地面目标效果减少50%%
-12985	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果
-12986	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果
-12987	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00混乱^FFFF00\r  混乱状态，持续4秒，无视抗性和穿透效果
-12988	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00混乱^FFFF00\r  混乱状态，持续4秒，无视抗性和穿透效果
-12989	冲刺距离:15米\r^00FF00夜幕降临^FFFF00\r  持续诅咒周围5秒范围内的所有敌人，持续5秒\r^00FF00夜幕^FFFF00\r  伤害倍率下降40%%\r  伤害抗性下降20%%
-12990	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00龙锁^FFFF00\r  如果目标离自己小于10米，则无法移动；如果目标离自己大于10米，则昏迷；持续5秒，无视抗性和穿透效果
-12991	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00龙锁^FFFF00\r  如果目标离自己小于10米，则无法移动；如果目标离自己大于10米，则昏迷；持续5秒，无视抗性和穿透效果
-12992	^00FF00剧毒之源^FFFF00\r  使周围5米范围内的敌人被剧毒影响，持续5秒\r^00FF00剧毒^FFFF00\r  每秒受到{^FFABFC%d^FFFF00}点伤害，持续5秒
-12993	^00FF00剧毒之源^FFFF00\r  使周围5米范围内的敌人被剧毒影响，持续5秒\r^00FF00剧毒^FFFF00\r  每秒受到%d点伤害，持续5秒
-12994	^00FF00空间护盾^FFFF00\r  伤害抗性增加50%%，持续5秒
-12995	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果\r^00FF00光之忏悔^FFFF00\r  暴击率降低为0，持续8秒
-12996	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00光辉惩戒^FFFF00\r  受到光的惩戒无法动弹，持续3秒，无视抗性和穿透效果\r^00FF00光之忏悔^FFFF00\r  暴击率降低为0，持续8秒
-12997	伤害抗性提升40%%\r风属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-12998	伤害抗性提升40%%\r水属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-12999	伤害抗性提升40%%\r地属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13000	伤害抗性提升40%%\r雷属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13001	伤害抗性提升40%%\r火属性抗性增加15\r暴击率减免增加75%%\r持续6秒
-13002	^00FF00白焰之舞^FFFF00\r  飞行速度提高8米/秒，持续5秒
-13003	消耗{^FFABFC%d^FFFF00}点怒气\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r恢复生命:{^FFABFC%d^FFFF00}
-13004	消耗%d点怒气\r附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害\r恢复生命:%d
-13005	附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害\r\t^00FF00天猛星进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-13006	附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害\r\t^00FF00天猛星进阶^FFFF00\r释放后进入^c0c0ff[黄金爆发]^FFFF00状态\r此状态消耗后30秒内不会再次触发
-13007	消耗10点怒气\r附加攻击力:{^FFABFC%d^FFFF00}\r附加地属性攻击力:{^FFABFC%d^FFFF00}\r至少造成{^FFABFC%d%%^FFFF00}的伤害
-13008	消耗10点怒气\r附加攻击力:%d\r附加地属性攻击力:%d\r至少造成%d%%的伤害
-13009	使用后立即解除控制,伤害倍率增加40%%,所受伤害增加20%%.持续12秒
-13010	^c0c0ff南冕座圣衣星铸等级达到3级时获得^A2FFFF
-13011	^c0c0ff银莺座圣衣星铸等级达到3级时获得^A2FFFF
-13012	使你的^c0c0ff[%s]^FFFF00施放距离增加5米\r    斗魂专属守护星座：^00FF00%s天威星^FFFF00
-13013	^c0c0ff南冕座圣衣星铸等级达到10级时获得^A2FFFF
-13014	生命值降到30%%以下时会获得一个吸收护盾,吸收最大生命值20%%的伤害,持续20秒,该效果60秒内只能触发一次\r    斗魂专属守护星座：^00FF00%s天威星^FFFF00
-13015	附加攻击力:{^FFABFC%d^FFFF00}\r总共造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00熔岩之锁^FFFF00\r  被熔岩锁链捆缚，无法行动，持续到引导结束或中断\r  无视抗性和穿透效果
-13016	附加攻击力:%d\r总共造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00熔岩之锁^FFFF00\r  被熔岩锁链捆缚，无法行动，持续到引导结束或中断\r  无视抗性和穿透效果
-13017	^00FF00熔岩附着^FFFF00\r  飞行速度减少3米/秒，持续4秒\r^00FF00焰之光^FFFF00\r  飞行速度增加3米/秒，持续5秒
-13018	使你的^c0c0ff[%s]^FFFF00有10%%召唤全部四大天王\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-13019	使你的^c0c0ff[%s]^FFFF00有30%%几率额外召唤一个黑暗凤凰座\r斗魂专属守护星座：^00FF00%s凤凰^FFFF00
-13020	^c0c0ff银莺座圣衣星铸等级达到10级时获得^A2FFFF
-13021	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00天罚^FFFF00\r  无法行动，持续3秒\r  每层^00FF00雷光^FFFF00额外提升0.6秒持续时间\r  无视抗性和穿透效果
-13022	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00天罚^FFFF00\r  无法行动，持续3秒\r  每层^00FF00雷光^FFFF00额外提升0.6秒持续时间\r  无视抗性和穿透效果
-13023	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r^00FF00麻痹^FFFF00\r  无法行动，每层^00FF00雷光^FFFF00增加0.4秒持续时间\r  无视抗性和穿透效果\r^00FF00雷狱^FFFF00\r  飞行和移动速度减少4米/秒，每层^00FF00雷光^FFFF00增加1秒持续时间
-13024	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r^00FF00麻痹^FFFF00\r  无法行动，每层^00FF00雷光^FFFF00增加0.4秒持续时间\r  无视抗性和穿透效果\r^00FF00雷狱^FFFF00\r  飞行和移动速度减少4米/秒，每层^00FF00雷光^FFFF00增加1秒持续时间
-13025	^00FF00雷光^FFFF00\r  提高天罚和闪电风暴技能的控制效果，持续30秒，最多叠加5层\r^00FF00雷电刺激^FFFF00\r  飞行速度增加5米每秒，持续5秒
-13026	^00FF00疾风^FFFF00\r  飞行速度增加6米/秒，大幅度增加命中和闪避数值，持续4秒
-13027	^00FF00光之暗面^FFFF00\r  隐身，持续1秒\r  闪避大幅度增加，不会被暴击，持续3秒
-13028	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00格雷芬的礼物^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00许德拉的礼物^FFFF00\r  无法移动，持续4秒\r^00FF00塞壬的礼物^FFFF00\r  沉默，持续4秒\r^00FF00美杜莎的礼物^FFFF00\r  石化，持续4秒\r^00FF00喀麦拉的礼物^FFFF00\r  被火焰灼烧，每秒受到{^FFABFC%d^FFFF00}点伤害，持续4秒\r^00FF00刻耳柏洛斯的礼物^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13029	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00格雷芬的礼物^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00许德拉的礼物^FFFF00\r  无法移动，持续4秒\r^00FF00塞壬的礼物^FFFF00\r  沉默，持续4秒\r^00FF00美杜莎的礼物^FFFF00\r  石化，持续4秒\r^00FF00喀麦拉的礼物^FFFF00\r  被火焰灼烧，每秒受到%d点伤害，持续4秒\r^00FF00刻耳柏洛斯的礼物^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13030	^00FF00不动如山^FFFF00\r  进入不动如山状态下飞行速度减少4M/S，持续8秒\r  伤害抗性提高50%%，持续8秒\r^00FF00神之狙击^FFFF00\r  伤害倍率提高20%%，持续8秒\r  明王怒炎和煌炎斩技能攻击距离增加3米，持续8秒\r  赤色彗星攻击范围扩大至12米 
-13031	^00FF00天蝎附生^FFFF00\r  荣耀之刺和蝎毒涌爆技能瞬间冷却\r  伤害倍率提高40%%，持续8秒
-13032	^00FF00神兽的祝福^FFFF00\r  伤害倍率提高20%%，持续8秒\r  伤害抗性提高20%%，持续8秒
-13033	附加攻击力:{^FFABFC%d^FFFF00}\r造成{^FFABFC%d%%^FFFF00}的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00魅惑之心^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00沉醉之心^FFFF00\r  无法移动，持续4秒\r^00FF00无言之心^FFFF00\r  沉默，持续4秒\r^00FF00石化之心^FFFF00\r  石化，持续4秒\r^00FF00热情之心^FFFF00\r  被火焰灼烧，每秒受到{^FFABFC%d^FFFF00}点伤害，持续4秒\r^00FF00冷酷之心^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13034	附加攻击力:%d\r造成%d%%的伤害\r对地面目标伤害减少50%%\r所有礼物效果只对玩家生效，无视异常抗性和减免\r^00FF00魅惑之心^FFFF00\r  飞行和移动速度减少4米/秒，持续4秒\r^00FF00沉醉之心^FFFF00\r  无法移动，持续4秒\r^00FF00无言之心^FFFF00\r  沉默，持续4秒\r^00FF00石化之心^FFFF00\r  石化，持续4秒\r^00FF00热情之心^FFFF00\r  被火焰灼烧，每秒受到%d点伤害，持续4秒\r^00FF00冷酷之心^FFFF00\r  立即死亡，只对等级低于自己的玩家生效\r\r  
-13035	星辰闪耀
-13036	激发星辰之光，攻击自己周围10米范围内的所有敌人，并使他们受到^00FF00震慑^A2FFFF的影响.
-13037	^00FF00星空祝福^FFFF00\r  增加飞行速度6米/秒，持续4秒\r  大幅增加命中和闪避，持续4秒
-13038	小宇宙空间已满,无法进行占星操作
-13039	%s(%d级)^ffffff将融合%s(%d级)^ffffff,获得^00ff00%d^ffffff点经验
-13040	星魂已被锁，请解锁后再融合
-13041	星魂被物品锁保护，只能融合其他星魂，但不能被融合
-13042	^O021^ffff00能量魔药\r^O009^ffffff每秒恢复最大生命10%
-13043	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得100%杀怪经验！
-13044	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得200%杀怪经验！
-13045	^O021^ffff00经验之光\r^O009^ffffff从经验之光中获得400%杀怪经验！
-13046	^O021^ffff00帝火之力\r^O009^ffffff每次受到攻击时，攻击自己的敌方获得\r减速效果，且会受到持续伤害，持续5秒\r减少移动速度1米/秒\r15%几率沉默攻击者
-13047	^O021^ffff00幻想迷乐\r^O009^ffffff提高攻击力，并不断伤害周围敌人
-13048	^O021^ffff00幻想迷乐
-13049	^O021^ffff00弦乐终止\r^O009^ffffff减速，并且无法释放技能
-13050	^O021^ffff00弦乐终止
-13051	^O021^ffff00狂暴的力量！\r^O009^ffffff狂暴的艾欧里亚防御大增！
-13052	^O021^ffff00狂暴的力量！
-13053	^O021^ffff00复生的誓言\r^O009^ffffff新资料片“天猛复生”特有buff\r每隔5分钟获得一些经验
-13054	^O021^ffff00极寒契约\r^O009^ffffff无法治疗恢复生命和使用药品
-13055	^O021瞬_天赋_治疗7_受击生成状态触发回血
-13056	^O021^ffff00地狱幻影\r^O009^ffffff下次被击中时将进入隐身状态
-13057	^O021^ffff00隐身\r^O009^ffffff敌人暂时无法看到你
-13058	^O021瞬_天赋_治疗7_受击生成状态触发队友回血
-13059	^O021熔岩召唤矿物吧BUFF
-13060	^O021跑酷_起点buff
-13061	^O021跑酷_路点buff
-13062	^O021^ffff00公平之环\r^O009^ffffff熔岩战场之中所有的圣斗士都将公平竞争
-13063	^O021^ffff00昏迷\r^O009^ffffff该单位陷入昏迷
-13064	^O021^ffff00加隆_触发善之花
-13065	^O021^ffff00灼烧\r^O009^ffffff灼烧，持续掉血
-13066	^O021^ffff00新状态名CZKJH
-13067	^O021^ffff00新状态名SCNYX
-13068	^O021^ffff00新状态名TDALK
-13069	^O021^ffff00新状态名LECMC
-13070	^O021^ffff00新状态名IYMHX
-13071	^O021^ffff00新状态名
-13072	^O021^ffff00新状态名DMJTW
-13073	^O021阿提卡战场-不明水晶获得水晶红方
-13074	^O021阿提卡战场-不明水晶获得水晶蓝方
+12867	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rSilence time: %d seconds
+12868	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\rSilence time: %d seconds
+12869	Damage increase: 20%%\rDuration: 20 seconds\rEffect range: 15 meters
+12870	Improve your movement speed, damage reduction for a short time and immune to fixation, deceleration\rfloating, falling, freeze, burn, silence. Can also be used under chaotic status
+12871	Restores 10 Stamina every 2 seconds of the duration
+12872	Effect lasts for 15 seconds, automatically gain small amount of Fighting Spirit every 3 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00\r^c0c0ffAdditional stamina recovery\rWhen attacked, the attacker's Accuracy drops dramatically.
+12873	Every 2 seconds restores 1%% HP for the duration
+12874	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces target movement speed by 60%%, lasts 6 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Aurora Wrath]^FFFF00\r^c0c0ffDamage increased by 100%%, and 100%% splash damage around the target\rAt the same time, the target can be frozen
+12875	Additional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\rReduces target movement speed by 60%%, lasts 6 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Aurora Wrath]^FFFF00\r^c0c0ffDamage increased by 100%%, and 100%% splash damage around the target\rAt the same time, the target can be frozen
+12876	Cygnus advanced skill. Use Diamond Dust to damage target
+12877	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rFrost path width: 6 meters\rHits 9 times causing {^FFABFC%d%%^FFFF00} damage\rAbility to knock the selected target down for 3 seconds, repel the target 1 meter per hit
+12878	Additional attack power: %d\rBonus Water damage: %d\rFrost path width: 6 meters\rHits 9 times causing %d%% damage\rAbility to knock the selected target down for 3 seconds, repel the target 1 meter per hit
+12879	Cygnus ultimate skill. Bombards the target using Diamond Dust of Aurora. Frost will cause splash damage to enemies on its path. Grants 4 seconds of Control Immunity
+12880	Number of bombs: %d\rBomb attack power {^FFABFC%d^FFFF00}\rBomb Water damage: {^FFABFC%d^FFFF00}\rEach bomb causes splash on 3 meters around target and causes {^FFABFC%d%%^FFFF00} damage\rBombs exist at most 8 seconds\t^00FF00Use the keyboard or right click and hold down the shortcut button to charge this skill:^FFFF00\rNumber of bombs: 3\rEach bomb causes splash on 3 meters around target and causes {^FFABFC%d%%^FFFF00} damage\rBomb movement speed: 6 m/s
+12881	Number of bombs: %d\rBomb attack power %d\rBomb Water damage: %d\rEach bomb causes splash on 3 meters around target and causes %d%% damage\rBombs exist at most 8 seconds\t^00FF00Use the keyboard or right click and hold down the shortcut button to charge this skill:^FFFF00\rNumber of bombs: 3\rEach bomb causes splash on 3 meters around target and causes %d%% damage\rBomb movement speed: 6 m/s
+12882	^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00reduces target Defense by {^FFABFC%d^FFFF00} and all Resistances by 10 points
+12883	^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00reduce target Defense by %d and all Resistances by 10 points
+12884	Pull the enemy and other targets within 6 meters to caster (If you are pulling an enemy player, it will only take effect if he is the target you selected)\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Gold Chains]^FFFF00\r^c0c0ffPulling the target to the front of the caster, you can pull the monster around you to the side, causing the main target to fall to the ground
+12885	Consumes %d%% of current HP\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rHits 6 times causing in total {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Libra Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12886	Consumes %d%% of current HP\rAdditional attack power: %d\rBonus Earth damage: %d\rHits 6 times causing in total %d%% damage\r\t^00FF00Libra Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12887	Taunts targets within 6 meters.\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage
+12888	Taunts targets within 6 meters.\rAdditional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage
+12889	Protect yourself with a dragon shield, absorbing damage up to 35%% of your max HP, lasts 6 seconds\rWithin 30 seconds ^c0c0ff[%s]^FFFF00 damage will be greatly improved and slows down the target by 60%% for 4 seconds\rCan be used while in floating, falling, frozen, petrified, silenced, chaotic status.
+12890	When the holy sword comes out, who fights with the glory\r and hits the target within the rectangular direction.
+12891	In the state of Dragon Soul, target that is knocked down will not be able to return to life.
+12892	Improves ^00FF00Dragon Soul^FFFF00 status strength significantly for 45 seconds\t^00FF00Dragon Soul^FFFF00\rIncrease Max HP by 30%% and get more lives\r^c0c0ff[%s]^FFFF00 damage increased by 50%%, and the life consumed on cast increased by 100%%\r^c0c0ff[%s]^FFFF00 is boosted and cooldown reduced by 2 seconds\rImmediately after entering this status, any control debuffs will be removed
+12893	Freeze Radius: 4 meters\rSlow-down: 60%%\rDefense reduced by: %d\rLasts 10 seconds
+12894	Cold Radius: 4 meters\rTime to freeze: 3 seconds\rFreeze duration: 3 seconds\rLasts 10 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Bottle of Light]^FFFF00\r^The summoned extreme cold area can move to the target attacked by the caster
+12895	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r50%% chance to enter the enhanced Dimension Corner Lock status\r\t^00FF00Enhanced Dimension Lock^FFFF00\rNext ^00FF00Dimension Corner Lock^FFFF00 damage increased by 50%%
+12896	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\r50%% chance to enter the enhanced Dimension Corner Lock status\r\t^00FF00Enhanced Dimension Lock^FFFF00\rNext ^00FF00Dimension Corner Lock^FFFF00 damage increased by 50%%
+12897	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
+12898	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
+12899	Use the chain to roll up the target, slam the ground and splash around\rDamage varies according to the Offensive Nature stored and reaches 300%% when full.\rSkill animation changes according to the shape of the target.
+12900	Duration: 6 seconds\t^00FF00Light of Freedom^FFFF00\rGrants immunity to negative control effects\rYou can use it when you are: stunned, knocked down, floating and silenced
+12901	^c0c0ffSerpent Holy Armor Star Casting 3 LV achieved^A2FFFF
+12902	^c0c0ffCrown Holy Armor Star Casting 3 LV achieved^A2FFFF
+12903	^c0c0ffSerpent Holy Armor Star Casting 10 LV achieved^A2FFFF
+12904	^c0c0ffCrown Holy Armor Star Casting 10 LV achieved^A2FFFF
+12905	^c0c0ffShield Holy Armor Star Casting 3 LV achieved^A2FFFF
+12906	^c0c0ffPisces Holy Armor Star Casting 3 LV achieved^A2FFFF
+12907	^c0c0ffShield Holy Armor Star Casting 10 LV achieved^A2FFFF
+12908	^c0c0ffPisces Holy Armor Star Casting 10 LV achieved^A2FFFF
+12909	Immediately removePlasma Stormstatus with a 10%% chance each time
+12910	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduce movement speed by: 60%%
+12911	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\rReduce movement speed by: 60%%
+12912	Attacks the target and enemies nearby\rImmediately inflicts 5 stacks of Burning to the target\rThe high temperature generated will slow down the opponent for 5 seconds.
+12913	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12914	Additional attack power: %d\rBonus Fire damage: %d\rMinimum damage: %d%%\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12915	30%% chance to summon Dark Phoenix
+12916	The cooldown becomes 50 seconds, and the last blow can stun the enemy for 5 seconds.
+12917	Sovereignty Force effect increased by 60%%
+12918	A teammate with HP less than 50%% instantaneous return to the max HP by 5%% of HP, and restore 1%% of the lHP limit per second
+12919	Phantom bonus attack power: {^FFABFC%d^FFFF00}\rPhantom bonus Fire damage:  {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rSummons will exists for 20 seconds
+12920	Phantom bonus attack power: %d\rPhantom bonus Fire damage: %d\rMinimum damage: %d%%\rSummons will exists for 20 seconds
+12921	The Flame of Rage has a 10%% chance to instantly clear the cooldown of this ability
+12922	10%% chance to summon Phantoms
+12923	During casting of this skill, the monsters will ignore your presence.
+12924	After successful cast, you can enter the Stealth status. Stealth effect will be triggered when cast time was at least 2 seconds. While in Stealth [Burning Fist] and [Genma Ken] damage will be increased by 50%%
+12925	^c0c0ffSwordfish Holy Armor Star Casting 3 LV achieved^A2FFFF
+12926	^c0c0ffSea Dragon Holy Armor Star Casting 3 LV achieved^A2FFFF
+12927	^c0c0ffSwordfish Holy Armor Star Casting 10 LV achieved^A2FFFF
+12928	^c0c0ffSea Dragon Holy Armor Star Casting 10 LV achieved^A2FFFF
+12929	^c0c0ffSextant Holy Armor Star Casting 3 LV achieved^A2FFFF
+12930	^c0c0ffSextant Holy Armor Star Casting 10 LV achieved^A2FFFF
+12931	^c0c0ffChameleon Holy Armor Star Casting 3 LV achieved^A2FFFF
+12932	^c0c0ffChameleon Holy Armor Star Casting 10 LV achieved^A2FFFF
+12933	^c0c0ff[%s]^FFFF00 has 10%% chance to clear ^c0c0ff[%s]^FFFF00 cooldown\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12934	^c0c0ffPuppis Holy Armor Star Casting 3 LV achieved^A2FFFF
+12935	^c0c0ff[%s]^FFFF00 also increases the movement speed of yourself and your teammates by 60%%\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12936	^c0c0ffPuppis Holy Armor Star Casting 10 LV achieved^A2FFFF
+12937	^c0c0ff[%s]^FFFF00 cooldown is changed to 50 seconds.\rAnd the last blow can stun the enemy for 5 seconds\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12938	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rDuration: {^FFABFC%d^FFFF00} seconds\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12939	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\rDuration: %d seconds\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12940	^c0c0ffLyra Holy Armor Star Casting 16 LV achieved^A2FFFF Instantly hits the enemy in front of you, pulls the target and hit the ground also make the surrounding targets fall to the ground.
+12941	^c0c0ffCrux Holy Armor Star Casting 3 LV achieved^A2FFFF
+12942	^c0c0ffCrux Holy Armor Star Casting 10 LV achieved^A2FFFF
+12943	^c0c0ffIf [%s]^FFFF00 succeeds caster enters into Stealth. Stealth effect will be triggered when cast time was at least 2 seconds.\rWhile Stealth ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 damage will be increased by 50%%\Stealth effect will be cancelled when any skill is casted\rEffect lasts 6 seconds\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12944	Your own teammates within 15 meters will gain the \t^00FF00Fire King Force^FFFF00 effect\rEvery time you are attacked there will be 15%% chance to silence your enemy for 3 seconds and inflicts Fury of the King of Fire status\rthat will lasts for 15 seconds\t^00FF00Fury of the King of Fire^FFFF00\rCasuses damage every second\rReduce the movement speed by 20%%\rLasts 5 seconds\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12945	^c0c0ff[Fantasy of the Melody]^FFFF00\rAttack power improved by %d, Attacks every second within 12 meters range\rAdditional attack power: %d\rCauses %d%% damage\rLasts 20 seconds
+12946	Protected by the supernova force field, the damage is reduced by 80%% for the next 5 hits, lasts 30 seconds\rCan be used while in floating, falling, frozen, petrified, silenced, chaotic status.\rConstellation exclusive ability: ^00FF00%s Pegasus^FFFF00
+12947	^c0c0ff[%s]^FFFF00: Once released from freeze, the target will be strongly cursed and will not be able to recover HP and use medicine for the next 5 seconds.\rConstellation exclusive ability: ^00FF00%s Cygnus^FFFF00
+12948	Consumes 5%% maximum HP\r(If there is a shield effect on the body, it does not consume HP)\rImmediately removes control debuffs and grants control immune for 3 seconds. Damage Reduction increased by 60%%\rCan be used while in floating, falling, frozen, petrified, silenced, chaotic status.\rCannot be used when the HP amount is less than 15%%\rConstellation exclusive ability: ^00FF00%s Wyvern^FFFF00
+12949	During the skill casting period, teammates within 5 meters will have control effect immune and damage reduction will increase by 20%%.\rConstellation exclusive ability: ^00FF00%s Andromeda^FFFF00
+12950	Caster enters into Hell Phantom effect\t^00FF00Hell Phantom^FFFF00\rWhen attacked, it will enter the Stealth state and create a phantom around you.\rHell Phantom status lasts 8 seconds\t^00FF00Stealth^FFFF00\rThe enemy will not be able to see you\rStealth status lasts 10 seconds\rStealth will immediately cancel when casting a spell or 3 seconds after receiving damage\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12951	^c0c0ff[%s]^FFFF00Can restore 10 Stamina points every 2 seconds\r^c0c0ff[%s]^FFFF00: Allows you to restore 1%% of your max HP every 2 seconds\rConstellation exclusive ability: ^00FF00%s Pegasus^FFFF00
+12952	^c0c0ff[%s]^FFFF00Increases all Resistance of yourself and teammates by 20 points.\rConstellation exclusive ability: ^00FF00%s Wyvern^FFFF00
+12953	Burning Spirit effect of ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 makes controlled targets not be able to be revived by skills\rConstellation exclusive ability: ^00FF00%s Wyvern^FFFF00
+12954	^c0c0ff[%s]^FFFF00A teammate with HP less than 50%% instantaneous return to the max HP by 5%% of HP, and restore 1%% of the lHP limit per second\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+12955	Attaches ^c0c0ff[Suffering]^FFFF00 effect. Stack up to 5 layers, each layer on the target causes %d damage per second, lasts 6 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12956	Attaches ^c0c0ff[Suffering]^FFFF00 effect. Stack up to 5 layers, each layer on the target causes %d damage per second, lasts 6 seconds\rAdditional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12957	Attaches ^c0c0ff[Impediment of the Sea Dragon]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12958	Attaches ^c0c0ff[Impediment of the Sea Dragon]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12959	50%% chance to add an extra <Good State>/<Evil State>
+12960	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Evil State^FFFF00\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 2 layers and each layer boosts {^FFABFC%d^FFFF00} hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12961	Additional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\r\t^00FF00Evil State^FFFF00\rAdditional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 2 layers and each layer boosts %d hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12962	Skill HP heal:  {^FFABFC%d^FFFF00}\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 3 layers and increasing 3%% CritChance per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
+12963	Skill HP heal: %d\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 3 layers and increasing 3%% CritChance per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
+12964	^00FF00Popular^FFFF00\rFlying speed increased by 3 m/s, Damage Reduction increased by 25%%, lasts 10 seconds
+12965	^00FF00Popular^FFFF00\rFlying speed increased by 3 m/s, Damage Reduction increased by 15%%, lasts 10 seconds
+12966	^c0c0ffCamelopardalis Holy Armor Star Casting 10 LV achieved^A2FFFF
+12967	^c0c0ffEridanus Holy Armor Star Casting 10 LV achieved^A2FFFF
+12968	^c0c0ffEridanus Holy Armor Star Casting 3 LV achieved^A2FFFF
+12969	If you are under control effect (floating, falling, freezing, petrifying, slamming, silent, chaotic), when attacked a shield will be generated for the next 5 seconds reducing damage by 20%%. Repeated attacks will reset Shield time\rAfter shield is over, it takes 15 seconds to trigger this effect again.\rConstellation exclusive ability: ^00FF00%s Sea Dragon^FFFF00
+12970	^c0c0ffCamelopardalis Holy Armor Star Casting 3 LV achieved^A2FFFF
+12971	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Air damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Star Guard]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
+12972	Additional attack power: %d\rBonus Air damage: %d\rCauses %d%% damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Star Guard]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
+12973	Effect lasts for 15 seconds, automatically gain small amount of Fighting Spirit every 3 seconds\rRestore 7 points of Stamina per second\rWhen attacked, attacker Accuracy will be reduced significantly. This effect can only be triggered once for 15 seconds.
+12974	Radius: 4 meters\rFreezing time: 3 seconds\rFreeze duration: 3 seconds\rIce array lasts 10 seconds
+12975	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces target movement speed by 60%% for 6 seconds\rFreeze duration: 3 seconds
+12976	Additional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\rReduces target movement speed by 60%%, lasts 6 seconds\rFreeze duration: 3 seconds
+12977	Pull the enemy and other targets within 6 meters to caster (If you are pulling an enemy player, it will only take effect if he is the target you selected)\rMain target duration: 3 seconds
+12978	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
+12979	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
+12980	Sea Dragon can use the good/evil skill to instantly increase the value of the power of good/evil power, ignoring ^c0c0ff[Devotion]^A2FFFF impact
+12981	Sprint distance: 15 meters\r^00FF00Dragon Fire Sacrifice^FFFF00\rConstantly attack enemies within 5 meters and inflicts ^00FF00Burning^FFFF00 status, lasts 5 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rEvery second causes  {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Burning^FFFF00\rEvery second causes {^FFABFC%d^FFFF00} fire damage, lasts 5 seconds
+12982	Sprint distance: 15 meters\r^00FF00Dragon Fire Sacrifice^FFFF00\rConstantly attack enemies within 5 meters and inflicts ^00FF00Burning^FFFF00 status, lasts 5 seconds\rAdditional attack power: %d\rEvery second causes  %d%% damage\rReduces Earth damage by 50%%\r^00FF00Burning^FFFF00\rEvery second causes %d fire damage, lasts 5 seconds
+12983	Sprint distance: 15 meters\r^00FF00Aura of Life^FFFF00\rEvery second heals caster and allied targets within 5 meters with {^FFABFC%d^FFFF00} HP, lasts 5 seconds\rReduces Earth damage on target by 50%%
+12984	Sprint distance: 15 meters\r^00FF00Aura of Life^FFFF00\rEvery second heals caster and allied targets within 5 meters with %d HP, lasts 5 seconds\rReduces Earth damage on target by 50%%
+12985	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Glorious Punishment^FFFF00\rPunishment by light can not move, lasts 3 seconds ignoring resistance and penetration
+12986	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Glorious Punishment^FFFF00\rPunishment by light can not move, lasts 3 seconds ignoring resistance and penetration
+12987	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Confusion^FFFF00\rConfusion status lasts 4 seconds ignoring resistance and penetration
+12988	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Confusion^FFFF00\rConfusion status, lasts 4 seconds ignoring resistance and penetration
+12989	Sprint distance: 15 meters\r^00FF00Nightfall^FFFF00\rCurses all enemies for 5 seconds, lasts 5 seconds\r^00FF00Darkness^FFFF00\r Damage rate decreased by 40%%\r Damage Reduction decreased by 20%%
+12990	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Dragon Lock^FFFF00\rIf the target is less than 10 meters from caster, he cannot move；If the target is more than 10 meters from caster, he enters coma；Lasts 5 seconds ignoring resistance and penetration
+12991	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Dragon Lock^FFFF00\rIf the target is less than 10 meters from caster, he cannot move;If the target is more than 10 meters from caster, he enters coma;Lasts 5 seconds ignoring resistance and penetration
+12992	^00FF00Poison Source^FFFF00\rEnemies within 5 meters of the surrounding area will be poisoned, lasts 5 seconds\r^00FF00Poisoned^FFFF00\rEvery second causes {^FFABFC%d^FFFF00} damage, lasts 5 seconds
+12993	^00FF00Poison Source^FFFF00\rEnemies within 5 meters of the surrounding area will be poisoned, lasts 5 seconds\r^00FF00Poisoned^FFFF00\rEvery second causes %d damage, lasts 5 seconds
+12994	^00FF00Space Shield^FFFF00\rDamage resistance increased by 50%%, lasts 5 seconds
+12995	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Glorious Punishment^FFFF00\rPunishment by light can not move, lasts 3 seconds ignoring resistance and penetration\r^00FF00Repentance of Light^FFFF00\rCritChance reduced to 0, lasts 8 seconds
+12996	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Glorious Punishment^FFFF00\rPunishment by light can not move, lasts 3 seconds ignoring resistance and penetration\r^00FF00Repentance of Light^FFFF00\rCritChance reduced to 0, lasts 8 seconds
+12997	 Damage Reduction increased by 40%%\rAir RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
+12998	 Damage Reduction increased by 40%%\rWater RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
+12999	 Damage Reduction increased by 40%%\rEarth RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
+13000	 Damage Reduction increased by 40%%\rThunder RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
+13001	 Damage Reduction increased by 40%%\rFire RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
+13002	^00FF00White Flame Dance^FFFF00\rIncreased flight speed by 8 m/s, lasts 5 seconds
+13003	Consumes {^FFABFC%d^FFFF00} Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rHeals HP:  {^FFABFC%d^FFFF00}
+13004	Consumes %d Rage\rAdditional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\rHeals HP: %d
+13005	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Celestial Star of Fury^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+13006	Additional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\r\t^00FF00Celestial Star of Fury^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+13007	Consumes 10 Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}
+13008	Consumes 10 Rage\rAdditional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%
+13009	Removes control effects on cast. Damage rate increased by 40%%, decreases damage reduction by 20%%. Lasts 12 seconds
+13010	^c0c0ffCorona Australis Holy Armor Star Casting 3 LV achieved^A2FFFF
+13011	^c0c0ffOrioles Holy Armor Star Casting 3 LV achieved^A2FFFF
+13012	^c0c0ff[%s]^FFFF00: Increased the cast distance by 5 meters\r Constellation exclusive ability: ^00FF00%s Wyvern^FFFF00
+13013	^c0c0ffCorona Australis Holy Armor Star Casting 10 LV achieved^A2FFFF
+13014	An absorption shield is obtained when the health drops below 30%%. Absorbs 20%% of maximum damage for 20 seconds, this effect can only be triggered once in 60 seconds\r Constellation exclusive ability: ^00FF00%s Wyvern^FFFF00
+13015	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Lava Lock^FFFF00\rTied by a lava chain, unable to move. Lasts to the end of the boot or interrupt\rIgnores resistance and penetration
+13016	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Lava Lock^FFFF00\rTied by a lava chain, unable to move. Lasts to the end of the boot or interrupt\rIgnores resistance and penetration
+13017	^00FF00Liquid Lava^FFFF00\rFlight speed reduction 3 m/s, lasts 4 seconds\r^00FF00Light Flame^FFFF00\rFlight speed increased by 3 m/s, lasts 5 seconds
+13018	^c0c0ff[%s]^FFFF00: 10%% chance to summon Dark Phoenix\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+13019	^c0c0ff[%s]^FFFF00: 30%% chance to summon Dark Phoenix\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
+13020	^c0c0ffOrioles Holy Armor Star Casting 10 LV achieved^A2FFFF
+13021	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Wrath^FFFF00\r unable to move, lasts 3 seconds\rEach layer of ^00FF00Thunder Light^FFFF00 boost duration by 0.6 seconds\rIgnores resistance and penetration
+13022	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Wrath^FFFF00\r unable to move, lasts 3 seconds\rEach layer of ^00FF00Thunder Light^FFFF00 boost duration by 0.6 seconds\rIgnores resistance and penetration
+13023	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Paralysis^FFFF00\runable to move. Each layer of ^00FF00Thunder Light^FFFF00 boost duration by 0.4 seconds\rIgnores resistance and penetration\r^00FF00Ray Prison^FFFF00\rFlight and movement speed reduced by 4 m/s. Each layer of ^00FF00Thunder Light^FFFF00 boost duration by 1 second
+13024	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\r^00FF00Paralysis^FFFF00\r unable to move. Each layer of ^00FF00Thunder Light^FFFF00 boost duration by 0.4 seconds\rIgnores resistance and penetration\r^00FF00Ray Prison^FFFF00\rFlight and movement speed reduced by 4 m/s. Each layer of ^00FF00Thunder Light^FFFF00 boost duration by 1 second
+13025	^00FF00Thunder Light^FFFF00\rImprove the control of Wrath and Lightning Storm skills for 30 seconds.Stack up to 5 layers\r^00FF00Thunder Stimulation^FFFF00\rFlying speed increased by 5 meters per second, lasts 5 seconds
+13026	^00FF00Blast^FFFF00\rIncreased flight speed 6 m/s. Greatly increases Accuracy and Evasion for 4 seconds
+13027	^00FF00Dark Side of the Light^FFFF00\rStealth, lasts 1 seconds\rEvasion is greatly increased and will not take critical hit for 3 seconds
+13028	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\rAll positive effects are only valid for the player. Ignores resistance and penetration\r^00FF00Greven's Gift^FFFF00\rReduced flight and movement speed 4 m/s, lasts 4 seconds\r^00FF00Sea Dragon's Gift^FFFF00\runable to move, lasts 4 seconds\r^00FF00Samuel's Gift^FFFF00\rsilence, lasts 4 seconds\r^00FF00Medusa's Gift^FFFF00\rPetrifaction, lasts 4 seconds\r^00FF00Kama's Gift^FFFF00\rInflicts burning that every second causes  {^FFABFC%d^FFFF00} damage, lasts 4 seconds\r^00FF00Cerberus Gift^FFFF00\rImmediate death, only for players with a lower level than caster\r\r
+13029	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\rAll positive effects are only valid for the player. Ignores resistance and penetration\r^00FF00Greven's Gift^FFFF00\rReduced flight and movement speed 4 m/s, lasts 4 seconds\r^00FF00Sea Dragon's Gift^FFFF00\runable to move, lasts 4 seconds\r^00FF00Samuel's Gift^FFFF00\rsilence, lasts 4 seconds\r^00FF00Medusa's Gift^FFFF00\rPetrifaction, lasts 4 seconds\r^00FF00Kama's Gift^FFFF00\rInflicts burning that every second causes  %d damage, lasts 4 seconds\r^00FF00Cerberus Gift^FFFF00\rImmediate death, only for players with a lower level than caster\r\r
+13030	^00FF00As a hill^FFFF00\rEnters As a hill effect that reduce flight speed by 4M/S, lasts 8 seconds\r Damage Reduction increased by 50%%, lasts 8 seconds\r^00FF00Sniper of God^FFFF00\rDamage rate increased by 20%%, lasts 8 seconds\rAnger Inflammation and Brilliant Inflammation skills attack distance is increased by 3 meters for 8 seconds\rRed Comet attack range increased to 12 meters 
+13031	^00FF00Scorpio Epiphytes^FFFF00\rGlory thorns and scorpion blasting skills instantly cool\r Damage rate increased by 40%% for 8 seconds
+13032	^00FF00Blessing of the Beast^FFFF00\rDamage rate increased by 20%%, lasts 8 seconds\r Damage Reduction increased by 20%% for 8 seconds
+13033	Additional attack power: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\rAll positive effects are only valid for the player. Ignores resistance and penetration\r^00FF00Heart Charm^FFFF00\rReduced flight and movement speed 4 m/s, lasts 4 seconds\r^00FF00Heart Indulge^FFFF00\runable to move, lasts 4 seconds\r^00FF00Heart Silence^FFFF00\rsilence, lasts 4 seconds\r^00FF00Heart Petrifaction^FFFF00\rPetrifaction, lasts 4 seconds\r^00FF00Heart Warm^FFFF00\rInflicts burning that every second causes  {^FFABFC%d^FFFF00} damage, lasts 4 seconds\r^00FF00Heart Cold^FFFF00\rImmediate death, only for players with a lower level than caster\r\r
+13034	Additional attack power: %d\rCauses %d%% damage\rReduces Earth damage by 50%%\rAll positive effects are only valid for the player. Ignores resistance and penetration\r^00FF00Heart Charm^FFFF00\rReduced flight and movement speed 4 m/s, lasts 4 seconds\r^00FF00Heart Indulge^FFFF00\runable to move, lasts 4 seconds\r^00FF00Heart Silence^FFFF00\rsilence, lasts 4 seconds\r^00FF00Heart Petrifaction^FFFF00\rPetrifaction, lasts 4 seconds\r^00FF00Heart Warm^FFFF00\rInflicts burning that every second causes  %d damage, lasts 4 seconds\r^00FF00Heart Cold^FFFF00\rImmediate death, only for players with a lower level than caster\r\r
+13035	Star Shine
+13036	Inspire the light of the stars and attack all enemies within 10 meters of your surroundings and inflicts ^00FF00Shock^A2FFFF status on them.
+13037	^00FF00Star Blessing^FFFF00\rIncrease flight speed 6 m/s for 4 seconds\rSignificantly increase Accuracy and Evasion for 4 seconds
+13038	Cosmo is full, unable to perform astrological operations
+13039	%s (%d level) ^ffffff will fuse with %s (%d level) ^ffffff. You will receive ^00ff00%d ^ffffff EXP
+13040	The soul of the star has been locked, please unlock and then merge
+13041	The soul of the star is protected by the lock of the object. It can only fuse with other ghosts, but it cannot be merged.
+13042	^O021^ffff00 Energy Potion\r^O009^ffffff Restores maximum life by 10% per second
+13043	^O021^ffff00Experience light\r^O009^ffffff Get 100% killing experience from the light of experience!
+13044	^O021^ffff00Experience light\r^O009^ffffff Get 200% killing experience from experience light!
+13045	^O021^ffff00Experience light\r^O009^ffffff Get 400% killing experience from experience light!
+13046	^O021^ffff00 Emperor's power\r^O009^ffffff Each time you are attacked, attack your own enemy to gain\rslowdown effect, and will be sustained damage for 5 seconds\rreduce the movement speed 1 m/sec\r15% chance to silence the attacker
+13047	^O021^ffff00 Fantasy Fan\r^O009^ffffff Improves attack power and constantly damages nearby enemies
+13048	^O021^ffff00 Fantasy
+13049	^O021^ffff00 string termination\r^O009^ffffff slowdown and unable to release skills
+13050	^O021^ffff00 string termination
+13051	^O021^ffff00 The power of violent!\r^O009^ffffff The violent Aurora defense increased!
+13052	^O021^ffff00 The power of violent!
+13053	^O021^ffff00 Oath of resurrection\r^O009^ffffff New piece of information "Tian Meng Rebirth" unique buff\rgains some experience every 5 minutes
+13054	^O021^ffff00 Extreme Cold Contract\r^O009^ffffff Unable to treat life and use medicine
+13055	^O021 Instant _ talent _ treatment 7 _ triggered generation state triggers blood return
+13056	^O021^ffff00 Hell Phantom\r^O009^ffffff will enter stealth state when it is hit next time
+13057	^O021^ffff00 Stealth\r^O009^ffffffThe enemy can't see you temporarily
+13058	^O021 Instant _ talent _ treatment 7_ hit the generated state triggers teammates to return blood
+13059	^O021 Lava Summon Mineral Bar BUFF
+13060	^O021Parkour_Starting buff
+13061 	^O021Parking _ way point buff
+13062	^O021^ffff00 Fair Ring\r^O009^ffffff All Saints in the Lava Battlefield will compete fairly
+13063	^O021^ffff00 coma\r^O009^ffffff the unit fell into a coma
+13064	^O021^ffff00Galón_Toma la bendición de las flores
+13065	^O021^ffff00 burning\r^O009^ffffff burning, continuous blood loss
+13066	^O021^ffff00 Nombre nuevo estado CZKJH
+13067	^O021^ffff00 Nombre nuevo estado SCNYX
+13068	^O021^ffff00 Nombre nuevo estado TDALK
+13069	^O021^ffff00 Nombre nuevo estado LECMC
+13070	^O021^ffff00 Nombre nuevo estado IYMHX
+13071	^O021^ffff00 Nombre nuevo estado
+13072	^O021^ffff00 Nombre nuevo estado DMJTW
+13073	^O021 Campo de batalla Attica - Uncle Crystal Get Crystal Red Square
+13074	^O021 Campo de batalla Attica - Uncle Crystal Get Crystal Blue
 13075	↑
 13076	↓

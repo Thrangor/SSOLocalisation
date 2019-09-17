@@ -15468,10 +15468,10 @@
 15467	Abrir
 15468	Esencia de Cosmo
 15469	Recoger
-15470	红色灌木
-15471	采集
-15472	黄色灌木
-15473	采集
-15474	蓝色灌木
-15475	采集
-15476	福利
+15470	Arbusto rojo
+15471	Recogiendo
+15472	Arbusto Amarillo
+15473	Recogiendo
+15474	Arbusto Azul
+15475	Recogiendo
+15476	Escencia
