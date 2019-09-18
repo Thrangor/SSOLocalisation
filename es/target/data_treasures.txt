@@ -52,7 +52,7 @@
 51	Disfraz de Hermes
 52	Tras usarlo, puedes cambiar de género.
 53	Cambio de Género
-54	Usado en el cambio de montura Tormenta por Caballo de Pegaso.
+54	Rosas
 55	Puño de la Justicia
 56	Camiseta casual, diseño moderno, terminado fino
 57	GAME OVER
@@ -105,21 +105,21 @@
 104	Parte de fantasía de gatito
 105	Guante de Gatito
 106	Doble de EXP del centro de energía
-107	增加双倍经验时间60分钟。
+107	Aumenta la ganancia de experiencia al doble por 60 minutos
 108	Hiper Poción IV
-109	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+109	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 10 millones de HP
 110	Hiper Poción III
-111	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
-112	Sangre de Poseidón*20
-113	在星铸鳞衣时可提升效果。
-114	Sangre de Oro*20
-115	在星铸黄金圣衣及主角圣衣时可提升效果。
-116	Sangre de Bronce*20
-117	在星铸青铜圣衣及白银圣衣时可提升效果。
-118	Sangre de Plata*20
-119	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-120	Sangre de Hades*20
-121	在星铸冥·圣衣时可提升效果。
+111	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 2 millones de HP
+112	Sangre de Poseidón*20
+113	Puede mejorar el efecto cuyo la estrella lanza las escalas.
+114	Sangre de Oro*20
+115	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
+116	Sangre de Bronce*20
+117	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
+118	Sangre de Plata*20
+119	Se puede mejorar armadura de bronce y plata.
+120	Sangre de Hades*20
+121	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
 122	Puño de la Justicia
 123	Camiseta casual, diseño moderno, acabado fino
 124	GAME OVER
@@ -177,25 +177,25 @@
 176	Guante Doraemiau (M)
 177	Parte de la fantasía de Doraemiau
 178	Botas de Gatito
-179	可爱的深蓝色猫爪时装鞋子，男生专用。
+179	Lindos zapatos de moda azul oscuro con garras de gato, para chicos.
 180	Botas de Leopardo
-181	可爱的豹纹猫爪时装鞋子，男生专用。
+181	Lindos zapatos de moda de garra de gato leopardo, para chicos.
 182	Botas Doraemiau (M)
-183	可爱的天蓝色猫爪时装鞋子，男生专用。
+183	Lindos zapatos de moda con forma de garra de gato azul cielo, para chicos.
 184	Sombrero de Gatito
-185	可爱的深蓝色猫爪时装头饰，男生专用。
+185	Lindo tocado de moda de garra de gato azul oscuro, para chicos.
 186	Sombrero de Leopardo
-187	可爱的豹纹猫爪时装头饰，男生专用。
+187	Lindo peinado de moda de garra de gato leopardo para chicos.
 188	Sombrero Doraemiau (M)
-189	可爱的天蓝色猫爪时装头饰，男生专用。
+189	Lindo peinado de moda de garra de gato azul cielo, para chicos.
 190	Bikini Atractivo
 191	EL encanto con un viento de madurez trae escalofríos en la tripa en este caluroso verano
 192	Sandalias Atractivas
 193	EL encanto con un viento de madurez trae escalofríos en la tripa en este caluroso verano
 194	Bikini Brisa del Mar
-195	Con la brisa del mar pegando en la cara, el frescor deja a las personas de buen humor.
+195	Con la brisa del mar pegyo en la cara, el frescor deja a las personas de buen humor.
 196	Sandalias Brisa del Mar
-197	Con la brisa del mar pegando en la cara, el frescor deja a las personas de buen humor.
+197	Con la brisa del mar pegyo en la cara, el frescor deja a las personas de buen humor.
 198	Bikini Encantador
 199	Encanto misterioso, un estilo diferente.
 200	Sandalias Encantadoras
@@ -205,13 +205,13 @@
 204	Sandalias Tiernas
 205	La ternura calienta el corazón de las personas
 206	Bikini Genial
-207	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+207	Sol, playa, belleza! Cálido y relajante, como una brisa primaveral ~
 208	Sandalias Geniales
-209	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+209	Sol, playa, belleza! Cálido y relajante, como una brisa primaveral ~
 210	Bikini Arco Iris
-211	雨后天空，沙滩彩虹！美景美不胜收~
+211	Como el cielo después de la lluvia, frente a la playa un arcoiris! El paisaje es hermoso ~
 212	Sandalias Arco Iris
-213	雨后天空，沙滩彩虹！美景美不胜收~
+213	Como el cielo después de la lluvia, frente a la playa un arcoiris! El paisaje es hermoso ~
 214	Traje Pink Skull
 215	Es posible enamorarse durante el halloween, ¿verdad?
 216	Guante Pink Skull
@@ -247,27 +247,27 @@
 246	Media de Ratoncita
 247	Parte de la fantasía de ratita
 248	Media de Jaguar
-249	可爱的豹纹猫爪时装长袜，女生专用。
+249	Medias lindas de moda de garra de gato leopardo para chicas.
 250	Media Doraemiau
-251	可爱的天蓝色猫爪时装长袜，女生专用。
+251	Medias lindas de la moda de la garra del gato azul cielo, para chicas.
 252	Guante de Ratoncita
 253	Parte de la fantasía de ratita
 254	Guante de Jaguar
-255	可爱的豹纹猫爪时装手套，女生专用。
+255	Guantes de moda con forma de garra de gato leopardo, para chicas.
 256	Guante Doraemiau (F)
-257	可爱的天蓝色猫爪时装手套，女生专用。
+257	Guantes de moda con forma de garra de gato azul cielo, para chicas.
 258	Botas de Ratoncita
 259	Parte de la fantasía de ratita
 260	Botas de Jaguar
-261	可爱的豹纹猫爪时装鞋子，女生专用。
+261	Lindos zapatos de moda de garra de gato leopardo, para chicas.
 262	Botas Doraemiau (F)
-263	可爱的天蓝色猫爪时装鞋子，女生专用。
+263	Lindos zapatos de moda con forma de garra de gato azul cielo, para chicas.
 264	Sombrero de Ratoncita
 265	Parte de la fantasía de ratita
 266	Sombrero de Jaguar
-267	可爱的豹纹猫爪时装头饰，女生专用。
+267	Lindo sombreros de moda de garra de gato leopardo, para chicas.
 268	Sombrero Doraemiau (F)
-269	可爱的天蓝色猫爪时装头饰，女生专用。
+269	Lindo tocado de moda de garra de gato azul cielo, para chicas.
 270	Vendaje
 271	Te deja con un aspecto aterrador
 272	Lentes Encantadoras
@@ -279,79 +279,79 @@
 278	Lentes Atractivos
 279	¡El rojo es el color del amor!
 280	Insignia de las Nubes
-281	换取天马座·翼装的必要物品。
-282	Sangre Demoníaca*20
-283	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+281	Puedes cambiarlo por los artículos necesarios para Pegaso y las Alas.
+282	Sangre Demoníaca*20
+283	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
 284	Sangre Demoníaca
-285	传说是神魔的血液精华，可以极大提升聚能的稳定性。
-286	Sangre de Bronce*20
-287	在星铸青铜圣衣及白银圣衣时可提升效果。
+285	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
+286	Sangre de Bronce*20
+287	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 288	Sangre de Bronce
-289	在星铸青铜圣衣及白银圣衣时可提升效果。
-290	Sangre de Oro*20
-291	在星铸黄金圣衣及主角圣衣时可提升效果。
+289	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
+290	Sangre de Oro*20
+291	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
 292	Sangre de Oro
-293	在星铸黄金圣衣及主角圣衣时可提升效果。
+293	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
 294	Libro Oráculo de Atenea
-295	开启最高阶的小宇宙占星神喻，高阶星魂不再是梦。
+295	Abra el  Cosmo de primer orden, el alma estelar de alto grado ya no es un sueño.
 296	Hiper Poción IV
-297	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+297	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 10 millones de HP
 298	Hiper Poción III
-299	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
+299	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 2 millones de HP
 300	Hiper Poción I
-301	回复少量生命。
-302	Energético I*20
-303	使用后可以获得500魔盒能量。
+301	Restaura un poco del HP.
+302	Energético I*20
+303	Despues de usarlo, recibiras 500 energias para la Caja Magica.
 304	Energético I
-305	使用后可以获得500魔盒能量。
-306	Potenciador*20
-307	使用后可以获得400生产精力。
+305	Despues de usarlo, recibiras 500 energias para la Caja Magica.
+306	Potenciador*20
+307	Despues de usarlo, recibiras 400 energias para la Caja Magica.
 308	Potenciador
-309	使用后可以获得400生产精力。
+309	Despues de usarlo, recibiras 400 energias para la Caja Magica.
 310	Expansión del Inventario
-311	扩充背包位置栏6格。
+311	Expye tu inventario en 6 espacios.
 312	Expansión del Almacén
-313	扩充仓库位置栏6格。
+313	Expye tu almacen en 6 espacios.
 314	Megáfono Mundial x100
-315	在世界频道发言时消耗。40级以上可开启。
+315	Necesario para usar el chat mundial.\rNivel 40 o superior unicamente.
 316	Megáfono Mundial x10
-317	在世界频道发言时消耗。40级以上可开启。
+317	Necesario para usar el chat mundial.\rNivel 40 o superior unicamente.
 318	Doble de EXP del centro de energía
-319	增加双倍经验时间60分钟。
-320	Dado del Destino*20
-321	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+319	Aumenta la ganancia de experiencia al doble por 60 minutos
+320	Dado del Destino*20
+321	Te da la oportunidad de volver a lanzar las recompensas para el "Prueba del destino" y la "Mision biografica".
 322	Dado del Destino
-323	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+323	Te da la oportunidad de volver a lanzar las recompensas para el "Prueba del destino" y la "Mision biografica".
 324	Corazón Eclíptico I
-325	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+325	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 326	Corazón Eclíptico II
-327	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+327	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 328	Corazón Eclíptico III
-329	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+329	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 330	Corazón Eclíptico IV
-331	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+331	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 332	Corazón Eclíptico V
-333	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+333	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 334	Cambiar equipamiento[Escudero]
-335	收集一定数量可以兑换守护星装备。
+335	Recoge una cierta cantidad para canjear el Equipao adecuado.
 336	Ben.Diosa☆Aries(II)
-337	开启可获得女神的恩赐声望，并额外获得女神赐予的物品奖励。
+337	Abre la reputación de la diosa y obtén recompensas adicionales.
 338	Luz de Determinación de Metis
-339	聪慧女神的意志使你能重新学习战斗技能。
+339	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 340	Regalo de Aries II (Excelente)
-341	每人限制使用一次的超值大礼包。
+341	Una ola de valor por dinero que se limita a un uso por persona.
 342	Regalo de Aries II (Supremo)
-343	每人限制使用一次的超值大礼包。
-344	Sangre de Poseidón*20
-345	在星铸鳞衣时可提升效果。
-346	Sangre de Oro*20
-347	在星铸黄金圣衣及主角圣衣时可提升效果。
-348	Sangre de Bronce*20
-349	在星铸青铜圣衣及白银圣衣时可提升效果。
-350	Sangre de Plata*20
-351	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-352	Sangre de Hades*20
-353	在星铸冥·圣衣时可提升效果。
+343	Una ola de valor por dinero que se limita a un uso por persona.
+344	Sangre de Poseidón*20
+345	Puede mejorar el efecto cuyo la estrella lanza las escalas.
+346	Sangre de Oro*20
+347	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
+348	Sangre de Bronce*20
+349	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
+350	Sangre de Plata*20
+351	Se puede mejorar armadura de bronce y plata.
+352	Sangre de Hades*20
+353	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
 354	Puño de la Justicia
 355	Camiseta casual, diseño moderno, acabado fino
 356	GAME OVER
@@ -409,25 +409,25 @@
 408	Guante Doraemiau (M)
 409	Parte de la fantasía de Doraemiau
 410	Botas de Gatito
-411	可爱的深蓝色猫爪时装鞋子，男生专用。
+411	Lindos zapatos de moda azul oscuro con garras de gato, para chicos.
 412	Botas de Leopardo
-413	可爱的豹纹猫爪时装鞋子，男生专用。
+413	Lindos zapatos de moda de garra de gato leopardo, para chicos.
 414	Botas Doraemiau (M)
-415	可爱的天蓝色猫爪时装鞋子，男生专用。
+415	Lindos zapatos de moda con forma de garra de gato azul cielo, para chicos.
 416	Sombrero de Gatito
-417	可爱的深蓝色猫爪时装头饰，男生专用。
+417	Lindo tocado de moda de garra de gato azul oscuro, para chicos.
 418	Sombrero de Leopardo
-419	可爱的豹纹猫爪时装头饰，男生专用。
+419	Lindo peinado de moda de garra de gato leopardo para chicos.
 420	Sombrero Doraemiau (M)
-421	可爱的天蓝色猫爪时装头饰，男生专用。
+421	Lindo peinado de moda de garra de gato azul cielo, para chicos.
 422	Bikini Atractivo
 423	EL encanto con un viento de madurez trae escalofríos en la tripa en este caluroso verano
 424	Sandalias Atractivas
 425	EL encanto con un viento de madurez trae escalofríos en la tripa en este caluroso verano
 426	Bikini Brisa del Mar
-427	Con la brisa del mar pegando en la cara, el frescor deja a las personas de buen humor.
+427	Con la brisa del mar pegyo en la cara, el frescor deja a las personas de buen humor.
 428	Sandalias Brisa del Mar
-429	Con la brisa del mar pegando en la cara, el frescor deja a las personas de buen humor.
+429	Con la brisa del mar pegyo en la cara, el frescor deja a las personas de buen humor.
 430	Bikini Encantador
 431	Encanto misterioso, un estilo diferente.
 432	Sandalias Encantadoras
@@ -437,13 +437,13 @@
 436	Sandalias Tiernas
 437	La ternura calienta el corazón de las personas
 438	Bikini Genial
-439	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+439	Sol, playa, belleza! Cálido y relajante, como una brisa primaveral ~
 440	Sandalias Geniales
-441	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+441	Sol, playa, belleza! Cálido y relajante, como una brisa primaveral ~
 442	Bikini Arco Iris
-443	雨后天空，沙滩彩虹！美景美不胜收~
+443	Como el cielo después de la lluvia, frente a la playa un arcoiris! El paisaje es hermoso ~
 444	Sandalias Arco Iris
-445	雨后天空，沙滩彩虹！美景美不胜收~
+445	Como el cielo después de la lluvia, frente a la playa un arcoiris! El paisaje es hermoso ~
 446	Traje Pink Skull
 447	Es posible enamorarse durante el halloween, ¿verdad?
 448	Guante Pink Skull
@@ -479,27 +479,27 @@
 478	Media de Ratoncita
 479	Parte de la fantasía de ratita
 480	Media de Jaguar
-481	可爱的豹纹猫爪时装长袜，女生专用。
+481	Medias lindas de moda de garra de gato leopardo para chicas.
 482	Media Doraemiau
-483	可爱的天蓝色猫爪时装长袜，女生专用。
+483	Medias lindas de la moda de la garra del gato azul cielo, para chicas.
 484	Guante de Ratoncita
 485	Parte de la fantasía de ratita
 486	Guante de Jaguar
-487	可爱的豹纹猫爪时装手套，女生专用。
+487	Guantes de moda con forma de garra de gato leopardo, para chicas.
 488	Guante Doraemiau (F)
-489	可爱的天蓝色猫爪时装手套，女生专用。
+489	Guantes de moda con forma de garra de gato azul cielo, para chicas.
 490	Botas de Ratoncita
 491	Parte de la fantasía de ratita
 492	Botas de Jaguar
-493	可爱的豹纹猫爪时装鞋子，女生专用。
+493	Lindos zapatos de moda de garra de gato leopardo, para chicas.
 494	Botas Doraemiau (F)
-495	可爱的天蓝色猫爪时装鞋子，女生专用。
+495	Lindos zapatos de moda con forma de garra de gato azul cielo, para chicas.
 496	Sombrero de Ratoncita
 497	Parte de la fantasía de ratita
 498	Sombrero de Jaguar
-499	可爱的豹纹猫爪时装头饰，女生专用。
+499	Lindo sombreros de moda de garra de gato leopardo, para chicas.
 500	Sombrero Doraemiau (F)
-501	可爱的天蓝色猫爪时装头饰，女生专用。
+501	Lindo tocado de moda de garra de gato azul cielo, para chicas.
 502	Vendaje
 503	Te deja con un aspecto aterrador
 504	Lentes Encantadoras
@@ -511,113 +511,113 @@
 510	Lentes Atractivos
 511	¡El rojo es el color del amor!
 512	Insignia de las Nubes
-513	换取天马座·翼装的必要物品。
-514	Sangre Demoníaca*20
-515	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+513	Puedes cambiarlo por los artículos necesarios para Pegaso y las Alas.
+514	Sangre Demoníaca*20
+515	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
 516	Sangre Demoníaca
-517	传说是神魔的血液精华，可以极大提升聚能的稳定性。
-518	Sangre de Bronce*20
-519	在星铸青铜圣衣及白银圣衣时可提升效果。
+517	Según la  leyenda es la esencia de sangre del demonio, que puede mejorar en gran medida la estabilidad de la energía.。
+518	Sangre de Bronce*20
+519	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
 520	Sangre de Bronce
-521	在星铸青铜圣衣及白银圣衣时可提升效果。
-522	Sangre de Oro*20
-523	在星铸黄金圣衣及主角圣衣时可提升效果。
+521	Se puede mejorar  la armadura sagrada de bronce y genera la posibilidad en armadura de plata.
+522	Sangre de Oro*20
+523	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
 524	Sangre de Oro
-525	在星铸黄金圣衣及主角圣衣时可提升效果。
+525	Se puede mejorar  la armadura sagrada estrella Cast Gold y genera la posibilidad de una armadura divina.
 526	Libro Oráculo de Atenea
-527	开启最高阶的小宇宙占星神喻，高阶星魂不再是梦。
+527	Abra el  Cosmo de primer orden, el alma estelar de alto grado ya no es un sueño.
 528	Hiper Poción IV
-529	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+529	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 10 millones de HP
 530	Hiper Poción III
-531	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
-532	Energético I*20
-533	使用后可以获得500魔盒能量。
+531	Inmediatamente restaura el HP a la mitad del maximo de HP.\rCantidad total es de 2 millones de HP
+532	Energético I*20
+533	Despues de usarlo, recibiras 500 energias para la Caja Magica.
 534	Energético I
-535	使用后可以获得500魔盒能量。
-536	Potenciador*20
-537	使用后可以获得400生产精力。
+535	Despues de usarlo, recibiras 500 energias para la Caja Magica.
+536	Potenciador*20
+537	Despues de usarlo, recibiras 400 energias para la Caja Magica.
 538	Potenciador
-539	使用后可以获得400生产精力。
+539	Despues de usarlo, recibiras 400 energias para la Caja Magica.
 540	Expansión del Inventario
-541	扩充背包位置栏6格。
+541	Expye tu inventario en 6 espacios.
 542	Expansión del Almacén
-543	扩充仓库位置栏6格。
-544	Megáfono Mundial*200
-545	在世界频道发言时消耗。
-546	Megáfono Mundial*10
-547	在世界频道发言时消耗。
-548	Megáfono de Anuncio*200
-549	在广播频道发言时消耗。
-550	Megáfono de Anuncio*10
-551	在广播频道发言时消耗。
+543	Expye tu almacen en 6 espacios.
+544	Megáfono Mundial*200
+545	Se consume cuyo hablas en chat mundial.
+546	Megáfono Mundial*10
+547	Se consume cuyo hablas en chat mundial.
+548	Megáfono de Anuncio*200
+549	Se consume cuyo hablas en chat de transmisión.
+550	Megáfono de Anuncio*10
+551	Se consume cuyo hablas en chat de transmisión.
 552	Megáfono de Anuncio
-553	在广播频道发言时消耗。
+553	Se consume cuyo hablas en chat de transmisión.
 554	Doble de EXP del centro de energía
-555	增加双倍经验时间60分钟。
-556	Dado del Destino*20
-557	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+555	Aumenta la ganancia de experiencia al doble por 60 minutos
+556	Dado del Destino*20
+557	Te da la oportunidad de volver a lanzar las recompensas para el "Prueba del destino" y la "Mision biografica".
 558	Dado del Destino
-559	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+559	Te da la oportunidad de volver a lanzar las recompensas para el "Prueba del destino" y la "Mision biografica".
 560	Ben.Diosa☆Aries(II)
-561	开启可获得女神的恩赐声望，并额外获得女神赐予的物品奖励。
+561	Abre la reputación de la diosa y obtén recompensas adicionales.
 562	Rosas
-563	价值不菲的鲜花，可用来赠送好友。60级以上活动有掉落。
+563	Una flor valiosa que puedes regalar a tus amigos.\rPuedes conseguirla en actividades de Nvl 60
 564	Tarjeta de Embestida
-565	神奇的物品，可直接扫荡活动副本。
+565	Un objeto mágico que puede barrer directamente una copia de la actividad.
 566	Corazón Eclíptico I
-567	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+567	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 568	Corazón Eclíptico II
-569	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+569	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 570	Corazón Eclíptico III
-571	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+571	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 572	Corazón Eclíptico IV
-573	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+573	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
 574	Corazón Eclíptico V
-575	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-576	Luz de Estrella Condensada*5
-577	用于换取守护星相关道具的材料。
+575	Aumenta las ranuras de Escuderos, la estrella guardiana que no juegue tendrá bonificación de atriperoo a la estrella guardiana.
+576	Luz de Estrella Condensada*5
+577	Material utilizado a cambio de los artículos relacionados de la regla.
 578	Cambiar equipamiento[Escudero]
-579	收集一定数量可以兑换守护星装备。
-580	Fragmentos Bronce*5
-581	收集一定数量后，可换取青铜圣衣。20级以上活动有大量掉落。
-582	Fragmento Plata*5
-583	收集一定数量后，可换取白银圣衣。60级以上活动有大量掉落。
+579	Recoge una cierta cantidad para canjear el Equipao adecuado.
+580	Fragmentos Bronce*5
+581	Despues de encontrar cierta cantidad los podras intercambiar por la armadura sagrada de bronce.\rAparece en actividades de Nvl 20.
+582	Fragmento Plata*5
+583	Despues de encontrar cierta cantidad los podras intercambiar por la armadura sagrada de plata.\rAparece en actividades de Nvl 60.
 584	Autorización de Armadura[Bronce]
-585	换取更高阶青铜圣衣的凭证。
+585	A cambio del certificado obtendras  la armadura sagrada de bronce de grado superior.
 586	Autorización de Armadura[Plata]
-587	换取更高阶白银圣衣的凭证。
-588	Jade Estelar Negra*5
-589	黑暗圣衣1-10级星铸。可以兑换得到。
-590	Cristal Estelar Negro*5
-591	黑暗圣衣11-16级星铸。可以兑换得到。
-592	Esplendor Estelar Negro*5
-593	黑暗圣衣17-32级星铸。可以兑换得到。
-594	Jade Estelar*5
-595	天马座圣衣1-10级星铸。20级以上活动有大量掉落。
-596	Cristal Estelar*5
-597	天马座圣衣11-16级星铸。50级以上活动有大量掉落。
-598	Esplendor Estelar*5
-599	天马座圣衣17-32级星铸。70级以上活动有大量掉落。
-600	Polvo Estelar*5
-601	用于普通青铜圣衣星铸。30级以上活动有大量掉落。
-602	Arena Estelar*5
-603	用于普通白银圣衣星铸。50级以上活动有大量掉落。
-604	Brillo Estelar [Tierra]*5
-605	用于黄金圣衣星铸。70级以上活动有大量掉落。
-606	Brillo Estelar [Fuego]*5
-607	用于黄金圣衣星铸。70级以上活动有大量掉落。
-608	Brillo Estelar [Agua]*5
-609	用于黄金圣衣星铸。70级以上活动有大量掉落。
-610	Brillo Estelar [Viento]*5
-611	用于黄金圣衣星铸。70级以上活动有大量掉落。
-612	Luz Espiritual*10
-613	用于装备聚能。30级以上活动有大量掉落。
-614	Luz Espiritual+*10
-615	用于装备聚能。50级以上活动有大量掉落。
-616	Flor del Alma*10
-617	用于装备聚能。30级以上活动有大量掉落。
-618	Flor del Alma+*10
-619	用于装备聚能。50级以上活动有大量掉落。
+587	A cambio del certificado obtendras  la armadura sagrada de plata de grado superior.
+588	Jade Estelar Negra*5
+589	Caballeros Negros 1-10 estrellas cast.\rPueden ser redimidos.
+590	Cristal Estelar Negro*5
+591	Caballeros Negros 11-16 estrellas cast.\rPueden ser redimidos.
+592	Esplendor Estelar Negro*5
+593	Caballeros Negros 17-32 estrellas cast.\rPueden ser redimidos.
+594	Jade Estelar*5
+595	Pegasus ropa santa 1-10 estrellas cast.\rSuele caer en actividades Nvl 20.
+596	Cristal Estelar*5
+597	Pegasus ropa santa 11-16 estrellas cast.\rSuele caer en actividades Nvl 50.
+598	Esplendor Estelar*5
+599	Pegasus ropa santa 17-32 estrellas cast.\rSuele caer en actividades Nvl 70.
+600	Polvo Estelar*5
+601	Se usa en ropa sagrada de bronce ordinaria.\rSuele caer  en actividades Nvl 30.
+602	Arena Estelar*5
+603	Se usa en ropa sagrada de plata ordinaria.\rSuele caer  en actividades Nvl 50.
+604	Brillo Estelar [Tierra]*5
+605	Se usa para ropa sagrada de oro.\rSuele caer en actividades Nvl 70.
+606	Brillo Estelar [Fuego]*5
+607	Se usa para ropa sagrada de oro.\rSuele caer en actividades Nvl 70.
+608	Brillo Estelar [Agua]*5
+609	Se usa para ropa sagrada de oro.\rSuele caer en actividades Nvl 70.
+610	Brillo Estelar [Viento]*5
+611	Se usa para ropa sagrada de oro.\rSuele caer en actividades Nvl 70.
+612	Luz Espiritual*10
+613	Usado para Equipaar energia.\rSuele caer en actividades Nvl 30.
+614	Luz Espiritual+*10
+615	Usado para Equipaar energia.\rSuele caer en actividades Nvl 50.
+616	Flor del Alma*10
+617	Usado para Equipaar energia.\rSuele caer en actividades Nvl 30.
+618	Flor del Alma+*10
+619	Usado para Equipaar energia.\rSuele caer en actividades Nvl 50.
 620	Joven Apasionado
 621	¡Avance bravamente y queme! ¡Cosmos!
 622	Inmaduro
@@ -647,7 +647,7 @@
 646	Cisne
 647	Peinado de Hyoga de Cisne
 648	Andrómeda
-649	Peinado de Shun de Andrómeda.
+649	Peinado de Shun de yrómeda.
 650	Fénix
 651	Peinado de Ikki de Fénix.
 652	Aries
@@ -677,7 +677,7 @@
 676	Chica Delicada
 677	Delicada como una rosa
 678	Último misterio
-679	都说了叫神秘了，那意思就你猜啊~~
+679	Dije que es misterioso, así que lo adivinaste ~~
 680	Pureza impecable
 681	Peinado impecable
 682	Colitas
@@ -685,7 +685,7 @@
 684	Encanto Misterioso
 685	¡El misterio es el encanto de una mujer!
 686	Flor Salvaje
-687	路边的野花你快去采~
+687	Flores silvestres en la carretera, vas a recogerlo ~
 688	Buñuelos Tiernos
 689	¡Dos moños son mejores que uno!
 690	Moño Jovial
@@ -699,7 +699,7 @@
 698	Elegancia Graciosa
 699	La ternura calienta el corazón de las personas
 700	Fragmento de Estola
-701	集齐一定数量后，可用于换取绶带的物品。
+701	Una vez recolectado en cierta cantidad, se puede usar para intercambiar artículos por la eslinga.
 702	Joven Apasionado
 703	¡Avance bravamente y queme! ¡Cosmos!
 704	Inmaduro
@@ -729,7 +729,7 @@
 728	Cisne
 729	Peinado de Hyoga de Cisne
 730	Andrómeda
-731	Peinado de Shun de Andrómeda.
+731	Peinado de Shun de yrómeda.
 732	Fénix
 733	Peinado de Ikki de Fénix.
 734	Aries
@@ -759,7 +759,7 @@
 758	Chica Delicada
 759	Delicada como una rosa
 760	Último misterio
-761	都说了叫神秘了，那意思就你猜啊~~
+761	Dije que es misterioso, así que lo adivinaste ~~
 762	Pureza impecable
 763	Peinado impecable
 764	Colitas
@@ -767,7 +767,7 @@
 766	Encanto Misterioso
 767	¡El misterio es el encanto de una mujer!
 768	Flor Salvaje
-769	路边的野花你快去采~
+769	Flores silvestres en la carretera, vas a recogerlo ~
 770	Buñuelos Tiernos
 771	¡Dos moños son mejores que uno!
 772	Moño Jovial
@@ -781,38 +781,38 @@
 780	Elegancia Graciosa
 781	La ternura calienta el corazón de las personas
 782	Fragmento de Estola
-783	集齐一定数量后，可用于换取绶带的物品。
+783	Una vez recolectado en cierta cantidad, se puede usar para intercambiar artículos por la eslinga.
 784	Espíritu Caótico de Leo
-785	可将低阶狮子坐骑升级为高阶坐骑的必须品。
+785	La montura de león de gama baja se puede actualizar a una herramienta imprescindible para monturas de gama alta.
 786	Fusor de Energía
-787	微粒进化过程中使用该物品可大大提高成功率。
+787	El uso de este elemento durante la evolución de partículas aumenta en gran medida la tasa de éxito.
 788	Sangre de Plata
-789	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-790	Sangre de Plata*20
-791	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+789	Se puede mejorar armadura de bronce y plata.
+790	Sangre de Plata*20
+791	Se puede mejorar armadura de bronce y plata.
 792	Sangre de Hades
-793	在星铸冥·圣衣时可提升效果。
-794	Sangre de Hades*20
-795	在星铸冥·圣衣时可提升效果。
+793	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
+794	Sangre de Hades*20
+795	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
 796	Fusor de Energía
-797	微粒进化过程中使用该物品可大大提高成功率。
+797	El uso de este elemento durante la evolución de partículas aumenta en gran medida la tasa de éxito.
 798	Sangre de Plata
-799	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-800	Sangre de Plata*20
-801	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+799	Se puede mejorar armadura de bronce y plata.
+800	Sangre de Plata*20
+801	Se puede mejorar armadura de bronce y plata.
 802	Sangre de Hades
-803	在星铸冥·圣衣时可提升效果。
-804	Sangre de Hades*20
-805	在星铸冥·圣衣时可提升效果。
-806	Luz Estelar*5
-807	天马座圣衣33-48级星铸。80级以上活动有大量掉落。
-808	Arena del Inframundo*5
-809	用于冥·圣衣星铸的必须品。
+803	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
+804	Sangre de Hades*20
+805	Puede mejorar el efecto cuyo se usan en  la Armadura Sagrada.
+806	Luz Estelar*5
+807	Ropa sagrada de pegasus 33-48 estrella cast.\rsuele caer en actividades de Nvl 80.
+808	Arena del Inframundo*5
+809	Usado para las necesidades de la vestimenta sagrada.
 810	Llave Cósmica
-811	用于观星的必须品。65级以上活动有掉落。
+811	Escencial para observar las estrellas.\rActividades de Nvl 65.
 812	Traje Superior Venus
 813	Última moda en Venus
-814	金星时光短裤
+814	Shorts Frescos Venus
 815	Última moda en Venus
 816	Botas Venus (M)
 817	Última moda en Venus
@@ -826,7 +826,7 @@
 825	¡La brisa del mar deja a la gente más feliz!
 826	Shorts Venus
 827	Última moda en Venus
-828	金星引力短裤
+828	Shorts Gravitacion Venus
 829	Última moda en Venus
 830	Botas Venus (F)
 831	Última moda en Venus
@@ -839,20 +839,20 @@
 838	Gafas de Sol Básicas
 839	Bonito y básico
 840	Lentes Rojas
-841	火热风镜框，潮流时尚。
+841	Marco de gafas ardientes a la moda.
 842	Gafas de Sol Coral
-843	神秘魅影，变幻莫测。
+843	Fantasma misterioso, impredecible.
 844	Gafas de Sol Moradas
-845	神秘魅影，变幻莫测。
+845	Fantasma misterioso, impredecible.
 846	Corazón de Cerezo
-847	兑换薄樱落·骑士的必须品。
+847	Cambia por lo esencial de Sakura y Knight.
 848	Estrella de Plata
-849	兑换银翼杀手·风暴的必须品。
+849	Redención del asesino del ala plateada y tormenta.
 850	Huevo de Conejito Tierno
-851	打开后获得小伙伴——萌小兔。
+851	Abierto para conseguir un  pequeño compañero: Meng Bunny.
 852	Traje Superior Venus
 853	Última moda en Venus
-854	金星时光短裤
+854	Shorts Frescos Venus
 855	Última moda en Venus
 856	Botas Venus (M)
 857	Última moda en Venus
@@ -860,7 +860,7 @@
 859	Última moda en Venus
 860	Shorts Venus
 861	Última moda en Venus
-862	金星引力短裤
+862	Shorts Gravitacion Venus
 863	Última moda en Venus
 864	Botas Venus (F)
 865	Última moda en Venus
@@ -869,290 +869,290 @@
 868	Gafas de Sol Básicas
 869	Bonito y básico
 870	Lentes Rojas
-871	火热风镜框，潮流时尚。
+871	Marco de gafas ardientes a la moda.
 872	Gafas de Sol Coral
-873	神秘魅影，变幻莫测。
+873	Fantasma misterioso, impredecible.
 874	Gafas de Sol Moradas
-875	神秘魅影，变幻莫测。
+875	Fantasma misterioso, impredecible.
 876	Corazón de Cerezo
-877	兑换薄樱落·骑士的必须品。
+877	Cambia por lo esencial de Sakura y Knight.
 878	Estrella de Plata
-879	兑换银翼杀手·风暴的必须品。
+879	Redención del asesino del ala plateada y tormenta.
 880	Luz Sagrada de Oro
-881	配合黄金圣衣兑换券使用，在NPC圣光使者处兑换黄金圣衣
+881	Utilizalo junto con el cupón Oro Saints, canjea el Gold Saint Cloth en el NPC Lightbringer
 882	Poción de Afrodita
-883	使用后可以重塑自己角色的外形。
+883	puede cambiar la forma de tu personaje después de usarlo.
 884	Poción de Afrodita
-885	使用后可以重塑自己角色的外形。
+885	puede cambiar la forma de tu personaje después de usarlo.
 886	Luz de Determinación de Metis
-887	聪慧女神的意志使你能重新学习战斗技能。
+887	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 888	Máscara Nocturna (M)
-889	魔幻乐园主题服饰。
+889	Disfraces temáticos Paraiso Magico.
 890	Máscara Nocturna (F)
-891	魔幻乐园主题服饰。
+891	Disfraces temáticos Paraiso Magico.
 892	Sombrero de Brujo
-893	魔幻乐园主题服饰。
+893	Disfraces temáticos Paraiso Magico.
 894	Parte de arriba del Traje Country
-895	魔幻乐园主题服饰。
+895	Disfraces temáticos Paraiso Magico.
 896	Pantalón Country 
-897	魔幻乐园主题服饰。
+897	Disfraces temáticos Paraiso Magico.
 898	Guante Country
-899	魔幻乐园主题服饰。
+899	Disfraces temáticos Paraiso Magico.
 900	Botas Country
-901	魔幻乐园主题服饰。
+901	Disfraces temáticos Paraiso Magico.
 902	Parte de arriba del Traje Americano
-903	魔幻乐园主题服饰。
+903	Disfraces temáticos Paraiso Magico.
 904	Pantalón del bello equipo impetuoso
-905	魔幻乐园主题服饰。
+905	Disfraces temáticos Paraiso Magico.
 906	Guante Americano
-907	魔幻乐园主题服饰。
+907	Disfraces temáticos Paraiso Magico.
 908	Botas Americanas (M)
-909	魔幻乐园主题服饰。
+909	Disfraces temáticos Paraiso Magico.
 910	Sombrero de Bruja
-911	魔幻乐园主题服饰。
+911	Disfraces temáticos Paraiso Magico.
 912	Traje Fashion
-913	魔幻乐园主题服饰。
+913	Disfraces temáticos Paraiso Magico.
 914	Botas Fashion
-915	魔幻乐园主题服饰。
+915	Disfraces temáticos Paraiso Magico.
 916	Traje Americano
-917	魔幻乐园主题服饰。
+917	Disfraces temáticos Paraiso Magico.
 918	Botas Americanas (F)
-919	魔幻乐园主题服饰。
+919	Disfraces temáticos Paraiso Magico.
 920	Máscara Nocturna (M)
-921	魔幻乐园主题服饰。
+921	Disfraces temáticos Paraiso Magico.
 922	Máscara Nocturna (F)
-923	魔幻乐园主题服饰。
+923	Disfraces temáticos Paraiso Magico.
 924	Sombrero de Brujo
-925	魔幻乐园主题服饰。
+925	Disfraces temáticos Paraiso Magico.
 926	Parte de arriba del Traje Country
-927	魔幻乐园主题服饰。
+927	Disfraces temáticos Paraiso Magico.
 928	Pantalón Country 
-929	魔幻乐园主题服饰。
+929	Disfraces temáticos Paraiso Magico.
 930	Guante Country
-931	魔幻乐园主题服饰。
+931	Disfraces temáticos Paraiso Magico.
 932	Botas Country
-933	魔幻乐园主题服饰。
+933	Disfraces temáticos Paraiso Magico.
 934	Parte de arriba del Traje Americano
-935	魔幻乐园主题服饰。
+935	Disfraces temáticos Paraiso Magico.
 936	Pantalón del bello equipo impetuoso
-937	魔幻乐园主题服饰。
+937	Disfraces temáticos Paraiso Magico.
 938	Guante Americano
-939	魔幻乐园主题服饰。
+939	Disfraces temáticos Paraiso Magico.
 940	Botas Americanas (M)
-941	魔幻乐园主题服饰。
+941	Disfraces temáticos Paraiso Magico.
 942	Sombrero de Bruja
-943	魔幻乐园主题服饰。
+943	Disfraces temáticos Paraiso Magico.
 944	Traje Fashion
-945	魔幻乐园主题服饰。
+945	Disfraces temáticos Paraiso Magico.
 946	Botas Fashion
-947	魔幻乐园主题服饰。
+947	Disfraces temáticos Paraiso Magico.
 948	Traje Americano
-949	魔幻乐园主题服饰。
+949	Disfraces temáticos Paraiso Magico.
 950	Botas Americanas (F)
-951	魔幻乐园主题服饰。
+951	Disfraces temáticos Paraiso Magico.
 952	Regalo de Aries II (Excelente)
-953	每人限制使用一次的超值大礼包。
+953	Una ola de valor por dinero que se limita a un uso por persona.
 954	Regalo de Aries II (Supremo)
-955	每人限制使用一次的超值大礼包。
+955	Una ola de valor por dinero que se limita a un uso por persona.
 956	Alma de la Reliquia
-957	在增强神器灵力值可选择使用。
+957	Puede elegir usar el valor de potencia de artefacto mejorado.
 958	Alma de la Reliquia
-959	在增强神器灵力值可选择使用。
+959	Puede elegir usar el valor de potencia de artefacto mejorado.
 960	Fuente Espiritual I
-961	增加人物的灵气值。
+961	Incrementa el aura del personaje.
 962	Esplendedor Sagrado
-963	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+963	Usado para suplicas.\rSe consigue ganyo en los campos de batalla.
 964	Esplendor Sagrado+
-965	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+965	Usado para suplicas.\rSe consigue ganyo en los campos de batalla.
 966	Cariño a Primera Vista
-967	两人结为夫妻，男生必备道具。
+967	Ahora que estan casados el chico necesitara su argolla.
 968	Amor a Primera Vista
-969	两人结为夫妻，女生必备道具。
+969	Ahora que estan casados la chica necesitara su argolla.
 970	Sangre de Poseidón
-971	在星铸鳞衣时可提升效果。
-972	Sangre de Poseidón*20
-973	在星铸鳞衣时可提升效果。
+971	Puede mejorar el efecto cuyo la estrella lanza las escalas.
+972	Sangre de Poseidón*20
+973	Puede mejorar el efecto cuyo la estrella lanza las escalas.
 974	Axis de Reformulación
-975	可以重铸一些装备的灵纹属性。
-976	Axis de Preservación*10
-977	可以在重铸灵纹时保留前一次的装备灵纹。
+975	Es posible refundir el espíritu de algunos Equipaos.
+976	Axis de Preservación*10
+977	Es posible retener el espíritu del Equipao anterior al volver a fundir el espíritu.
 978	Axis de Preservación+
-979	可以在重铸灵纹时保留前一次的装备灵纹。
+979	Es posible retener el espíritu del Equipao anterior al volver a fundir el espíritu.
 980	Axis de Transición
-981	灵纹转移时必须消耗的物品。
+981	Artículos que deben consumirse cuyo se transfieren los espíritus.
 982	Alianzas de Casamiento
-983	两人结为夫妻必备的情侣对戒。
+983	Los dos se convirtieron en uno. Un anillo de matrimonio es imprescindible para la ustedes.
 984	Kit Casamiento Lujoso
-985	举行梦幻婚礼的婚庆套包。
+985	Un paquete de bodas para una boda de ensueño.
 986	Pila de Invitaciones
-987	装有很多请柬，可以用来送给亲友。
+987	Hay muctiene invitaciones que se pueden usar para dar regalos a familiares y amigos.
 988	Marcador
-989	在豪华题词留言板留言的必须品，祝福被所有人看到。
+989	Las bendiciones del mensaje en el tablero de mensajes de inscripción de lujo, su bendición es vista por todos.
 990	Sangre de Poseidón
-991	在星铸鳞衣时可提升效果。
-992	Sangre de Poseidón*20
-993	在星铸鳞衣时可提升效果。
+991	Puede mejorar el efecto cuyo la estrella lanza las escalas.
+992	Sangre de Poseidón*20
+993	Puede mejorar el efecto cuyo la estrella lanza las escalas.
 994	Axis de Reformulación
-995	可以重铸一些装备的灵纹属性。
-996	Axis de Preservación*10
-997	可以在重铸灵纹时保留前一次的装备灵纹。
+995	Es posible refundir el espíritu de algunos Equipaos.
+996	Axis de Preservación*10
+997	Es posible retener el espíritu del Equipao anterior al volver a fundir el espíritu.
 998	Axis de Preservación+
-999	可以在重铸灵纹时保留前一次的装备灵纹。
+999	Es posible retener el espíritu del Equipao anterior al volver a fundir el espíritu.
 1000	Axis de Transición
-1001	灵纹转移时必须消耗的物品。
-1002	Resplandor del Océano*5
-1003	用于鳞衣星铸的必须品。
+1001	Artículos que deben consumirse cuyo se transfieren los espíritus.
+1002	Resplandor del Océano*5
+1003	Utilizable para escalas.
 1004	Huevo de Bebé Panda
-1005	可爱的新春熊猫宝宝，抱着红色锦鲤给你拜年咯！
+1005	¡Lindo Pya Bebe, con koi rojo para que lo celebres!
 1006	Sangre de Espectro
-1007	在星铸冥圣衣时可提升效果。
-1008	Sangre de Espectro*20
-1009	在星铸冥圣衣时可提升效果。
+1007	Puede mejorar el efecto cuyo la estrella se usa en la Armadura Sagrada.
+1008	Sangre de Espectro*20
+1009	Puede mejorar el efecto cuyo la estrella se usa en la Armadura Sagrada.
 1010	Sangre de Espectro
-1011	在星铸冥圣衣时可提升效果。
-1012	Sangre de Espectro*20
-1013	在星铸冥圣衣时可提升效果。
+1011	Puede mejorar el efecto cuyo la estrella se usa en la Armadura Sagrada.
+1012	Sangre de Espectro*20
+1013	Puede mejorar el efecto cuyo la estrella se usa en la Armadura Sagrada.
 1014	Cristal de la Degeneración
-1015	可以用于徽章的升阶。
+1015	Puede utilizarce para mejorar la placa.
 1016	Cristal del Abismo
-1017	可以用于灵石的升阶。
+1017	Puede utilizarce para mejorar la piedra.
 1018	Cristal de Perforación
-1019	可以用于手环的升阶。
+1019	Puede utilizarce para mejorar el brasalete.
 1020	Cristal de Hades
-1021	可以用于高阶徽章的升阶。
+1021	Puede utilizarce para mejorar un mejor brasalete.
 1022	Cristal de Poseidón
-1023	可以用于高阶灵石的升阶。
+1023	Puede utilizarce para mejorar un mejor rosario.
 1024	Cristal de Zeus
-1025	可以用于高阶手环的升阶。
+1025	Puede utilizarce para mejorar un mejor brasalete.
 1026	Paquete de regalo de retorno de agradecimiento de gran valor
-1027	内含价值18倍的超值道具，每个角色只可开启一次。
+1027	Contiene 18 veces más elementos de valor agregado, y cada personaje solo se puede abrir una vez.
 1028	Paquete de Frenesí Nv10
-1029	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1029	Recompensas especiales.\rUna vez.
 1030	Paq. de Frenesí Nv59
-1031	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1031	Recompensas especiales.\rUna vez.
 1032	Paq. de Frenesí Nv79
-1033	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1033	Recompensas especiales.\rUna vez.
 1034	Paquete de regalo de retorno de agradecimiento de gran valor
-1035	内含价值18倍的超值道具，每个角色只可开启一次。
+1035	Contiene 18 veces más elementos de valor agregado, y cada personaje solo se puede abrir una vez.
 1036	Paquete de Frenesí Nv10
-1037	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1037	Recompensas especiales.\rUna vez.
 1038	Paq. de Frenesí Nv59
-1039	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1039	Recompensas especiales.\rUna vez.
 1040	Paq. de Frenesí Nv79
-1041	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1041	Recompensas especiales.\rUna vez.
 1042	Gema - Sol
-1043	可以镶嵌并提升灵魂之甲的属性。
+1043	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1044	Gema - Luna
-1045	可以镶嵌并提升灵魂之甲的属性。
+1045	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1046	Gema - Mercurio
-1047	可以镶嵌并提升灵魂之甲的属性。
+1047	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1048	Gema - Venus
-1049	可以镶嵌并提升灵魂之甲的属性。
+1049	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1050	Gema - Marte
-1051	可以镶嵌并提升灵魂之甲的属性。
+1051	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1052	Gema - Júpiter
-1053	可以镶嵌并提升灵魂之甲的属性。
+1053	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1054	Gema - Saturno
-1055	可以镶嵌并提升灵魂之甲的属性。
+1055	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1056	Gema - Urano
-1057	可以镶嵌并提升灵魂之甲的属性。
+1057	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1058	Gema - Neptuno
-1059	可以镶嵌并提升灵魂之甲的属性。
+1059	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1060	Gema - Plutón
-1061	可以镶嵌并提升灵魂之甲的属性。
+1061	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1062	Espíritu de Gema
-1063	在灵魂宝石升级时可以额外增加升级经验。
+1063	Se puede agregar experiencia de actualización adicional cuyo se actualiza la gema del alma.
 1064	Gema - Sol
-1065	可以镶嵌并提升灵魂之甲的属性。
+1065	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1066	Gema - Luna
-1067	可以镶嵌并提升灵魂之甲的属性。
+1067	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1068	Gema - Mercurio
-1069	可以镶嵌并提升灵魂之甲的属性。
+1069	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1070	Gema - Venus
-1071	可以镶嵌并提升灵魂之甲的属性。
+1071	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1072	Gema - Marte
-1073	可以镶嵌并提升灵魂之甲的属性。
+1073	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1074	Gema - Júpiter
-1075	可以镶嵌并提升灵魂之甲的属性。
+1075	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1076	Gema - Saturno
-1077	可以镶嵌并提升灵魂之甲的属性。
+1077	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1078	Gema - Urano
-1079	可以镶嵌并提升灵魂之甲的属性。
+1079	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1080	Gema - Neptuno
-1081	可以镶嵌并提升灵魂之甲的属性。
+1081	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1082	Gema - Plutón
-1083	可以镶嵌并提升灵魂之甲的属性。
+1083	Se puede incrustar y mejorar los atributos del alma de la armadura.
 1084	Espíritu de Gema
-1085	在灵魂宝石升级时可以额外增加升级经验。
+1085	Se puede agregar experiencia de actualización adicional cuyo se actualiza la gema del alma.
 1086	Paquete de regalo de devolución de los puntos de Aries
-1087	来自白羊座的祝福！可在30天内返回80000星券。限一次。
+1087	Bendicion de Aries! Puedes obtener 800,000 estrellas en 30 diass.\rUna vez
 1088	Cristal Espiritual
-1089	升级灵魂之甲的必须道具。
+1089	Los accesorios necesarios para mejorar el alma de la armadura.
 1090	Fragmento de Gema
-1091	升级灵魂宝石的必须材料。
+1091	Los materiales necesarios para mejorar la gema del alma.
 1092	Fragmento de Gema
-1093	升级灵魂宝石的必须材料。
+1093	Los materiales necesarios para mejorar la gema del alma.
 1094	Luz de Determinación de Metis
-1095	聪慧女神的意志使你能重新学习战斗技能。
+1095	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 1096	Luz de Determinación de Metis
-1097	聪慧女神的意志使你能重新学习战斗技能。
+1097	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 1098	Paquete de regalo de recompensa de Aries
-1099	来自白羊座的祝福！可在30天内返回20000星券。限一次。
+1099	Bendicion de Aries! Puedes obtener 20,000 estrellas en 30 diass.\rUna vez
 1100	Paquete de regalo de devolución de los puntos de Aries
-1101	来自白羊座的祝福！可在30天内返回80000星券。限一次。
+1101	Bendicion de Aries! Puedes obtener 800,000 estrellas en 30 diass.\rUna vez
 1102	Paquete de regalo de recompensa de Aries
-1103	来自白羊座的祝福！可在30天内返回20000星券。限一次。
-1104	Memento de Anima*1
-1105	星灵强化时使用，可提升强化经验倍率。
-1106	Memento de Anima*20
-1107	星灵强化时使用，可提升强化经验倍率。
-1108	Meteorito Condensado*1
-1109	搜寻星元所需要的消耗品。
-1110	Meteorito Condensado*20
-1111	搜寻星元所需要的消耗品。
+1103	Bendicion de Aries! Puedes obtener 20,000 estrellas en 30 diass.\rUna vez
+1104	Memento de Anima*1
+1105	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+1106	Memento de Anima*20
+1107	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+1108	Meteorito Condensado*1
+1109	Busca los consumibles necesarios para las estrellas.
+1110	Meteorito Condensado*20
+1111	Busca los consumibles necesarios para las estrellas.
 1112	Susurro de Jápeto
-1113	使用后重置星灵觉醒值。
-1114	Memento de Anima*1
-1115	星灵强化时使用，可提升强化经验倍率。
-1116	Memento de Anima*20
-1117	星灵强化时使用，可提升强化经验倍率。
-1118	Meteorito Condensado*1
-1119	搜寻星元所需要的消耗品。
-1120	Meteorito Condensado*20
-1121	搜寻星元所需要的消耗品。
+1113	Restablece el valor del despertar astral después de su uso.
+1114	Memento de Anima*1
+1115	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+1116	Memento de Anima*20
+1117	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+1118	Meteorito Condensado*1
+1119	Busca los consumibles necesarios para las estrellas.
+1120	Meteorito Condensado*20
+1121	Busca los consumibles necesarios para las estrellas.
 1122	Susurro de Jápeto
-1123	使用后重置星灵觉醒值。
+1123	Restablece el valor del despertar astral después de su uso.
 1124	Emblema del Sacerdote
-1125	将军团旌旗旁边的守卫者替换成女王神官。
+1125	El tutor junto a la porera del Regimiento del General fue reemplazado por el sacerdote de la Reina.
 1126	Emblema del Osito
-1127	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
+1127	El guardián junto a la porera del Regimiento del General es reemplazado por un oso de peluche sanguinario.
 1128	Emblema del Rey Pirata
-1129	将军团旌旗旁边的守卫者替换成暴躁海盗王。
+1129	El guardián junto a la porera del Regimiento del General fue reemplazado por el violento rey pirata.
 1130	Papel para Votación
-1131	选举教皇的必需品，将其投给你最信任的那个候选人。
+1131	Elija las necesidades del Papa y entrégueselas al cyidato en el que más confía.
 1132	Bandera del Grande Maestro
-1133	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
+1133	Una porera que solo el Papa y él en sus funciones pueden usar para activar las actividades relacionadas con el mismo.
 1134	Sello Sagrado del Silencio
-1135	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
+1135	Solo el Papa puede usarlo, prohibió el santuario y caminó las juradas palabras de los siniestros comentarios.
 1136	Disfraz de Hermes
-1137	使用后可切换不同职业的站姿。
+1137	Se puede usar para cambiar entre diferentes ocupaciones.
 1138	Cambio de Género
-1139	使用后可切换性别。
+1139	Puede cambiar de género después de su uso.
 1140	Disfraz de Hermes
-1141	使用后可切换不同职业的站姿。
+1141	Se puede usar para cambiar entre diferentes ocupaciones.
 1142	Cambio de Género
-1143	使用后可切换性别。
+1143	Puede cambiar de género después de su uso.
 1144	Espíritu de Batalla de Leo
-1145	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
+1145	Actualiza las monturas de leones de alta gama a las imprescindibles para las monturas de alta gama.
 1146	Flor de Loto
-1147	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+1147	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
 1148	Flor de Loto
-1149	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+1149	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
 1150	Persona Misteriosa
-1151	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1151	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
 1152	Persona Misteriosa
-1153	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1153	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
 1154	Persona Misteriosa
-1155	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1155	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
 1156	Persona Misteriosa
-1157	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1157	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
