@@ -484,9 +484,9 @@
 483	For life
 484	Refined Halloween fashion
 485	5,000 Emerald
-486	Paq. of Frenzy LV40
-487	Paq. of Frenzy LV59
-488	Paq. of Frenzy LV79
+486	LV40 Frenzy Pack
+487	LV59 Frenzy Pack
+488	LV79 Frenzy Pack
 489	Box with 100,000 Emerald
 490	Title There is no money to buy the "I accept"
 491	Package of 40000 tickets
@@ -532,7 +532,7 @@
 531	Change team [Squire] x10
 532	Sagittarius Personification
 533	Personification Cancer
-534	Alraune Challenge Coupon
+534	Aldebaran Challenge Coupon
 535	Gemini Favor
 536	Pisces Favor
 537	Virgo Favor
@@ -1151,8 +1151,8 @@
 1150	Total Transformation Gift Pack in Gold 12
 1151	Frenetic Repair Gift Pack 18 Times
 1152	High Value Return Gift Package
-1153	Paq. Frenzy LV59
-1154	Paq. de Frenesí LV79
+1153	LV59 Frenzy Pack
+1154	LV79 Frenzy Pack
 1155	Thank You Return Gift Pack
 1156	Carnival Return Gift Pack
 1157	Great Value Carnival Return Gift Package
@@ -2166,7 +2166,7 @@
 2165	Use
 2166	Clue [Aqueronte]
 2167	Clue [Garuda]
-2168	Clue [Alraune]
+2168	Clue [Aldebaran]
 2169	Clue [Matter]
 2170	Use
 2171	Clue [Swordfish]
@@ -5856,7 +5856,7 @@
 5855	Condensed Star Light x30
 5856	Optimal Cannon Flesh Title Package
 5857	Title Pack of Maleficent Murder King
-5858	Gema Spirit Limited package 40 percent off
+5858	Gem Spirit Limited package 40 percent off
 5859	Limited package of great value of awakening of Celestial Spirits
 5860	Silver Crystal Limited Package 40 percent off
 5861	Divine Artifact Soul Limited Package 60 percent off
@@ -6441,7 +6441,7 @@
 6440	Favor of the Goddess to Scorpio x99
 6441	Goddess Favor to Scorpio Package
 6442	Change equipment [Squire] x1000
-6443	Gema Spirit Pack x150
+6443	Gem Spirit Pack x150
 6444	Box 100x Stone Esp. Holy Sealed
 6445	Stone Esp. Sagrada Sellada x500
 6446	Great Starlight Gift Pack
@@ -7711,7 +7711,7 @@
 7710	Blessing of the Goddess ☆ Crusade
 7711	^a800ff Mini Marin x1 (4500 rating limit)
 7712	^a800ffLight Sacred Gold x100
-7713	^e5872f Gema Shape x9999
+7713	^e5872f Gem Shape x9999
 7714	^a800ff Certification of Knight of Princess x1
 7715	^a800ff too many big random prizes
 7716	Silver crystal
@@ -8073,7 +8073,7 @@
 8072	Goddess' Gift ☆ Aquarius (II)
 8073	^a800ff Mini Tremy x1 (4500 rating limit)
 8074	^e5872f Divine Light of Aries x1
-8075	^e5872f Gema Shape x9999
+8075	^e5872f Gem Shape x9999
 8076	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 8077	^a800ff too many big random prizes
 8078	Silver Blood
@@ -8205,7 +8205,7 @@
 8204	Goddess' Gift ☆ Virgo (III)
 8205	^a800ffMini Pharaoh x1 (4500 rating maximum limit)
 8206	^e5872f Griffin Handbook x1
-8207	^e5872f Gema Shape x9999
+8207	^e5872f Gem Shape x9999
 8208	^a800ffFavor of the Goddess ☆ Virgo (III) Version x999
 8209	^a800ff too many big random prizes
 8210	Silver crystal
@@ -8232,7 +8232,7 @@
 8231	Piece of Gem
 8232	Burning Soul
 8233	Fierce Soul
-8234	Alraune Challenge Coupon
+8234	Aldebaran Challenge Coupon
 8235	Fragment of Stole
 8236	Stellar condensed stone
 8237	Goddess' Gift ☆ Taurus (III)
@@ -8271,7 +8271,7 @@
 8270	Goddess' Gift ☆ Scorpio (IV)
 8271	^a800ffMini Papillon x1 (maximum qualification limit 4500)
 8272	^e5872f Basilisk Helix x1
-8273	^e5872f Gema Fragment x9999
+8273	^e5872f Gem Fragment x9999
 8274	^a800ffFavor of the Goddess ☆ Scorpio Version (IV) x999
 8275	^a800ff too many big random prizes
 8276	Blood Armor Rhinoceros
@@ -8297,14 +8297,14 @@
 8296	Fragment of Gem
 8297	Burning Soul
 8298	Fierce Soul
-8299	Alraune Challenge Coupon
+8299	Aldebaran Challenge Coupon
 8300	Fragment of Stole
 8301	Stellar condensed stone
 8302	Skill Change [Squire]
 8303	Goddess' Gift ☆ Aries (III)
 8304	^a800ffMini Black Andromeda x1 (4500 qualification limit)
 8305	^e5872fCalrog Code x1
-8306	^e5872f Gema Fragment x9999
+8306	^e5872f Gem Fragment x9999
 8307	^a800ffFavor of the Goddess ☆ Pisces Version (III) x999
 8308	^a800ff too many big random prizes
 8309	Silver crystal
@@ -8337,7 +8337,7 @@
 8336	Goddess' Gift ☆ Cancer (III)
 8337	^a800ffMini Jango x1 (4500 rating maximum limit)
 8338	^e5872 Wyvern Dragon Spade x1
-8339	^e5872f Gema Fragment x9999
+8339	^e5872f Gem Fragment x9999
 8340	^a800ffFavor of the Goddess ☆ Cancer (III) x999
 8341	^a800ff too many big random prizes
 8342	Silver crystal
@@ -8370,7 +8370,7 @@
 8369	Goddess' Gift ☆ Libra (III)
 8370	^a800ffMini Charon x1 (4500 rating maximum limit)
 8371	^e5872f Dana's Misleading Caption x1
-8372	^e5872f Gema Fragment x9999
+8372	^e5872f Gem Fragment x9999
 8373	^a800ffFavor of the Goddess ☆ Libra (III) x999
 8374	^a800ff too many big random prizes
 8375	Hidden Scarlet Dragon
@@ -8396,14 +8396,14 @@
 8395	Fragment of Gem
 8396	Burning Soul
 8397	Fierce Soul
-8398	Alraune Challenge Coupon
+8398	Aldebaran Challenge Coupon
 8399	Fragment of Stole
 8400	Stellar condensed stone
 8401	Skill Change [Squire]
 8402	Goddess' Gift ☆ Leo (III)
 8403	^a800ffMini Zelos x1 (4500 rating maximum limit)
 8404	^e5872From Minotaur x1
-8405	^e5872f Gema Shape x9999
+8405	^e5872f Gem Shape x9999
 8406	^a800ffFavor of the Goddess ☆ Leo Version (III) x999
 8407	^a800ff too many big random prizes
 8408	Silver crystal
@@ -8436,7 +8436,7 @@
 8435	Goddess' Gift ☆ Gemini (III)
 8436	^a800ffMini Capella x1 (4500 rating maximum limit)
 8437	^e5872fEspada de Hades [Legend] x1
-8438	^e5872f Gema Fragment x9999
+8438	^e5872f Gem Fragment x9999
 8439	^a800ffFavor of the Goddess ☆ Gemini Version (III) x999
 8440	^a800ff too many big random prizes
 8441	Silver crystal
@@ -8469,7 +8469,7 @@
 8468	Goddess' Gift ☆ Aquarius (III)
 8469	^a800ffMini Black Cygnus x1 (4500 maximum qualification limit)
 8470	^e5872f Sphinx Gear x1
-8471	^e5872f Gema Fragment x9999
+8471	^e5872f Gem Fragment x9999
 8472	^a800ffFavor of the Goddess ☆ Aquarius Version (III) x999
 8473	^a800ff too many big random prizes
 8474	Silver crystal
@@ -8568,7 +8568,7 @@
 8567	Goddess' Gift ☆ Taurus (II)
 8568	^a800ff Mini Pegasus Black x1 (4500 rating limit)
 8569	^e5872f Lymnades Basin x1
-8570	^e5872f Gema Fragment x9999
+8570	^e5872f Gem Fragment x9999
 8571	^a800ff Favor of the Goddess ☆ Taurus Version (II) X999
 8572	^a800ff too many big random prizes
 8573	Silver Blood
@@ -8601,7 +8601,7 @@
 8600	Goddess' Gift ☆ Scorpio (III)
 8601	^a800ff Mini Sorento x1 (4500 rating limit)
 8602	^ffff00Tour of Poseidon [Legend] x1
-8603	^e5872f Gema Shape x9999
+8603	^e5872f Gem Shape x9999
 8604	^a800ff Favor of the Goddess ☆ Scorpio Version (III) X999
 8605	^a800ff too many big random prizes
 8606	Silver Blood
@@ -8634,7 +8634,7 @@
 8633	Goddess' Gift ☆ Cancer (II)
 8634	^a800ff Mini Moses x1 (4500 rating limit)
 8635	^e5872f Blood of Scylla x1
-8636	^e5872f Gema Shape x9999
+8636	^e5872f Gem Shape x9999
 8637	^a800ff Favor of the Goddess ☆ Cancer Version (II) X999
 8638	^a800ff too many big random prizes
 8639	Silver Blood
@@ -8666,8 +8666,8 @@
 8665	Warehouse Expansion
 8666	Goddess' Gift ☆ Capricorn (III)
 8667	^a800ffMini Kanon x1 (4500 rating maximum limit)
-8668	^e5872fManager of Alraune x1
-8669	^e5872f Gema Fragment x9999
+8668	^e5872fManager of Aldebaran x1
+8669	^e5872f Gem Fragment x9999
 8670	^a800ffFavor of the Goddess ☆ Capricorn Version (III) X999
 8671	^a800ff too many big random prizes
 8672	Silver crystal
@@ -8700,7 +8700,7 @@
 8699	Goddess' Gift ☆ Gemini (II)
 8700	^a800ff Mini Isaak x1 (4500 rating limit)
 8701	^e5872fMagnetic Flame x1
-8702	^e5872f Gema Shape x9999
+8702	^e5872f Gem Shape x9999
 8703	^a800ff Favor of the Goddess ☆ Gemini Version (II) X999
 8704	^a800ff too many random large prizes
 8705	Silver Blood
@@ -8733,7 +8733,7 @@
 8732	Goddess' Gift ☆ Virgo (II)
 8733	^a800ff Mini Dante x1 (4500 rating limit)
 8734	^e5872 Intensive Kraken x1
-8735	^e5872f Gema Shape x9999
+8735	^e5872f Gem Shape x9999
 8736	^a800ff Favor of the Goddess ☆ Virgo Version (II) x999
 8737	^a800ff too many big random prizes
 8738	Silver Blood
@@ -8766,7 +8766,7 @@
 8765	Goddess' Gift ☆ Sagittarius (III)
 8766	^a800ffShunrei Q Version (4500 rating maximum)
 8767	^e5872fRemo of Acheron x1
-8768	^e5872f Gema Fragment x9999
+8768	^e5872f Gem Fragment x9999
 8769	^a800ffFavor of the Goddess ☆ Sagittarius Version (III) x999
 8770	^a800ff too many big random prizes
 8771	Silver crystal
@@ -8832,7 +8832,7 @@
 8831	Goddess' Gift ☆ Leo (II)
 8832	^a800ff Mini Black Phoenix x1 (4500 rating limit)
 8833	^e5872f Wisdom Ring of Crisaor x1
-8834	^e5872f Gema Fragment x9999
+8834	^e5872f Gem Fragment x9999
 8835	^a800ff Favor of the Goddess ☆ Leo Version (II) x999
 8836	^a800ff too many big random prizes
 8837	Silver Blood
@@ -8865,7 +8865,7 @@
 8864	Goddess' Gift ☆ Aries (II)
 8865	^a800ff Mini Io x1 (4500 rating limit)
 8866	^ffff00Central of Athena [Legend] x1
-8867	^e5872f Gema Fragment x9999
+8867	^e5872f Gem Fragment x9999
 8868	^a800ff Favor of the Goddess ☆ Aries Version (II) x999
 8869	^a800ff too many big random prizes
 8870	Silver Blood
@@ -8931,7 +8931,7 @@
 8930	Goddess' Gift ☆ Scorpio (IV)
 8931	^a800ffMini Worm x1 (Practice max 4500)
 8932	^e5872fDohko: Libra Shield x1
-8933	^e5872f Gema Shape x9999
+8933	^e5872f Gem Shape x9999
 8934	^a800ffFavor of the Goddess ☆ Scorpio Version (IV) x999
 8935	^a800ff too many big random prizes
 8936	Youkai Hakutaku
@@ -8957,14 +8957,14 @@
 8956	Fragment of Gem
 8957	Burning Soul
 8958	Fierce Soul
-8959	Alraune Challenge Coupon
+8959	Aldebaran Challenge Coupon
 8960	Fragment of Stole
 8961	Condensed Meteorite
 8962	Skill Change [Squire]
 8963	Blessing of the Goddess ☆ Capr. IV
 8964	^a800ffMini Camus x1 (Practice max 4500)
 8965	^e5872fSagitator: Golden Arrow x1
-8966	^e5872f Gema Shape x9999
+8966	^e5872f Gem Shape x9999
 8967	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
 8968	^a800ff too many big random prizes
 8969	Rudolph
@@ -8990,7 +8990,7 @@
 8989	Fragment of Gem
 8990	Burning Soul
 8991	Fierce Soul
-8992	Alraune Challenge Coupon
+8992	Aldebaran Challenge Coupon
 8993	Fragment of Stole
 8994	Condensed Meteorite
 8995	Skill Change [Squire]
@@ -9023,14 +9023,14 @@
 9022	Fragment of Gem
 9023	Burning Soul
 9024	Fierce Soul
-9025	Alraune Challenge Coupon
+9025	Aldebaran Challenge Coupon
 9026	Fragment of Stole
 9027	Condensed Meteorite
 9028	Skill Change [Squire]
 9029	Goddess Blessing ☆ New Year (IV)
 9030	^a800ffMini Mu x1 (Practice max 4500)
 9031	^e5872fShaka: Virgo Artifact x1
-9032	^e5872f Gema Fragment x9999
+9032	^e5872f Gem Fragment x9999
 9033	^a800ffBlessings of the Goddess ☆ New Year (IV) x999
 9034	^a800ff too many big random prizes
 9035	Welsh Corgi
@@ -9056,14 +9056,14 @@
 9055	Fragment of Gem
 9056	Burning Soul
 9057	Fierce Soul
-9058	Alraune Challenge Coupon
+9058	Aldebaran Challenge Coupon
 9059	Fragment of Stole
 9060	Condensed Meteorite
 9061	Skill Change [Squire]
 9062	Blessing of the Goddess ☆ Aquarius (IV)
 9063	^a800ffMini Aphrodite x1 (Practice max 4500)
 9064	^e5872fGirls: Gemini Object x1
-9065	^e5872f Gema Shape x9999
+9065	^e5872f Gem Shape x9999
 9066	^a800ff Blessing of the Goddess ☆ Aquarius (IV) x999
 9067	^a800ff too many big random prizes
 9068	Sea Dragon
@@ -9089,14 +9089,14 @@
 9088	Fragment of Gem
 9089	Burning Soul
 9090	Fierce Soul
-9091	Alraune Challenge Coupon
+9091	Aldebaran Challenge Coupon
 9092	Fragment of Stole
 9093	Condensed Meteorite
 9094	Skill Change [Squire]
 9095	Blessing of the Goddess ☆ Libra (IV)
 9096	^a800ffMini Aioros x1 (Practice max 4500)
 9097	^e5872fDeus do Sono: Wings of Hypnos x1
-9098	^e5872f Gema Fragment x9999
+9098	^e5872f Gem Fragment x9999
 9099	^a800ff Blessing of the Goddess ☆ Libra (IV) x999
 9100	^a800ff too many big random prizes
 9101	Ave of Cairns
@@ -9122,7 +9122,7 @@
 9121	Piece of Gem
 9122	Burning Soul
 9123	Fierce Soul
-9124	Alraune Challenge Coupon
+9124	Aldebaran Challenge Coupon
 9125	Fragment of Stole
 9126	Condensed Meteorite
 9127	Skill Change [Squire]
@@ -9261,7 +9261,7 @@
 9260	Goddess' Gift ☆ Capricorn (II)
 9261	^a800ff Mini Tremy x1 (4500 rating limit)
 9262	^e5872f Divine Mariner of Aries x1
-9263	^e5872f Gema Fragment x9999
+9263	^e5872f Gem Fragment x9999
 9264	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 9265	^a800ff too many big random prizes
 9266	Silver Blood
@@ -9294,7 +9294,7 @@
 9293	Goddess' Gift ☆ Virgo
 9294	^a800ff Marin Version x1 (maximum limit of 4500)
 9295	^e5872f Athena's Shield [Legend] x1
-9296	^e5872f Gema Shape x9999
+9296	^e5872f Gem Shape x9999
 9297	^a800ff Favor of the Goddess ☆ Virgo Version x999
 9298	^a800ff too many big random prizes
 9299	Silver Blood
@@ -9327,7 +9327,7 @@
 9326	Goddess' Gift ☆ Leo
 9327	^a800ff June version x1 (4500 rating limit)
 9328	^e5872fColillo de Leo x1
-9329	^e5872f Gema Fragment x9999
+9329	^e5872f Gem Fragment x9999
 9330	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 9331	^a800ff too many big random prizes
 9332	Silver Blood
@@ -9360,7 +9360,7 @@
 9359	Goddess' Gift ☆ Scorpio (II)
 9360	^a800ff Mini Jamian x1 (4500 rating limit)
 9361	^e5872fCold Gold Scorpion x1
-9362	^e5872f Gema Fragment x9999
+9362	^e5872f Gem Fragment x9999
 9363	^a800ff Favor of the Goddess ☆ Scorpio Version (II) X999
 9364	^a800ff too many big random prizes
 9365	Silver Blood
@@ -9393,7 +9393,7 @@
 9392	Goddess' Gift ☆ Aquarius (II)
 9393	^a800ff Mini Algol (4500 rating limit)
 9394	^e5872fGolden Taurus Box x1
-9395	^e5872f Gema Fragment x9999
+9395	^e5872f Gem Fragment x9999
 9396	^a800ff Favor of the Goddess ☆ Aquarius Version (II) X999
 9397	^a800ff too many big random prizes
 9398	Silver Blood
@@ -9426,7 +9426,7 @@
 9425	Goddess' Gift ☆ Sagittarius (II)
 9426	^a800ff Mini Orpheus x1 (4500 rating limit)
 9427	^e5872fPlate Gold Lice x1
-9428	^e5872f Gema Fragment x9999
+9428	^e5872f Gem Fragment x9999
 9429	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
 9430	^a800ff too many big random prizes
 9431	Silver Blood
@@ -9459,7 +9459,7 @@
 9458	Goddess' Gift ☆ Libra
 9459	^a800ff Mini Ichi x1 (4500 rating limit)
 9460	^e5872fNunchaku of Libra x1
-9461	^e5872f Gema Fragment x9999
+9461	^e5872f Gem Fragment x9999
 9462	^a800ff Favor of the Goddess ☆ Version Libra X999
 9463	^a800ff too many big random prizes
 9464	Silver Blood
@@ -9492,7 +9492,7 @@
 9491	Goddess' Gift ☆ Gemini
 9492	^e800ff Mini Geki x1 (4500 rating limit)
 9493	^e5872f Gemini mask x1
-9494	^e5872f Gema Fragment x9999
+9494	^e5872f Gem Fragment x9999
 9495	^a800ff Favor of the Goddess ☆ Gemini Version
 9496	^a800ff too many big random prizes
 9497	Silver Blood
@@ -9525,7 +9525,7 @@
 9524	Blessing of the Goddess ☆ Capr. IV
 9525	Blessing of Niobe x1 (Practice Limit: 4500)
 9526	^e5872fChifre: Rock Fist x1
-9527	^e5872f Gema Fragment x9999
+9527	^e5872f Gem Fragment x9999
 9528	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
 9529	^a800ff too many big random prizes
 9530	Christmas Sleigh II
@@ -9558,7 +9558,7 @@
 9557	Blessing of the Goddess ☆ Cancer (IV)
 9558	^a800ffMini Sylphid x1 (Practice max 4500)
 9559	^e5872fGaruda: Wings of Aiacos x1
-9560	^e5872f Gema Shape x9999
+9560	^e5872f Gem Shape x9999
 9561	^a800ff Blessing of the Goddess ☆ Cancer (IV) x999
 9562	^a800ff too many big random prizes
 9563	Arraia Dourada
@@ -9584,7 +9584,7 @@
 9583	Fragment of Gem
 9584	Burning Soul
 9585	Fierce Soul
-9586	Alraune Challenge Coupon
+9586	Aldebaran Challenge Coupon
 9587	Fragment of Stole
 9588	Condensed Meteorite
 9589	Skill Change [Squire]
@@ -9617,7 +9617,7 @@
 9616	Fragment of Gem
 9617	Burning Soul
 9618	Fierce Soul
-9619	Alraune Challenge Coupon
+9619	Aldebaran Challenge Coupon
 9620	Fragment of Stole
 9621	Condensed Meteorite
 9622	Skill Change [Squire]
@@ -9650,14 +9650,14 @@
 9649	Fragment of Gem
 9650	Burning Soul
 9651	Fierce Soul
-9652	Alraune Challenge Coupon
+9652	Aldebaran Challenge Coupon
 9653	Fragment of Stole
 9654	Condensed Meteorite
 9655	Skill Change [Squire]
 9656	Blessing of the Goddess ☆ Aquarius (IV)
 9657	^a800ffBên. of the Goddess ☆ Pandora (Lim. of Practice: 4500)
 9658	^e5872fDeep: Infernal Shoulder Pad x1
-9659	^e5872f Gema Fragment x9999
+9659	^e5872f Gem Fragment x9999
 9660	^a800ff Blessing of the Goddess ☆ Aquarius (IV) x999
 9661	^a800ff too many big random prizes
 9662	Silver Bode
@@ -9683,14 +9683,14 @@
 9682	Fragment of Gem
 9683	Burning Soul
 9684	Fierce Soul
-9685	Alraune Challenge Coupon
+9685	Aldebaran Challenge Coupon
 9686	Fragment of Stole
 9687	Condensed Meteorite
 9688	Skill Change [Squire]
 9689	Blessing of the Goddess ☆ Taurus (IV)
 9690	^a800ffBên. of the Goddess ☆ Taurus (Practice Limit: 4500)
 9691	^e5872fBalron: Scourge of Lune x1
-9692	^e5872f Gema Fragment x9999
+9692	^e5872f Gem Fragment x9999
 9693	^a800ff Blessing of the Goddess ☆ Taurus (IV) x999
 9694	^a800ff too many big random prizes
 9695	Lula Flaming
@@ -9715,14 +9715,14 @@
 9714	Piece of Gem
 9715	Burning Soul
 9716	Fierce Soul
-9717	Alraune Challenge Coupon
+9717	Aldebaran Challenge Coupon
 9718	Fragment of Stole
 9719	Condensed Meteorite
 9720	Skill Change [Squire]
 9721	Blessing of the Goddess ☆ Lion (IV)
 9722	^a800ffMini Lune x1 (Practice max 4500)
 9723	^e5872fCiclope: Giganto Artifact x1
-9724	^e5872f Gema Fragment x9999
+9724	^e5872f Gem Fragment x9999
 9725	^a800ff Blessing of the Goddess ☆ Lion (IV) x999
 9726	^a800ff too many big random prizes
 9727	Pippinho
@@ -9748,14 +9748,14 @@
 9747	Fragment of Gem
 9748	Burning Soul
 9749	Fierce Soul
-9750	Alraune Challenge Coupon
+9750	Aldebaran Challenge Coupon
 9751	Fragment of Stole
 9752	Condensed Meteorite
 9753	Skill Change [Squire]
 9754	Blessing of the Goddess ☆ Twins (IV)
 9755	^a800ffBên. of the Goddess ☆ Gordon (Practice Limit: 4500)
 9756	^e5872fPoseidon: Elmo of Creation and Destruction [Legend] x1
-9757	^e5872f Gema Fragment x9999
+9757	^e5872f Gem Fragment x9999
 9758	^a800ff Blessing of the Goddess ☆ Twins (IV) x999
 9759	^a800ff too many big random prizes
 9760	Tooth of Golden Saber
@@ -9783,12 +9783,12 @@
 9782	Fragment of Gem
 9783	Burning Soul
 9784	Fierce Soul
-9785	Alraune Challenge Coupon
+9785	Aldebaran Challenge Coupon
 9786	Fragment of Stole
 9787	Blessing of the Goddess ☆ Aries (IV)
 9788	^a800ffBên. of the Goddess ☆ Krishna (Lim. of Practice: 4500)
 9789	^e5872fTroll: Iwan Whip x1
-9790	^e5872f Gema Fragment x9999
+9790	^e5872f Gem Fragment x9999
 9791	^a800ff Blessing of the Goddess ☆ Aries (IV) x999
 9792	^a800ff too many big random prizes
 9793	Golden Owl
@@ -9814,14 +9814,14 @@
 9813	Fragment of Gem
 9814	Burning Soul
 9815	Fierce Soul
-9816	Alraune Challenge Coupon
+9816	Aldebaran Challenge Coupon
 9817	Fragment of Stole
 9818	Condensed Meteorite
 9819	Skill Change [Squire]
 9820	Blessing of the Goddess ☆ Sagittarius (IV)
 9821	^a800ffBên. of the Goddess ☆ Queen (Practice Limit: 4500)
 9822	^e5872fHarpia: Mask of the Eagle x1
-9823	^e5872f Gema Fragment x9999
+9823	^e5872f Gem Fragment x9999
 9824	^a800ff Blessing of the Goddess ☆ Sagittarius (IV) x999
 9825	^a800ff too many big random prizes
 9826	Jaguar Dourado
@@ -9847,7 +9847,7 @@
 9846	Fragment of Gem
 9847	Burning Soul
 9848	Fierce Soul
-9849	Alraune Challenge Coupon
+9849	Aldebaran Challenge Coupon
 9850	Fragment of Stole
 9851	Condensed Meteorite
 9852	Skill Change [Squire]
@@ -10117,7 +10117,7 @@
 10116	Goddess' Gift ☆ Libra
 10117	^a800ff Mini Ichi x1 (4500 rating limit)
 10118	^e5872fNunchaku of Libra x1
-10119	^e5872f Gema Fragment x9999
+10119	^e5872f Gem Fragment x9999
 10120	^a800ff Favor of the Goddess ☆ Libra Version X999
 10121	^a800ff too many big random prizes
 10122	Silver Blood
@@ -10150,7 +10150,7 @@
 10149	Goddess' Gift ☆ Capricorn (II)
 10150	^a800ff Mini Tremy x1 (4500 rating limit)
 10151	^e5872f Divine Mariner of Aries x1
-10152	^e5872f Gema Shape x9999
+10152	^e5872f Gem Shape x9999
 10153	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 10154	^a800ff too many big random prizes
 10155	Silver Blood
@@ -10282,7 +10282,7 @@
 10281	Goddess' Gift ☆ Leo
 10282	^a800ffQ June version x1 (4500 rating limit)
 10283	^e5872fColillo de Leo x1
-10284	^e5872f Gema Shape x9999
+10284	^e5872f Gem Shape x9999
 10285	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 10286	^a800ff too many big random prizes
 10287	Silver Blood
@@ -10315,7 +10315,7 @@
 10314	Goddess' Gift ☆ Gemini
 10315	^a800ff Mini command x1 (4500 rating limit)
 10316	^e5872f Gemini mask x1
-10317	^e5872f Gema Fragment x9999
+10317	^e5872f Gem Fragment x9999
 10318	^a800ff Favor of the Goddess ☆ Gemini Version
 10319	^a800ff too many big random prizes
 10320	Silver Blood
@@ -10348,7 +10348,7 @@
 10347	Goddess' Gift ☆ Sagittarius (II)
 10348	^a800ff Mini Orpheus x1 (4500 rating limit)
 10349	^e5872fGray Gold Liaison x1
-10350	^e5872f Gema Fragment x9999
+10350	^e5872f Gem Fragment x9999
 10351	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
 10352	^a800ff too many big random prizes
 10353	Silver Blood
@@ -11813,12 +11813,12 @@
 11812	Soul Encan.
 11813	Metis Determination Light
 11814	Test bathroom skill tool
-11815	Gema - Hades
-11816	Gema - Polaris
+11815	Gem - Hades
+11816	Gem - Polaris
 11817	Gem - Saturn
-11818	Gema - Uranus
+11818	Gem - Uranus
 11819	Gem - Sun
-11820	Gema - Benetnasch
+11820	Gem - Benetnasch
 11821	Gem - Moon
 11822	Gem - Jupiter
 11823	Gem - Mercury
@@ -12066,7 +12066,7 @@
 12065	Fragments of the Relic of Cancer
 12066	Fragments of the valuable treasure of Cancer
 12067	Morality Medal
-12068	Alraune Challenge Coupon
+12068	Aldebaran Challenge Coupon
 12069	Light of Atena
 12070	Page of the Divine Sacrifice Book
 12071	Fragments of the Relic of Capricorn
@@ -14364,7 +14364,7 @@
 14363	Sword of Hades [Legend]
 14364	Ax of Minotaur
 14365	Gemini: Gemini's Object
-14366	Mandragora of Alraune
+14366	Mandragora of Aldebaran
 14367	Shaka: Virgo Artifact
 14368	Deep: Infernal Shoulder
 14369	Cancer Tweezers

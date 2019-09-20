@@ -3460,7 +3460,7 @@
 3459	Deep
 3460	Minotau
 3461	Basilisk
-3462	Alraune
+3462	Aldebaran
 3463	Aqueron
 3464	Harpy
 3465	Griffon
@@ -6964,7 +6964,7 @@
 6963	Site:
 6964	Athena (Instructions to find the way)
 6965	Description Description Description
-6966	Alraune
+6966	Aldebaran
 6967	Minotaur
 6968	Basilisk
 6969	Tissue donation / Killing eight judges
@@ -8129,7 +8129,7 @@
 8128	Cash obtained:
 8129	remaining EXP:
 8130	Cash remaining:
-8131	Facts: Alraune Challenge
+8131	Facts: Aldebaran Challenge
 8132	Leo
 8133	Scorpio
 8134	Aries

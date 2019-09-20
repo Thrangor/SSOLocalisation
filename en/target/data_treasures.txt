@@ -301,13 +301,13 @@
 300	Hyper Potion I
 301	Restores a small amount of HP.
 302	Energetic I*20
-303	After use, you can get 500 magic box energy.
+303	After using, you receive 500 magic box energy.
 304	Energetic I
-305	After use, you can get 500 magic box energy.
+305	After using, you receive 500 magic box energy.
 306	Enhancer*20
-307	After use, you can get 400 magic box energy.
+307	After using, you receive 400 magic box energy.
 308	Enhancer
-309	After use, you can get 400 magic box energy.
+309	After using, you receive 400 magic box energy.
 310	Inventory Expansion
 311	Expands bag space by 6 slots.
 312	Warehouse Expansion
@@ -531,13 +531,13 @@
 530	Hyper Potion III
 531	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
 532	Energetic I*20
-533	After use, you can get 500 magic box energy.
+533	After using, you receive 500 magic box energy.
 534	Energetic I
-535	After use, you can get 500 magic box energy.
+535	After using, you receive 500 magic box energy.
 536	Enhancer*20
-537	After use, you can get 400 magic box energy.
+537	After using, you receive 400 magic box energy.
 538	Enhancer
-539	After use, you can get 400 magic box energy.
+539	After using, you receive 400 magic box energy.
 540	Inventory Expansion
 541	Expands bag space by 6 slots.
 542	Warehouse Expansion
@@ -804,7 +804,7 @@
 803	It can improve the effect when the star casts the Holy Armour.
 804	Blood of Hades*20
 805	It can improve the effect when the star casts the Holy Armour.
-806	Starlight*5
+806	Star Light*5
 807	The Pegasus Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
 808	Underworld Starlight*5
 809	Used for the necessities of the sacred clothing.
@@ -1028,17 +1028,17 @@
 1027	It contains 18 times worth of value-added items, and each character can only be opened once.
 1028	LV10 Frenzy Pack
 1029	Special rewards.\rOne time.
-1030	Paq. Frenzy LV59
+1030	LV59 Frenzy Pack
 1031	Special rewards.\rOne time.
-1032	Paq. de Frenesí LV79
+1032	LV79 Frenzy Pack
 1033	Special rewards.\rOne time.
 1034	Great Value Thanksgiving Gift Pack
 1035	It contains 18 times worth of value-added items, and each character can only be opened once.
 1036	LV10 Frenzy Pack
 1037	Special rewards.\rOne time.
-1038	Paq. Frenzy LV59
+1038	LV59 Frenzy Pack
 1039	Special rewards.\rOne time.
-1040	Paq. de Frenesí LV79
+1040	LV79 Frenzy Pack
 1041	Special rewards.\rOne time.
 1042	Gem - Sun
 1043	Can be inlaid and enhance the attributes of the soul of the armor.
@@ -1054,11 +1054,11 @@
 1053	Can be inlaid and enhance the attributes of the soul of the armor.
 1054	Gem - Saturn
 1055	Can be inlaid and enhance the attributes of the soul of the armor.
-1056	Gema - Uranus
+1056	Gem - Uranus
 1057	Can be inlaid and enhance the attributes of the soul of the armor.
 1058	Gem - Neptune
 1059	Can be inlaid and enhance the attributes of the soul of the armor.
-1060	Gema - Hades
+1060	Gem - Hades
 1061	Can be inlaid and enhance the attributes of the soul of the armor.
 1062	Spirit of Gem
 1063	Additional upgrade experience can be added when the soul gem is upgraded.
@@ -1076,11 +1076,11 @@
 1075	Can be inlaid and enhance the attributes of the soul of the armor.
 1076	Gem - Saturn
 1077	Can be inlaid and enhance the attributes of the soul of the armor.
-1078	Gema - Uranus
+1078	Gem - Uranus
 1079	Can be inlaid and enhance the attributes of the soul of the armor.
 1080	Gem - Neptune
 1081	Can be inlaid and enhance the attributes of the soul of the armor.
-1082	Gema - Hades
+1082	Gem - Hades
 1083	Can be inlaid and enhance the attributes of the soul of the armor.
 1084	Spirit of Gem
 1085	Additional upgrade experience can be added when the soul gem is upgraded.

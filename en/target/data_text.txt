@@ -1424,7 +1424,7 @@
 1423	Land Attack +1240
 1424	Hit +671
 1425	In the end, what does the Grand Master want to do ...?
-1426	^e12500 Counts together with the event 'Apocalypse of Alraune'. ^N \r ('Tsunami at Atlantis' only drops awards once per day.) \r \r-In recent times, many tsunamis have occurred and people pray for the arrival of the glory of the Goddess. According to my observations, this may be related to the sinking of Atlantis, a long time ago. Quick, go investigate.
+1426	^e12500 Counts together with the event 'Apocalypse of Aldebaran'. ^N \r ('Tsunami at Atlantis' only drops awards once per day.) \r \r-In recent times, many tsunamis have occurred and people pray for the arrival of the glory of the Goddess. According to my observations, this may be related to the sinking of Atlantis, a long time ago. Quick, go investigate.
 1427	Here is not a territory of the Sanctuary, you need to be careful with everything.
 1428	I hope the glory of the Goddess will enlighten you, my son.
 1429	Master Mu really knows how to deal with people.

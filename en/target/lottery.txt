@@ -288,7 +288,7 @@
 287	Black Wind Costume Gift Package
 288	November lottery wing
 289	^a800ffMini Kanon x1 (Practice max 4500)
-290	^e5872fMadràgora de Alraune x1
+290	^e5872fMadràgora de Aldebaran x1
 291	^a800ff Blessing of the Goddess ☆ Capricorn (III) x999
 292	^a800ffOther random big prizes: Includes Flying Montage: Huskys Sleigh x1, Snow Walk Costume Gift Package x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
 293	Black Kiss
@@ -359,7 +359,7 @@
 358	Sacred! Luxury Wing
 359	Sacred! Fantasy Wing
 360	Fragment of Gem
-361	Alraune Challenge Coupon
+361	Aldebaran Challenge Coupon
 362	Condensed Meteorite
 363	Fruit of Magical Power
 364	Announcement Megaphone

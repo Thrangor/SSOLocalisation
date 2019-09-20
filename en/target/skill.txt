@@ -5080,7 +5080,7 @@
 5079	^O021^ffff00 Star Blessing
 5080	^O021 Occupation assembly
 5081	^O021 raise invincible Rhadamanthus
-5082	The attraction of Alraune by Demonic Flowers temporarily increases your resistance against damage by 50%.
+5082	The attraction of Aldebaran by Demonic Flowers temporarily increases your resistance against damage by 50%.
 5083	^O021^ffff00Attraction of the Demonic Flower
 5084	^O021^ffff00 Stars traction
 5085	^O021^ffff00 Hidden Dragon Fog online
@@ -5873,8 +5873,8 @@
 5872	^O021Dispersion of the Demon Flower\r^O009 has been blessed
 5873	^O021^ffff00Dispersion of the Demonic Flower
 5874	^O021^ffff00 Healing Prohibition He does not receive the cure effect
-5875	^O021 Divine Artifact - Repeler Alraune del Queen
-5876	^O021 Divine Artifact - Drag Alraune from the Queen
+5875	^O021 Divine Artifact - Repeler Aldebaran del Queen
+5876	^O021 Divine Artifact - Drag Aldebaran from the Queen
 5877	Your body was involved in the mist of the Sea Dragon, please be careful!
 5878	^O021^ffff00Niebla
 5879	^O021^ffff00 Rozan's Emerging Warrior\r^O009 ^ffffffReduction of Damage Reduction
@@ -6238,7 +6238,7 @@
 6237	^O021^ffff00Natal Arriving\r^O009 ^ffffffis more motivating to receive a gift?
 6238	^O021^ffff00Natal Arriving
 6239	^O021^ffff00Devorando
-6240	^O021 Alraune's squire recovers HP.
+6240	^O021 Aldebaran's squire recovers HP.
 6241	^O0212016_Recompenses of double red envelope.
 6242	^O021^ffff00Ano New\r^O009 ^ffffffA Novobuff\rGain rewards every 30m
 6243	^O021^ffff00 New
@@ -9087,13 +9087,13 @@
 9086	^c0c0ffNumber 10 of Acheron Surplice ^A2FFFF
 9087	Holy Lotus
 9088	If the target of ^c0c0ff[%s]^FFFF00 is with HP less than 50%% you will receive 30%% damage reduction Exclusive Signability: ^00FF00 %s Andromeda ^FFFF00
-9089	^c0c0ffNeed Survice LV.10 of Alraune ^A2FFFF
+9089	^c0c0ffNeed Survice LV.10 of Aldebaran ^A2FFFF
 9090	Chaotic Wind
 9091	If the Domain bar is at 80%% ^c0c0ff[%s]^FFFF00 will remove the target from the ground, preventing him from using abilities, even if the skill animation has altered\rThe Exclusive Sign of: ^00FF00 %s Andromeda ^FFFF00
-9092	^c0c0ffNeedario LV.24 de Surplice de Alraune ^A2FFFF
+9092	^c0c0ffNeedario LV.24 de Surplice de Aldebaran ^A2FFFF
 9093	Divine Fury
 9094	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 Increase the value of the Shenwei field by 80%% per time. Soul exclusive guardian constellation: ^00FF00%s Andromeda ^FFFF00
-9095	^c0c0ff Needs Survival LV.16 of Alraune ^A2FFFF
+9095	^c0c0ff Needs Survival LV.16 of Aldebaran ^A2FFFF
 9096	Sovereignty
 9097	^c0c0ff[%s]^FFFF00 activates Fury status in Phoenix \t ^00FF00Fury ^FFFF00\r^c0c0ff[%s]^FFFF00 has damage increased by 150%% and its cooldown reduced by 3s\rHability Sign exclusive of: ^00FF00 %s Phoenix ^FFFF00
 9098	^c0c0ffNo.16 Needles of Basilisk Surplice ^A2FFFF
@@ -11766,7 +11766,7 @@
 11765	Deals damage to enemies within the 8m area around them.\rWhen the ability is released, the damage suffered reduces by 40 %%
 11766	^ff0000 Can be used when the Cosmo burns ^A2FFFF\rCauses a lot of damage to a single enemy, in addition to causing him to have illusions.\rWhen releasing, there is a 40%% damage reduction
 11767	^ff0000 Can be used when Cosmo burns ^A2FFFF\rCauses a lot of damage to a single enemy, in addition to luring him close to himself.\rReduce the enemy's resistance to damage by 20 %%, lasts for 9s.\rAl release, there is a 40%% reduction of damage received
-11768	Celestial Star of Evil: Queen of Alraune
+11768	Celestial Star of Evil: Queen of Aldebaran
 11769	\t ^c0c0ff [Demonic Flower Seed] ^FFFF00 \the Demon Flower quickly launches some seeds, causing a lot of damage to the target and enemies around. Disperses the target's healing effect and prohibits it from healing for 8s. At the same time , reduces the speed of movement of the target to 2m/s. It has a duration of 5s and causes damage of %d %%. [Demonic Flower Dispersion] ^FFFF00 The Demonic Flower gathers the power of the earth, attracting enemies close to itself. of 2s, releases the power repelling them; causes a reduction of 80%% of user damage. Disappears after being attacked 10 times and has a duration of 12s at the maximum. When activated, it eliminates the control effect (consumes the number of times when it also suffers damage of the Squire) The probability of activating the Divine Artifact is related to the Divine Power Index
 11770	After its use, you will obtain Queen's blessing, during the fight, there is probability of activating ^c0c0ff [Demon Flower Seed] ^A2FFFFo ^c0c0ff [Dispersion of the Demon Flower]
 11771	Despair of the Ocean Disaster

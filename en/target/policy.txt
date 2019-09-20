@@ -4474,12 +4474,12 @@
 4473	There is a group of challengers who came to the Grand Coliseum!
 4474	They will challenge some reborn warriors! Let's wait to see! Who will be the first opponent they will face?
 4475	He is the ancestor of the Cancer Knight! Poor challengers!
-4476	He is the fearsome ancestor of Alraune! The Celestial Star of La Maga is too brutal!
+4476	He is the fearsome ancestor of Aldebaran! The Celestial Star of La Maga is too brutal!
 4477	Gods! It's Shion of Aries using a Surplices! Yes, defeat would not be a shame ...
 4478	That victory was an accident! That time, he is the ancestor of the Aquarius Knight who enters the field! Tremble, defiant!
 4479	Victory recently does not count! That time, it is the Celestial Star of Violence that enters the field! Ardan!
 4480	What happened was just a warm up! Next, he knows how to fight alone and in a majestic way! Good luck…
-4481	Gods! That time, who entered the field is Alraune! A strong opponent and hard to beat!
+4481	Gods! That time, who entered the field is Aldebaran! A strong opponent and hard to beat!
 4482	The nightmare arrived! The ancestor of the Capricorn Knight entered the field!
 4483	Tremble! Wyvern's predecessor is in the field! You will not leave that arena alive!
 4484	That time, who enters the field is Basilisk! It will be a fierce battle!
@@ -7335,7 +7335,7 @@
 7334	Flowers open, how do they not wither ...?
 7335	There is a group of challengers who came to the Grand Coliseum!
 7336	They will challenge some reborn warriors! Let's wait to see! Who will be the first opponent they will face?
-7337	He is the fearsome ancestor of Alraune! The Celestial Star of La Maga is too brutal!
+7337	He is the fearsome ancestor of Aldebaran! The Celestial Star of La Maga is too brutal!
 7338	Victory recently does not count! That time, it is the Celestial Star of Violence that enters the field! Ardan!
 7339	Tremble! Wyvern's predecessor is in the field! You will not leave that arena alive!
 7340	A new Arena skills teacher is born! Congratulations for the victory!

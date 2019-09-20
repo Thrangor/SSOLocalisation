@@ -1963,18 +1963,18 @@
 1962	Guardian of Nereos
 1963	Tatch
 1964	Pirate Chief
-1965	Marina Caballo Marino
+1965	Hippocampus Knight
 1966	Siren Guard
 1967	Siren
 1968	Ice Wolf
 1969	Sacred Ophiuchus
 1970	Giant Bear
 1971	Blood Bat
-1972	Marina de Sirene
+1972	Kraken Knight
 1973	Navy Patrol
-1974	Marine Guard
-1975	Marina Vigila
-1976	Marine Guard
+1974	Sea Dragon Guard
+1975	Sea Dragon Watcher
+1976	Sea Dragon Guardian
 1977	Puppy
 1978	Marine Sentinel
 1979	Emperor's Guard
@@ -1985,7 +1985,7 @@
 1984	Dynamite barrel
 1985	Marina Protector of Ice
 1986	Creator of the Devil
-1987	Navy Marine Dragon
+1987	Sea Dragon Knight
 1988	Thetis
 1989	Baian
 1990	Sorento
@@ -2168,7 +2168,7 @@
 2167	Julián
 2168	Julián
 2169	Queen
-2170	Alraune
+2170	Aldebaran
 2171	Julián
 2172	Seiya
 2173	Pegasus
@@ -2188,7 +2188,7 @@
 2187	Valentine
 2188	Harpy
 2189	Queen
-2190	Alraune
+2190	Aldebaran
 2191	Sylphid
 2192	Basilisk
 2193	Gordon
@@ -2342,7 +2342,7 @@
 2341	Argol
 2342	Silver Knight Reborn
 2343	Queen
-2344	Spectrum · Alraune
+2344	Spectrum · Aldebaran
 2345	Gordon
 2346	Spectrum · Minotaur
 2347	Sylphid
@@ -2461,7 +2461,7 @@
 2460	Flower Devourer of Souls
 2461	Poisonous beetle
 2462	Queen
-2463	Alraune
+2463	Aldebaran
 2464	Ophiuchus of the Underworld
 2465	Guard of the Serpents
 2466	Tornado Ophiucos
@@ -2535,7 +2535,7 @@
 2534	Gordon
 2535	Minotaur
 2536	queen
-2537	Alraune
+2537	Aldebaran
 2538	Sylphid
 2539	Basilisk
 2540	Ikki
@@ -3350,7 +3350,7 @@
 3349	Soul of Ivan
 3350	Hellfire
 3351	Queen
-3352	Alraune
+3352	Aldebaran
 3353	Orpheus
 3354	Light of Sobriety
 3355	Magic Grass
@@ -3536,7 +3536,7 @@
 3535	Balrog
 3536	Scorpio
 3537	Acheron
-3538	Alraune
+3538	Aldebaran
 3539	General control monster
 3540	Ruins
 3541	Aquarius
@@ -3616,7 +3616,7 @@
 3615	Radical illusion of the Celestial Star of Evil
 3616	Radical illusion of the Celestial Star of Evil
 3617	Queen
-3618	Alraune
+3618	Aldebaran
 3619	General control monster
 3620	Soul of la Whale
 3621	Lava Beast
@@ -7112,23 +7112,23 @@
 7111	Demonic Soldier of Hell
 7112	Demonic Soldier of Hell
 7113	Demonic Soldier of Hell
-7114	Alraune (level LV5 Qianxiu)
-7115	Alraune (45)
-7116	Alraune (55)
-7117	Alraune (65)
-7118	Alraune (75)
-7119	Alraune (85)
-7120	Alraune (95)
+7114	Aldebaran (level LV5 Qianxiu)
+7115	Aldebaran (45)
+7116	Aldebaran (55)
+7117	Aldebaran (65)
+7118	Aldebaran (75)
+7119	Aldebaran (85)
+7120	Aldebaran (95)
 7121	Illusion of the Celestial Star of the Clamor
 7122	Illusion of the Celestial Star of the Clamor
 7123	Flower Datura Cannibal
 7124	Flower Datura Cannibal
 7125	Flower Datura Cannibal
 7126	Flower Datura Cannibal
-7127	Alraune
-7128	Alraune
-7129	Alraune
-7130	Alraune
+7127	Aldebaran
+7128	Aldebaran
+7129	Aldebaran
+7130	Aldebaran
 7131	Invisible Monster Hanging buff In the Underground Palace
 7132	All-day opening controller 1
 7133	Command Monster
@@ -7854,9 +7854,9 @@
 7853	Artifact - Action Invoking the Scorpio Stinger
 7854	Artifact - Action Scorpio Stinger Attack
 7855	Artifact - Activate the Attack on the Scorpio Stinger
-7856	Divine Artifact - Invocation of the Queen of Alraune
-7857	Divine Artifact - Activate attack of the Queen of Alraune
-7858	Divine Artifact - Queen of Alraune activated by the attack
+7856	Divine Artifact - Invocation of the Queen of Aldebaran
+7857	Divine Artifact - Activate attack of the Queen of Aldebaran
+7858	Divine Artifact - Queen of Aldebaran activated by the attack
 7859	Summon: Relic-Virgem
 7860	Summon: Relic-Virgem
 7861	Summon: Relic-Virgem
@@ -8094,7 +8094,7 @@
 8093	Sylphid
 8094	Basilisk
 8095	Queen
-8096	Alraune
+8096	Aldebaran
 8097	Pharaoh
 8098	Sphinx
 8099	Lune
@@ -8610,7 +8610,7 @@
 8609	Intruder
 8610	Golem
 8611	Intruder
-8612	Alraune
+8612	Aldebaran
 8613	Intruder
 8614	Enemy Provocation Monster
 8615	Monster of General Control of the Sanctuary
@@ -8677,7 +8677,7 @@
 8676	Shiryu Force
 8677	01 Child of the Body Monster Sanctuary
 8678	Events of the Day of the Witches
-8679	Alraune
+8679	Aldebaran
 8680	spectrum
 8681	Orpheus
 8682	Lira
@@ -9184,7 +9184,7 @@
 9183	Mask of Death
 9184	Cancer
 9185	Queen
-9186	Alraune
+9186	Aldebaran
 9187	Aiolia
 9188	Leo
 9189	Shaka
@@ -9259,7 +9259,7 @@
 9258	Defender [Pisces]
 9259	Resuscitation Place
 9260	queen
-9261	Alraune
+9261	Aldebaran
 9262	Corroded rose
 9263	White roses
 9264	Treatment Area of ​​the White Rose
