@@ -1744,10 +1744,10 @@
 1743	VIII · Caballero de Atenea
 1744	IX · Caballero Legendario
 1745	
-1746	尊贵速成礼包中获得
-1747	至尊新手礼包中获得
-1748	17173成长礼包中获得
-1749	媒体速成礼包中获得
-1750	闪耀前程礼包中获得
-1751	多玩豪华闪耀礼包中获得
-1752	网易至尊礼包中获得
+1746	Obtenido en Paquete premium extra
+1747	Obtenido en Regalo de novato supremo
+1748	Obtenido en 17173 Growth Package
+1749	Obtenido en media crash package
+1750	Obtenido en shining package
+1751	Obten mas en el paquete de lujo
+1752	Obtenido en Netease Paquete Regalo extremo

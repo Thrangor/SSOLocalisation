@@ -605,8 +605,8 @@
 604	Astro EXP:
 605	EXP Reserva:
 606	Astro EXP Reserva:
-607	Porcentaje de EXP:
-608	Porcentaje de Astro EXP:
+607	Porcentaje EXP:
+608	Porcentaje Astro EXP:
 609	Recibir EXP:
 610	Recibir Astro EXP:
 611	EXP:

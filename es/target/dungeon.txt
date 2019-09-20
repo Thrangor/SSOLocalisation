@@ -797,28 +797,28 @@
 796	Falha ao criar a Dungeon de Desafio Individual
 797	Você acabou de fazer um desafio, aguarde um tempo
 798	Seu poder é insuficiente, participar de um Desafio precipitadamente é muito perigoso. Pratique primeiro para depois entrar em um!
-799	玩家${name}的等级低于30级
-800	玩家${name}的等级低于25级
-801	等级低于25级
-802	玩家${name}的等级低于20级
-803	等级低于20级
-804	玩家${name}的等级低于15级
-805	等级低于15级
-806	玩家${name}的等级低于35级
-807	等级低于35级
-808	玩家${name}的等级低于45级
-809	等级低于45级
-810	玩家${name}的等级低于55级
-811	等级低于55级
-812	玩家${name}的等级低于68级
-813	等级低于68级
-814	玩家${name}参加[英雄]副本的次数已耗尽或英雄点不满30点
-815	参加[英雄]副本的次数已耗尽或英雄点不满30点
-816	玩家${name}的等级低于100级
-817	采集 冰结晶  ^00ffff%d / 120^N\r温馨提示：通过^ffff00采集冰结晶^N或^ffff00击碎队友身上的冰块^N获得^ffff00【绝招的真谛】^N\r^ffff00注意^N躲避冰霜炸弹
-818	与神秘的月饼对话开启战斗
-819	击败梦神！\r梦神 %d/1\r请尽量将身上有\"进入梦魇\"状态的玩家的^FFCC00生命值加满^N\r当有队友变成了“梦神阴影”，那他只有静等一分钟了\r请尽量将梦神的^FFCC00扇形攻击引向梦魇玫瑰^N，以便消灭玫瑰
-820	前往印度洋神柱！\r击败海皇子克修拉 %d/1\r神之力让克修拉拥有不死之身，唯有将其拉入^FFCC00般若星盘^N内，才能破除神力加持，同时请注意无处不在的天雷
-821	前往南冰洋神柱！\r击败海将军海怪卡萨 %d/1\r卡萨拥有一批死忠海妖粉，注意！海妖之吻能让卡萨^FFCC00恢复生命^N！
-822	前往南大西洋神柱！\r击败海魔女苏兰特 %d/1\r苏兰特的笛声让你不断停留在睡梦中，进入地面的^FFCC00觉醒之眼^N刺痛感能够避免你睡着
-823	前往北大西洋神柱！\r击败海龙加隆 %d/1\r^FFCC00豆豆^N是能够帮你战斗的小伙伴，她们就被压在来时路的石头下。砸碎所有的石头吧，越多越好！
+799	Player ${name} is below level 30
+800	players ${name} is below level 25
+801	level is lower than level 25
+802	player ${name} is below level 20
+803	level is below level 20
+804	Player ${name} is below level 15
+805	level is below level 15
+806	Player ${name} is below level 35
+807	level is below level 35
+808	Player ${name} is below level 45
+809	level is lower than level 45
+810	Player ${name} is below level 55
+811	level is below level 55
+812	Player ${name} is below level 68
+813	level below level 68
+814	Player ${name} has been exhausted for [Hero] copy or hero is less than 30 points
+815	The number of copies of [Hero] has been exhausted or the hero is less than 30 points.
+816	Player ${name} is below level 100
+817	Collection of ice crystals ^00ffff%d / 120^N\r Tips: Collect ice crystals by ^ffff00^N or ^ffff00 to crush the ice on the teammates ^N get ^ffff00【The true essence of strokes】^N\r^ Ffff00 attention ^N avoiding frost bombs
+818	Open battle with mysterious mooncake conversation
+819	Defeat the dream god! \rDream god %d/1\r Please try to increase the ^FFCC00 health of the player who has the "Enter Nightmare" status. ^N\r When a teammate becomes a "dream shadow", then he only has Wait a minute.\r Please try to bring the dream FFCC00 fan attack to the nightmare rose ^N to eliminate the rose.
+820	Go to the Indian Ocean Pillar! \rBreak the sea emperor Ke Xiula%d/1\r God's power to let Ke Xiula have an undead body, only to pull it into the ^FFCC00 prajna star ^N, in order to break the magic blessing, please pay attention to Tianlei
+821	Go to the South Ice God Tower! \rBeat the sea general sea monster Casa %d/1\r Casa has a batch of diehard sea monster powder, pay attention! The Kraken kiss can make Casa ^FFCC00 recover life ^N!
+822	Go to the South Atlantic Pillar! \rBreak the sea witch Surant %d/1\r Surant's flute keeps you in your sleep, ^FFCC00 awakening eyes into the ground ^N tingling can avoid you falling asleep
+823	Go to the North Atlantic Pillar! \rBreak the sea dragon Galleon %d/1\r^FFCC00 Beans ^N is a small partner that can help you fight, they are pressed under the stone of the road. Crush all the stones, the more the better!

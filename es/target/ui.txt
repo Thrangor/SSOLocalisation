@@ -1682,7 +1682,7 @@
 1681	Sop.
 1682	Def.
 1683	Ataq.
-1684	         Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
+1684	Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
 1685	Escolha o Signo
 1686	Signo elegido
 1687	Dragón
@@ -1710,7 +1710,7 @@
 1709	Sop.
 1710	Def.
 1711	Ataq.
-1712	         Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
+1712	Características: cuerpo a cuerpo empezó  tácticas únicas: la venganza acumular y brote, motivar a los equipos, la aceleración instantánea, jugando
 1713	Escolha um Signo
 1714	Signo elegido
 1715	Dragón
@@ -2297,7 +2297,7 @@
 2296	Recibir 30 minutos
 2297	Recibir 10 minutos
 2298	Doble sistema de EXP gratuito
-2299	El sistema de reputación se ha convertido en un tiempo de duplicidad correspondiente de 3,5 veces a EXP de pareja, mira la pareja EXP de la interfaz
+2299	El sistema de reputación se ha multiplicado a 3,5 Mira el menu EXP.
 2300	Recompensa
 2301	Lucros
 2302	Evento
@@ -5218,10 +5218,10 @@
 5217	Armadura
 5218	Vestir
 5219	Zodiaco
-5220	Refinar
+5220	Refinar.
 5221	Bronce
 5222	Oro
-5223	Desvestir
+5223	Desvestir.
 5224	Escamas
 5225	Recogidos: 21/120
 5226	Sagrado
@@ -8527,25 +8527,25 @@
 8526	Capa oculta, no se puede reutilizar en poco tiempo.
 8527	capa oculta
 8528	Alternar Cosmeticos. Esta opción tiene un tiempo de reutilización corto.
-8529	Cosmeticos
+8529	Cosmetico.
 8530	Después de que la pericia y la experiencia alcancen la meta, puedes hacer clic aquí para mejorar el nivel de personaje.
-8531	Subir Nvl
+8531	Subir Nvl.
 8532	60
 8533	-5
 8534	10000/400000
-8535	Mostrar Alas
-8536	Mostrar Casco
+8535	Mostrar Alas.
+8536	Mostrar Casco.
 8537	Aumenta el valor de bendición obtenido para cada lanzamiento
 8538	accesorios auxiliares (opcional):
 8539	Tianma Xingyu
-8540	valor de bendición
+8540	Valor de bendición
 8541	Lv1 Tianma Escoba Caja Estrella
 8542	Lv1 Tianma Yixing en Boxeo
 8543	Lv1 Tianma Meteor Fist
 8544	Continúa bendiciendo hasta que la estrella de jade no sea suficiente.
-8545	Refinar automatico
+8545	Refinar auto.
 8546	consumo de fundición en estrella
-8547	Habilidades
+8547	Hab.
 8548	Haga clic nuevamente para anular la selección.
 8549	Star Casting alcanzó el nivel 17, y los atributos mejoraron considerablemente.
 8550	incluso editor de habilidades

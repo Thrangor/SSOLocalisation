@@ -705,16 +705,16 @@
 704	Llama~~No~~Extingue~~
 705	¡Voy a aplastarlos!
 706	Eso es imposible~~
-707	资金
-708	食物
-709	木材
-710	矿产
-711	雅雅娜
-712	哈哈斯
-713	波波冬
-714	皇皇
-715	锤锤
-716	$noname$UImid比赛将在
-717	$UImid$noname极光长矛照射倒计时：
-718	$noname$UImid开启封印个数：
-719	$UImid$noname当身中“猩红毒针”超过
+707	Funds
+708	Food
+709	Timber
+710	Minerals
+711	Mini Saori
+712	Mini Hades
+713	Mini Poseidon
+714	Mini Pope
+715	Mini Ban
+716	$noname$UImid competition will take place at
+717	$UImid$nonameA urora Spear Illumination Countdown:
+718	$noname$UImid Open the number of seals:
+719	$UImid$noname 'Scarlet Needle' will exceed in

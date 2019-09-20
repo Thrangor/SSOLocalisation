@@ -6075,66 +6075,66 @@
 6074	Aún no son lo suficientemente fuertes, la próxima vez vengan a desafiar cuando estén listos
 6075	Inicio de la competición
 6076	¡Estrella Celeste de la Nobleza vino a visitar!
-6077	呼~~呼~~
-6078	我要把你们全部击倒！
-6079	竟然没能消灭你们这些---跳蚤
-6080	你们只是赢了这一次~~~
-6081	尝尝来自死亡之地的愤怒！
-6082	收到了技能66
-6083	收到了技能95
+6077	Snif ~~ Snif ~~
+6078	I want to defeat all of you!
+6079	It really is not possible to eliminate them --- fleas
+6080	Has won this time ~~~
+6081	Experience the rage of the land of death!
+6082	He received Skill 66
+6083	Received Skill 95
 6084	256
-6085	test
-6086	倒地
+6085	Test
+6086	Falling on the ground
 6087	$spec animation_2003
-6088	$noname$UImid即将有敌人对纱织进行偷袭，快安排一些人去她的身边，快点，来不及了！！
+6088	$noname$UImid! There is an imminent attack on Saori! Quick, gather some people to protect it, there is not much time !!
 6089	$spec animation_2004
-6090	$noname$UImid第一波怪物攻击开始啦！！
-6091	$noname$UImid第二波怪物攻过来了！！
-6092	$noname$UImid第三波怪物攻上来啦！！！
-6093	$noname$UImid纱织：啊！！天箭座·托勒密，你想做什么？
+6090	$noname$UImid! The attack of the first horde of monsters started !!
+6091	$noname$UImid! The attack of the second horde of monsters began !!
+6092	$noname$UImid! The attack of the third horde of monsters started !!
+6093	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
 6094	$spec animation_2005
-6095	$noname$UImid天箭座·托勒密：我奉教皇之命来将纱织带往圣域，你敢阻拦我！
+6095	$noname$UImidSagita Tremi: I have orders from the Grand Master to take Saori to the Shrine. And dare you interrupt me?
 6096	$spec sound_2001
-6097	电光穿行
-6098	高速狩猎
-6099	高速狩猎
-6100	电光穿行
+6097	Electric Way
+6098	Fast Hunt
+6099	Fast Hunt
+6100	Electric Way
 6101	$spec sound_2000
-6102	$noname$UImid乌鸦座·加米安打上来了……
-6103	我的宝贝儿，唱一首动人的歌曲给我的敌人听听吧！
-6104	我的宝贝儿，唱一首动人的歌曲给我的敌人听听吧！
+6102	$noname$UImidJamian attacks ...
+6103	My baby, sing a moving song for my enemies to hear!
+6104	My baby, sing a moving song for my enemies to hear!
 6105	$spec sound_2002
-6106	我的宝贝儿，快去消灭我的敌人！
-6107	我的宝贝儿，快去消灭我的敌人！
-6108	美杜莎的力量，将你变成石块！
-6109	蛇的牙齿，可是很锋利的！
-6110	仔细感受风的力量吧！
-6111	云石旋风拳
-6112	仔细感受风的力量吧！
-6113	仔细感受风的力量吧！
-6114	云石旋风拳
+6106	My baby, go immediately to end my enemies!
+6107	My baby, go immediately to end my enemies!
+6108	The power of the jellyfish will turn you into stone!
+6109	It's a cobra tooth, but very sharp!
+6110	Feel the power of the wind!
+6111	The Hurricane of Darkness
+6112	Feel the power of the wind!
+6113	Feel the power of the wind!
+6114	The Hurricane of Darkness
 6115	$spec questportrait_3
 6116	$spec questportrait_2
 6117	$spec questportrait_1
-6118	别费力气了！水晶之墙会反弹任何攻击！
+6118	Do not waste energy! The Crystal Wall will return your attacks!
 6119	$spec questportrait_5
-6120	很好！
+6120	Very good!
 6121	$spec sound_1016
-6122	哈哈哈！
-6123	$noname$UImid小心！金牛座大笑时发出的冲击波可能把你击倒！
-6124	不错！
+6122	Hahaha!
+6123	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
+6124	Not bad!
 6125	$spec sound_1016
-6126	哈哈哈！
-6127	$noname$UImid小心！金牛座大笑时发出的冲击波可能把你击倒！
+6126	Hahaha!
+6127	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6128	$spec questportrait_135
 6129	$spec sound_1016
-6130	哈哈哈！
-6131	$noname$UImid小心！金牛座大笑时发出的冲击波可能把你击倒！
+6130	Hahaha!
+6131	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6132	$spec sound_1016
-6133	哈哈哈！
-6134	$noname$UImid小心！金牛座大笑时发出的冲击波可能把你击倒！
+6133	Hahaha!
+6134	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6135	$spec sound_1020
-6136	什么？
+6136	What?
 6137	$spec sound_1018
 6138	$spec sound_1019
 6139	$spec questportrait_136
@@ -6142,54 +6142,54 @@
 6141	$spec questportrait_131
 6142	$spec questportrait_132
 6143	$spec questportrait_233
-6144	$noname$UImid击败拦路的敌人！
+6144	$noname$UImidDerrote to the enemies of the road!
 6145	$spec questportrait_148
 6146	$spec questportrait_133
 6147	$spec questportrait_134
-6148	通知commander招怪
-6149	等离子光速拳！
+6148	Notify the major commander of the monster
+6149	Plasma Lightning!
 6150	$spec sound_1042
-6151	干的漂亮！年轻的圣斗士们
-6152	就让你们见识一下，与天地争辉的战士具有的可怕力量！
-6153	食人鱼玫瑰,开始吞噬这些新鲜的肉体吧！
-6154	$noname$UImid星矢：小心，不要被他撞到！
-6155	天狼扑杀！
-6156	$noname$UImid星矢：小心，快躲开！
-6157	怎么可能……
-6158	$noname$UImid星矢：小心，不要被他撞到！
+6151	Good job! Young Knights
+6152	Let me show the terrifying power of the soldiers' teams!
+6153	Piranha Roses start devouring these fresh meats!
+6154	$noname$UImidSeiya: careful not to be knocked down!
+6155	Slaughter of the Wolf!
+6156	$noname$UImidSeiya: Careful, run fast!
+6157	As it is possible ......
+6158	$noname$UImidSeiya: careful not to be knocked down!
 6159	$spec questportrait_10
 6160	$spec questportrait_11
 6161	$spec questportrait_12
 6162	$spec questportrait_13
-6163	幻影天狼拳！
-6164	$noname$UImid冰河：哼，天狼座的身后全是破绽。
+6163	Fist of Illusion of the Wolf!
+6164	$noname$UImidHyoga, hunf, behind the Wolf is all detruded.
 6165	$spec sound_4011
-6166	$UImid$noname黑龙波，小心黑天龙的前方区域！
+6166	$UImid$nonameBlack dragon wave, beware of the black dragon area ahead of you!
 6167	$spec sound_4009
 6168	$spec questportrait_242
 6169	$spec questportrait_79
 6170	$spec questportrait_243
-6171	冰风暴
+6171	Ice Storm
 6172	$spec questportrait_20
 6173	$spec questportrait_21
-6174	怎么回事，为什么我看到这么多一辉，这团烈焰，这难道是地狱吗？不！！！
+6174	How is it possible? Why am I seeing so many Ikkis? That mass of flame, Could it be that I'm really in hell? Do not!!!
 6175	$spec sound_3001
 6176	$spec questportrait_76
 6177	$spec questportrait_80
 6178	$spec sound_3006
 6179	$spec questportrait_23
-6180	星矢，让我看看你更大的恐惧吧！
-6181	凤凰的愤怒还在继续！
+6180	Seiya, let me see your greatest fear!
+6181	The fury of the Phoenix persists!
 6182	$spec questportrait_68
 6183	$spec sound_3007
 6184	$spec questportrait_24
 6185	$spec sound_3008
-6186	别小看我！看我天狼座奥义！！
+6186	Do not underestimate me! Feel my Wolf Technique !!
 6187	$spec questportrait_71
 6188	
 6189	
 6190	
-6191	$UImid$spec questportrait_29
+6191	$UImid $spec questportrait_29
 6192	30
 6193	20
 6194	10
@@ -6202,178 +6202,178 @@
 6201	3
 6202	2
 6203	1
-6204	后会有期！
+6204	See you next time!
 6205	$spec questportrait_35
-6206	春丽姐姐和紫龙哥哥也在这里，听说他们也是来参加银河大赛的！
+6206	Shunrei and Shiryu are here too, I've heard them say they're coming to join the Galactic Tournament!
 6207	$spec animation_2007
 6208	$spec questportrait_63
 6209	$spec questportrait_64
-6210	巨翼翔风!
-6211	$UImid$spec questportrait_30
-6212	$UImid$spec questportrait_32
-6213	海水降临
+6210	Hell Wings!
+6211	$UImid $spec questportrait_30
+6212	$UImid $spec questportrait_32
+6213	Arrival of Waves
 6214	$spec sound_1053
 6215	$spec questportrait_27
-6216	看招！
-6217	紫龙，你死定了！
-6218	嗬！
-6219	雪耻！
-6220	别怕他，大家一起上啊！
+6216	See the hit!
+6217	Shiryu, you're dead!
+6218	Hey!
+6219	Revenge!
+6220	Do not worry, all together!
 6221	$spec questportrait_57
-6222	$noname $UImid 使用“龙甲”可以减少伤害
+6222	$noname$UImidAl using the "Dragon Protection" you can reduce the damage
 6223	$spec sound_8002
-6224	$noname$UImid不断跑动来躲避雷虎的“猛虎闪电拳”
-6225	猛虎闪电拳！
+6224	$noname$UImidCorre nonstop to dodge Lei-Hu's Tiger Lightning Fist
+6225	Fist of Tiger Ray!
 6226	$spec questportrait_61
-6227	烈风雷爪！
-6228	$noname$UImid快躲到雷虎激起的水波中！
-6229	嗬！
+6227	Claws of Rays and Winds!
+6228	$noname$UImidQuick, hide in the waves of Lei-hu!
+6229	Hey!
 6230	$spec questportrait_62
-6231	庐山虎咆哮！
-6232	$noname$UImid快躲到雷虎激起的水波中！
-6233	嗬！
+6231	Tiger Roar!
+6232	$noname$UImidQuick, hide in the waves of Lei-hu!
+6233	Hey!
 6234	$spec questportrait_60
-6235	$noname $UImid 使用“龙甲”可以减少伤害
-6236	$noname$UImid不断跑动来躲避雷虎的“猛虎闪电拳”
-6237	猛虎闪电拳！
-6238	烈风雷爪！
-6239	$noname$UImid快躲到雷虎激起的水柱中！
-6240	庐山虎咆哮！
-6241	嗬！
+6235	$noname$UImidAl using the "Dragon Protection" you can reduce the damage
+6236	$noname$UImidCorre nonstop to dodge Lei-Hu's Tiger Lightning Fist
+6237	Fist of Tiger Ray!
+6238	Claws of Rays and Winds!
+6239	$noname$UImidHurry to the water column that Lei-Hu stirred up!
+6240	Tiger Roar!
+6241	Hey!
 6242	$spec questportrait_58
 6243	$spec questportrait_59
 6244	$spec questportrait_60
-6245	我们到了，这里就是隐龙村。
-6246	我们快走吧，我知道瀑布这里还有一条路可以回村。
-6247	不知道紫龙怎么样了？他回到村子了没有？
-6248	这条路平常没有什么人走，只是没想到这里也被这些怪物发现了！
-6249	哎呀呀，好疼！
-6250	我睡着了吗？该回家了！
-6251	怎么会这样？我……到底……干了什么？
-6252	可…紫龙的眼睛怎么办……
-6253	老师！呜…
-6254	好了，血已经止住，我还要继续战斗！
-6255	嘶！
-6256	O(∩_∩)O哈哈~
-6257	(*^__^*) 嘻嘻……
-6258	(>﹏<)  
+6245	We arrived, here is the Hidden Dragon Village.
+6246	Come on quickly, I know that here at the waterfall there is a road to return to the village.
+6247	Do not know how is Shiryu? Did you return to the village?
+6248	On this road normally there is nobody, I did not imagine that it would be discovered by those monsters too!
+6249	Oh, how it hurts!
+6250	I was sleeping? I should go back home!
+6251	How did this happen? In the end ... what ... did I do?
+6252	Shiryu ... Your eyes ...
+6253	Master! Oh ...
+6254	Everything is fine, the bleeding and I stop, I still have to continue fighting!
+6255	Sss!
+6256	O (∩_∩) ~ haha
+6257	(* ^__ ^*) He He……
+6258	(> ﹏ <)
 6259	1……
 6260	8209
 6261	53880
-6262	后会有期，哈哈！
-6263	后会有期，哈哈！
-6264	我什么也没偷！
-6265	别打！今天我还没偷过东西呢
-6266	后会有期，哈哈！
-6267	后会有期，哈哈！
-6268	我什么也没偷！
-6269	别打！今天我还没偷过东西呢。
-6270	后会有期，哈哈！
-6271	后会有期，哈哈！
-6272	我什么也没偷！
-6273	别打！今天我还没偷过东西呢。
-6274	后会有期，哈哈！
-6275	后会有期，哈哈！
-6276	我什么也没偷！
-6277	别打！今天我还没偷过东西呢。
-6278	后会有期，哈哈！
-6279	后会有期，哈哈！
-6280	我什么也没偷！
-6281	别打！今天我还没偷过东西呢。
-6282	后会有期，哈哈！
-6283	后会有期，哈哈！
-6284	我什么也没偷！
-6285	别打！今天我还没偷过东西呢。
-6286	后会有期，哈哈！
-6287	后会有期，哈哈！
-6288	我什么也没偷！
-6289	别打！今天我还没偷过东西呢。
-6290	后会有期，哈哈！
-6291	后会有期，哈哈！
-6292	我什么也没偷！
-6293	别打！今天我还没偷过东西呢。
-6294	我什么也没偷！
-6295	别打！今天我还没偷过东西呢。
-6296	我什么也没偷！
-6297	别打！今天我还没偷过东西呢。
-6298	我什么也没偷！
-6299	别打！今天我还没偷过东西呢。
-6300	我什么也没偷！
-6301	别打！今天我还没偷过东西呢。
-6302	救命啊！圣斗士打人啦！
-6303	后会有期，哈哈！
-6304	后会有期，哈哈！
-6305	我什么也没偷！
-6306	别打！今天我还没偷过东西呢。
-6307	曾经我和你一样，也是个圣斗士，直到我捡了一个钱包……
-6308	后会有期，哈哈！
-6309	后会有期，哈哈！
-6310	我什么也没偷！
-6311	别打！今天我还没偷过东西呢。
-6312	后会有期，哈哈！
-6313	后会有期，哈哈！
-6314	我什么也没偷！
-6315	别打！今天我还没偷过东西呢。
-6316	后会有期，哈哈！
-6317	后会有期，哈哈！
-6318	我什么也没偷！
-6319	别打！今天我还没偷过东西呢。
-6320	后会有期，哈哈！
-6321	后会有期，哈哈！
-6322	我什么也没偷！
-6323	别打！今天我还没偷过东西呢。
-6324	后会有期，哈哈！
-6325	后会有期，哈哈！
-6326	我什么也没偷！
-6327	别打！今天我还没偷过东西呢。
-6328	后会有期，哈哈！
-6329	后会有期，哈哈！
-6330	我什么也没偷！
-6331	别打！今天我还没偷过东西呢。
-6332	救命啊！圣斗士打人啦！
-6333	后会有期，哈哈！
-6334	后会有期，哈哈！
-6335	我什么也没偷！
-6336	别打！今天我还没偷过东西呢。
-6337	我什么也没偷！
-6338	别打！今天我还没偷过东西呢。
-6339	我什么也没偷！
-6340	别打！今天我还没偷过东西呢。
+6262	Until next time, ha ha!
+6263	Until next time, ha ha!
+6264	I have not stolen anything!
+6265	Do not hit me! Today, I have not stolen anything yet.
+6266	Until next time, ha ha!
+6267	Until next time, ha ha!
+6268	I have not stolen anything!
+6269	Do not hit me! Today, I have not stolen anything yet.
+6270	Until next time, ha ha!
+6271	Until next time, ha ha!
+6272	I have not stolen anything!
+6273	Do not hit me! Today, I have not stolen anything yet.
+6274	Until next time, ha ha!
+6275	Until next time, ha ha!
+6276	I have not stolen anything!
+6277	Do not hit me! Today, I have not stolen anything yet.
+6278	Until next time, ha ha!
+6279	Until next time, ha ha!
+6280	I have not stolen anything!
+6281	Do not hit me! Today, I have not stolen anything yet.
+6282	Until next time, ha ha!
+6283	Until next time, ha ha!
+6284	I have not stolen anything!
+6285	Do not hit me! Today, I have not stolen anything yet.
+6286	Until next time, ha ha!
+6287	Until next time, ha ha!
+6288	I have not stolen anything!
+6289	Do not hit me! Today, I have not stolen anything yet.
+6290	Until next time, ha ha!
+6291	Until next time, ha ha!
+6292	I have not stolen anything!
+6293	Do not hit me! Today, I have not stolen anything yet.
+6294	I have not stolen anything!
+6295	Do not hit me! Today, I have not stolen anything yet.
+6296	I have not stolen anything!
+6297	Do not hit me! Today, I have not stolen anything yet.
+6298	I have not stolen anything!
+6299	Do not hit me! Today, I have not stolen anything yet.
+6300	I have not stolen anything!
+6301	Do not hit me! Today, I have not stolen anything yet.
+6302	Help! The Knight is hitting people!
+6303	Until next time, ha ha!
+6304	Until next time, ha ha!
+6305	I have not stolen anything!
+6306	Do not hit me! Today, I have not stolen anything yet.
+6307	Before we were the same, also Knight, until I stole a wallet ......
+6308	Until next time, ha ha!
+6309	Until next time, ha ha!
+6310	I have not stolen anything!
+6311	Do not hit me! Today, I have not stolen anything yet.
+6312	Until next time, ha ha!
+6313	Until next time, ha ha!
+6314	I have not stolen anything!
+6315	Do not hit me! Today, I have not stolen anything yet.
+6316	Until next time, ha ha!
+6317	Until next time, ha ha!
+6318	I have not stolen anything!
+6319	Do not hit me! Today, I have not stolen anything yet.
+6320	Until next time, ha ha!
+6321	Until next time, ha ha!
+6322	I have not stolen anything!
+6323	Do not hit me! Today, I have not stolen anything yet.
+6324	Until next time, ha ha!
+6325	Until next time, ha ha!
+6326	I have not stolen anything!
+6327	Do not hit me! Today, I have not stolen anything yet.
+6328	Until next time, ha ha!
+6329	Until next time, ha ha!
+6330	I have not stolen anything!
+6331	Do not hit me! Today, I have not stolen anything yet.
+6332	Help! The Knight is hitting people!
+6333	Until next time, ha ha!
+6334	Until next time, ha ha!
+6335	I have not stolen anything!
+6336	Do not hit me! Today, I have not stolen anything yet.
+6337	I have not stolen anything!
+6338	Do not hit me! Today, I have not stolen anything yet.
+6339	I have not stolen anything!
+6340	Do not hit me! Today, I have not stolen anything yet.
 6341	
-6342	我什么也没偷！
-6343	别打！今天我还没偷过东西呢。
-6344	我什么也没偷！
-6345	别打！今天我还没偷过东西呢。
-6346	哼，你说的什么我根本不知道，拿朵花来想吓唬大爷吗！
-6347	你可以进去了
+6342	I have not stolen anything!
+6343	Do not hit me! Today, I have not stolen anything yet.
+6344	I have not stolen anything!
+6345	Do not hit me! Today, I have not stolen anything yet.
+6346	Oh, about what you say I do not know, pick up some flowers to scare the lord!
+6347	You can go
 6348	$spec questportrait_350
 6349	$spec questportrait_352
-6350	我需要你的帮助！
-6351	冥王的爪牙正在入侵圣域，守住圣域大门！
-6352	我要去通知其他人做好警备。
-6353	如果有超过10个冥界爪牙冲入圣域，你们就别再说自己是圣斗士了！
-6354	你无法击溃我如钻石一般的圣衣！我的防御是最高的！
-6355	$noname$UImid小心，强力精英出现了！
-6356	$noname$UImid小心，强力精英出现了！
-6357	我来给你们恢复生命！
-6358	$noname$UImid小心，强力精英出现了！
-6359	有点本事！不过现在我倒要看看你还能不能击穿我的圣衣！
-6360	$noname$UImid小心，强力精英出现了！
-6361	有点本事！不过现在我的拳将会给你10倍的打击！
-6362	$noname$UImid小心，强力精英出现了！
-6363	我给同伴们都增加一个护盾，看你怎么击垮我们！
-6364	$noname$UImid小心，强力精英出现了！
-6365	你以为你能将我击倒！？现在让你看看什么是永远不会倒下的勇士！
-6366	$noname$UImid小心，强力精英出现了！
-6367	力量，还在源源不断的汇聚到我的体内！
-6368	$noname$UImid小心，强力精英出现了！
-6369	这些结界将带给我的同伴无穷无尽的体能！
-6370	这些结界将带给我的同伴无穷无尽的体能！
-6371	$noname$UImid小心，强力精英出现了！
-6372	次元爆破!
-6373	我什么都没有，别打我
-6374	我什么都没有，别打我
-6375	1次
+6350	I need your help!
+6351	The servants of the King of the Underworld are invading the Sanctuary, the door must be protected!
+6352	I'm going to inform the others to mount the Guard.
+6353	If there are more than 10 invaders from the Underworld in the Sanctuary, do not stay there talking, you are Knights!
+6354	You can not defeat me, my armor is like the Diamond! My defense is the best!
+6355	$noname$UImidBeware, the powerful elite emerged!
+6356	$noname$UImidBeware, the powerful elite emerged!
+6357	I'm going to give life back to you!
+6358	$noname$UImidBeware, the powerful elite emerged!
+6359	He has some ability! But now I would like to see if my armor can be damaged or not!
+6360	$noname$UImidBeware, the powerful elite emerged!
+6361	He has some ability! But now my blow will attack you ten times more!
+6362	$noname$UImidBeware, the powerful elite emerged!
+6363	I gave my teammates a shield, let's see how they are going to defeat us!
+6364	$noname$UImidBeware, the powerful elite emerged!
+6365	Do you think what can defeat me? Now let's see what a warrior is that will never be defeated!
+6366	$noname$UImidBeware, the powerful elite emerged!
+6367	Power concentrates continuously in my body!
+6368	$noname$UImidBeware, the powerful elite emerged!
+6369	This enchantment will bring infinite strength to my companion!
+6370	This enchantment will bring infinite strength to my companion!
+6371	$noname$UImidBeware, the powerful elite emerged!
+6372	Dimensional Explosion!
+6373	I have nothing, do not hit me
+6374	I have nothing, do not hit me
+6375	1 time
 6376	2
 6377	3
 6378	4
@@ -6382,79 +6382,79 @@
 6381	7
 6382	8
 6383	9
-6384	银河战争门票！最后几张啦，需要的人来商品街！晚了就没有啦！
-6385	$noname$UImid我们一行人来到了大洋深处，在这貌似平静的海面上，似乎正在酝酿着什么阴谋……
+6384	Entrance to the Galactic Tournament! Last units, whoever wants to come to the street of commerce! Soon it will be exhausted!
+6385	$noname$UImidWe are in the middle of the ocean that, apparently, is calm. But it seems to hide a conspiracy ......
 6386	$spec questportrait_234
-6387	如果不是这该死的封印，你们这群小鬼绝对不是我的对手！
-6388	上万年的等待，我的灵魂终于解脱了！！！
-6389	狄蒂丝，放心吧，这些小鬼就交给我了！
-6390	狄蒂丝已经借助神秘力量将我唤醒，我怎会让你们这些杂碎破坏我们的大计！
-6391	感受我愤怒的力量吧！
-6392	我不会再让你们前进半步，除非我倒下！
-6393	看我分身的厉害！
-6394	海皇大人，请原谅我无法再为您效劳了！
+6387	If it were not for this cursed seal, they would not be rivals for me!
+6388	After thousands of years of waiting, my soul is finally free !!!
+6389	Thetis, do not worry, leave these little demons with me!
+6390	Thetis used a mysterious power to awaken me, as I could allow insignificants like you to destroy our plans!
+6391	Feel the power of my fury!
+6392	I'm not going to let them go one step further, even if I fall!
+6393	Observe my power of division!
+6394	Master Poseidon, please forgive me, I can not serve you anymore!
 6395	$spec questportrait_89
-6396	龙卷风，感受被撕裂的痛楚吧！
-6397	大地都会因为我的力量而颤抖！
-6398	这该死的封印……
-6399	出来吧！神圣之柱！
-6400	你们可以挣扎，不过是在做无用功！
-6401	出来吧！神圣之柱！
-6402	出来吧！神圣之柱！
-6403	出来吧！神圣之柱！
+6396	Tornado, feel the pain of being cut!
+6397	The earth will tremble because of my power!
+6398	Damn Seal ...
+6399	Out! Divine Plillar!
+6400	You can fight, but it's useless!
+6401	Out! Divine Plillar!
+6402	Out! Divine Plillar!
+6403	Out! Divine Plillar!
 6404	$spec questportrait_112
 6405	$spec questportrait_114
-6406	在我独角兽的面前，没有人可以伤害到纱织小姐！！！你们这些怪物，滚回你们的地方！！
-6407	出来吧，潮汐三叉戟
-6408	出来吧，潮汐三叉戟
-6409	格挡
-6410	我敬畏的神啊……这股力量……要吞噬了我！
-6411	我……输了……
+6406	No one can hurt Miss Saori in front of the Unicorn! Hell, go back to your places !!
+6407	Appear. Trident Tide
+6408	Appear. Trident Tide
+6409	Block
+6410	My venerable god ... that power ... is going to devour me!
+6411	I ... I lost ......
 6412	$spec questportrait_124
 6413	$spec questportrait_125
-6414	$noname$UImid全身被蓝光覆盖的人可以开启真假海龙鳞衣！
-6415	$noname$UImid全身被蓝光覆盖的人可以开启真假海龙鳞衣！
-6416	$noname$UImid全身被蓝光覆盖的人可以开启真假海龙鳞衣！
-6417	$noname$UImid全身被蓝光覆盖的人可以开启真假海龙鳞衣！
+6414	$noname$UImidThe person covered by Luz Azul can activate the legitimate and fake Sea Dragon Scale!
+6415	$noname$UImidThe person covered by Luz Azul can activate the legitimate and fake Sea Dragon Scale!
+6416	$noname$UImidThe person covered by Luz Azul can activate the legitimate and fake Sea Dragon Scale!
+6417	$noname$UImidThe person covered by Luz Azul can activate the legitimate and fake Sea Dragon Scale!
 6418	$spec animation_2011
-6419	尝尝来自死亡之地的愤怒！
-6420	吼！
-6421	冥界势力入侵了我方军团基地，请在线的成员回来防守。
-6422	吼！！！
-6423	$noname经过大家的努力，军团基地终于重获安宁。
-6424	冥界入侵者在军团基地里猖狂了许久，之后大摇大摆的离开了……
-6425	地狱三头犬竟然出现在军团基地里，请各位成员前去剿灭！！！
-6426	$UImid$noname军团成员已经净化了10只英灵，军团成员净化的总数量越多最终奖励越丰厚！！！
-6427	$UImid$noname高阶圣斗士英灵已经全部净化！！！
-6428	$UImid$noname活动<复活者的挽歌>已经结束！
-6429	$UImid$noname复活的圣斗士英灵已经被全部净化了！！！请及时找柏菲亚领取<复活者的挽歌>奖励。雅典娜派来她的使者，所有军团成员可以到卡琳处领取奖励。
-6430	不知死活的人呐，竟敢闯入双鱼幻境！
-6431	黑暗冲击！
-6432	黑暗屏障！
-6433	黑暗绝对领域！
-6434	闇焰之环！
-6435	幻影飓风！
+6419	Experience the rage of the land of death!
+6420	Raaw!
+6421	The Underworld forces invaded our base Guild, please the online members please come back to defend.
+6422	Raaw !!!
+6423	$noname Through the efforts of all, finally the Guild of the base recovered peace.
+6424	The invasion of the Underworld in the base's Guild ran out of control for some time and then they boasted ...
+6425	Cerberos actually appeared at the base of the Guild, ask the members to go and destroy it !!!
+6426	$UImid$noname The members of the Guild have already purified 10 Spirits. The bigger the number, the bigger the final prize!
+6427	$UImid$noname The spirits of the Advanced Knights level were all purified !!!
+6428	$UImid$noname The event <Elegy of the Resurrection> is already closed!
+6429	$UImid$noname The spirits of the Reborn Knights were all purified !!! Find Betina immediately to receive the <Elegy of the Resurrection> award. Athena sent her Emissary, all the members of the Guild can receive the prize with Karin.
+6430	Reckless, dare to invade the illusion of Pisces!
+6431	Impact of the shadows!
+6432	Restriction of Darkness!
+6433	Field of Absolute Darkness!
+6434	Circle of Black Flames!
+6435	Illusory Hurricane!
 6436	$spec questportrait_103
 6437	$spec sound_8005
 6438	$spec questportrait_104
 6439	$spec sound_8004
-6440	哈哈，哈哈，哈哈，死死死死！
+6440	Hahaha, die, die, die !!
 6441	$spec questportrait_105
 6442	$spec questportrait_106
-6443	对对对，我的能力是最强的，我这么强，我是最强的！
-6444	不不不，我被杀死了，我这么弱，我是最弱，我是最弱的……
+6443	That, that, that, my power is stronger, I'm so strong, I'm the strongest!
+6444	No, no, no, they killed me, I'm so weak, I'm the weakest ......
 6445	$spec questportrait_107
-6446	杀戮、死亡、终结！
+6446	Murder, death, end!
 6447	$spec questportrait_127
 6448	$spec questportrait_145
 6449	$spec questportrait_128
 6450	$spec sound_1029
 6451	$spec sound_1028
-6452	异次元！空间拳！！！
-6453	$noname$UImid小心！远离恶之幻象，这个攻击非常强力！
-6454	狂暴
-6455	究竟是历史掩盖了罪恶，还是罪恶创造了历史？
-6456	不要打我！我什么都没有
+6452	Fist of Another dimension !!!
+6453	$noname$UImidWatch out! Get away from the evil illusion, this attack is very powerful!
+6454	Furious
+6455	In the end does history hide evil or evil history?
+6456	Do not hit me! I have nothing
 6457	10
 6458	9
 6459	8
@@ -6476,41 +6476,41 @@
 6475	3
 6476	2
 6477	1
-6478	动作真慢，我闪喽！
+6478	Too slow, I dodged!
 6479	
 6480	$spec questportrait_102
-6481	$noname$UImid千万不要被修罗追上！！！
+6481	$noname$UImid! No matter what happens, do not let Shura reach you!
 6482	$spec questportrait_96
-6483	$noname$UImid千万不要让追兵击碎石块！！！
+6483	$noname$UImidno¡¡No matter what happens, do not let the persecutors break the stones!
 6484	$spec questportrait_97
 6485	$spec questportrait_98
 6486	$spec questportrait_99
-6487	哈哈哈！不自量力的青铜圣斗士！忏悔吧！
+6487	Ha ha ha! Presumed Bronze Knight! You will regret!
 6488	$spec questportrait_109
 6489	$spec questportrait_110
 6490	$spec questportrait_108
-6491	击碎石块，抓住艾欧罗斯！
-6492	兄弟们动作快点，艾欧罗斯逃远了！
-6493	哼哼哼，我倒要看看你怎么对付我们这么多兄弟！
-6494	你们找死!
-6495	火焰冲天
-6496	巨力践踏
-6497	你们也将和艾俄罗斯一样接受正义的审判!
-6498	圣剑劈斩
-6499	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+6491	Break the stones, stop Aiolos!
+6492	Brothers move quickly, Aiolos fled!
+6493	Hung, I'd like to see how you deal with us!
+6494	They are looking for death!
+6495	Flame Offensive
+6496	Marching Powerful
+6497	You will receive the same fair judgment as Aiolos!
+6498	Simple Attack of the Sword
+6499	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 6500	$spec sound_1064
-6501	圣剑合斩
-6502	你未获准进入！
+6501	Double Attack of the Sword
+6502	You do not have permission to enter!
 6503	$spec questportrait_130
-6504	高速波动！
-6505	滚石仍在轰轰落下，只有杀死我，才能拯救你的队友……
-6506	他们来了！帮我！
-6507	又来了！快，击败他们！
-6508	我已打开石壁,快离开这里.
-6509	破除障碍
-6510	快走吧
-6511	破除障碍
-6512	继续前进
+6504	Wave at high speed!
+6505	The stones keep falling, only that with my death, they will save their companions ......
+6506	They arrived! Help me!
+6507	One more time! Quick, defeat them!
+6508	I opened my way through the walls, we're going to leave after here!
+6509	Remove the obstacles
+6510	Quick!
+6511	Remove the obstacles
+6512	Keep going
 6513	$spec animation_2022
 6514	$spec questportrait_204
 6515	$spec questportrait_149
@@ -6519,8 +6519,8 @@
 6518	$spec questportrait_150
 6519	$spec sound_1040
 6520	$spec sound_1040
-6521	谢谢，我感觉好多了，现在又可以战斗了！
-6522	来吧，让我们来一场真正的战斗！
+6521	Thanks, I feel better, now I can fight again!
+6522	Come, let's have a real fight!
 6523	$spec questportrait_158
 6524	$spec sound_1080
 6525	$spec sound_1080
@@ -6530,213 +6530,213 @@
 6529	$spec sound_1082
 6530	$spec sound_1051
 6531	$spec sound_1051
-6532	哈哈哈，让你们见识见识我游历世界练成的绝技！庐山虎咆哮！
-6533	哼，不堪一击，这样就都倒下了！那我先休息一会……
-6534	哈哈哈，让你们见识见识我游历世界练成的绝技！庐山虎咆哮！
-6535	哼，不堪一击，这样就都倒下了！那我先睡一会……
+6532	Hahaha, I am going to show you my special ability that I learned around the world! Tiger Roar!
+6533	Hunf, weak side! They all fell! I'm going to rest a little, then ......
+6534	Hahaha, I am going to show you my special ability that I learned around the world! Tiger Roar!
+6535	Hunf, weak side! They all fell! I'm going to sleep a bit then ......
 6536	$spec animation_2103
-6537	泰坦新星~！
-6538	${lev(50-200)}$noname$UImid幻境已开启，50级以上玩家可以在圣域找幻境使者传入
-6539	不要被眼前的假象所欺骗！
-6540	出来吧！潮汐三叉戟！
-6541	出来吧！潮汐三叉戟！
-6542	出来吧！潮汐三叉戟！
-6543	力量的血液，在我体内燃烧！
-6544	力量的血液，在我体内燃烧！
-6545	力量的血液，在我体内燃烧！
-6546	力量的血液，在我体内燃烧！
-6547	力量的血液，在我体内燃烧！
-6548	伟大的黑暗主宰！您忠诚的信徒在此，请赐予我无穷的力量吧！
-6549	伟大的黑暗主宰！您忠诚的信徒在此，请赐予我无穷的力量吧！
-6550	嘭！！！！！！！！！
-6551	伟大的黑暗主宰！您忠诚的信徒在此，请赐予我无穷的力量吧！
-6552	伟大的黑暗主宰！您忠诚的信徒在此，请赐予我无穷的力量吧！
-6553	次元爆破
-6554	幻胧拳
-6555	力量！
-6556	沿着这条路前进，穆先生在白羊宫里等待各位。
-6557	我来为你们开启去嘉米尔幻境的传送门。
-6558	在那里能够收集到大量的圣衣材料——银星砂。
-6559	兄弟们给我上！
-6560	这帮废物，哼，看老夫亲自解决你们
-6561	给我上！
+6537	Supernova Titanic ~!
+6538	${lev(50-200)}$noname$UImidIllusion released. Players above level 50 can search for the Emissary of Illusion, in the Sanctuary, to enter
+6539	Do not be fooled by the illusion in front of you!
+6540	Get out! Trident Tide!
+6541	Get out! Trident Tide!
+6542	Get out! Trident Tide!
+6543	The power of blood is burning in my body!
+6544	The power of blood is burning in my body!
+6545	The power of blood is burning in my body!
+6546	The power of blood is burning in my body!
+6547	The power of blood is burning in my body!
+6548	O Lord of Darkness, your faithful follower is here, please give me infinite power!
+6549	O Lord of Darkness, your faithful follower is here, please give me infinite power!
+6550	Bang !!!!!!!!!
+6551	O Lord of Darkness, your faithful follower is here, please give me infinite power!
+6552	O Lord of Darkness, your faithful follower is here, please give me infinite power!
+6553	Dimensional Explosion
+6554	Fist of Illusion
+6555	Strength!
+6556	Go ahead on this road, Mu waits for you in the house of Hades.
+6557	I'm going to open the portal for Jamir for you
+6558	There you will be able to collect enough material from the armor - Starsand.
+6559	Brothers advance!
+6560	Those despicable ones, hunf, see how the old ones are going to defeat them
+6561	Advance!
 6562	$spec questportrait_201
 6563	$spec questportrait_202
-6564	次元11
+6564	Dimension 11
 6565	$spec questportrait_170
 6566	$spec questportrait_171
 6567	$spec questportrait_173
-6568	寒冰护盾！
-6569	冰原龙卷风！
-6570	神圣冰壁！
-6571	嘭！
+6568	Ice shield!
+6569	Ice Tornado!
+6570	Sacred Ice Wall!
+6571	Bang!
 6572	$spec sound_7000
 6573	$spec questportrait_184
-6574	$noname$UImid！！！躲开死神的致命攻击
+6574	$noname$UImid !!! Run away from the deadly attack of the God of Death
 6575	$spec sound_7001
 6576	$spec questportrait_239
 6577	$spec questportrait_240
 6578	$spec questportrait_176
-6579	释放我的怒火
+6579	Unleash my rage
 6580	$spec questportrait_230
 6581	$spec questportrait_176
-6582	我输了
-6583	我是冠军！
-6584	萌萌哒就是正义哒
-6585	我输了
-6586	我是冠军！
-6587	像我这么帅，一般游戏里都是主角
-6588	输了
-6589	我是冠军！
-6590	我要我的奶嘴
-6591	我输了
-6592	我是冠军！
-6593	我该为下一场比赛准备了！
-6594	我输了
-6595	我是冠军！
-6596	你们会死在这里，再也无法回去~
-6597	银河星爆
+6582	Lost :(
+6583	I won!
+6584	Is simply a justice
+6585	Lost :(
+6586	I won!
+6587	Handsome like me, usually in the game are the main characters
+6588	Lost ~
+6589	I won!
+6590	I want it!
+6591	Lost :(
+6592	I won!
+6593	I should be ready for the next game!
+6594	Lost :(
+6595	I won!
+6596	They will die here and they will not be able to return ~
+6597	Galaxies Explosion
 6598	$spec questportrait_203
-6599	现身吧，我的影子！
-6600	在烈火中死去吧！
-6601	$noname$UImid快躲进瞬的防御锁链中！
+6599	Come, my shadow!
+6600	Die in the flames!
+6601	$noname$UImidQuad you hide in the defense of the Shun chain!
 6602	1
-6603	2
+6603	
 6604	$spec sound_8006
-6605	见识见识什么是真正的火凤凰！！！
+6605	Try, try the true Phoenix flames !!!
 6606	$spec questportrait_208
 6607	$spec questportrait_222
 6608	$spec questportrait_198
 6609	
 6610	
-6611	后会有期，哈哈！
-6612	后会有期，哈哈！
-6613	你抓不住我抓不住我……
-6614	后会有期，哈哈！
-6615	拜拜类！
-6616	大盗是大胆无敌，外加华丽呦！
-6617	$UImid$noname赫尔墨斯的恶作剧没有得逞，为了表达对各位圣斗士的敬佩，他决定给予各位勇敢的斗士奖励。
-6618	$UImid$noname赫尔墨斯的恶作剧没有得逞，为了表达对各位圣斗士的敬佩，他决定给予各位勇敢的斗士奖励。
-6619	$UImid$noname奖励NPC还有40分钟就要离开基地了，请没有领取军团奖励的团员及时去赫尔墨斯的使者那里领取！！！
-6620	$UImid$noname奖励NPC还有30分钟就要离开基地了，请没有领取军团奖励的团员及时去赫尔墨斯的使者那里领取！！！
-6621	$UImid$noname奖励NPC还有20分钟就要离开基地了，请没有领取军团奖励的团员及时去赫尔墨斯的使者那里领取！！！
-6622	这里是禁地！快离开！
-6623	断狱斩！
-6624	来吧，让我们来一场真正的战斗！
+6611	Until next time, ha ha!
+6612	Until next time, ha ha!
+6613	You can not catch me, you can not catch me ......
+6614	Until next time, ha ha!
+6615	Wretched!
+6616	The thief is audacious without equal, besides being awesome!
+6617	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
+6618	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
+6619	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6620	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6621	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6622	Here is a forbidden zone !!! Get out fast!
+6623	Guillotine!
+6624	Come, let's have a real fight!
 6625	$spec questportrait_158
-6626	你的实力就只有这些吗？
-6627	拿出你真正的实力吧，否则你只能输！
-6628	居然真的进步到这种地步了，你真让我刮目相看
-6629	为了雅典娜，我的小宇宙啊，燃烧吧。
+6626	Is that all your strength?
+6627	Show your true strength, otherwise you will only lose!
+6628	You really progressed to this point, I'm really surprised
+6629	By Athena, burn my Cosmo, burn!
 6630	$spec questportrait_158
 6631	$spec questportrait_158
 6632	$spec questportrait_158
 6633	$spec questportrait_158
-6634	来吧，让我们来一场真正的战斗！
+6634	Come, let's have a real fight!
 6635	$spec questportrait_158
-6636	你的实力就只有这些吗？
-6637	仅仅只有这种程度吗？拿出你的真本事来！
-6638	居然真的进步到这种地步了，你真让我刮目相看
-6639	为了雅典娜，我的小宇宙啊，燃烧吧。
-6640	来吧，让我们来一场真正的战斗！
+6636	Is that all your strength?
+6637	Only this grade? Show your true capacity!
+6638	You really progressed to this point, I'm really surprised
+6639	By Athena, burn my Cosmo, burn!
+6640	Come, let's have a real fight!
 6641	$spec questportrait_158
-6642	你的实力就只有这些吗？
-6643	仅仅只有这种程度吗？拿出你的真本事来！
-6644	居然真的进步到这种地步了，你真让我刮目相看
-6645	为了雅典娜，我的小宇宙啊，燃烧吧。
-6646	来吧，让我们来一场真正的战斗！
+6642	Is that all your strength?
+6643	Only this grade? Show your true capacity!
+6644	You really progressed to this point, I'm really surprised
+6645	By Athena, burn my Cosmo, burn!
+6646	Come, let's have a real fight!
 6647	$spec questportrait_158
-6648	你的实力就只有这些吗？
-6649	仅仅只有这种程度吗？拿出你的真本事来！
-6650	居然真的进步到这种地步了，你真让我刮目相看
-6651	为了雅典娜，我的小宇宙啊，燃烧吧。
-6652	来吧，让我们来一场真正的战斗！
+6648	Is that all your strength?
+6649	Only this grade? Show your true capacity!
+6650	You really progressed to this point, I'm really surprised
+6651	By Athena, burn my Cosmo, burn!
+6652	Come, let's have a real fight!
 6653	$spec questportrait_158
-6654	你的实力就只有这些吗？
-6655	仅仅只有这种程度吗？拿出你的真本事来！
-6656	居然真的进步到这种地步了，你真让我刮目相看
-6657	为了雅典娜，我的小宇宙啊，燃烧吧。
-6658	哼！就这么点力量还想打败我？做梦吧！小宇宙爆发给我看看，估计依旧不行
-6659	还没谁能够不爆发小宇宙就能打败我！
+6654	Is that all your strength?
+6655	Only this grade? Show your true capacity!
+6656	You really progressed to this point, I'm really surprised
+6657	By Athena, burn my Cosmo, burn!
+6658	Hunf! Do you want to destroy me with just that strength? Not even in dreams! Let me see you burn your Cosmo, I think it will not be enough
+6659	There is still no one who can burn the Cosmo and defeat me!
 6660	$spec sound_3002
-6661	星矢，我会很快结束这场战斗的。
-6662	$noname$UImid紫龙的破绽出现了！快使用“天马流星拳”！
+6661	Seiya, I will finish that fight quickly.
+6662	$noname$UImidA weakness appeared in Shiryu! Quick, use the "Pegasus Meteor"!
 6663	$spec sound_3003
-6664	庐山升龙霸！
-6665	星矢！接下来我将使出全力击败你！
-6666	天狼冲锋！
-6667	什么？看来我要认真一些了！
-6668	天狼冲锋！
-6669	天狼扑杀！
-6670	幻影天狼拳！
-6671	别小看我！看我天狼座奥义！！
-6672	巨大的龙卷风！
-6673	火蜥蜴冲击！
+6664	Rising Dragon of Rozan!
+6665	Seiya! And now I will attack with all my strength!
+6666	Wolf Onslaught!
+6667	What? It looks like I'll have to take things seriously!
+6668	Wolf Onslaught!
+6669	Slaughter of the Wolf!
+6670	Fist of Illusion of the Wolf!
+6671	Do not underestimate me! Feel my Wolf Technique !!
+6672	Colossal Tornado!
+6673	Satanic Salamander!
 6674	$spec questportrait_270
 6675	$spec questportrait_244
 6676	$spec questportrait_245
-6677	就凭你们也敢来挑战强大的海斗士?在凄厉的寒风中颤栗吧!
+6677	Do you dare to challenge a powerful sailor? Tremble on the hurtful ice!
 6678	$spec sound_6000
 6679	$spec questportrait_505
-6680	$UImid$noname$nobubble希度：是谁竟敢来犯冰之大陆？我要让你们寸步难行！
-6681	$UImid$noname$nobubble法利鲁：一群废物，连这么几个圣斗士都战胜不了！我要让他们埋葬于雪山！
-6682	副本结束
-6683	怒海澜涛！
-6684	影中藏
+6680	$UImid$noname $nobubble Shido: Who dares to rape the great continent of ice? I will not let you take another step!
+6681	$UImid$noname $nobubble Fenrir: a lot of useless; These few Knights will not win! I'm going to bury them in the snow mountain!
+6682	End of the Instance Zone
+6683	Burning Waves!
+6684	Hidden in the Shadow
 6685	$spec animation_2024
-6686	破土而出！
-6687	给我的花儿陪葬！
-6688	尝尝迷幻毒液的味道吧！
-6689	血花刀剪！
-6690	让我将死亡之门开启吧！
-6691	死神阴影进入狂暴状态，用祭坛上的光明之源扼制住他！
+6686	It emerged from Earth!
+6687	Give me the flowers of the funeral!
+6688	Taste the flavor of the stupefying poison!
+6689	Bloody Flower Scissors!
+6690	Let me open the doors of death!
+6691	The shadow of the God of Death is furious, use the light source that is on the altar to contain it!
 6692	$spec sound_7000
-6693	$noname$UImid死神阴影的可怕状态已经被祭坛结界净化！
-6694	拥有着对抗冥王力量的木栾子，怎么可能让你们轻易得到！
-6695	拥有着对抗冥王力量的木栾子，怎么可能让你们轻易得到！
-6696	$noname$UImid快，找出离开死神幻境的机关离开这里。
+6693	$noname$UImidThe terrifying status of the God of Death was already purified by the shield of the altar!
+6694	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+6695	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+6696	$noname$UImidQuick, look for a mechanism to leave the Illusion of the God of Death and get out of here.
 6697	$spec animation_2025
-6698	幽冥爆裂！
+6698	Explosion of the Underworld!
 6699	$spec animation_2034
-6700	忘掉一切吧！陪着我！
-6701	幽冥爆裂！
-6702	一个人还真是寂寞呢！来，都来陪陪我玩吧！
-6703	魔鱼之怒！魔鱼之怒！魔鱼之怒！！！
+6700	Forget everything! Follow me!
+6701	Explosion of the Underworld!
+6702	Being alone is really lonely! Come, come jump with me!
+6703	Fury of the Demon Fish! Fury of the Demon Fish! Fury of the Demon Fish!
 6704	$spec questportrait_252
-6705	$UImid$noname冥王的小宇宙能量开始迅速膨胀，快躲开！
-6706	居然输给了圣斗士，可恶！
+6705	$UImid$noname! The energy of the Hades Cosmo is expanding rapidly, hurry away!
+6706	I lost for a Knight? What the hell!
 6707	$spec questportrait_335
 6708	$spec questportrait_333
 6709	$spec questportrait_331
 6710	$spec questportrait_334
 6711	$spec questportrait_332
-6712	蓝方火焰塔建造完成
-6713	蓝方火焰塔被摧毁
-6714	蓝方寒冰塔建造完成
-6715	蓝方寒冰塔被摧毁
-6716	红方火焰塔建造完成
-6717	红方火焰塔被摧毁
-6718	红方寒冰塔建造完成
-6719	红方寒冰塔被摧毁
+6712	Construction of the fire tower of the blue team completed
+6713	The fire tower of the blue team was destroyed
+6714	Construction of the ice tower of the blue team completed
+6715	The ice tower of the blue team was destroyed
+6716	Construction of the fire tower of the red team completed
+6717	The fire tower of the red team was destroyed
+6718	Construction of the ice tower of the red equipment completed
+6719	The ice tower of the red team was destroyed
 6720	$spec questportrait_247
-6721	你中了诅咒，先不要动！
+6721	You're damn, do not move!
 6722	$spec questportrait_248
-6723	世界之树绝不会被海斗士占领！
-6724	来吧！看看谁才是真的勇士！
-6725	……是姐姐瓦尔基里手下的勇士，他们一定为劝我而来。
-6726	对不起，我一定要去，只有这样才能阻止我哥哥。
+6723	Yggdrasil will not be occupied by the navies!
+6724	Come! Look who is really brave!
+6725	... They are the warriors of my sister Valkyries, who undoubtedly convinced me.
+6726	Sorry, I have to go, this is the only way to stop my brother.
 6727	$spec questportrait_249
 6728	$spec questportrait_250
 6729	$spec questportrait_251
-6730	谢谢你，我还要战斗！
-6731	救命！救命！
-6732	哈哈！多谢你们，我这还有点稀有货物，看你们需要吗！
-6733	蓝冰斗士绝不言败！
-6734	谢谢你，女神的圣斗士！现在，我要回到世界之树长眠……
-6735	我要快回朱利安大人身边！
-6736	谢谢你，女神的圣斗士！现在，我要回到世界之树长眠……
-6737	$noname$UImid注意！星辰史诗的场景中出现全拿走，消灭他！
-6738	不要打我！我什么都没有
+6730	Thanks, I still have to fight!
+6731	Help! Help!
+6732	Haha! Thanks, I still have some rare goods here, see if you need them!
+6733	Blue Ice Warriors will never be defeated
+6734	Thank you, Knights of the Goddess! Now I return to the dream Yggdrasil ...
+6735	I want to be close to Julian again!
+6736	Thank you, Knights of the Goddess! Now I return to the dream Yggdrasil ...
+6737	$noname$UImidAttention! Take everything that appears on the Star Epic stage and kill it!
+6738	Do not hit me! I have nothing
 6739	10
 6740	9
 6741	8
@@ -6747,7 +6747,7 @@
 6746	3
 6747	2
 6748	1
-6749	不要打我！我什么都没有
+6749	Do not hit me! I have nothing
 6750	10
 6751	9
 6752	8
@@ -6758,7 +6758,7 @@
 6757	3
 6758	2
 6759	1
-6760	不要打我！我什么都没有
+6760	Do not hit me! I have nothing
 6761	10
 6762	9
 6763	8
@@ -6770,85 +6770,85 @@
 6769	2
 6770	1
 6771	$spec animation_2101
-6772	友情是什么？为何他又要为了一件圣衣而害我？
-6773	啊，你真的变得好丑啊！还是我们好看一点！
-6774	出来吧！潮汐三叉戟！
-6775	我是雪球座圣斗士！
-6776	燃烧吧，雪球小宇宙！
-6777	雪球滚滚拳！
-6778	我是雪球座圣斗士！
-6779	燃烧吧，雪球小宇宙！
-6780	雪球滚滚拳！
-6781	我是雪球座圣斗士！
-6782	燃烧吧，雪球小宇宙！
-6783	雪球滚滚拳！
-6784	我是雪球座圣斗士！
-6785	燃烧吧，雪球小宇宙！
-6786	雪球滚滚拳！
-6787	我是雪球座圣斗士！
-6788	燃烧吧，雪球小宇宙！
-6789	雪球滚滚拳！
-6790	我是雪球座圣斗士！
-6791	燃烧吧，雪球小宇宙！
-6792	雪球滚滚拳！
-6793	我是雪球座圣斗士！
-6794	燃烧吧，雪球小宇宙！
-6795	雪球滚滚拳！
-6796	我是雪球座圣斗士！
-6797	燃烧吧，雪球小宇宙！
-6798	雪球滚滚拳！
-6799	我是雪球座圣斗士！
-6800	燃烧吧，雪球小宇宙！
-6801	雪球滚滚拳！
-6802	我是雪球座圣斗士！
-6803	燃烧吧，雪球小宇宙！
-6804	雪球滚滚拳！
-6805	纱织小姐，我的新娘！
-6806	雪人统治大地！
-6807	谁敢碰我？！
-6808	呼啸吧，暴风雪！听从我的召唤！
-6809	纱织小姐，我的新娘！
-6810	雪人统治大地！
-6811	谁敢碰我？！
-6812	呼啸吧，暴风雪！听从我的召唤！
-6813	纱织小姐，我的新娘！
-6814	雪人统治大地！
-6815	谁敢碰我？！
-6816	呼啸吧，暴风雪！听从我的召唤！
-6817	纱织小姐，我的新娘！
-6818	雪人统治大地！
-6819	谁敢碰我？！
-6820	呼啸吧，暴风雪！听从我的召唤！
-6821	纱织小姐，我的新娘！
-6822	雪人统治大地！
-6823	谁敢碰我？！
-6824	呼啸吧，暴风雪！听从我的召唤！
-6825	纱织小姐，我的新娘！
-6826	雪人统治大地！
-6827	谁敢碰我？！
-6828	呼啸吧，暴风雪！听从我的召唤！
-6829	纱织小姐，我的新娘！
-6830	雪人统治大地！
-6831	谁敢碰我？！
-6832	呼啸吧，暴风雪！听从我的召唤！
-6833	纱织小姐，我的新娘！
-6834	雪人统治大地！
-6835	谁敢碰我？！
-6836	呼啸吧，暴风雪！听从我的召唤！
-6837	纱织小姐，我的新娘！
-6838	雪人统治大地！
-6839	谁敢碰我？！
-6840	呼啸吧，暴风雪！听从我的召唤！
-6841	纱织小姐，我的新娘！
-6842	雪人统治大地！
-6843	谁敢碰我？！
-6844	呼啸吧，暴风雪！听从我的召唤！
-6845	纱织小姐，我的新娘！
-6846	雪人统治大地！
-6847	谁敢碰我？！
-6848	呼啸吧，暴风雪！听从我的召唤！
-6849	好热~好热~我要爆炸了！再见了，美丽的纱织小姐！
-6850	不要打我！我什么都没有
+6772	What is friendship? Why is he hurting me for a holy garment?
+6773	Ah, you really become ugly! Still we look good!
+6774	Get out! Trident Tide!
+6775	I am the Snowball Knight!
+6776	Burning, Cosmo of the snowball!
+6777	Punch Snow!
+6778	I am the Snowball Knight!
+6779	Burning, Cosmo of the snowball!
+6780	Punch Snow!
+6781	I am the Snowball Knight!
+6782	Burning, Cosmo of the snowball!
+6783	Punch Snow!
+6784	I am the Snowball Knight!
+6785	Burning, Cosmo of the snowball!
+6786	Punch Snow!
+6787	I am the Snowball Knight!
+6788	Burning, Cosmo of the snowball!
+6789	Punch Snow!
+6790	I am the Snowball Knight!
+6791	Burning, Cosmo of the snowball!
+6792	Punch Snow!
+6793	I am the Snowball Knight!
+6794	Burning, Cosmo of the snowball!
+6795	Punch Snow!
+6796	I am the Snowball Knight!
+6797	Burning, Cosmo of the snowball!
+6798	Punch Snow!
+6799	I am the Snowball Knight!
+6800	Burning, Cosmo of the snowball!
+6801	Punch Snow!
+6802	I am the Snowball Knight!
+6803	Burning, Cosmo of the snowball!
+6804	Punch Snow!
+6805	Miss Saori, my girlfriend!
+6806	The Snowman rules the earth!
+6807	Who dares to touch me?
+6808	Whistle, snowstorm! Listen to my invocation!
+6809	Miss Saori, my girlfriend!
+6810	The Snowman rules the earth!
+6811	Who dares to touch me?
+6812	Whistle, snowstorm! Listen to my invocation!
+6813	Miss Saori, my girlfriend!
+6814	The Snowman rules the earth!
+6815	Who dares to touch me?
+6816	Whistle, snowstorm! Listen to my invocation!
+6817	Miss Saori, my girlfriend!
+6818	The Snowman rules the earth!
+6819	Who dares to touch me?
+6820	Whistle, snowstorm! Listen to my invocation!
+6821	Miss Saori, my girlfriend!
+6822	The Snowman rules the earth!
+6823	Who dares to touch me?
+6824	Whistle, snowstorm! Listen to my invocation!
+6825	Miss Saori, my girlfriend!
+6826	The Snowman rules the earth!
+6827	Who dares to touch me?
+6828	Whistle, snowstorm! Listen to my invocation!
+6829	Miss Saori, my girlfriend!
+6830	The Snowman rules the earth!
+6831	Who dares to touch me?
+6832	Whistle, snowstorm! Listen to my invocation!
+6833	Miss Saori, my girlfriend!
+6834	The Snowman rules the earth!
+6835	Who dares to touch me?
+6836	Whistle, snowstorm! Listen to my invocation!
+6837	Miss Saori, my girlfriend!
+6838	The Snowman rules the earth!
+6839	Who dares to touch me?
+6840	Whistle, snowstorm! Listen to my invocation!
+6841	Miss Saori, my girlfriend!
+6842	The Snowman rules the earth!
+6843	Who dares to touch me?
+6844	Whistle, snowstorm! Listen to my invocation!
+6845	Miss Saori, my girlfriend!
+6846	The Snowman rules the earth!
+6847	Who dares to touch me?
+6848	Whistle, snowstorm! Listen to my invocation!
+6849	So hot ~ so hot ~ I'm going to explode! Goodbye, pretty Miss Saori!
+6850	Do not hit me! I have nothing
 6851	10
 6852	9
 6853	8
@@ -6859,7 +6859,7 @@
 6858	3
 6859	2
 6860	1
-6861	不要打我！我什么都没有
+6861	Do not hit me! I have nothing
 6862	10
 6863	9
 6864	8
@@ -6870,49 +6870,49 @@
 6869	3
 6870	2
 6871	1
-6872	独角飞奔！
-6873	巨熊吊杀！
-6874	水蛇毒牙！
-6875	幼狮炸弹！
-6876	死亡咆哮！
-6877	就让我天箭座来结果你们吧！
-6878	呀呀呀！
-6879	教皇大人，我尽力了……
+6872	Gallop of the Unicorn!
+6873	Hanging Bear!
+6874	Seasoned Poison!
+6875	Lionet Bomb!
+6876	Wolf's Deadly Howl!
+6877	Let me, Sagitta, finish with you!
+6878	Yes, yes!
+6879	Grand Master, say the best of me ......
 6880	$spec questportrait_316
 6881	$spec questportrait_109
 6882	$spec questportrait_110
-6883	怒海澜涛！
+6883	Burning Waves!
 6884	e4w
 6885	$spec animation_2003
-6886	$noname$UImid即将有敌人对纱织进行偷袭，快安排一些人去她的身边，快点，来不及了！！
+6886	$noname$UImid! There is an imminent attack on Saori! Quick, gather some people to protect it, there is not much time !!
 6887	$spec animation_2004
-6888	$noname$UImid第一波怪物攻击开始啦！！
-6889	$noname$UImid第二波怪物攻过来了！！
-6890	$noname$UImid第三波怪物攻上来啦！！！
-6891	$noname$UImid纱织：啊！！天箭座·托勒密，你想做什么？
+6888	$noname$UImid! The attack of the first horde of monsters started !!
+6889	$noname$UImid! The attack of the second horde of monsters began !!
+6890	$noname$UImid! The attack of the third horde of monsters started !!
+6891	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
 6892	$spec animation_2005
-6893	这次我要挑一个弱一点的进攻了！
+6893	This time I want a slightly weaker attack!
 6894	$spec questportrait_307
 6895	$spec questportrait_360
 6896	$spec questportrait_347
-6897	快！我要撑不住了……
-6898	嘶嘶~~~~~~~~~~~
-6899	突然好困……
-6900	哼，你别以为可以从我嘴里知道什么。那位大人一定会来救我的。
+6897	Quick! I can not stand it...
+6898	sss ~~~~~~~~~~~~
+6899	Suddenly drowsy ......
+6900	Do not think you'll know something through my mouth. I'm sure that man will come to save me.
 6901	$spec animation_2024
 6902	$spec animation_2040
-6903	${lev(80-200)}$noname$UImid天哭星幻影出现在2线试炼幻境(-153，147)处，请使用了试炼凭证的勇士们在圣域找幻境使者传入挑战
+6903	${lev(80-200)}$noname$UImidThe mirage of the Celestial Star of Lament appeared in the Illusion Training of Realm 2 (-153,147). Knights who used the Training Certificate, look for the Emissary of Illusion for the challenge
 6904	$spec questportrait_343
 6905	$spec questportrait_345
-6906	冥界诅咒减缓了我的速度，只要拥有足够的小宇宙能量我就能破除它的效果！
-6907	好温暖的小宇宙！女神的荣光照亮了我前进的方向！
-6908	前面的那个家伙似乎有些奇怪，过去探听一下。
-6909	恭喜你们出色的完成了本次护送。
-6910	策略2被执行
-6911	测试结束。
-6912	雅典娜，我是不会放过你的！
-6913	雅典娜，我是不会放过你的！
-6914	梦神的手下已经接近了！勇敢的少年啊！全靠你们了！
+6906	The curse of the Underworld slowed down my speed, it's just burning enough energy from the Cosmo and I could get rid of its effects!
+6907	What a warm Cosmo! The glory of the Goddess will illuminate our path!
+6908	Before the boy seems a little strange, ask him about the past.
+6909	Congratulations for the excellent completion of this escort.
+6910	Strategy 2 executed
+6911	Test completed
+6912	Athena, I will not leave you!
+6913	Athena, I will not leave you!
+6914	The agents of the God of the dream are already near! Brave young people! We count on you!
 6915	$spec questportrait_364
 6916	$spec questportrait_364
 6917	$spec questportrait_364
@@ -6921,201 +6921,201 @@
 6920	$spec questportrait_366
 6921	$spec questportrait_363
 6922	$spec sound_4001
-6923	绝对不会让你们到达一辉大人那里！给我陪葬！！
-6924	黑死拳！
+6923	Of course I will not let you reach Ikki! Die!
+6924	Black Death!
 6925	$spec questportrait_112
 6926	$spec sound_4001
-6927	绝对不会让你们到达一辉大人那里！给我陪葬！！
-6928	黑死拳！
+6927	Of course I will not let you reach Ikki! Die!
+6928	Black Death!
 6929	$spec questportrait_112
-6930	你们还不够强大，下次准备好了再来挑战我吧
+6930	They are not yet strong enough, next time come to challenge when they are ready
 6931	$spec sound_4001
-6932	绝对不会让你们到达一辉大人那里！给我陪葬！！
-6933	黑死拳！
+6932	Of course I will not let you reach Ikki! Die!
+6933	Black Death!
 6934	$spec questportrait_112
-6935	你们还不够强大，下次准备好再来挑战我吧！
-6936	你们找死!
-6937	火焰冲天
-6938	巨力践踏
-6939	释放我的怒火
+6935	They are not strong enough yet, next time come to challenge when they are ready!
+6936	They are looking for death!
+6937	Flame Offensive
+6938	Marching Powerful
+6939	Unleash my rage
 6940	$spec questportrait_230
-6941	你们也将和艾俄罗斯一样接受正义的审判!
-6942	圣剑劈斩
-6943	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+6941	You will receive the same fair judgment as Aiolos!
+6942	Simple Attack of the Sword
+6943	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 6944	$spec sound_1064
-6945	圣剑合斩
-6946	你们找死!
-6947	火焰冲天
-6948	巨力践踏
-6949	你们找死!
-6950	火焰冲天
-6951	巨力践踏
-6952	炎爆术！
-6953	你们还不够强大
-6954	释放我的怒火
+6945	Double Attack of the Sword
+6946	They are looking for death!
+6947	Flame Offensive
+6948	Marching Powerful
+6949	They are looking for death!
+6950	Flame Offensive
+6951	Marching Powerful
+6952	Explosion of Flames!
+6953	You are still not strong enough
+6954	Unleash my rage
 6955	$spec questportrait_230
-6956	释放我的怒火
-6957	感受死亡吧
+6956	Unleash my rage
+6957	Feel the death
 6958	$spec questportrait_230
-6959	你们也将和艾俄罗斯一样接受正义的审判!
-6960	圣剑劈斩
-6961	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+6959	You will receive the same fair judgment as Aiolos!
+6960	Simple Attack of the Sword
+6961	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 6962	$spec sound_1064
-6963	圣剑合斩
-6964	你们还不够强大
-6965	你们也将和艾俄罗斯一样接受正义的审判!
-6966	圣剑劈斩
-6967	圣剑风暴！
-6968	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+6963	Double Attack of the Sword
+6964	You are still not strong enough
+6965	You will receive the same fair judgment as Aiolos!
+6966	Simple Attack of the Sword
+6967	Storm of Swords!
+6968	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 6969	$spec sound_1064
-6970	你们还不够强大
-6971	总有一天我要开上这辆帅气的战车，威风一把！！！
-6972	$noname$UImid神之惩戒已经就绪！！！
-6973	冥界诅咒减缓了我的速度，只要拥有足够的小宇宙能量我就能破除它的效果！
-6974	好温暖的小宇宙！女神的荣光照亮了我前进的方向！
-6975	前面的那个家伙似乎有些奇怪，过去探听一下。
-6976	恭喜你们出色的完成了本次护送。
-6977	只有在12个小时内赶到教皇厅，才能拔出雅典娜身上的黄金箭！
-6978	让你尝尝赫拉克勒斯神力的厉害！
-6979	赫拉克勒斯的神力竟然消失了！
+6970	You are still not strong enough
+6971	Someday I want to drive a war chariot like that and show me a little !!!
+6972	$noname$UImidThe discipline of God is ready !!!
+6973	The curse of the Underworld slowed down my speed, it's just burning enough energy from the Cosmo and I could get rid of its effects!
+6974	What a warm Cosmo! The glory of the Goddess will illuminate our path!
+6975	Before the boy seems a little strange, ask him about the past.
+6976	Congratulations for the excellent completion of this escort.
+6977	Only by reaching the Great Teacher's Hall within twelve hours will it be possible to remove the arrow from the body of Athena!
+6978	Feel the divine power of Heracles!
+6979	The power of Heracles really disappeared!
 6980	$spec sound_4001
-6981	绝对不会让你们到达一辉大人那里！给我陪葬！！
-6982	黑死拳！
+6981	Of course I will not let you reach Ikki! Die!
+6982	Black Death!
 6983	$spec questportrait_112
-6984	你们还不够强大，下次准备好了再来挑战我吧
+6984	They are not yet strong enough, next time come to challenge when they are ready
 6985	$spec sound_4001
-6986	绝对不会让你们到达一辉大人那里！给我陪葬！！
-6987	黑死拳！
+6986	Of course I will not let you reach Ikki! Die!
+6987	Black Death!
 6988	$spec questportrait_112
-6989	你们还不够强大，下次准备好再来挑战我吧！
-6990	嘀嗒，这一步很重要！
-6991	嘀嗒咚
-6992	你们找死!
-6993	火焰冲天
-6994	巨力践踏
-6995	你们找死!
-6996	火焰冲天
-6997	巨力践踏
-6998	炎爆术！
-6999	你们还不够强大
-7000	释放我的怒火
+6989	They are not strong enough yet, next time come to challenge when they are ready!
+6990	Tic tac, that stage is very important!
+6991	Tic Tac Toc
+6992	They are looking for death!
+6993	Flame Offensive
+6994	Marching Powerful
+6995	They are looking for death!
+6996	Flame Offensive
+6997	Marching Powerful
+6998	Explosion of Flames!
+6999	You are still not strong enough
+7000	Unleash my rage
 7001	$spec questportrait_230
-7002	释放我的怒火
-7003	感受死亡吧
+7002	Unleash my rage
+7003	Feel the death
 7004	$spec questportrait_230
-7005	你们也将和艾俄罗斯一样接受正义的审判!
-7006	圣剑劈斩
-7007	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+7005	You will receive the same fair judgment as Aiolos!
+7006	Simple Attack of the Sword
+7007	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 7008	$spec sound_1064
-7009	圣剑合斩
-7010	你们还不够强大
-7011	你们也将和艾俄罗斯一样接受正义的审判!
-7012	圣剑劈斩
-7013	圣剑风暴！
-7014	面对强大的修罗,你们会选择勇敢的面对,还是如懦夫般的落荒而逃?
+7009	Double Attack of the Sword
+7010	You are still not strong enough
+7011	You will receive the same fair judgment as Aiolos!
+7012	Simple Attack of the Sword
+7013	Storm of Swords!
+7014	Confronted with the powerful Shura, chose to face with courage or flee like cowards?
 7015	$spec sound_1064
-7016	你们还不够强大
-7017	要牢记，这就是破坏敌人招式的真谛！
+7016	You are still not strong enough
+7017	Remember, that is the essence of the blow to destroy the enemies!
 7018	
 7019	$spec sound_1016
-7020	哈哈哈
+7020	Hahaha
 7021	
 7022	$spec sound_1012
 7023	$spec questportrait_419
 7024	$spec sound_1013
-7025	回旋击！
-7026	不可能，我的防御竟然被打破了！
-7027	阿鲁迪巴大人，我没有守住……
-7028	嗬！
-7029	可恶……莎尔娜小姐，我尽力了
-7030	咻咻！
-7031	我……我可不可以再玩会儿……就一会儿……
-7032	这不可能！狮子座的小宇宙竟然让赫拉克勒斯的神力消失了！
-7033	比赛开始
-7034	别了，我自由自在的生活。
-7035	可以让我们再玩一会儿吗？就一会儿……
-7036	别了，我自由自在的生活。
-7037	爸爸妈妈……
-7038	爸爸妈妈……
-7039	我不要回去，我还要玩，要玩……
-7040	欢欢，等等我。
+7025	Attack of the Boomerang!
+7026	Impossible, my shield suddenly broke!
+7027	Aldebaran, I have no defense ......
+7028	Hey!
+7029	Damn ... Miss Shina, I tried
+7030	Chiu, Chiu!
+7031	I ... I can ... I can play a little ... just a little ..
+7032	That's impossible! The Cosmo of Leo really made Heracles disappear!
+7033	Start of the competition
+7034	Goodbye, my free life.
+7035	Can we play a little more? Just a little....
+7036	Goodbye, my free life.
+7037	Mom and Dad ......
+7038	Mom and Dad ......
+7039	I do not want to go back, I want to play, play ...
+7040	Fefe, wait for me.
 7041	$spec questportrait_408
 7042	$spec questportrait_409
 7043	$spec questportrait_410
-7044	你们都得死！！！
-7045	你们都得死！！！
-7046	感谢你们帮我摆脱了冥界力量的控制！
-7047	想再尝尝鬼苍炎的味道吗！
+7044	You must die !!!
+7045	You must die !!!
+7046	Thank you for helping me get rid of the control of the Underworld forces!
+7047	Do you want to experience the hecatomb of the spirits ?!
 7048	$spec sound_1035
-7049	哼！是时候让你见识见识真正的世界了！
-7050	要牢记，这就是破坏敌人招式的真谛！
-7051	要牢记，这就是破坏敌人招式的真谛！
+7049	Hung! It's time for you to experience the real world!
+7050	Remember, that is the essence of the blow to destroy the enemies!
+7051	Remember, that is the essence of the blow to destroy the enemies!
 7052	$spec sound_1033
-7053	被百万僵尸吞噬吧！尝尝我的万鬼积尸气！
-7054	$noname$UImid尽快消灭积尸气
-7055	$noname$UImid尽快消灭积尸气
-7056	$noname$UImid尽快消灭积尸气
-7057	$noname$UImid尽快消灭积尸气
-7058	跑啊，逃跑啊，看你往那儿跑！积尸气追踪波！
-7059	紫龙，我没时间跟你浪费，见识见识黄金圣衣的真正的实力吧！
-7060	我……怎么会输给一个青铜圣斗士……
+7053	Be swallowed by the spirits! Experience the Millions of Spirits!
+7054	$noname$UImidEliminate the spirits as quickly as possible
+7055	$noname$UImidEliminate the spirits as quickly as possible
+7056	$noname$UImidEliminate the spirits as quickly as possible
+7057	$noname$UImidEliminate the spirits as quickly as possible
+7058	Running, fleeing, where are you running? Hell waves!
+7059	Shiryu, I do not have time to waste with you, experience the true power of the Golden Armor!
+7060	How? ...... I lost with a Bronze Knight ......
 7061	$spec animation_2027
-7062	哈哈哈哈……
+7062	Hahahaha ......
 7063	$spec sound_1038
-7064	哈哈哈哈……
+7064	Hahahaha ......
 7065	$spec sound_1038
-7066	让我将死亡之门开启吧！
-7067	死神阴影进入狂暴状态！
+7066	Let me open the doors of death!
+7067	The Shadow of the God of Death is furious!
 7068	$spec sound_7000
-7069	拥有着对抗冥王力量的木栾子，怎么可能让你们轻易得到！
-7070	$UImid$noname一大波六道变种生物接近中，请对应道业的小伙伴做好准备。
-7071	$UImid$noname撒加即将出现在沙罗双树园中，请各位队员做好准备。
-7072	$UImid$noname撒加：即使是沙加也不能阻止我撒加前行的脚步，过来受死吧！
-7073	$UImid$noname选择与自己相对应的六道战斗才可以获得修业，获得更多的修业才会更强大！！
-7074	出来吧！我的宝贝！
+7069	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+7070	​​$UImid$noname A horde of mutants is approaching. Prepare yourselves companions of the corresponding Kingdom.
+7071	$UImid$noname Saga will appear in the Garden of Trees Twin Room very soon, Members, get ready.
+7072	$UImid$noname Saga: not even Shaka will stop me from continuing. Prepare to die!
+7073	$UImid$noname Select the Match of the Six Kingdoms corresponding to obtain Knowledge and thus become more powerful !!
+7074	Come out, my babies!
 7075	$spec questportrait_417
-7076	$UImid$noname大批地狱道变种将出现在沙罗双树附近！！！
-7077	$UImid$noname大批饿鬼道变种将出现在沙罗双树附近！！！
-7078	死了还会怕，还会怕吗？
-7079	小小的青铜圣斗士，本大爷要好好教教你怎么出拳！
-7080	乌鸦尖啸拳！
-7081	别怪本大爷下手重！
-7082	瞬，你以为自己的锁链可以抵御我的一切进攻吗？
-7083	这次我的乌鸦们将更加疯狂！群鸦盛宴！！！
-7084	让我见识见识你的全部本事，看看你究竟有没有能力回答我的问题。
-7085	异次元空间拳！
-7086	我想你或许有资格说出一个答案了。
-7087	防御！防御！让我看看你的锁链能否防御住双子宫的愤怒！
-7088	防御啊，继续防御！告诉我你不是偶然抵御住了愤怒的惩罚。
-7089	分裂
-7090	$UImid$noname雅典娜：哈迪斯我接受你的挑战，我和我的圣斗士一定将你赶出这片大地！！！
+7076	$UImid$noname A large number of mutants of the Infernal Kingdom will appear near the Gemini Trees Rooms !!!
+7077	$UImid$noname A large number of mutants from the Kingdom of the Hungry Ghosts will appear near Gemini Trees Rooms !!!
+7078	Will you still be afraid after death, will you still be afraid?
+7079	Bronze Knight, I, great, will teach you how to punch!
+7080	Raven's Fist!
+7081	Do not blame me, restart!
+7082	Shun, did you think that your chains could protect you from all my attacks?
+7083	This time my crows are even more crazy! Feast for Crows!!!
+7084	Let me test all your strength, and see if you finally have the ability to answer my questions.
+7085	Fist of another dimension!
+7086	I think maybe you can answer my questions.
+7087	Defense! Defending! Let me see if your chain is able to protect against the fury of Gemini!
+7088	Defense, continue defending! Tell me you have not accidentally resisted the punishment of ferocity.
+7089	Separation
+7090	$UImid$noname Athena: Hades accepted your challenge, my Knights and I are surely going to expel you from this land !!!
 7091	$spec questportrait_423
-7092	让内心充满憎恨！
-7093	唵、嘛、呢、叭、咪、吽，啵！
-7094	怎么回事，我的头，我的头好痛，我的头……这些黑色的气息是什么？
-7095	我太痛苦了，太痛苦了，为什么我感觉如此难过……
+7092	Fill your heart with hate!
+7093	Om Mani Padme Mmm!
+7094	What happened? My head, how it hurts! ...... What is this black atmosphere?
+7095	I'm very sad, too sad, because I feel so sad ......
 7096	$spec questportrait_424
-7097	美斯狄大人您是最美丽的圣斗士，加油！加油！
-7098	不给糖果就捣蛋！
-7099	击败我，击败我！
-7100	$noname$UImid赫尔墨斯的使者将在10分钟后离开军团基地。
-7101	$noname$UImid赫尔墨斯的使者离开了军团基地……
-7102	不可能……
-7103	分裂！
-7104	剥夺你的第四感！
-7105	你的五感全部被剥夺了冰河！静静的等待死亡的降临吧！
-7106	没想到即便没有了六感依然可以将我冰冻，冰河好样的！
-7107	哈哈，干得好！下面由我来做你们的对手！
-7108	原子闪电光速拳！
-7109	原子闪电光速拳！
-7110	白鲸超绞拳！
-7111	重磅炸弹，准备！
-7112	持链者，困住这个青铜叛徒！
+7097	Misty, you are the cutest Knight of all, strength! Force!
+7098	Sweet or Trick!
+7099	Hit me, hit me!
+7100	$noname$UImid The messenger of Hermes will leave the Guild base after 10 minutes.
+7101	$noname$UImid The messenger of Hermes left the base of the Guild ......
+7102	Impossible ......
+7103	Separation!
+7104	Deprivation of your fourth sense!
+7105	His five senses were all withdrawn, Hyoga! Wait calmly for the arrival of death!
+7106	I did not expect that even without the six senses you could still freeze me, awesome Hyoga!
+7107	Haha, well done! I will be your next opponent!
+7108	Atomic Thunder!
+7109	Atomic Thunder!
+7110	Kaitos explosive force!
+7111	Prepare, Block Bomb!
+7112	Jailer, stop that Bronze traitor!
 7113	$spec questportrait_457
 7114	$spec questportrait_461
 7115	$spec questportrait_460
-7116	不要打我！天间星的财富都是不正当得来的，咱们将它分了吧！
-7117	90
+7116	Do not hit me! The wealth of the Celestial Star of the Interval was obtained dishonestly, we are going to divide it!
+7117	10
 7118	9
 7119	8
 7120	7
@@ -7125,198 +7125,198 @@
 7124	3
 7125	2
 7126	1
-7127	我喜欢黄金的味道！
-7128	我喜欢黄金的味道！
-7129	冰河，这一次我将让你彻底冰封在冰棺之中！永别了！
-7130	怎么可能，怎么可能击破我的千年冰棺，难道冰河的小宇宙已经提升到我冻气之上了吗？
-7131	冰河，为师这次不会手下留情！
-7132	曙光女神的宽恕！
-7133	做的好，冰河……
-7134	$UImid$noname艾欧罗斯：欢呼吧，年轻的圣斗士，你们竟然把死神也击败了，我为你们感到骄傲。
-7135	可恶！这怎么可能，我可是神！！等到了冥界我绝不放过你们！！！
-7136	婚礼将于5分钟后结束全部结束，感谢各位来宾各位亲友，最后让我们祝福新人百年好合！
-7137	$noname花童：好热闹哦，浪漫气息包围在身边~！今天，新郎最帅，新娘最美，谁都不能否认哦~！来宾可以在婚庆商店买蛋糕、鲜花、烟火等道具，让我们一起为婚礼锦上添花吧！
-7138	我升到顶级啦！
-7139	我升到顶级啦！
-7140	天贵星前来拜访!
-7141	撕裂天空！
+7127	I like the taste of Gold!
+7128	I like the taste of Gold!
+7129	Hyoga, this time I'll leave you completely frozen in an ice coffin! Goodbye!
+7130	How is it possible? How can I have destroyed my eternal ice coffin? Could it be that his Diamond Dust has already risen above mine?
+7131	Hyoga, to show you this time I'm going to play hard!
+7132	Aurora execution
+7133	Very good, Hyoga ......
+7134	$UImid$noname Aioros: Celebrate, young Knights. They defeated the God of Death, I am very proud of you
+7135	Damn! How is this possible, I am a god !! When they reach the Underworld, I will not forgive them !!!
+7136	The wedding ceremony will end completely after 5 minutes, we thank each guest, friend and family for the presence. Finally, we wish the bride and groom a lot of happiness!
+7137	$noname Bridesmaid: What encouragement! This romanticism around is also in me ~! Today, the groom is the most handsome and the bride, the most beautiful; Who can deny it ~? Guests can buy cakes, flowers, fireworks and the like at the wedding celebration store; we will make a perfect decoration for this wedding!
+7138	I'm at the highest level!
+7139	I'm at the highest level!
+7140	Celestial Star of the Nobility came to visit!
+7141	Tear the heavenly world!
 7142	$spec questportrait_474
-7143	死吧！紫龙！
+7143	Die! Shiryu!
 7144	$spec questportrait_475
-7145	$UImid看来我已经可以放心的把圣域交给你们这些新一代的圣斗士了……
-7146	求您别打，我不敢偷懒……
+7145	$UImidI believe that I can already trust the Shrine in their hands, Knights of the New Generation ......
+7146	I beg you do not hit me, I'm not lazy ......
 7147	
 7148	
 7149	
-7150	$UImid经过这一番磨练，就由我来检验一下你们是否领悟这绝招的真谛！
-7151	阿布罗狄大人，我尽力了……
+7150	$UImidAfter that training, I'm going to test if you really understood the true essence of this hit!
+7151	Aphrodite, I tried ...
 7152	$spec questportrait_485
-7153	你们这是自寻死路！！
-7154	$noname$UImid^e12500冥王代行者潘多拉：颤抖吧，凡人们！！在这只有神才能通过的墙之前叹息吧，你们永远无法到达我主的极乐净土，最终只能沉沦在地狱的无尽痛苦中！！^ffff00雅典娜：圣斗士们啊，打倒冥王代行者，就将获得我的恩赐！^N
-7155	$noname$UImid全身被蓝光覆盖的人可以开启真假冥界之锤！
-7156	$noname$UImid全身被蓝光覆盖的人可以开启真假冥界之锤！
-7157	$noname$UImid全身被蓝光覆盖的人可以开启真假冥界之锤！
-7158	$noname$UImid全身被蓝光覆盖的人可以开启真假冥界之锤！
+7153	They are following the path of ruin!
+7154	$noname$UImid ^e12500Pandora, Representative of Hades: ¡Temam, mortals! Lament in front of that wall that only the Gods can cross. They will never reach the Champs Elysees of my Lord and they will remain in Hell suffering eternally! ^Ffff00Atenea: Knights, defeat the Representative of Hades, thus, you will obtain my blessing! ^N
+7155	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
+7156	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
+7157	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
+7158	$noname$UImid! The person covered by the Blue Light will be able to activate the legitimate and false Underworld Hammer!
 7159	$spec animation_2052
 7160	$spec sound_1051
-7161	$noname$UImid^e12500勇士们在宇宙争霸赛的奋战，本服获得了光辉的胜利，第二轮比赛奖励已经开启，所有30级以上的圣斗士可以领取犒赏！！
+7161	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the second round is already released. Knights above level 30 can receive it!
 7162	
-7163	哈哈哈哈……就陪你们玩到这里，有胆子的去叹息之墙，我会在那里消灭你们！
-7164	今天就先战到这里，在叹息之墙再彻底解决你们！！
-7165	叹息之墙才是我必须保护的地方，乖乖地回去的话就饶你们一命！
-7166	愚蠢的圣斗士们，今天就陪你们玩到这里吧!
-7167	因陀罗毁灭者！
-7168	巨翼翔风！
-7169	埋葬尖啸！
+7163	Hahahaha ... I will accompany you here, if you have value go to the Wailing Wall, I will destroy you there!
+7164	Today, the first fight ends here, resolve everything in the Wailing Wall !!
+7165	The Wailing Wall is the place I must protect, be good and return that I forgive your life!
+7166	Stupid knights, today I will accompany you here!
+7167	Destroyer of Indra!
+7168	Wings of Doom
+7169	Burial Whistle!
 7170	$spec questportrait_490
 7171	$spec questportrait_495
-7172	$UImid$noname雅典娜：太令人激动了！勇敢的圣斗士精英们经过不懈的努力终于击败了极乐净土中的死神和睡神！我以女神的名义将奖赏所有参与过战斗的圣斗士。
+7172	$UImid$noname Athena: It's so exciting! The brave Knights after constant efforts finally defeated Hypnos and Thanatos! In the name of the Goddess I will reward all the Knights who have participated in the struggle.
 7173	
-7174	卑微的人类，永远的沉睡吧！
+7174	Simple human beings, sleep deeply for eternity!
 7175	$spec questportrait_493
 7176	$spec questportrait_494
-7177	$noname死神已经濒死，快在3分钟内消灭睡神！
-7178	$UImid$noname冥界的三巨头已经被前往冥界的圣斗士精英们击溃，让我们为胜利而欢呼！
-7179	没有雅典娜，就凭你们这些圣斗士也想和我斗！
-7180	让我来看看我一共召唤了几颗行星，每召唤1颗你们中就必须有人死去！
-7181	没想到还有这么多的圣斗士还活着，看来必须的减点人数。
-7182	不可能！你们竟然拥有和我哈迪斯相匹敌的势力，你们这些该死的圣斗士！接受我哈迪斯的制裁吧！
-7183	永恒日蚀！！！
-7184	永恒日蚀！！！
-7185	$UImid$noname雅典娜：太令人激动了！勇敢的圣斗士精英们经过不懈的努力终于击败了极乐净土中的哈迪斯！我以女神的名义将奖赏所有参与过战斗的圣斗士。
+7177	$noname The God of Death is already close to death, fast, kill him in 3 minutes!
+7178	$UImid$noname The three judges of the Underworld were defeated by the Knights of the Elite, we will celebrate the victory!
+7179	Without the help of Athena, those Knights still want fights against me!
+7180	Let me see how many stars of death I invoked, for each star one of you must die!
+7181	I did not expect so many living Knights, it seems that it will be necessary to reduce the number of humans a little.
+7182	Impossible! They really have the strength to rival me, Hades, your damned Knights! Receive my punishment for that!
+7183	Eternal Eclipse !!!
+7184	Eternal Eclipse !!!
+7185	$UImid$noname Athena: it's so exciting! The brave Knights, after incessant efforts, finally defeated Hades on the Elysees! In the name of the Goddess, it will reward all the Knights who have participated in the struggle.
 7186	$spec questportrait_497
 7187	$spec questportrait_498
 7188	$spec questportrait_516
-7189	轰鸣飞翔！
-7190	最大警戒！
-7191	燃烧之心！
+7189	Explosive flight!
+7190	Supreme Punishment!
+7191	Burning Heart!
 7192	$spec questportrait_514
-7193	银河幻影！
-7194	迦楼罗飓风！
-7195	迦楼罗飓风！
-7196	因陀罗毁灭者！
-7197	因陀罗毁灭者！
+7193	Galactic Illusion!
+7194	Garuda Hurricane!
+7195	Garuda Hurricane!
+7196	Destroyer of Indra!
+7197	Destroyer of Indra!
 7198	$spec questportrait_518
-7199	巨翼翔风！
-7200	埋葬尖啸！
+7199	Wings of Doom
+7200	Burial Whistle!
 7201	$spec questportrait_495
-7202	卑微的人类，永远的沉睡吧！
+7202	Simple human beings, sleep deeply for eternity!
 7203	$spec questportrait_493
 7204	$spec questportrait_494
-7205	$noname死神已经濒死，快在3分钟内消灭睡神！
-7206	不可能！你们竟然拥有和我哈迪斯相匹敌的势力，你们这些该死的圣斗士！接受我哈迪斯的制裁吧！
-7207	永恒日蚀！！！
-7208	永恒日蚀！！！
-7209	$UImid$noname雅典娜：太令人激动了！勇敢的圣斗士精英们经过不懈的努力终于击败了极乐净土中的哈迪斯！我以女神的名义将奖赏所有参与过战斗的圣斗士。
+7205	$noname The God of Death is already close to death, fast, kill him in 3 minutes!
+7206	Impossible! They really have the strength to rival me, Hades, your damned Knights! Receive my punishment for that!
+7207	Eternal Eclipse !!!
+7208	Eternal Eclipse !!!
+7209	$UImid$noname Athena: it's so exciting! The brave Knights, after incessant efforts, finally defeated Hades on the Elysees! In the name of the Goddess, it will reward all the Knights who have participated in the struggle.
 7210	$spec questportrait_506
 7211	$spec questportrait_533
-7212	血花刀剪！
+7212	Bloody Flower Scissors!
 7213	$spec questportrait_534
-7214	你们……逃不出梦魇……
-7215	呜呜呜……
+7214	You ... you can not escape the nightmare ...
+7215	Oooh ......
 7216	$spec questportrait_512
 7217	$spec questportrait_547
 7218	$spec questportrait_546
 7219	$spec questportrait_531
 7220	$spec questportrait_527
-7221	$UImid$noname教皇大人开启了圣像活动，大家请到圣域码头的圣域监工那里帮助修建！
-7222	$UImid$noname在全体圣斗士的共同努力下，女神圣像已经建成，对圣像祷告可以获得奖励！
-7223	你……竟然拥有这样的力量……
+7221	$UImid$noname The Grand Master released the Statue Event. Everyone should go to the Sanctuary Superintendent, at the pier, to help with the construction!
+7222	$UImid$noname Thanks to the efforts of the Knights, the Statue of the Goddess is ready. Make a prayer for the statue and you can win prizes!
+7223	You ...... you really have that power ......
 7224	$spec questportrait_529
 7225	$spec sound_1051
 7226	$spec questportrait_561
-7227	好大的兔子！快跑啊！
-7228	$UImid$noname雅典娜：谢谢你们圣斗士，你们粉碎了冥王的阴谋！
-7229	就像老鼠一样跑来跑去，定定定！
-7230	$UImid$noname系统公告：12：00-13：00在15线圣域内将出现大量国庆小丑，击杀后将会有大量礼品送出，圣斗士们赶快行动起来吧！！！
-7231	$UImid$noname系统公告：21：00-22：00在15线圣域内将出现大量国庆小丑，击杀后将会有大量礼品送出，圣斗士们赶快行动起来吧！！！
-7232	我赶着国庆节来这里巡演，你们记得要来看我的表演啊！！！
-7233	今天心情好，礼物就留给你们啦！！！
-7234	我洛基！是无敌的神！！！
-7235	梦境中我是无敌的！
-7236	$noname睡神修普诺斯已经被击杀，所有参加BOSS争夺的玩家可以找塔利亚领取号角碎片！
-7237	$noname$UImid ^ffdf00跨服BOSS海皇波塞冬将在20分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7238	$noname$UImid ^ffdf00海皇波塞冬将在20分钟后出现
-7239	$noname$UImid ^ffdf00跨服BOSS海皇波塞冬将在5分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7240	$noname$UImid ^ffdf00海皇波塞冬将在5分钟后出现
-7241	$noname$UImid ^ffdf00跨服BOSS睡神修普诺斯将在20分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7242	$noname$UImid ^ffdf00睡神修普诺斯将在20分钟后出现
-7243	$noname$UImid ^ffdf00跨服BOSS睡神修普诺斯将在5分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7244	$noname$UImid ^ffdf00睡神修普诺斯将在5分钟后出现
-7245	$noname$UImid ^ffdf00跨服BOSS女武神瓦尔基里将在20分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7246	$noname$UImid ^ffdf00女武神瓦尔基里将在20分钟后出现
-7247	$noname$UImid ^ffdf00跨服BOSS女武神瓦尔基里将在5分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7248	$noname$UImid ^ffdf00女武神瓦尔基里将在5分钟后出现
-7249	$noname$UImid ^ffdf00跨服BOSS邪神洛基将在20分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7250	$noname$UImid ^ffdf00邪神洛基将在20分钟后出现
-7251	$noname$UImid ^ffdf00跨服BOSS邪神洛基将在5分钟后出现在跨服区域，请各服务器具有争夺资格的玩家提前进入争夺区域！传送使者布鲁梅尔位于【贸易区(-195,27)】
-7252	$noname$UImid ^ffdf00邪神洛基将在5分钟后出现
-7253	嘶嘶……嘶嘶嘶
-7254	光明不再，进入死亡的黑幕吧！
-7255	凡是攻击我的人，都将受到神罚！
-7256	凡是攻击我的人！都将受到神罚！
-7257	光明不再，进入死亡的黑幕吧！
-7258	光明不再，进入死亡的黑幕吧！
-7259	凡是攻击我的人！将会受到神罚！
-7260	凡是攻击我的人！将会受到神罚！
-7261	入梦……世界沉寂……
-7262	梦醒……世界湮灭……
-7263	你们死期到了！
-7264	我已经醒来！世界即将湮灭！
-7265	入梦……世界沉寂……
-7266	梦醒……世界湮灭……
-7267	你们死到临头了！
-7268	我已经醒来！世界即将湮灭！
-7269	出来吧！我的小宠物！
-7270	出来吧，我的小宠物！
-7271	你们的躯体，拿来吧！
-7272	咦！我的隐身呢？我要找个地方躲起来……
-7273	我再也不敢偷东西了！
-7274	糟糕被发现了！
-7275	你要是抓到我我就告诉他其他人都在哪！
-7276	$noname$UImid由于自暴自弃的小偷泄露了其他小偷的行踪，所有小偷的行迹都暴露了！！！
-7277	$noname^ffdf00本军团的3级旗帜正在受到攻击，请尽快进入旗帜守护区域保护！
-7278	$noname^ffdf00军团的3级旗帜已被摧毁，军团守护经验减少；请召唤旗帜的成员尽快到守护区域拾取旗帜毁灭宝盒。
-7279	$noname^ffdf003级旗帜守护成功，本军团守护经验增加，请召唤旗帜的成员尽快进入守护区拾取旗帜守护宝盒。
-7280	$noname^ffdf00本军团的2级旗帜正在受到攻击，请尽快进入旗帜守护区域保护！
-7281	$noname^ffdf00军团的2级旗帜已被摧毁，军团守护经验减少；请召唤旗帜的成员尽快到守护区域拾取旗帜毁灭宝盒。
-7282	$noname^ffdf002级旗帜守护成功，本军团守护经验增加，请召唤旗帜的成员尽快进入守护区拾取旗帜守护宝盒。
-7283	$noname^ffdf00本军团的1级旗帜正在受到攻击，请尽快进入旗帜守护区域保护！
-7284	$noname^ffdf00军团的1级旗帜已被摧毁，军团守护经验减少；请召唤旗帜的成员尽快到守护区域拾取旗帜毁灭宝盒。
-7285	$noname^ffdf001级旗帜守护成功，本军团守护经验增加，请召唤旗帜的成员尽快进入守护区拾取旗帜守护宝盒。
-7286	封印之壶不属于你
-7287	北冰洋碎冰拳，净化一切！
-7288	咆哮吧，北冰洋！
-7289	一切的一切，都将陷入白色的沉浸！
-7290	冰河，你听北冰洋再次陷入了冰寒的沉静！
-7291	我的水枪将彻底碾碎你们求生的勇气！
-7292	可怜的圣斗士们，你们也将成为六圣妖的晚餐！
-7293	蝙蝠之力加持！
-7294	巨鹰之力加持
-7295	巨蛇之力加持
-7296	巨狼之力加持！
-7297	虽然拼尽了力气，但还是不能击败你们吗？
-7298	吾乃海皇之子，尔等还不速速束手就擒！
+7227	Big rabbit! Run fast!
+7228	$UImid$nonameAtenea: Thank you Knights, they destroyed the Hades conspiracy!
+7229	It looks like a rat running from here to there!
+7230	$UImid$noname System Announcement: Within the Sanctuary of Realm 15, a large number of National Day Clowns will appear, from 12:00 a.m. to 1:00 p.m. After killing them, you will get plenty of gifts. Knights, move!
+7231	$UImid$noname System Announcement: Within the Sanctuary of Realm 15, a large number of National Day Clowns will appear, from 9:00 pm to 10:00 pm. After killing them, they will get plenty of gifts. Knights, move!
+7232	I came for the National Day, remember to go see our presentation !!!
+7233	I'm in a good mood today, I'll leave the gifts for you !!!
+7234	Me, Loki! I am an invincible god !!!
+7235	In the world of dreams I am invincible!
+7236	$noname Hypnos has been defeated, then players who will participate in the BOSS competition can search for Thalia to receive a trumpet piece!
+7237	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7238	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas, will appear in 20 minutes
+7239	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7240	$noname$UImid ^ffdf00Poseidon, the Emperor of the Seas, will appear in 5 minutes
+7241	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7242	$noname$UImid ^ffdf00Hypnos, the God of the Dream, will appear in 20 minutes
+7243	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7244	$noname$UImid ^ffdf00Hypnos, the God of the Dream will appear in 5 minutes
+7245	$noname$UImid ^ffdf00EL Multi-server BOSS, the Valkyries, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7246	$noname$UImid ^ffdf00The Valkyries will appear in 20 minutes
+7247	$noname$UImid ^ffdf00EL Multi-server BOSS, the Valkyries, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7248	$noname$UImid ^ffdf00The Valkyries will appear in 5 minutes
+7249	$noname$UImid ^ffdf00EL Multi-server BOSS, Loki, the God of Evil, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7250	$noname$UImid ^ffdf00Loki, the God of Evil, will appear in 20 minutes
+7251	$noname$UImid ^ffdf00EL Multi-server BOSS, Loki, the God of Evil, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7252	$noname$UImid ^ffdf00Loki, the God of Evil, will appear in 5 minutes
+7253	Ss ss ...... sss sss sss
+7254	There is no more light, enter the secrets of darkness!
+7255	Those who attack me will suffer divine punishment!
+7256	Those who attack me will suffer divine punishment!
+7257	There is no more light, enter the secrets of darkness!
+7258	There is no more light, enter the secrets of darkness!
+7259	Those who attack me will suffer divine punishment!
+7260	Those who attack me will suffer divine punishment!
+7261	Dream ... world of silence ...
+7262	Awakening .... annihilated world
+7263	Your death arrived!
+7264	I woke up! The world is about to be annihilated!
+7265	Dream ... world of silence ...
+7266	Awakening .... annihilated world
+7267	Your death is near!
+7268	I woke up! The world is about to be annihilated!
+7269	Out! My Pet!
+7270	Come outside, my Pet!
+7271	Bring your bodies!
+7272	Huh! And my hiding place? I want to find a place to hide ...
+7273	I no longer dare to steal things!
+7274	Damn, I've been discovered!
+7275	If you catch me, I'll tell you where the others are!
+7276	$noname$UImidUn a thief of turkey, who gave up everything, revealed the hiding place of the others and they were all discovered!
+7277	$noname ^ffdf00The Guild Level 3 Flag is under attack. Return to the Flag Protection Area to protect it!
+7278	$noname ^ffdf00The Guild level 3 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7279	$noname ^ffdf00 The level 3 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
+7280	$noname ^ffdf00The Guild level 2 flag is under attack. Return to the Flag Protection Area to protect it!
+7281	$noname ^ffdf00La Guild level 2 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7282	$noname ^ffdf00 The level 2 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
+7283	$noname ^ffdf00The Guild Level 1 Flag is under attack. Return to the Flag Protection Area to protect it!
+7284	$noname ^ffdf00The Guild level 1 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7285	$noname ^ffdf00The Level 1 Flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
+7286	The Sealed Amfora does not belong to you!
+7287	Fist of Arctic ice, purify everything!
+7288	Ruja now, Arctic Ocean!
+7289	Everything will be submerged in white!
+7290	Hyoga, listen to the Arctic sink back into the calmness of Ice!
+7291	My water weapon will completely pulverize your courage to survive!
+7292	Poor Knights, they will be Scylla's food!
+7293	Blessing of the bat!
+7294	Blessing of the Eagle!
+7295	Blessing of Ophiuchus
+7296	Blessing of the Wolf!
+7297	Despite our efforts, we still can not beat them?
+7298	I'm Chrysaor, it's better that you give up now!
 7299	$spec questportrait_505
-7300	吾皇，请您赐我神圣无敌之力！
-7301	吾皇，请您赐我神圣无敌之力！
-7302	吾皇，孩儿没能守护好这里……
-7303	哼哼，又来了一批送死的圣斗士，虽然貌似要比底下的懦夫们强一点点
-7304	送给你们一个小礼物！
-7305	我来给你们送点兴奋剂！
-7306	跳起来，跳起来！哈哈……
-7307	我的美人幻象们，给我爱的吻暖
-7308	我的美人幻象们，这次我需要更多的吻
-7309	这次我可要动真格的了，美人们出击！
-7310	再也不能感受我美人的……吻……
-7311	你的香吻让我充满活力！
-7312	谁都不能逃走！
-7313	沉睡吧圣斗士！伴随我的笛声陷入无尽的恐惧和沉眠之中！
+7300	Emperor, give me the invincible sacred power!
+7301	Emperor, give me the invincible sacred power!
+7302	Emperor, I was not able to protect this place ...
+7303	Hung, there are more Knights to die. They seem to be a little stronger than the cowards that are down there
+7304	I give you a small gift!
+7305	I will give you some stimulants!
+7306	Jump, jump! Haha...
+7307	My beautiful illusions, give me kisses of love
+7308	My beautiful ones, this time I need more kisses
+7309	This time I'm serious, attack beauty!
+7310	I can no longer feel the kisses of the ... beauties ...
+7311	His kisses left me full of energy!
+7312	Nobody can escape!
+7313	Fall asleep, Knight! Accompany the sound of my flute and immerse yourself in endless sleep and fear!
 7314	$spec questportrait_578
-7315	你们还想再听点音乐吗？死亡尽头的交响曲！
-7316	最后一曲，竟然是吹给我自己的安眠曲……
-7317	即使打败了我，你们的力量依然不足以面对海皇……
-7318	不要打我！我什么都没有
+7315	Do you want to listen to music again? Final symphony!
+7316	The last melody will be the symphony of death for myself!
+7317	Even if they defeat me, their forces are still insufficient to face Poseidon .....
+7318	Do not hit me! I have nothing
 7319	10
 7320	9
 7321	8
@@ -7327,40 +7327,40 @@
 7326	3
 7327	2
 7328	1
-7329	必须保持平衡！
-7330	安静的死去，梦魇圆舞曲！
-7331	安静的永眠在大洋之中难道不是你最好的归宿吗？
-7332	成为这美丽海洋生物的果腹之物吧！
-7333	来自地狱的魔花，让我吸取你们的力量吧！
-7334	花朵开放，又怎么能不凋谢……
-7335	有一队挑战者来到了大斗技场！
-7336	他们将挑战几位复生的斗士！让我们拭目以待吧！那么他们将面对的第一位对手是谁呢！
-7337	是恐怖的前代天魔星！天魔星！哦！不！太血腥了！
-7338	刚才的落败不算什么！这次上场的是前代天暴星！燃烧吧！
-7339	颤抖吧！战栗吧！前代天猛星登场！你们无法活着离开斗技场！
-7340	新的斗技场主宰诞生了！为他们欢呼吧！
-7341	利用我的光球，变成相应的圣妖击败海将军
+7329	We must maintain a balance!
+7330	A quiet death, Waltz of the Nightmare!
+7331	Is a calm and eternal dream in the ocean not, ultimately, your best destiny?
+7332	Become food for the living beings of this beautiful ocean!
+7333	Demon flower of hell, let me absorb its power!
+7334	Flowers open, how do they not wither ...?
+7335	There is a group of challengers who came to the Grand Coliseum!
+7336	They will challenge some reborn warriors! Let's wait to see! Who will be the first opponent they will face?
+7337	He is the fearsome ancestor of Alraune! The Celestial Star of La Maga is too brutal!
+7338	Victory recently does not count! That time, it is the Celestial Star of Violence that enters the field! Ardan!
+7339	Tremble! Wyvern's predecessor is in the field! You will not leave that arena alive!
+7340	A new Arena skills teacher is born! Congratulations for the victory!
+7341	Using my ball of light, he will become the demon corresponding to attacking the marine general
 7342	$spec questportrait_572
-7343	再见……
-7344	下次你们就准备好迎接西伯利亚的寒风吧！
-7345	别动我的银子！
-7346	胜者万岁！万岁！万岁！
-7347	胜者万岁！万岁！万岁！
-7348	我不想死——
-7349	我要用我的体格碾碎你！
-7350	休想再前进一步！
-7351	我为海皇殿下而生！
-7352	你身上有鲜血的腥甜！
-7353	呜~~~~~
-7354	迫不及待想拍碎你！
-7355	可恶的人类——
-7356	嘶嘶……
-7357	嘶~~
-7358	嘶嘶~
-7359	你前进的道路将终结于此！
-7360	海皇大人~永别！
-7361	在这幻象之路玩的愉快么？
+7343	Goodbye ...
+7344	In the next one, prepare well to receive the cold wind of Eastern Siberia!
+7345	Do not touch my money!
+7346	Long live the winner! Long life! Long life!
+7347	Long live the winner! Long life! Long life!
+7348	I do not want to die ------
+7349	I will crush you with my body!
+7350	Do not think about taking another step!
+7351	I was born for Your Majesty, Marine Emperor!
+7352	You have a sweet smell of Blood!
+7353	Sniff ~~~~~
+7354	I can not wait to crush you!
+7355	Human Damn ------
+7356	Ss ss ...
+7357	Sss ~~
+7358	Ss ss ~
+7359	Your way ends here!
+7360	The Great Sea Emperor ~ is gone forever!
+7361	On that path of illusions, is not having fun fun?
 7362	$spec questportrait_575
 7363	$spec questportrait_574
-7364	沉沦在这无边幻象吧
-7365	灵魂！终于解脱了
+7364	Sink into this vast illusion
+7365	Spirit! Finally, he has freed himself

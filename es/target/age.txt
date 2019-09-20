@@ -182,9 +182,9 @@
 181	"Por la mañana estaba patrullando el Bosque Perdido, como de costumbre. Al principio, parecía que todo estaba normal, incluso comencé a tararear una canción de mi ciudad natal. ¡Todo ocurrió tan de repente! ¡Una niebla roja cubrió el bosque en cuestión de segundos! ¡Cuando estaba pensando acerca de lo que sería esa niebla, apareció un Lobo Gigante, del porte de un león! ¡Y lo más aterrador fue que la mitad de su cuerpo estaba sin piel, con la carne viva y roja expuesta! Exhalaba un aire de sangre del cuerpo, parecía el Cosmos elevándose. ¡Otra cosa aterradora es que él estaba devorando el cuerpo del otro Lobo Gigante! Sospecho que este lobo muerto era su compañero, o incluso su padre. Ya estaba aterrorizado con esa escena y el Lobo Gigante volteó su cabeza lentamente. Nunca olvidaré su mirada, parecía carente de alma, quedando sólo el cuerpo...". Este pasaje fue Sacado del Diario de Trabajo del encargado de las señales, Lahm. Una gran cantidad de animales alrededor del Santuario sufrió alguna mutación, incluso algunos habitantes fueron infectados por la atmósfera sanguinaria y se volvieron moribundos. Todas las señales apuntaban al Dios del Nada, Lamech. Tal vez el evento "Sombras de otro mundo" sea el principio de una pesadilla. El Santuario amaneció envuelto en una niebla roja y nadie sabe qué más podrá suceder a continuación. Pero la buena noticia es que el responsable de las señales, Lahm, utilizó el Cristal Mitológico y consiguió impedir la propagación del virus sanguinario. Aunque no se cure el virus completamente, recoger una gran cantidad de Cristal Mitológico, derribado durante la Guerra Santa, parece ser la mejor opción en este momento.
 182	$ {pos(213,318,191,20,"Herminia")}
 183	　　El evento de la niebla roja es sólo el comienzo, el guardián del Santuario recibió la noticia de que, a las 8:00 pm del día 15 de abril del 2016, los Guerreros de las Sombras van a invadir el Santuario,¡Es muy importante proteger el Santuario!
-184	16-58级的角色获得经验增加
-185	16-78级的角色获得经验增加
-186	16-88级的角色获得经验增加
-187	有%d名圣斗士达到潜修Lv9
-188	16-潜修Lv8的角色获得经验增加
-189	${pos(-217,338,43,2,"\史昂"\)}
+184	16-58 role gains experience gained
+185	16-78 role gains experience gained
+186	16-88 role gains experience gained
+187	Need %d Saints to reach the Lv9
+188	16-Live repair Lv8 role gained experience gained
+189	${pos(-217,338,43,2,"\Shion"\)}
