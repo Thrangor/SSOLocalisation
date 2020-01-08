@@ -74,7 +74,7 @@
 73	Battle Reputation
 74	${name} earned: ${point}
 75	${name} consumed: ${point}
-76	Dismount to receber 10 de exp
+76	Dismount to receber 10 of exp
 77	Sagittarius
 78	Leo
 79	Gemini
@@ -152,7 +152,7 @@
 151	Players receive the titles: \r1º place: Champion \r2º - 3rd places: Last to lose \r4º - 10th places: Penultimate to lose
 152	Wealth
 153	Wealth (Gold)
-154	Players receive the titles: \r1º place: Rico del Mundo \r2º - 3rd places: Rico del País \r4º - 10º places: Rico de la Ciudad
+154	Players receive the titles: \r1º place: Rico del Mundo \r2º - 3rd places: Rico del País \r4º - 10º places: Rico of la Ciudad
 155	Investor of the week
 156	Recharge (Star)
 157	Within this week (Monday to Sunday) the cumulative charge ranking of all the players, only to recharge above 10000 Star is going to the list this list will be updated once each day at 00:00, and the amount This day's top-up will be posted every day, at 00:00, the data in this list will be recorded in the benefit reputation list of the previous week, and this week's data will be deleted.
@@ -165,7 +165,7 @@
 164	Expertise
 165	Star Epic
 166	Number of litters
-167	Player obtained the title of Incarnation of the God of War. If in the list of individual Star Epic rankings, he won the first place in the ranking of the Star of War. If in the ranking list of individual Star Epics, he obtained 2 ° -3 ° places. Semillador de la Gloria Militar. If in the ranking list of individual Star Epics, obtained from the 4th to the 10th place
+167	Player obtained the title of Incarnation of the God of War. If in the list of individual Star Epic rankings, he won the first place in the ranking of the Star of War. If in the ranking list of individual Star Epics, he obtained 2 ° -3 ° places. Semillador of la Gloria Militar. If in the ranking list of individual Star Epics, obtained from the 4th to the 10th place
 168	Roses
 169	Every month the general list will be updated and, on day 01 of each time, the list will be deleted. At the same time, the titles of last month's ranking list will be awarded. \rThe players receive the titles: \r1 ° place: Dazzling Beauty \r2 ° place: Beleza Florescente \r3 place: Beleza Brillante \r4º - 10º places: Beleza Encantadora
 170	Total power
@@ -210,7 +210,7 @@
 209	Domains
 210	Wealth
 211	Multiserver Competition
-212	The players in the first 30 places will obtain the qualification of Captain multiservidor, being able to lead the group to participate in the inscription of the multi-server competition
+212	The players in the first 30 places will obtain the qualification of Captain Multiserver, being able to lead the group to participate in the inscription of the multi-server competition
 213	Power
 214	Inverter
 215	Recharge
@@ -223,8 +223,8 @@
 222	Null
 223	LV
 224	Person
-225	One Hundred Million
-226	Ten thousand
+225	x100kk
+226	x10k
 227	pts.
 228	a.
 229	x
@@ -260,13 +260,13 @@
 259	Andromeda Island
 260	When the reputation reaches a certain level, you can buy items with ${pos (-319,316, -144.9, 'Avdol')}
 261	Pandora's native land, originally calm and peaceful. When the soul of Hades was reborn, all life forms around were extinguished. He is currently involved in a Hades enchantment.
-262	Fortín de Heinstein
+262	Fortín of Heinstein
 263	When the reputation reaches a certain level, you can buy items with ${pos (144,299,329.10, 'Kleindienst')}
-264	Amazona de Aquila and Maestra de Seiya de Pegasus. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and serene personality.
+264	Amazona of Aquila and Maestra of Seiya of Pegasus. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and serene personality.
 265	Single Room:
 266	Flash of the Eagle
 267	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
-268	Amazona de Ophiuco and Cassios teacher. Hide a beautiful and angelic face behind his mask, despite his aggressive and imposing attitude.
+268	Amazona of Ophiuco and Cassios teacher. Hide a beautiful and angelic face behind his mask, despite his aggressive and imposing attitude.
 269	​​Thunder Claws
 270	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
 271	The Knight of Aries has a very strong telekinesis, and he is also one of the only people capable of repairing Armor. He has abundant justice and wisdom.
@@ -304,7 +304,7 @@
 303	When the reputation reaches a certain level, you can buy rosaries with ${pos (403,317,179.20, 'Severe')}
 304	After the Light Ray Index of the Sign reaches a certain degree of Luminosity, it can invoke the Altair Squire or Vega Squire to aid in the battles.
 305	Daily Quest:
-306	You can buy with ${pos (310,317,179.20, 'Intendente de Squire')}
+306	You can buy with ${pos (310,317,179.20, 'Intendente of Squire')}
 307	Favor Points can be obtained in Disciple Mode for players above level 60 and used to exchange for different items.
 308	Buy favor package
 309	The gift package can be purchased in the ${pos (365,317,172.20, 'Favor Store')}
@@ -427,9 +427,9 @@
 426	EXC
 427	Buying any Star value, you will be promoted to VIP level 1!
 428	1. Portable warehouse \r2. Portable perfecting \r3. "Reward" system, the reward prize accumulates for a maximum of 1 day
-429	1. Claveteado de Runa portable \r2. Portable store \r3. Perfecting portable
-430	1. Portable mail \r2. Item Mall VIP \r3. Claveteado de Runa laptop \r4. Portable store \r5. Perfecting portable
-431	1. Portable Auction House \r2. Portable mail \r3. Claveteado de Runa laptop \r4. Portable store \r5. Portable upgrading and VIP Mall Item
+429	1. Claveteado of Runa portable \r2. Portable store \r3. Perfecting portable
+430	1. Portable mail \r2. Item Mall VIP \r3. Claveteado of Runa laptop \r4. Portable store \r5. Perfecting portable
+431	1. Portable Auction House \r2. Portable mail \r3. Claveteado of Runa laptop \r4. Portable store \r5. Portable upgrading and VIP Mall Item
 432	1. Receives the permanent effect title "Full Portfolio" \r2. Maintains the privileges of VIP LV4 \r3. Increase the current limit of the "Reward" system in 2 days.
 433	1. Receive the permanent effect title "Dancing with Gold" \r2. Maintains VIP LV4 privileges
 434	1. Receive the permanent effect title "Implacable Miner" \r2. Enable the use of VIP chat \r3. Maintains the privileges of VIP LV4 \r4. Increase the current limit of the "Reward" system in 3 days.
@@ -531,12 +531,12 @@
 530	As the operating system has incomplete operations, if you update automatically, please, conclude these operations and restart your computer, then try to open the game again
 531	Insufficient system internal memory, please turn off or restart your computer and then try again
 532	LV %d
-533	Concentrated practice %d
-534	^66ff00 Concentrated Practice %d
+533	Submersible %d
+534	^66ff00 Submersible %d
 535	^66FF00%d
 536	%d
-537	LV %d (Concentrated Practice %d)
-538	LV %d ^66FF00 (Concentrated Practice %d)
+537	LV %d (Submersible %d)
+538	LV %d ^66FF00 (Submersible %d)
 539	LV %d ( %d)
 540	LV %d ^66FF00 ( %d)
 541	%d ( %d)
@@ -551,8 +551,8 @@
 550	『%s』
 551	『%s + %d』
 552	%d
-553	Concentrated Practice Level
-554	Concentrated Practice Level:
+553	Submersible Level
+554	Submersible Level:
 555	Foundation Foundation
 556	EXP
 557	EXP
@@ -1788,7 +1788,7 @@
 1787	^00BFFFShiryu
 1788	Dragon Bronze Knight. He was under the care of Dohko of Libra to train in the Five Ancient Peaks, in China. While his training, he has managed to reverse the flow of the Great Cascade of Rozan and, thus, deserved to win his Armor. \rDe frank personality, gives much value to friendship and believes in the power that it has, always ready to die for his friends; He is the one who sacrifices his own life for others. Shiryu participated in many fights in which he was close to death, since, generally, he needed not to hesitate to exploit his Cosmo and, in the end, to defeat an enemy that had no chance to win.
 1789	^9400D3Aiolia
-1790	Golden Knight who protects Leo's House, is also called "Leo Dorado". He is known for his firmness and bravery, he is extremely fair and brave. He ardently wishes to cleanse the stigma of his older brother, Aiorios de Sagitario, who was killed for being considered a traitor to the Sanctuary. In a fight in the Underworld, he resisted only the six Wraiths, using his Lightning Plasma to defeat the Earth Star of Concealment, Laimi. In the end, due to the enchantment of the Underworld that was weakening him, he was defeated by one of the Three Judges - The Celestial Star of Fury, Radamanthys. In the Underworld, in order to overthrow the Wailing Wall, it is also sacrificed in devotion to Athena.
+1790	Golden Knight who protects Leo's House, is also called "Leo Dorado". He is known for his firmness and bravery, he is extremely fair and brave. He ardently wishes to cleanse the stigma of his older brother, Aiorios of Sagitario, who was killed for being considered a traitor to the Sanctuary. In a fight in the Underworld, he resisted only the six Wraiths, using his Lightning Plasma to defeat the Earth Star of Concealment, Laimi. In the end, due to the enchantment of the Underworld that was weakening him, he was defeated by one of the Three Judges - The Celestial Star of Fury, Radamanthys. In the Underworld, in order to overthrow the Wailing Wall, it is also sacrificed in devotion to Athena.
 1791	^00BFFFEsmeralda
 1792	Gentle young man of pure beauty, obstinate as fresh flowers that bloom in the middle of Hell. Inhabitant of the Island of the Queen Death, he met Ikki while training, and gave him comfort and care. In Ikki's fight to obtain the Phoenix Armor, she ends up accidentally receiving Guilty's blow and dies. Thus, ikki incarnates in hate, awakens his Cosmo, kills his master and obtains the Armor.
 1793	^00BFFFCisne Black
@@ -1807,16 +1807,16 @@
 1806	Golden Knight who protects the House of Virgo - which, under his protection, is the strongest point of defense of the Twelve Houses. He is the reincarnation of the Buddha and is known as "The man closest to God." He was the first to understand the Eighth Sense, and usually closes his eyes to refine his senses and increase his Cosmo, which has the likeness of a God.
 1807	^9400D3Shura
 1808	Golden Knight who protects the House of Capricorn. He was the one who left Aioros almost dead during his flight with Athena, thirteen years ago. The sword-shaped hand of Shura possesses the same power as the legendary Excalibur sword, capable of breaking down any obstacle, cutting with the palm of the hand even the solid shield of the Dragon, splitting it in two. He has the title of "the most loyal Knight", but his loyalty is so great that he becomes blind and ends up being cheated by the Grand Master because of her. But, when he was about to die, he fell into himself and saved Shiryu's life by wearing him in his Golden Armor, proving to be an honorable Knight.
-1809	^​​00BFFFIkki
-1810	The older brother of Shun de Andromeda, his teacher was the mysterious Knight of the Isle of Queen Death, Guilty. He is the strongest Bronze Knight, as well as being good at attacks that manipulate the opponent's mind. A person overflowing hatred, calls himself "the man who gave up everything", but is described by Saga as that style of man "whose sense of justice is hidden inside his heart". It is cold in nature, but it hides emotions about his personality - and the hardest to hide is the care and concern he has for his brother. He never says that friends give him hope, trust and faith, but he always appears at the moment when Seiya and the others are in greater danger.
+1809	^00BFFFIkki
+1810	The older brother of Shun of Andromeda, his teacher was the mysterious Knight of the Isle of Queen Death, Guilty. He is the strongest Bronze Knight, as well as being good at attacks that manipulate the opponent's mind. A person overflowing hatred, calls himself "the man who gave up everything", but is described by Saga as that style of man "whose sense of justice is hidden inside his heart". It is cold in nature, but it hides emotions about his personality - and the hardest to hide is the care and concern he has for his brother. He never says that friends give him hope, trust and faith, but he always appears at the moment when Seiya and the others are in greater danger.
 1811	^00BFFFHyoga
 1812	Cygnus Bronze Knight and disciple of Camus of Aquarius. He has a discreet personality, always in conflict with his own emotions, despite trying to be rational above all. While his training in Eastern Siberia, he received orders from the Shrine to go to the Galactic Tournament to punish the Bronze Horsemen who fought for personal ends, but ended up getting into the struggles for the Golden Armor to see that it was not true. In that half time, Hyoga develops a deep and solid friendship with the other Bronze Knights. After that, as Knight Protector of Athena, he fights together with others in order to defend peace on Earth.
-1813	^9400D3Mascara de la Muerte
+1813	^9400D3Mascara of la Muerte
 1814	Golden Knight of Cancer. He is extremely sadistic and violent, believing that sacrifices are inevitable for a greater purpose. The four walls of the Cancer House are covered with the faces of their victims, in order to exhibit their victories; for that reason, he obtained the title of "Mask of Death". Its mortal blow is the Infernal Waves, in which it emits a white aura of its index finger, sending the spirit of its opponent to the entrance of the Underworld. In the fight against Shiryu, he is abandoned by his Armor and ends up defeated and killed. During the Hades Saga, he revives thanks to Hades and is sent to the Sanctuary to execute the mission to kill the Goddess, but again he is defeated and sent to the Underworld, by Radamanthys. In the Elysian chapter, he participates as a Golden Knight in the demolition of the Wailing Wall, sacrificing himself.
 1815	^9400D3Aioros
 1816	Former Golden Knight of Sagittarius and older brother of the Golden Knight of Leo, Aiolia. His heroic, honest and good-hearted figure was respected by all, and he would be the successor of Grand Master Shion. Thirteen years ago, in order to protect the young Goddess from the danger of the impostor Grand Master, she decided to flee from the Sanctuary, but was severely wounded by Capricorn Shura. So, he took his Golden Armor and the little Goddess and entrusted them to a tourist who was traveling through Greece, Mitsumasa Kido, and he died soon afterwards. Even after his death, his heroic spirit remained in the Golden Armor, and several times when Seiya and the others were in great danger, he appeared at his side, helping them overcome powerful enemies. On the wall of the House of Sagittarius his testament is stuck: "To the young people who arrive here, I trust Athena to their care".
 1817	^00BFFFKrishna
-1818	The General Marina de Crisaor. The interior of Krishna's body possesses a mystical side capable of activating the seven chakras, and the liberated cosmic energy is almost equivalent to that of a Golden Knight. His main weapon is the Golden Spear, whose power is impressive, being able to cut the opponent only with the air driven by it. Defeated by the Excalibur of Shiryu, Krishna demonstrated an honest spirit like that of a samurai, respecting the adversary he considers worthy, even being an enemy.
+1818	The General Marina of Crisaor. The interior of Krishna's body possesses a mystical side capable of activating the seven chakras, and the liberated cosmic energy is almost equivalent to that of a Golden Knight. His main weapon is the Golden Spear, whose power is impressive, being able to cut the opponent only with the air driven by it. Defeated by the Excalibur of Shiryu, Krishna demonstrated an honest spirit like that of a samurai, respecting the adversary he considers worthy, even being an enemy.
 1819	^9400D3Kanon
 1820	Twin brother of Saga, although no one in the Sanctuary knew of its existence. He has a much more evil personality than his brother, this being the reason for having been imprisoned in the Cape Sunion. There, he ended up awakening the soul of Poseidon and passed by General Navy of Sea Dragon, wishing to use the name of the God of the Oceans to defeat Athena, with the purpose of conquering the whole Earth; this is the reason for his title of "The man who dared to deceive even the gods". After the War of the Underwater World, Kanon sincerely repented of his deeds and inherited the aspiration left by his brother, becoming the new Golden Knight of Gemini, fighting for the Goddess. His strength, in fact, is not inferior to that of Saga, so much so, that he fought at the same time and from the same to the same with the Three Judges of the Underworld.
 1821	^9400D3 Aquarius Camus

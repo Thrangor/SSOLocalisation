@@ -25,7 +25,7 @@
 24	Adjust the fixed value of the recovery speed of the Rage status of the battle
 25	Recovery from Battle Rage + %d
 26	Adjust the fixed value of the Earth Damage properties
-27	Land Attack + %d
+27	Earth Damage + %d
 28	Adjust the fixed value of Water Damage properties
 29	Water Damage + %d
 30	Adjust the fixed value of the properties of Fire Damages
@@ -146,7 +146,7 @@
 145	Adjust the recovery speed percentage of the combat rage status value
 146	Recovery from Combat Rage + %.0f %%
 147	Adjust the percentage of properties of Earth Damages
-148	Land Attack +%.1f %%
+148	Earth Damage +%.1f %%
 149	Adjust the percentage of properties of Water Damages
 150	Water Damage +%.1f %%
 151	Adjust the percentage of properties of Fire Damages

@@ -88,9 +88,9 @@
 87	Renaissance Festival - Awards
 88	To celebrate this commemorative date, The Knights of the Zodiac Online brings several exclusive activities. Join us in this celebration!
 89	"Renaissance Festival" Event:
-90	Schedule: Glorious battlefield: Complete the mission 2 times a week to receive the prize. Eliminate Evil: Complete the mission 2 times a week to receive the prize. Celebrate the Festival: Kill the boss of the dungeon daily to receive the prize. The prizes above include: ^FF00FF Festival de la Luna Coupon.
+90	Schedule: Glorious battlefield: Complete the mission 2 times a week to receive the prize. Eliminate Evil: Complete the mission 2 times a week to receive the prize. Celebrate the Festival: Kill the boss of the dungeon daily to receive the prize. The prizes above include: ^FF00FF Festival of la Luna Coupon.
 91	Starting today until 09/22
-92	Schedule: Night of the Moon Festival: Schedule: Every night at 20:00 - 22:00. Players of level 20 or higher may seek the Shiryu Awards Ambassador, during the period in which the event is happening, to receive the prize. Renaissance Festival: Players of level 20 or higher who reach a level of activity 20, can receive the award of the Shiryu Prize Ambassador. The Awards include: ^FF00FF Festival de la Luna Coupon.
+92	Schedule: Night of the Moon Festival: Schedule: Every night at 20:00 - 22:00. Players of level 20 or higher may seek the Shiryu Awards Ambassador, during the period in which the event is happening, to receive the prize. Renaissance Festival: Players of level 20 or higher who reach a level of activity 20, can receive the award of the Shiryu Prize Ambassador. The Awards include: ^FF00FF Festival of la Luna Coupon.
 93	Starting today until 9/22
 94	Hours: Every night at 8:30 - 9:30 p.m. Every 10 minutes a random box will appear on the screen of the game, click on it to receive a huge amount of EXP and Mysterious prizes! Each time the prize appears, you will only have 2 minutes to get it, do not miss it!
 95	From 04/09 to 06/09
@@ -688,7 +688,7 @@
 687	Modify
 688	See all
 689	Rank of the Guild
-690	Concentrated practice 100
+690	Submersible 100
 691	The name of the list is 8 characters
 692	Modify
 693	Total score
@@ -2418,7 +2418,7 @@
 2417	E
 2418	After the absorption, the used Squires will disappear.
 2419	Complete evolution.
-2420	Loja de Mosaicos
+2420	Loja of Mosaicos
 2421	Update (10 Emerald)
 2422	Buy
 2423	Buy
@@ -3831,7 +3831,7 @@
 3830	Art:
 3831	HP: %d
 3832	Level: %d
-3833	Concentrated practice 999
+3833	Submersible 999
 3834	Level: %d
 3835	LV
 3836	Wind wheel and incomparable fire Wheels of Wind and fire
@@ -3872,7 +3872,7 @@
 3871	Monster NPC other players
 3872	Catch available
 3873	Minimize group
-3874	concentrated practice nv1
+3874	Submersible nv1
 3875	Stupid teammates
 3876	Stupid teammates
 3877	Stupid teammates
@@ -4080,7 +4080,7 @@
 4079	button1
 4080	Strange voices
 4081	Power:
-4082	Welcome from New, Knight! In order to welcome you for your return, we will refund 20 %of EXP purchased through "Bañado de Gloria" and "Illusion of training" for each day offline!
+4082	Welcome from New, Knight! In order to welcome you for your return, we will refund 20 %of EXP purchased through "Bañado of Gloria" and "Illusion of training" for each day offline!
 4083	EXP:
 4084	EXP Reserve:
 4085	Art:
@@ -4457,7 +4457,7 @@
 4456	Click on Log in to GT. GT is a real-time and independent voice communication system.
 4457	Current leader of the group
 4458	Support! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you are an ET! If you do not support, you're an ET!
-4459	From Kossel De Kossel
+4459	From Kossel of Kossel
 4460	Comparison of fighting power
 4461	Power:
 4462	Power:
@@ -4485,7 +4485,7 @@
 4484	Every 5 minutes you will receive:
 4485	222222 Accumulated EXP points +222222 EXP points
 4486	Today you have conquered 8 hours of Glory Bath If you continue like this today, you will not be able to receive any accumulated EXP and EXP
-4487	Automatically entering the Banho de Gloria after being online does not influence any of your operations Opening or closing the current interface will not influence the entrance of the Bath of Glory
+4487	Automatically entering the Banho of Gloria after being online does not influence any of your operations Opening or closing the current interface will not influence the entrance of the Bath of Glory
 4488	Longevity Monastery
 4489	PRV
 4490	Next
@@ -4676,7 +4676,7 @@
 4675	Quests completed today: XX / 50
 4676	Knights of the Goddess
 4677	Golden Knight of Capricorn
-4678	Like: fjasdfkjasfkl; jasl; fj; lj necklace Card Campanula de Oro embarrassed comandane committed against evil spirits evil spirits resist Satan willing to make another meal ask for collar lapel sweep against as tired as tired as volei committed as evil spirits sendother flood Satan is willing to make a meal as part of Satan willing to do for the difficulty of making law as to send the pieces to make the skin as the leader worry about making three rounds as boring as doing sweeping Lanfen decrease the measure: view; ldkfjkldsfj ; slfjaskdfjaskl; jf
+4678	Like: fjasdfkjasfkl; jasl; fj; lj necklace Card Campanula of Oro embarrassed comandane committed against evil spirits evil spirits resist Satan willing to make another meal ask for collar lapel sweep against as tired as tired as volei committed as evil spirits sendother flood Satan is willing to make a meal as part of Satan willing to do for the difficulty of making law as to send the pieces to make the skin as the leader worry about making three rounds as boring as doing sweeping Lanfen decrease the measure: view; ldkfjkldsfj ; slfjaskdfjaskl; jf
 4679	When evil arrives on Earth, saviors will surely appear. In his search for these "saviors", Master Kurumada went through incalculable difficulties to finally reach the Shrine, where he met the Knights of Athena and was deeply impressed by his courageous acts. Then he decided to record and publish his stories to inspire News heroes.
 4680	Attention: If you already have a quest of the same type at hand, it will be useless to receive another.
 4681	Update (5x)
@@ -4838,18 +4838,18 @@
 4837	Stupid teammates 3
 4838	Stupid teammates 2
 4839	Stupid teammates 1
-4840	Concentrated practice 990
-4841	Concentrated practice 999
-4842	Concentrated practice 990
-4843	Concentrated practice 999
-4844	Concentrated practice 998
-4845	Concentrated practice 997
-4846	Concentrated practice 996
-4847	Concentrated practice 995
-4848	Concentrated practice 994
-4849	Concentrated practice 993
-4850	Concentrated practice 992
-4851	Concentrated Practice 991
+4840	Submersible 990
+4841	Submersible 999
+4842	Submersible 990
+4843	Submersible 999
+4844	Submersible 998
+4845	Submersible 997
+4846	Submersible 996
+4847	Submersible 995
+4848	Submersible 994
+4849	Submersible 993
+4850	Submersible 992
+4851	Submersible 991
 4852	Captain
 4853	Captain
 4854	Captain
@@ -4984,7 +4984,7 @@
 4983	Cancel multiplayer montage
 4984	Decisive duel
 4985	Decisive duel
-4986	Concentrated practice 999
+4986	Submersible 999
 4987	Mitten
 4988	Wings
 4989	Belt
@@ -5884,7 +5884,7 @@
 5883	Continue
 5884	List of heroes
 5885	Power needed XXXX
-5886	Boy, is this your limit? Come back next time!
+5886	Boy, is this your limit? Come back once u get more Power...
 5887	Leave the challenge zone in 5 sec
 5888	Exit now
 5889	From the beginning of the challenge:
@@ -5914,7 +5914,7 @@
 5913	EXP:
 5914	Upgrade
 5915	x99
-5916	Concentrated practice 100
+5916	Submersible 100
 5917	Cancel
 5918	Maximum level
 5919	Recommendations
@@ -7680,7 +7680,7 @@
 7679	History of Holy War
 7680	Chronicle
 7681	Regis. of events
-7682	Ira de Hades
+7682	Ira of Hades
 7683	Recorded on the myth server "Hades Wrath" every time the server has reached the stage and kill the boss.
 7684	Conquer Event
 7685	Record after completing the rage Activities Hades Universe tournament, ranking and win

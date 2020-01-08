@@ -153,7 +153,7 @@
 152	Apparently, I've been practicing little! I am being forced to take this more seriously.
 153	My body .... Why can not I move it?
 154	Let me think, how can I torture him?
-155	Drug, I have to break the grilhões of Mask of Death.
+155	Remedy, I have to break the grilhões of Mask of Death.
 156	Ah, to use this, allow-you to enjoy the little to little penetrate in your heart, more still die of fear! ! !
 157	How are you? How are you?! Is not it wonderful ?! Ha ha ha ha, eat it, eat it!
 158	Ah ... like doi!
@@ -298,7 +298,7 @@
 297	It's Ikki!
 298	I received orders from the Grand Master to retrieve the Golden Armor
 299	Aiolia, Leo's Golden Knight!
-300	Cavaleiro de Ouro by Leo Aiolia
+300	Cavaleiro of Ouro by Leo Aiolia
 301	Let that person enter.
 302	Saori
 303	Damn, he has fled!
@@ -574,7 +574,7 @@
 573	Low attendants
 574	Where to Flame? ! Is this real or illusion? ... Seiya must know!
 575	Wu Wuwu ah ah ah ah ah! ! !
-576	Drug!
+576	Remedy!
 577	(Voice Lopsided) Farewell, goddess of the sacred warriors.
 578	Dionysus
 579	Hypnotic bar, fog professor secret ......
@@ -1886,7 +1886,7 @@
 1885	Well, it's because you practice enough!
 1886	Why do I feel this is very wrong Zi!
 1887	Behind the fog there are zombies everywhere! So that's the Yomotsu Hirakasa ...?
-1888	I finally got rid of those zombies ... That guy running there is Abu de Rozan?
+1888	I finally got rid of those zombies ... That guy running there is Abu of Rozan?
 1889	A zombie who loves to run ... Up ahead, maybe ...?
 1890	Although it resembles Li-Yun, this one must also be only a zombie. But why does not he attack me?
 1891	When feeling some mobility, but very powerful way ...
@@ -2808,7 +2808,7 @@
 2807	Everyone ready for battle! Strangers we can not let this part of the Greek cloth!
 2808	(It seems they really want to act ...... first ask about it)
 2809	Cassios! You waste useless, you continue to practice here, do not let me lose face!
-2810	Yes, yes ...... (drug Seiya, just let me adults so unhappy Shina ......)
+2810	Yes, yes ...... (Remedy Seiya, just let me adults so unhappy Shina ......)
 2811	(Warned about this or running back ......)
 2812	Shina confronting Seiya, that it is too late?
 2813	Sure enough, there are welded offers!
@@ -3094,7 +3094,7 @@
 3093	Since you think to find it, I send it to see it one last time, right!
 3094	Athena! Oops, the bottle turned red!
 3095	Athena!
-3096	Big bottle drug in the end how can you break? !
+3096	Big bottle Remedy in the end how can you break? !
 3097	Seiya is a Cosmo! Seiya is here!
 3098	Is this Elysium yet? He did not seem to see the shadow of others ......
 3099	Did I cross extradimensional space along with a glow of it? You should find it quickly ......
@@ -3632,7 +3632,7 @@
 3631	All guards hit ${solo_challenge.score} / ${solo_challenge.score_need}
 3632	Shina win
 3633	Beat elite saves ${solo_challenge.score} / ${solo_challenge.score_need}
-3634	Defeat Alma de Pegasus
+3634	Defeat Alma of Pegasus
 3635	Defeat Misty
 3636	Defeat Gemini Illusion
 3637	Defeat Theodore
@@ -3809,7 +3809,7 @@
 3808	The outbreak of Cosmo! Get Rid of Control!
 3809	Use the gem to continue the quest
 3810	Asker guardian to make animals obey
-3811	The use of drugs to destroy these people sand evil flowers!
+3811	The use of remedy to destroy these people sand evil flowers!
 3812	Neptune might like these offers do
 3813	Maybe someone will accept the surrender of Julian
 3814	Good fight draw can start drawing on it to find the treasure
@@ -4043,7 +4043,7 @@
 4042	Clearance [copy] in order to use the seven seas pillars (front) after
 4043	Clearance of using [copy] the seven seas pillars (back), after
 4044	can only be opened once a week oh
-4045	Received taken or completed "war! Cáncer de frente!" Task
+4045	Received taken or completed "war! Cáncer of frente!" Task
 4046	Level greater than or equal to 80 can be used
 4047	Hero hit Hero point III, is no longer available
 4048	Completed "attack in the dark" task

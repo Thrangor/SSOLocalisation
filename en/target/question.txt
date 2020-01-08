@@ -338,7 +338,7 @@
 337	Which of the following Knights is not beautiful?
 338	Raven Jamian
 339	Aphrodite of Pisces
-340	Sorento de Sirena
+340	Sorento of Sirena
 341	Misty of Lizard
 342	Which Golden Knight is the most beautiful?
 343	Dohko of Libra
@@ -350,7 +350,7 @@
 349	Shun and Ikki
 350	Saga and Kanon
 351	Which of the following people is not a woman?
-352	Marin de Águila
+352	Marin of Águila
 353	Ophiuchus Shina
 354	Pandora
 355	With whom does Cassios have a closer relationship?
@@ -396,7 +396,7 @@
 395	Kratos from Sparta
 396	Kiki of Jamir
 397	Shaka of the Ganges River
-398	Dohko de Rozan
+398	Dohko of Rozan
 399	What is the name of the God of Dream?
 400	Hypnos
 401	I do not remember
@@ -611,7 +611,7 @@
 610	48
 611	64
 612	Seiya
-613	Aeoria
+613	Aiolia
 614	Judija
 615	gold dagger
 616	Last week, the top 200 regiments

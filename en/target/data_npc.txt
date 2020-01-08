@@ -360,7 +360,7 @@
 359	Main line 5 Main City_President
 360	Main line 6 Ciudad Principal_Alex 1
 361	Main line 7 Main City_Alex 2
-362	Main line 8 Borde de la Floresta_Pandora 2
+362	Main line 8 Borde of la Floresta_Pandora 2
 363	Main line 9 Main City_Aldebaran 1
 364	Main line 10 Floresta Perdida_Pandora 3
 365	Main line 11 Floresta perdida_Eurídice 1
@@ -392,10 +392,10 @@
 391	Main line 39 Mountain Village of the Cumbre Salvaje_Jamian 1
 392	Main line 40 Camino del Montaña del Cumbre Salvaje_Seika 2
 393	Main line 141 Mountain Village of the Cumbre Salvaje_Seika 4
-394	Main line 42 Village de la Montaña del Cumbre Salvaje_Santiago
+394	Main line 42 Village of la Montaña del Cumbre Salvaje_Santiago
 395	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
-396	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
-397	Main line 45 Village of the Montaña del Cumbre Salvaje_Ilusión de Cumelos 2
+396	Main line 44 Camino of la Montaña del Cumbre Salvaje_Eudora 15
+397	Main line 45 Village of the Montaña del Cumbre Salvaje_Ilusión of Cumelos 2
 398	Main line 46 Mountain Village of the Wild Summit_Aldebaran 2
 399	Main line 47 Camino del Montaña del Cumbre Salvaje_Aiolia 1
 400	Main line 48 Mountain Road of the Cumbre Salvaje_Shaka
@@ -745,7 +745,7 @@
 744	Cosmo White
 745	Euridice
 746	Pandora
-747	Figurante 27 Transformación Gigante dDios de la muerte
+747	Figurante 27 Transformación Gigante dDios of la muerte
 748	Figurante 27 Transformación Gigante dDios del sueño
 749	Soldier of the Sanctuary
 750	Soldier of the Sanctuary
@@ -1074,7 +1074,7 @@
 1073	Shiryu
 1074	Dragon
 1075	Ley-Hu
-1076	Li-Yun drugs
+1076	Li-Yun's Medicine
 1077	Ley-Hu
 1078	Shiryu
 1079	Dragon
@@ -1526,7 +1526,7 @@
 1525	Shun
 1526	Andromeda
 1527	Acer
-1528	Isla de la Reina
+1528	Isla of la Reina
 1529	Nobel
 1530	Apprentice [Island]
 1531	Slave
@@ -1590,7 +1590,7 @@
 1589	Island of the Queen
 1590	Dying Person
 1591	Acer
-1592	Isla de la Reina
+1592	Isla of la Reina
 1593	Shun
 1594	Andromeda
 1595	Acer
@@ -1772,7 +1772,7 @@
 1771	Hyoga
 1772	Cygnus
 1773	Berman
-1774	Village de la Nieve
+1774	Village of la Nieve
 1775	Hyoga
 1776	Cygnus
 1777	Natassia Inconsicente
@@ -1995,7 +1995,7 @@
 1994	General Marine Horse
 1995	Shuya
 1996	Marina Ganancioso
-1997	Villagers of the Village de Nereo Encadenados
+1997	Villagers of the Village of Nereo Encadenados
 1998	Shuya
 1999	Saori Kido
 2000	Sorento
@@ -2119,7 +2119,7 @@
 2118	Captain Nemo
 2119	Captain Nemo
 2120	Elderly
-2121	Guerrero de Nereo
+2121	Guerrero of Nereo
 2122	Aronax
 2123	Consell
 2124	Netherland
@@ -2140,7 +2140,7 @@
 2139	Lily
 2140	Lily's grandmother
 2141	Kidnapped Child
-2142	Villager of the Village de Nereus
+2142	Villager of the Village of Nereus
 2143	Old Whale
 2144	Merchant
 2145	Sentinel of Nereus
@@ -2559,7 +2559,7 @@
 2558	Shaka
 2559	Virgo
 2560	Athena
-2561	Alma de Camus
+2561	Alma of Camus
 2562	Aquarius
 2563	Shura soul
 2564	Capricorn
@@ -2634,10 +2634,10 @@
 2633	Guard of the Hell of the Stones
 2634	Infernal Swamp Guard
 2635	Burning Heat Hell Guard
-2636	Alma de Agamenon
-2637	Alma de Heitor
+2636	Alma of Agamenon
+2637	Alma of Heitor
 2638	Jason's soul
-2639	Alma de Medea
+2639	Alma of Medea
 2640	Theseus's Soul
 2641	Soul of Perseus
 2642	Drowned Soul
@@ -2846,9 +2846,9 @@
 2845	Sylphid
 2846	Basilisk
 2847	Strange Stone
-2848	Alma de Cassios
-2849	Alma de Cassios
-2850	Alma de Cassios
+2848	Alma of Cassios
+2849	Alma of Cassios
+2850	Alma of Cassios
 2851	Soul Full of Repentance
 2852	Seducer of the blood well
 2853	Shina
@@ -2866,12 +2866,12 @@
 2865	Petrified Soul
 2866	Kurt
 2867	Alma Salvadas
-2868	Alma de Argol
+2868	Alma of Argol
 2869	Perseus
 2870	Leader of Thieves
-2871	Alma de Aldebaran
+2871	Alma of Aldebaran
 2872	Taurus
-2873	Alma de Aldebaran
+2873	Alma of Aldebaran
 2874	Taurus
 2875	Taurus armor
 2876	Soul of the Mask of Death
@@ -2881,11 +2881,11 @@
 2880	Cancer Armor
 2881	Soul of Milo
 2882	​​Scorpio
-2883	Alma de Milo
+2883	Alma of Milo
 2884	Scorpio
 2885	Scorpio armor
-2886	Guardia de Caina
-2887	Alma de Kanon
+2886	Guardia of Caina
+2887	Alma of Kanon
 2888	Alma
 2889	Guard of Antenora
 2890	Soul of Aiolia
@@ -2904,7 +2904,7 @@
 2903	Soul of Aphrodite
 2904	Pisces
 2905	Guard of Giudecca
-2906	Alma de Saga
+2906	Alma of Saga
 2907	Twins
 2908	Jacob
 2909	Alma
@@ -2930,7 +2930,7 @@
 2929	Alma
 2930	Judas
 2931	Alma
-2932	Alma de Saga
+2932	Alma of Saga
 2933	Twins
 2934	Resentful soul
 2935	Resentful soul
@@ -3018,7 +3018,7 @@
 3017	Dragon
 3018	Shun
 3019	Andromeda
-3020	Main line 88 Village de la Nieve_
+3020	Main line 88 Village of la Nieve_
 3021	Seiya
 3022	Apprentice
 3023	Seiya
@@ -3380,7 +3380,7 @@
 3379	Apprentice
 3380	Jun
 3381	Apprentice
-3382	Cosmo de Jun
+3382	Cosmo of Jun
 3383	Jun
 3384	Apprentice
 3385	Flight of the Dragon
@@ -3411,10 +3411,10 @@
 3410	Medic [Silver City]
 3411	Prophet
 3412	Prophet
-3413	Village de Campana
-3414	Village de Campana
+3413	Village of Campana
+3414	Village of Campana
 3415	Prophet
-3416	Guera Galatica_11 Ciudad de la Plata - after the doctor gathers medication
+3416	Guera Galatica_11 Ciudad of la Plata - after the doctor gathers medication
 3417	Marin
 3418	Eagle
 3419	Aiolia
@@ -3748,7 +3748,7 @@
 3747	Altar of Dionisio (Warehouse)
 3748	Red team
 3749	Level 8
-3750	Altar de Dionisio (Warehouse)
+3750	Altar of Dionisio (Warehouse)
 3751	Red team
 3752	Level 9
 3753	Merchants to the altar of God (shop)
@@ -3898,10 +3898,10 @@
 3897	Altar of Hephaestus (workshop)
 3898	Red team
 3899	Level 4
-3900	Altar de Hefesto (workshop)
+3900	Altar of Hefesto (workshop)
 3901	Red team
 3902	Level 5
-3903	Altar de Hefesto (workshop)
+3903	Altar of Hefesto (workshop)
 3904	Red team
 3905	Level 6
 3906	Altar of Hephaestus (workshop)
@@ -3910,7 +3910,7 @@
 3909	Altar of Hephaestus (workshop)
 3910	Red team
 3911	Level 8
-3912	Altar de Hefesto (workshop)
+3912	Altar of Hefesto (workshop)
 3913	Red team
 3914	Level 9
 3915	Central door
@@ -4003,22 +4003,22 @@
 4002	Altar of Dionisio (Warehouse)
 4003	Blue team
 4004	Level 3
-4005	Altar de Dionisio (Warehouse)
+4005	Altar of Dionisio (Warehouse)
 4006	Blue team
 4007	Level 4
 4008	Altar of Dionisio (Warehouse)
 4009	Blue team
 4010	Level 5
-4011	Altar de Dionisio (Warehouse)
+4011	Altar of Dionisio (Warehouse)
 4012	Blue team
 4013	Level 6
-4014	Altar de Dionisio (Warehouse)
+4014	Altar of Dionisio (Warehouse)
 4015	Blue team
 4016	Level 7
 4017	Altar of Dionisio (Warehouse)
 4018	Blue team
 4019	Level 8
-4020	Altar de Dionisio (Warehouse)
+4020	Altar of Dionisio (Warehouse)
 4021	Blue team
 4022	Level 9
 4023	Merchants to the altar of God (tent)
@@ -4156,7 +4156,7 @@
 4155	Artemis Altar (Training area)
 4156	Blue team
 4157	Level 9
-4158	Altar de Hefesto (workshop)
+4158	Altar of Hefesto (workshop)
 4159	Blue team
 4160	Level 1
 4161	Altar of Hephaestus (workshop)
@@ -4165,22 +4165,22 @@
 4164	Altar of Hephaestus (workshop)
 4165	Blue team
 4166	Level 3
-4167	Altar de Hefesto (workshop)
+4167	Altar of Hefesto (workshop)
 4168	Blue team
 4169	Level 4
-4170	Altar de Hefesto (workshop)
+4170	Altar of Hefesto (workshop)
 4171	Blue team
 4172	Level 5
-4173	Altar de Hefesto (workshop)
+4173	Altar of Hefesto (workshop)
 4174	Blue team
 4175	Level 6
-4176	Altar de Hefesto (workshop)
+4176	Altar of Hefesto (workshop)
 4177	Blue team
 4178	Level 7
 4179	Altar of Hephaestus (workshop)
 4180	Blue team
 4181	Level 8
-4182	Altar de Hefesto (workshop)
+4182	Altar of Hefesto (workshop)
 4183	Blue team
 4184	Level 9
 4185	Central door
@@ -4402,7 +4402,7 @@
 4401	Crystal Wall
 4402	Crystal Wall
 4403	Crystal Wall
-4404	Pass through the house _ Casa de Aries
+4404	Pass through the house _ Casa of Aries
 4405	Guard of the Twelve Houses
 4406	Pass through the house_ Taurus House
 4407	Aldebaran
@@ -6336,7 +6336,7 @@
 6335	Fans of the girl
 6336	Rozan applicants
 6337	Shina
-6338	Undercover people
+6338	Undercover Person
 6339	Frames
 6340	Apprentice
 6341	Andros
@@ -6808,12 +6808,12 @@
 6807	Monthly gold week
 6808	Warrior Resurrection
 6809	Monthly gold week
-6810	Alma de Cassios
+6810	Alma of Cassios
 6811	Caiotus
 6812	Night watchman
 6813	Soul of Shion
 6814	Aries
-6815	Alma de Eide
+6815	Alma of Eide
 6816	Soul of Aiolos
 6817	Sagittarius
 6818	Shina
@@ -6972,9 +6972,9 @@
 6971	Eros
 6972	Strange collectors
 6973	L'Aquila
-6974	Guerrero de la Rosa
+6974	Guerrero of la Rosa
 6975	L'Aquila
-6976	Guerrero de la Rosa
+6976	Guerrero of la Rosa
 6977	Aphrodite
 6978	Unfortunate tourism merchants
 6979	Unfortunate tourism merchants
@@ -7424,13 +7424,13 @@
 7423	Dragon
 7424	Breeder of Eagles
 7425	Fly to Thanatos Temple
-7426	Criadora de aguilas
+7426	Criadora of aguilas
 7427	Fly to the Island of Practice of the King of the Underworld
-7428	Criadora de aguilas
+7428	Criadora of aguilas
 7429	Fly to the Sea of ​​Flowers Asleep
 7430	Valkyrie
 7431	Princesses of the Land of Ice
-7432	Sorrento de Sirena
+7432	Sorrento of Sirena
 7433	Joey
 7434	Master came from the dawn
 7435	Statue of Athena
@@ -7510,7 +7510,7 @@
 7509	<Ambulante>
 7510	Scott
 7511	<Ambulante>
-7512	The Twelve Houses_Casa de Leo_Pilar
+7512	The Twelve Houses_Casa of Leo_Pilar
 7513	Seiya
 7514	Pegasus
 7515	Hyoga
@@ -7997,13 +7997,13 @@
 7996	Cave of the wind
 7997	Cave of the wind
 7998	teleportation from the House of Aquarius to the Summit
-7999	Instance Zone of the Isla de la Reina Muerte Teleportation Carrier
-8000	Stars_ Monte de las Estrellas teleportation 1
-8001	Stars_ Monte de las Estrellas teleportation 2
-8002	Stars_ Monte de las Estrellas teleportation 3
-8003	Stars_ Monte de las Estrellas teletransport4
-8004	Stars_ Monte de las Estrellas teleportation 5
-8005	Return to Monte de las Estrellas_Up to the private chamber 1
+7999	Instance Zone of the Isla of la Reina Muerte Teleportation Carrier
+8000	Stars_ Monte of las Estrellas teleportation 1
+8001	Stars_ Monte of las Estrellas teleportation 2
+8002	Stars_ Monte of las Estrellas teleportation 3
+8003	Stars_ Monte of las Estrellas teletransport4
+8004	Stars_ Monte of las Estrellas teleportation 5
+8005	Return to Monte of las Estrellas_Up to the private chamber 1
 8006	Return to the Mount of Stars_Up to private chamber 2
 8007	Output
 8008	Red team teleportation capsule to the popular battlefield
@@ -8042,7 +8042,7 @@
 8041	Saori Q version_teletransporte to the room
 8042	Saori in persona_teletransporte
 8043	Saori in person_teletransporte 1
-8044	Saori gulosa_Villa de la seta
+8044	Saori gulosa_Villa of la seta
 8045	Saori gulosa_granja
 8046	Saori gulosa_teletransporte secret of the ghost
 8047	Pass by the boss_ir to the Island of Andromeda
@@ -8438,15 +8438,15 @@
 8437	City of Hades_Transportation Process 2
 8438	City of Hades_teletransporte 1 of the city walls
 8439	City of Hades_teletransporte 2 of the city walls
-8440	Elegy of the Goddess_Casa de Cumelos
+8440	Elegy of the Goddess_Casa of Cumelos
 8441	Elegy of the Goddess_Hyoga in Hiperdimension
 8442	Elegy of the Goddess_Kanon in the Hiperdimension
 8443	Elegy of the Goddess_Sygote in Hyperdimension
-8444	Elegy of the Goddess_Casa de Virgo
+8444	Elegy of the Goddess_Casa of Virgo
 8445	Elegy of the goddess_the goddess
 8446	Flight from Sagitario_teletransporte to Qiaotou
 8447	Flight from Sagitario_teletransporte to the test
-8448	Castillo de Hielo azul_teletransporte for entry
+8448	Castillo of Hielo azul_teletransporte for entry
 8449	Fissure in the space-time of the red team
 8450	Teleport in the space-time of the red team
 8451	Teleport in the space-time of the red team
@@ -8512,7 +8512,7 @@
 8511	Oracle
 8512	Store level 7 of the Guild's resistance base
 8513	Practice Room
-8514	Sale of Elixir del Castillo de Hades
+8514	Sale of Elixir del Castillo of Hades
 8515	Potion
 8516	Bandage
 8517	Sale of equipment of the City of Hades
@@ -8727,11 +8727,11 @@
 8726	Change
 8727	Squire's store of war equipment
 8728	Squire's war equipment
-8729	Monte de las Estrellas 1 dimension history of Andromeda
-8730	Monte de las Estrellas history 1 dimension of the Phoenix
-8731	Monte de las Estrellas 1 dimension of Pegasus
-8732	Monte de las Estrellas history 1 dimension of the Dragon
-8733	Monte de las Estrellas history 1 dimension of the Cygnus
+8729	Monte of las Estrellas 1 dimension history of Andromeda
+8730	Monte of las Estrellas history 1 dimension of the Phoenix
+8731	Monte of las Estrellas 1 dimension of Pegasus
+8732	Monte of las Estrellas history 1 dimension of the Dragon
+8733	Monte of las Estrellas history 1 dimension of the Cygnus
 8734	¡01 Crimson! Shadow of another world!
 8735	Version Q _ critical! feelings of the goddess
 8736	[Guild] Vehicle Chimera of Thor!
@@ -8755,7 +8755,7 @@
 8754	History 38 - Shiryu and Ley-hu
 8755	story 47 the flight of Sagittarius
 8756	Story 55 - Phantom Fist of the Phoenix
-8757	História_bendición del servicio de Flores Sea dDios del sueño
+8757	História_bendición del servicio of Flores Sea dDios del sueño
 8758	História_ service of zone of instance dDios of the death happiness 2
 8759	História_ instance zone service dDios del sueño - felicidad 3
 8760	História_ instance zone service dDios del sueño - felicidad 3
@@ -8775,7 +8775,7 @@
 8774	History of Mount of the Stars at hyperdimension 4
 8775	History of Mount of the Stars at hyperdimension 5
 8776	History of Mount of the Stars at hyperdimension 6
-8777	History of Monte de las Estrellas hyperdimension 7
+8777	History of Monte of las Estrellas hyperdimension 7
 8778	History of Mount of the Stars at hyperdimension 8
 8779	History of the Galactic Tournamentgran map 1
 8780	History of the Galactic Tournamentgran map 2
@@ -8892,9 +8892,9 @@
 8891	Chapter 1 Sanctuary 24 _ Camp Dorado _ Pandora
 8892	Chapter 1 Sanctuary 25_ Acropolis _ Visit of Eudora 1
 8893	Chapter 1 Sanctuary 26 _ Acrópole _ Visit of Eudora 2
-8894	27 Sanctuary chapter 1_Acrópole_visita de Eudora 3
-8895	28 Sanctuary chapter 1_Acrópole_visita de Eudora 4
-8896	Chapter 1 Sanctuary 29 _Pozo de la Muerte _ Eudora
+8894	27 Sanctuary chapter 1_Acrópole_visita of Eudora 3
+8895	28 Sanctuary chapter 1_Acrópole_visita of Eudora 4
+8896	Chapter 1 Sanctuary 29 _Pozo of la Muerte _ Eudora
 8897	Chapter 1 main line Eudora in front of the well of death
 8898	Chapter 1 Main Realm before Alex's tempo
 8899	Chapter 2 Main line Assistant
@@ -8954,7 +8954,7 @@
 8953	Chapter 3 Main Realm Marin 2
 8954	Chapter 3 Main Realm of Marin 3
 8955	Chapter 3 Main Realm Marin 4
-8956	Sanctuary Chapter 1_antiguo Camp de batalla_Alex 2
+8956	Sanctuary Chapter 1_antiguo Camp of batalla_Alex 2
 8957	Secondary line 01 puerto_aldeano jumps the mission
 8958	Invasion of the snowman - Yggdrasil
 8959	Snowman Invasion - Frozen Tower
@@ -8963,7 +8963,7 @@
 8962	Snowman Invasion - Dark Ice Station
 8963	Invasion of the Snowman - Aurora in the Snow Camp
 8964	Snowman Invasion - Main Body Award
-8965	Invasion of the snowman - Village de la Nieve
+8965	Invasion of the snowman - Village of la Nieve
 8966	Invasion of the snowman - diabolical reefs
 8967	Snowman Invasion - Forest of Darkness
 8968	01 Event of the Santuario_Camon
@@ -8985,7 +8985,7 @@
 8984	17 NPC sign change
 8985	18 Concession of the armor_Jason, artisan apprentice
 8986	19 Concession of the armor_Loki, apprentice craftsman
-8987	19 Concession of the armor_Jonathan de oro
+8987	19 Concession of the armor_Jonathan of oro
 8988	20 Armor award_Kairós, apprentice of silver
 8989	21 Concession of the armor_Michelangelo, apprentice of silver
 8990	22 Sanctuary of Ice_guide of zone of instance
@@ -8995,15 +8995,15 @@
 8994	26 Concession of the armor_Michelangelo, apprentice of the silver outside
 8995	Invasion to the Underworld advanced level_concession of Saturday mission
 8996	Invasion to the Underworld advanced level_concession of Sunday mission
-8997	Invasion to the Underworld advanced level_Floresta de Scylla
+8997	Invasion to the Underworld advanced level_Floresta of Scylla
 8998	Invasion to the Underworld advanced level_Sanctuary
-8999	Invasion to the Underworld advanced level_Floresta de la Piedra de Sirena
+8999	Invasion to the Underworld advanced level_Floresta of la Piedra of Sirena
 9000	Invasion to the Underworld advanced level_horm of Poseidonia - leste area
 9001	Invasion to the Underworld advanced level - now of Poseidonia - central area
 9002	Invasion to the Underworld advanced level_horm of Poseidonia - western area
 9003	Invasion to the Underworld advanced level - Heart of the sea
 9004	Invasion to the Underworld advanced level - Surveillance Station of the Marinas
-9005	Invasion to the Underworld advanced level - Village de Nereos
+9005	Invasion to the Underworld advanced level - Village of Nereos
 9006	Invasion to the Underworld advanced level - Coral Forest
 9007	Invasion to the Underworld advanced level - Castaway
 9008	Mission broadcast fight the boss
@@ -9052,9 +9052,9 @@
 9051	Event to protect the wonderful prize of the base PVP of the Guild
 9052	Grupo Divino Distribuir Extra Award
 9053	Engineer of the Winter Ice Tower of the red team
-9054	Engineer of the Torre de las Llamas of the blue team
+9054	Engineer of the Torre of las Llamas of the blue team
 9055	Engineer of the Winter Ice Tower of the blue team
-9056	Engineer of the Torre de las Llamas of the blue team
+9056	Engineer of the Torre of las Llamas of the blue team
 9057	Award of sun rays award
 9058	Guild instance zone 0 send mission
 9059	Guild instance zone 0 NPC1 sunbeams
@@ -9115,13 +9115,13 @@
 9114	Main line 15 Seiya cemetery - entrance
 9115	Main line 16 Aiya cemetery
 9116	Main line 17 Aiolia cemetery depths
-9117	Main line 18 Aiolia Monte de las Estrellas - main entrance
-9118	Main line 19 Aiolia Monte de las Estrellas - inside
-9119	Main Line 20 Aiya Monte de las Estrellas - inside
+9117	Main line 18 Aiolia Monte of las Estrellas - main entrance
+9118	Main line 19 Aiolia Monte of las Estrellas - inside
+9119	Main Line 20 Aiya Monte of las Estrellas - inside
 9120	Main Realm 21 Marin on the way to escape 1
 9121	Main line 22 Marin on the way to escape 2
 9122	Main line 23 Seiya on the way to escape
-9123	Main line 24 ferryman of the Village de los Principiantes
+9123	Main line 24 ferryman of the Village of los Principiantes
 9124	Shina arena main line
 9125	Main Realm 26 furious students
 9126	Tangle Instance Zone 06 Twins Illusion Award
@@ -9176,8 +9176,8 @@
 9175	Various stars_21 boatman of the Port
 9176	Various stars_22 monument of the knights
 9177	Various stars_23 instance zone of the Grand Master of the Arena - after
-9178	Various stars_24 Twin Illusion 1 Monte de las Estrellas
-9179	Various stars_25 Twin Illusion 2 Monte de las Estrellas
+9178	Various stars_24 Twin Illusion 1 Monte of las Estrellas
+9179	Various stars_25 Twin Illusion 2 Monte of las Estrellas
 9180	Various stars_26 Illusion of Twins 3 Mount of the Stars
 9181	Various stars_27 Illusion of Twins 4 Monte of the Stars
 9182	Various stars_28 local birth Marin side of the stone
@@ -9223,7 +9223,7 @@
 9222	Main Realm 29 Village of the Montaña del Cumbre Salvaje_jefe of the villa
 9223	Realm principal 30 Village of the Mountain of the Cumbre Salvaje_Shina 3
 9224	Main Realm 31 Temple of the Titans_ Amnestic Halibut
-9225	Main Realm 32 Village of the Montaña del Cumbre Salvaje_Capitan de los Espectros
+9225	Main Realm 32 Village of the Montaña del Cumbre Salvaje_Capitan of los Espectros
 9226	Realm principal 33 Mountain Village of the Cumbre Salvaje_Shina 6
 9227	Main Realm 34 Village of the Montaña del Cumbre Salvaje_aldeano
 9228	Realm principal 35 Mountain Village of the Cumbre Salvaje_Bjorn
@@ -9233,10 +9233,10 @@
 9232	Main line 39 Village of the Montaña del Cumbre Salvaje_Jamian 1
 9233	Main line 40 Camino del Montaña del Cumbre Salvaje_Seika 2
 9234	Main line 141 Village of the Montaña del Cumbre Salvaje_Seika 4
-9235	Main line 42 Village de la Montaña del Cumbre Salvaje_Santiago
+9235	Main line 42 Village of la Montaña del Cumbre Salvaje_Santiago
 9236	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
-9237	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
-9238	Main line 45 Camino de la Montaña del Cumbre Salvaje_Illusion of Twins 2
+9237	Main line 44 Camino of la Montaña del Cumbre Salvaje_Eudora 15
+9238	Main line 45 Camino of la Montaña del Cumbre Salvaje_Illusion of Twins 2
 9239	Main line 46 Camino del Montaña del Cumbre Salvaje_Aldebaran 2
 9240	Main line 47 Camino del Montaña del Cumbre Salvaje_Aiolia 1
 9241	Main line 48 Mountain Road of the Cumbre Salvaje_Shaka
@@ -9270,7 +9270,7 @@
 9269	18 Old Roderic Battleground
 9270	19 Alex old Battlefield 1
 9271	20 Orpheus Camp of flowers 3
-9272	21 the last breath of the aspirants Pozo de los Muertos 2
+9272	21 the last breath of the aspirants Pozo of los Muertos 2
 9273	22 The mysterious golden knight
 9274	23 Eudora commercial change zone 4
 9275	24 Aiolia commercial change zone 3
@@ -9332,27 +9332,27 @@
 9331	79 Bread vendor
 9332	80 Claude of the Wild Mountain Summit
 9333	81 Zack villa by Roderic
-9334	zUnicornio de Andromeda
+9334	zUnicornio of Andromeda
 9335	zpersona misteriosode Andromeda moves
 9336	zpersona misteriosode Andromeda moves
 9337	zShina of Andromeda is thrown into the river
 9338	zShina of Andromeda gets up
-9339	Sirius Nazhi de Fênix
+9339	Sirius Nazhi of Fênix
 9340	zpersona misteriosode Phoenix moves
 9341	zpersona misteriosode Phoenix gets up
-9342	zShina de Phoenix throws herself in the river
-9343	zShina de Phoenix gets up
+9342	zShina of Phoenix throws herself in the river
+9343	zShina of Phoenix gets up
 9344	zGeki of Pegasus bear
 9345	zpersona misteriosode Pegasus moves
 9346	zpersona misteriosode Pegasus gets up
-9347	zShina de Pegasus throws herself in the river
+9347	zShina of Pegasus throws herself in the river
 9348	zShina of Pegasus gets up
 9349	zBan by Leo Minor of Dragon
 9350	zpersona misteriosode Dragon moves
 9351	zpersona misteriosode Dragon gets up
 9352	zShina of Dragon is thrown in the river
 9353	zShina of Dragon gets up
-9354	zichi of Sea Dragon de Cisne
+9354	zichi of Sea Dragon of Cisne
 9355	zpersona misteriosode Cygnus moves
 9356	zpersona misteriosode Cygnus gets up
 9357	zShina of Cygnus is pulled into the river
@@ -9363,9 +9363,9 @@
 9362	Principal realm of 105 precipice of red leaves_Ikki 2
 9363	Main line 106 precipice of the red leaves_Shiryu 6
 9364	Main Realm 107 Mansion Kido_person in suspicious ways
-9365	Main Realm 108 Ciudad de la Plata_espectador 5
-9366	Main Realm 109 Ciudad de la Plata_espectador 6
-9367	Main Realm 109 Ciudad de la Plata_espectador 7
+9365	Main Realm 108 Ciudad of la Plata_espectador 5
+9366	Main Realm 109 Ciudad of la Plata_espectador 6
+9367	Main Realm 109 Ciudad of la Plata_espectador 7
 9368	Main Realm 114 Floresta Aokigahara Seiya 1
 9369	Main Realm 115 Labyrinth of Stones and Ghosts_ Black Dragon 2
 9370	Main Realm 116 Farm of Oshino_Sven
@@ -9381,35 +9381,35 @@
 9380	Main Realm 153 Galactic War Receptionist
 9381	Tangle Instance Zone 01 Shiryu
 9382	Tangle Instance Zone 02 Shun
-9383	Secondary line 01 Ciudad de la Plata_Pino of wisdom
-9384	Secondary Realm 02 Ciudad de la Plata_Lord ticket seller
+9383	Secondary line 01 Ciudad of la Plata_Pino of wisdom
+9384	Secondary Realm 02 Ciudad of la Plata_Lord ticket seller
 9385	Secondary Realm 03 _Sila
-9386	Secondary Realm 04 Ciudad de la Plata_Mia 1
-9387	Secondary Realm Ciudad de la Plata_Caio
-9388	Secondary School 06 Ciudad de la Plata_Caleb
-9389	Secondary Realm 07 Ciudad de la Plata_Mia 1
-9390	Secondary school 08 Ciudad de la Plata_Gaubert
-9391	Secondary school 09 Ciudad de la Plata_Nachi
-9392	Secondary Realm 10 Ciudad de la Plata_armadura unicornio
+9386	Secondary Realm 04 Ciudad of la Plata_Mia 1
+9387	Secondary Realm Ciudad of la Plata_Caio
+9388	Secondary School 06 Ciudad of la Plata_Caleb
+9389	Secondary Realm 07 Ciudad of la Plata_Mia 1
+9390	Secondary school 08 Ciudad of la Plata_Gaubert
+9391	Secondary school 09 Ciudad of la Plata_Nachi
+9392	Secondary Realm 10 Ciudad of la Plata_armadura unicornio
 9393	Secondary Realm 11 Floresta Aokigahara_Jabu
 9394	Secondary school 12 Floresta Aokigahara_Jabu injured
 9395	Secondary Realm 13 Floresta Aokigahara_ Jabu Explosion
 9396	Secondary Realm 14 Floresta Aokigahara_Sfinge
-9397	Secondary Realm 15 Village de Campana_jefe de la villa
-9398	Secondary Realm 16 Village de Campana_campana 1
-9399	Secondary line 17 Village de Campana_campana 2
-9400	Secondary line 18 Village de Campana_Nyx 1
-9401	Secondary line 19 Village de Campana_Nyx 2
-9402	Secondary Realm 20 Village de Campana_Nyx 3
-9403	Secondary Realm 21 Village de Campana_Nyx 4
-9404	Secondary Realm 22 Village de Campana_Ying
-9405	Secondary Realm 23 Village de Campana_Kim
-9406	Secondary line 24 Village de Campana_Ying 2
-9407	Secondary line 25 Village de Campana_Kim 2
-9408	Secondary line 26 Village de Campana_Ying 3
-9409	Secondary line 27 Village de Campana_luciérnaga
-9410	Secondary line 28 Village de Campana_Amir
-9411	Secondary line 29 Village de Campana_Knucklerot
+9397	Secondary Realm 15 Village of Campana_jefe of la villa
+9398	Secondary Realm 16 Village of Campana_campana 1
+9399	Secondary line 17 Village of Campana_campana 2
+9400	Secondary line 18 Village of Campana_Nyx 1
+9401	Secondary line 19 Village of Campana_Nyx 2
+9402	Secondary Realm 20 Village of Campana_Nyx 3
+9403	Secondary Realm 21 Village of Campana_Nyx 4
+9404	Secondary Realm 22 Village of Campana_Ying
+9405	Secondary Realm 23 Village of Campana_Kim
+9406	Secondary line 24 Village of Campana_Ying 2
+9407	Secondary line 25 Village of Campana_Kim 2
+9408	Secondary line 26 Village of Campana_Ying 3
+9409	Secondary line 27 Village of Campana_luciérnaga
+9410	Secondary line 28 Village of Campana_Amir
+9411	Secondary line 29 Village of Campana_Knucklerot
 9412	Secondary line 30 Oshino_Aron farm
 9413	Secondary 31 Farm of Oshino_ mysterious lord
 9414	Secondary Line 32 Oshino Farm) _Albert
@@ -9422,9 +9422,9 @@
 9421	Secondary line 39 Sunset beach_Laxus
 9422	Secondary line 40 Sunset beach_sirena 1
 9423	Secondary line 41 Sunset_sirena beach 2
-9424	Secondary line 42 Ciudad de la Plata_Caleb 1
-9425	Realm 44 Ciudad de la Plata_Jabu 4
-9426	Secondary line 45 Village de Campana_Jabel
+9424	Secondary line 42 Ciudad of la Plata_Caleb 1
+9425	Realm 44 Ciudad of la Plata_Jabu 4
+9426	Secondary line 45 Village of Campana_Jabel
 9427	Secondary line Sunset beach Laxus 2
 9428	Galactic Tournament01_recepcionista
 9429	Main Realm 01 port boatman
@@ -9756,22 +9756,22 @@
 9755	Main Realm 87 Demon Reef_ Imprisoned Blue Ice Warrior
 9756	Realm Main 88 Reef of the Demon_Hyoga
 9757	Engaging Instance Zone 01_Hyoga do the mission
-9758	Secondary Realm 01 Village de los Celtas_Jonas 1
-9759	Secondary Realm 02 Village de los Celtas_Jonas 2
-9760	Secondary Realm 03 Camp de entreno_Hyoga 1
-9761	Secondary Realm 04 Camp de entreno_Hyoga 2
+9758	Secondary Realm 01 Village of los Celtas_Jonas 1
+9759	Secondary Realm 02 Village of los Celtas_Jonas 2
+9760	Secondary Realm 03 Camp of entreno_Hyoga 1
+9761	Secondary Realm 04 Camp of entreno_Hyoga 2
 9762	Secondary Realm 05 in the wreck_person mysterious1
-9763	Secondary Realm 06 Floresta de la oscuridad_person mysterious2
+9763	Secondary Realm 06 Floresta of la oscuridad_person mysterious2
 9764	Secondary Realm 07 Demon Reef_person mysterious3
 9765	Secondary Realm 08 Eternal Ice Wall_Feien
-9766	Secondary Realm 09 Village de la Nieve_Miya 1
-9767	Secondary Realm 10 Village de la Nieve_André 1
-9768	Secondary Realm 11 Village de la Nieve_André 1 2
-9769	Secondary school 12 Village de la Nieve_André 1 3
+9766	Secondary Realm 09 Village of la Nieve_Miya 1
+9767	Secondary Realm 10 Village of la Nieve_André 1
+9768	Secondary Realm 11 Village of la Nieve_André 1 2
+9769	Secondary school 12 Village of la Nieve_André 1 3
 9770	Secondary Realm 13 Frozen Tower_Prudence 1
 9771	Secondary Realm 14 Torre Congelada_Sam 1
 9772	Secondary Realm 15 Torre Congelada_Paulo 1
-9773	Realm principal 16 Village de la Nieve_Natasia 1
+9773	Realm principal 16 Village of la Nieve_Natasia 1
 9774	Secondary Realm 17 Torre Congelada_Nicholas 1
 9775	Secondary Realm 18 Torre Congelada_Nicholas 2
 9776	Secondary Realm 19 Frozen Tower_man of beautiful costumes
@@ -9801,32 +9801,32 @@
 9800	secondary Realm 43 Valley of the Wind_stone of inscription 1
 9801	Secondary Realm 44 Valley of the Wind_the mind of Odin 1
 9802	Secondary Realm 45 Dark Ice Station_Mott 1
-9803	Secondary Realm 46 Aurora at the Camp de Nieve_Mott 2
+9803	Secondary Realm 46 Aurora at the Camp of Nieve_Mott 2
 9804	Secondary Realm 47 Dark Ice Station_ Black Ice Knight
 9805	Secondary Realm 48 Dark Ice Station_Daladin 1
 9806	Secondary Realm 49 Dark Ice Station_Daladin 2
-9807	Secondary Realm 50 Aurora at Camp de Nieve_Faertai 1
-9808	Secondary Realm 51 Aurora at Camp de Nieve_Faertai 2
+9807	Secondary Realm 50 Aurora at Camp of Nieve_Faertai 1
+9808	Secondary Realm 51 Aurora at Camp of Nieve_Faertai 2
 9809	Secondary Realm 52 Castillo del Hielo Azul_Faertai 3
-9810	High School 53 Aurora in the Camp de Nieve_eremita 1
-9811	Secondary Realm 54 Aurora at the Camp de Nieve_eremita 2
-9812	Secondary Realm 55 Castillo de Hielo Azul_eremita 3
+9810	High School 53 Aurora in the Camp of Nieve_eremita 1
+9811	Secondary Realm 54 Aurora at the Camp of Nieve_eremita 2
+9812	Secondary Realm 55 Castillo of Hielo Azul_eremita 3
 9813	Secondary Realm 56 Castillo del Hielo Azul_eremita 4
 9814	High School 57 Ice Castle Blue_Kanon 1
 9815	Secondary Realm 58 Castle of the Blue Ice_man of beautiful costumes 8
 9816	High school 59 Demon Reef_person mysterious4
 9817	Secondary Realm 60 Dark Ice Station_guard with Ice Sword Blue
 9818	Secondary Realm 61 Dark Ice Station_ Dark Ice Soldier
-9819	Secondary school 62_Villa de los Celtas_ Vasili
-9820	Secondary Realm 63 Village de los Celtas_child of the snow storm
-9821	Secondary Realm 64 Village de los Celtas_child of the storm
+9819	Secondary school 62_Villa of los Celtas_ Vasili
+9820	Secondary Realm 63 Village of los Celtas_child of the snow storm
+9821	Secondary Realm 64 Village of los Celtas_child of the storm
 9822	Main Realm 102 Shuya convinces the player
 9823	Principal Realm 81 Seiya in front of the city wall concession
 9824	Main Realm add 01 Kiki before the instance zone
 9825	Realm main add 02 Kiki after the instance zone
-9826	Adventure 01 Floresta de coral_Mu
+9826	Adventure 01 Floresta of coral_Mu
 9827	Adventure 02 Coral forest_Stardust silver 1
-9828	Adventure Floresta de coral_Stardust de plata2
+9828	Adventure Floresta of coral_Stardust of plata2
 9829	Adventure 04 Coral forest_Stardust silver 3
 9830	Adventure 05 Coral forest_Stardust silver 4
 9831	Secondary school 01 shipwrecked
@@ -10079,7 +10079,7 @@
 10078	Fuga_Chef Tang
 10079	Fuga_Xiao Wukong
 10080	Fuga_Li-yun
-10081	Fuga_Mascara de la Muerte
+10081	Fuga_Mascara of la Muerte
 10082	Fuga_Abu
 10083	Twelve Houses 01-03_instance zone submission once unique
 10084	Twelve House 01-03_ instance zone guide
@@ -10087,7 +10087,7 @@
 10086	Twelve Houses 07-09_instance zone submission once only
 10087	Twelve Houses 10-12_instance zone submission once only
 10088	Gemini House Accept teleport mission from the instance zone
-10089	Casa de aries_Mu opens the illusion of Jamir
+10089	Casa of aries_Mu opens the illusion of Jamir
 10090	House of Aries_Mu crosses the phase
 10091	House of Aries_Armor nude
 10092	House of Aries_Kiki and the division of phases
@@ -10132,7 +10132,7 @@
 10131	Elegy of the goddess_Hiperdimensión_Camus
 10132	Elegy of the goddess_Hiperdimensión_Excalibur
 10133	Elegy of the goddess_Hiperdimensión_Aioros
-10134	Elegy of the goddess_Casa de Tauro Aldebaran
+10134	Elegy of the goddess_Casa of Tauro Aldebaran
 10135	The elegy of the goddess_instance zone submission once only
 10136	The elegy of the goddess · after_ instance zone submission once only
 10137	Elegy of the goddess_BOSS_Trinidad
@@ -10141,8 +10141,8 @@
 10140	Escape from Sagittarius_Transmission service
 10141	Escape from Sagittarius_zone of instance mission grant_Naimi
 10142	Sagittarius Fugue_Aiors 1-1
-10143	Fuga de Sagitario_Aioros 1-3
-10144	Fuga de Sagitario_Aioros 2-1
+10143	Fuga of Sagitario_Aioros 1-3
+10144	Fuga of Sagitario_Aioros 2-1
 10145	Escape from Sagittarius_Aioros 2-2
 10146	Rozan arc 3 enter the mission concession service
 10147	Temple-bell square chooses the road-00
@@ -10180,15 +10180,15 @@
 10179	Point of return to the city Underworld - Hell of Ardent Heat
 10180	Point of return to the city Underworld - Flowery garden
 10181	Point of return to the city Underworld - Abyss of the gods
-10182	Point of return to the city Inframundo - Pozo de Sangre
+10182	Point of return to the city Inframundo - Pozo of Sangre
 10183	Point of return to the Underworld city - Dicasteron
 10184	Point of return to the city Underworld - Caína Room
-10185	Point of return to the city Inframundo - Pozo de los Muertos
+10185	Point of return to the city Inframundo - Pozo of los Muertos
 10186	Point of return to the city Village of the beginners
-10187	Point to return to the city Isla de la Reina Muerte - Ruins of Tawana
-10188	Point to return to the city Isla de la Reina Muerte - Sleeping Volcano
-10189	Point to return to the city Isla de la Reina Muerte - Playa del Deseo
-10190	Point to return to the city Isla de la Reina Muerte - Village of the miners
+10187	Point to return to the city Isla of la Reina Muerte - Ruins of Tawana
+10188	Point to return to the city Isla of la Reina Muerte - Sleeping Volcano
+10189	Point to return to the city Isla of la Reina Muerte - Playa del Deseo
+10190	Point to return to the city Isla of la Reina Muerte - Village of the miners
 10191	Point to return to the city Camino del Olvido - Village of the Exiles
 10192	Point to return to the city Camino del Olvido - Ocean of Poseidón
 10193	Point to return to the city Camino del Olvido - Mansion Suelo
@@ -10208,7 +10208,7 @@
 10207	Dragon of the Sea_07_concession of Seiya 188
 10208	Main Realm 01 Pier_Barquero
 10209	Main Realm of 02 Muelle_Hyoga
-10210	Main Realm 01 Ciudad de Plata_Hyoga
+10210	Main Realm 01 Ciudad of Plata_Hyoga
 10211	Main Realm 04 Mansion Kido_Saori
 10212	Main Realm 08 Son of the Stars_ Empty Wallet
 10213	Main Realm 09 Son of the Stars_Miho without consciousness
@@ -10220,13 +10220,13 @@
 10219	Main Realm 17 Arena_Shun
 10220	Main Realm 19 Arena_Phoenix Negra
 10221	Main Realm 20 Sea of ​​trees_Shun
-10222	Main Realm 21 Mar de arboles_infancia de Pandora
+10222	Main Realm 21 Mar of arboles_infancia of Pandora
 10223	Main Realm 23 Sea of ​​trees_Seika's childhood
 10224	Main Realm 24 Sea of ​​trees_Seiya's childhood
 10225	Main Realm 25 Sea of ​​trees_Seiya
-10226	Main Realm 27 Mar de arboles_Hyoga
+10226	Main Realm 27 Mar of arboles_Hyoga
 10227	Main Realm 28 Village of Campana_Seiya
-10228	Main Realm 29 Village de Campana_Hyoga
+10228	Main Realm 29 Village of Campana_Hyoga
 10229	Main Realm 32 Farm of Oshino_Hyoga
 10230	Principal Realm 33 Farm of Oshino_Shina
 10231	Main Realm 34 Cave of the Wind_Kiki
@@ -10315,9 +10315,9 @@
 10314	Battlefield Celestial guide
 10315	Mission therapist
 10316	Winning tradesman of the floating island competition
-10317	Camp de Batalla Chaotic concession
+10317	Camp of Batalla Chaotic concession
 10318	Battle Camp Chaotic mission concession
-10319	Camp de Batallla de Lava concession
+10319	Camp of Batallla of Lava concession
 10320	Lava Battle Camp guide
 10321	Emissary of the god of war - Anlina
 10322	Battle Camp of Attica concession
@@ -10363,19 +10363,19 @@
 10362	Event of the Grand Master_concession of the advanced level supervisor of the Sanctuary
 10363	Grand Master Event - low level writing grant
 10364	Event of the Grand Master_concession of a statue of advanced level
-10365	Elevated Sign - Mu de aries
-10366	Elevated Sign - Mu de aries 2
-10367	Elevated Sign - Mu de aries 3
-10368	Sublimation of the constellation_Geminis de Oro of the first generation
-10369	Sublimation of the constellation_Piscis de Oro of the first generation
-10370	Sublimation of the constellation_Virgo de Oro of the first generation
-10371	Sublimation of the constellation_Libra de Oro of the first generation
-10372	Sublimation of the constellation_Escorpio de Oro of the first generation
+10365	Elevated Sign - Mu of aries
+10366	Elevated Sign - Mu of aries 2
+10367	Elevated Sign - Mu of aries 3
+10368	Sublimation of the constellation_Geminis of Oro of the first generation
+10369	Sublimation of the constellation_Piscis of Oro of the first generation
+10370	Sublimation of the constellation_Virgo of Oro of the first generation
+10371	Sublimation of the constellation_Libra of Oro of the first generation
+10372	Sublimation of the constellation_Escorpio of Oro of the first generation
 10373	Sublimation of the constellation_Sagittal of Gold of the first generation
 10374	Sublimation of the constellation_Cancer of Gold of the first generation
-10375	Sublimation of the constellation_Capricornio de Oro of the first generation
-10376	Sublimation of the constellation_Aquario de Oro of the first generation
-10377	Sublimation of the constellation_Leo de Oro of the first generation
+10375	Sublimation of the constellation_Capricornio of Oro of the first generation
+10376	Sublimation of the constellation_Aquario of Oro of the first generation
+10377	Sublimation of the constellation_Leo of Oro of the first generation
 10378	Sublimation of the constellation_Aries of Gold of the first generation
 10379	Sublimation of the Golden Age constellation of the first generation
 10380	Sublimation of the constellation_ obelisk test
@@ -10393,27 +10393,27 @@
 10392	Sublimation of the Golden Gemini constellation of generation 1
 10393	Sublimation of the Golden Gemini constellation of the first generation 2
 10394	Sublimation of the Golden Gemini constellation of the first generation 3
-10395	Sublimation of the constellation_Piscis de Oro of the first generation 1
-10396	Sublimation of the constellation_Piscis de Oro of the first generation 2
+10395	Sublimation of the constellation_Piscis of Oro of the first generation 1
+10396	Sublimation of the constellation_Piscis of Oro of the first generation 2
 10397	Sublimation of the gold_Piscis constellation of the first generation 3
-10398	Sublimation of the constellation_Virgo de Oro of the first generation 1
-10399	Sublimation of the constellation_Virgo de Oro of the first generation 2
-10400	Sublimation of the constellation_Virgo de Oro of the first generation 3
-10401	Sublimation of the constellation_Libra de Oro of the first generation 1
-10402	Sublimation of the constellation_Libra de Oro of the first generation 2
-10403	Sublimation of the constellation_Libra de Oro of the first generation 3
+10398	Sublimation of the constellation_Virgo of Oro of the first generation 1
+10399	Sublimation of the constellation_Virgo of Oro of the first generation 2
+10400	Sublimation of the constellation_Virgo of Oro of the first generation 3
+10401	Sublimation of the constellation_Libra of Oro of the first generation 1
+10402	Sublimation of the constellation_Libra of Oro of the first generation 2
+10403	Sublimation of the constellation_Libra of Oro of the first generation 3
 10404	Sublimation of the Golden Sagittarius constellation of the first generation 1
 10405	Sublimation of the constellation_Sagitic Gold of the first generation 2
 10406	​​Sublimation of the constellation_Sagittal of Gold of the first generation 3
-10407	Sublimation of the constellation_Aquario de Oro of the first generation 1
-10408	Sublimation of the constellation_Aquario de Oro of the first generation 2
-10409	Sublimation of the constellation_Aquario de Oro of the first generation 3
-10410	Sublimation of the constellation_Leo de Oro of the first generation 1
-10411	Sublimation of the constellation_Leo de Oro of the first generation 2
-10412	Sublimation of the constellation_Leo de Oro of the first generation 3
-10413	Sublimation of constellation_Caballero de Oro mysterious person1
-10414	Sublimation of constellation_Caballero de Oro mysterious person2
-10415	Sublimation of the constellation_Caballero de Oro mysterious person3
+10407	Sublimation of the constellation_Aquario of Oro of the first generation 1
+10408	Sublimation of the constellation_Aquario of Oro of the first generation 2
+10409	Sublimation of the constellation_Aquario of Oro of the first generation 3
+10410	Sublimation of the constellation_Leo of Oro of the first generation 1
+10411	Sublimation of the constellation_Leo of Oro of the first generation 2
+10412	Sublimation of the constellation_Leo of Oro of the first generation 3
+10413	Sublimation of constellation_Caballero of Oro mysterious person1
+10414	Sublimation of constellation_Caballero of Oro mysterious person2
+10415	Sublimation of the constellation_Caballero of Oro mysterious person3
 10416	Sanctuary 01 City Principal_Marin
 10417	Santuario02 Ciudad Principal_Aiolia
 10418	Sanctuary 03 Lost Forest_Niya 1
@@ -10427,28 +10427,28 @@
 10426	Rozan local practice 05_ Yunkai partner before challenge 1
 10427	Rozan practice room 06_ Yunkai partner before challenge 2
 10428	Rozan 07 Village del Bambú_Yunkai 3
-10429	Rozan 08_Villa del Bambú_Ilusión de oro
+10429	Rozan 08_Villa del Bambú_Ilusión of oro
 10430	Rozan 09_Cumbre del Reecuentro_Cima cloudy
 10431	Rozan 10 Village del Bambú_respiración negra
 10432	Rozan 11 Ruins of the Sanctuary__ Shadow of the Black Beast_before the defeat
 10433	Rozan 12 Ruins of the Sanctuary__ Shadow of the Black Beast_After the defeat
-10434	Galactic Tournament01 Ciudad de la Plata_citizen young
-10435	Galactic Tournament02 Ciudad de la Plata_falling identity plate
-10436	Galactic Tournament03 Ciudad de la Plata_Orphanage Children of the Stars_ 元 1
-10437	Galactic Tournament04 Ciudad de la Plata_Orphanage Children of the Stars_City 1
-10438	Galactic Tournament05 Ciudad de la Plata_Orphanage Children of the Stars outside_City that fell
-10439	Galactic Tournament06 Ciudad de la Plata_Orphanage Children of the Stars outside_City 2
+10434	Galactic Tournament01 Ciudad of la Plata_citizen young
+10435	Galactic Tournament02 Ciudad of la Plata_falling identity plate
+10436	Galactic Tournament03 Ciudad of la Plata_Orphanage Children of the Stars_ 元 1
+10437	Galactic Tournament04 Ciudad of la Plata_Orphanage Children of the Stars_City 1
+10438	Galactic Tournament05 Ciudad of la Plata_Orphanage Children of the Stars outside_City that fell
+10439	Galactic Tournament06 Ciudad of la Plata_Orphanage Children of the Stars outside_City 2
 10440	Galactic Tournament07 City of a Silver_Orphanage Children of the Stars outside_ 元 2
-10441	Galactic Tournament08 Ciudad de la Plata_ injured citizens
-10442	Galactic Arena 09 Ciudad de la Plata_appendices passing knights
-10443	Galactic Tournament10 Ciudad de la Plata_Niya 1
+10441	Galactic Tournament08 Ciudad of la Plata_ injured citizens
+10442	Galactic Arena 09 Ciudad of la Plata_appendices passing knights
+10443	Galactic Tournament10 Ciudad of la Plata_Niya 1
 10444	Galactic Tournament11 Floresta Aokigahara_Niya 2
 10445	Galactic Tournament12 Floresta Aokigahara_my black side 1
 10446	Galactic Tournament13 Floresta Aokigahara_my black side 2
 10447	Galactic Tournament14 Floresta Aokigahara_ilusion of the Grand Master
-10448	Galactic Tournament15 Village de Campana_anciano
-10449	Galactic Tournament16 Village de Campana_Villa de la Campanita
-10450	Galactic Tournament17 Ciudad de la Plata_medical
+10448	Galactic Tournament15 Village of Campana_anciano
+10449	Galactic Tournament16 Village of Campana_Villa of la Campanita
+10450	Galactic Tournament17 Ciudad of la Plata_medical
 10451	Galactic Tournament18 Floresta Aokigahara_cosmos black mysterious
 10452	Sanctuary_01 teacher of the Lost Forest
 10453	Sanctuary_02 Master of the Mountaintop Wild
@@ -10480,9 +10480,9 @@
 10479	Galactic War_06 City of silver - hut - prophet waking up
 10480	Galactic War_07 Forest of Aokigahara prophet
 10481	Galactic War_08 Aokigahara forest villager
-10482	Galactic War_09 Village de Campana villager
+10482	Galactic War_09 Village of Campana villager
 10483	Galactic War_10 Village of Campana prophet
-10484	Guera Galatica_11 Ciudad de la Plata - after the doctor gathers medication
+10484	Guera Galatica_11 Ciudad of la Plata - after the doctor gathers medication
 10485	Star - Mission released 12 Divine Houses II
 10486	Gemini monthly_service mission of monsters
 10487	Monthly Gemini - additional prize mission service
@@ -10515,7 +10515,7 @@
 10514	Aquarius Monthly Event_Open mission
 10515	Aquarius monthly event_collect combat prize
 10516	Six stocks of Shaka_distribute inheritance
-10517	Six exisencias de Shaka_abrir mission
+10517	Six exisencias of Shaka_abrir mission
 10518	Six stock of Shaka_reelegir sign
 10519	Fangs of Leo_teletransporte - distribute mission
 10520	Leo Fangs_distribute mission
@@ -10567,7 +10567,7 @@
 10566	Event and and Chapter 3 Shiryu
 10567	Event and and chapter 3 Saori
 10568	Arc 2 of Piscis_NPC_teletransportar Athena
-10569	Arco 3 de Libra_NPC_teletransportar Athena
+10569	Arco 3 of Libra_NPC_teletransportar Athena
 10570	Arch 3 of Leo_NPC_teletransportar Athena
 10571	Expedition against the BOSS of the world
 10572	Arc 3_Principle of the Underworld distribution
@@ -10624,7 +10624,7 @@
 10623	Atlas of the Magic Box transformation of Pisces NPC
 10624	Atlas of the Magical Cancer Transformation NPC
 10625	02 Proof of use
-10626	Open Pozo de los Muertos_veterano
+10626	Open Pozo of los Muertos_veterano
 10627	Mission-connect distribution test
 10628	Mission distribution test
 10629	Mission distribution test 2_Chang'an
@@ -10841,7 +10841,7 @@
 10840	2016_ Mission released 30 years birthday party
 10841	White Day 2016 - Release Mission of the event
 10842	Tanabata_Zona Instance_Mission of Monsters
-10843	Tanabata_Zona de Instancia_Shunrei enters the Blood Service
+10843	Tanabata_Zona of Instancia_Shunrei enters the Blood Service
 10844	Tanabata_Atlas_Service of Change NPC
 10845	Halloween_Calabaza
 10846	Fall Festival 14_Monster Mission Service
@@ -10865,7 +10865,7 @@
 10864	Mysterious boy_Heroe red 1
 10865	Blue mysterious_Heroe boy 1
 10866	Bachelor's Day 2015_Follow Cupid's Arrow
-10867	Dia de los Solteros_Hijo del Dios del Amor
+10867	Dia of los Solteros_Hijo del Dios del Amor
 10868	Glorious Day of the Soltero
 10869	Dia del Soltero_Deméter's special ear_distribuido
 10870	Dia del Soltero_Athena_distribuido
@@ -10876,7 +10876,7 @@
 10875	National Day_01 Marin distributed
 10876	National Day_Copy open
 10877	Christmas_Monster Mission Service
-10878	Liga Extraordinarios_Misión de Camp de batalla distributed
+10878	Liga Extraordinarios_Misión of Camp of batalla distributed
 10879	Liga Extraordinarios_Delivery of the red team distributed
 10880	Liga Extraordinarios_Delivery of the blue team distributed
 10881	Squire_Heroe of the red team pays account 01 Transformation of Seiya
@@ -11100,7 +11100,7 @@
 11099	Event Costume
 11100	Mounts
 11101	Squires
-11102	Troca de Pet
+11102	Troca of Pet
 11103	Equip. and related
 11104	Decom.Cristal
 11105	Gold Clothing
@@ -11300,11 +11300,11 @@
 11299	Chapter 1 Sanctuary 14_ Camp Dorado_ Orpheus
 11300	Chapter 1 Sanctuary 15 _Floresta lost_ President of the Silver Association
 11301	Chapter 1 Sanctuary 16_Floresta Perdida _Alquimista loco
-11302	Chapter 1 Sanctuary 17 Old Camp de Batalla_ first generation of Pegasus
+11302	Chapter 1 Sanctuary 17 Old Camp of Batalla_ first generation of Pegasus
 11303	Chapter 1 Sanctuary 18 _Old Camp of Battle _ Alex
 11304	Chapter 1 Sanctuary 18_Ancient Camp of Battle_Alex 2
 11305	Chapter 1 Sanctuary 19 _ Old Battlefield _ Eudora
-11306	Chapter 1 Sanctuary 20 _ Pozo de los Muertos_ Orpheus
+11306	Chapter 1 Sanctuary 20 _ Pozo of los Muertos_ Orpheus
 11307	Chapter 1 Sanctuary 21_ Old Battle Camp _ Twins' Illusion
 11308	Chapter 1 Sanctuary 22 _ Training Camp _ Knight's Appendices
 11309	Chapter 1 Sanctuary 23 _ Floresta Perdida_ Alex
@@ -11313,7 +11313,7 @@
 11312	Chapter 1 Sanctuary 26 _ Acrópole_ Visit of Eudora 2
 11313	Chapter 1 Sanctuary 27_ Acropolis _ Visit of Eudora 3
 11314	Chapter 1 Sanctuary 28 Acropolis _ Visit of Eudora 4
-11315	Chapter 1 Sanctuary 29 _Pozo de la Muerte _ Eudora
+11315	Chapter 1 Sanctuary 29 _Pozo of la Muerte _ Eudora
 11316	Chapter 1 Main real Eudora forth from the well of death
 11317	Chapter 1 The main Realm Alex in front of the temple
 11318	Chapter 2 Main line Assistant
@@ -11529,7 +11529,7 @@
 11528	Various stars_21 boatman of the Port
 11529	Various stars_22 monument of the knights
 11530	Various stars_23 instance zone of the Grand Master of the Arena - after
-11531	Various stars_24 Twin Illusion 1 Monte de las Estrellas
+11531	Various stars_24 Twin Illusion 1 Monte of las Estrellas
 11532	Various stars_25 Illusion of Twins 2 Mount of the Stars
 11533	Various stars_26 Illusion of Twins 3 Mount of the Stars
 11534	Various stars_27 Illusion of Twins 4 Mount of the Stars
@@ -11537,7 +11537,7 @@
 11536	Various stars_29 Seiya Arena
 11537	Varias Estrellas_30 Seiya's birthplace
 11538	Varias Estrellas_31 Birthplace of Shina
-11539	Varias Estrellas_32 Arena de Aiolia
+11539	Varias Estrellas_32 Arena of Aiolia
 11540	Varias Estrellas_33 Seiya flees
 11541	Various stars _34 bulletin board
 11542	Various stars _35 bulletin board
@@ -11550,7 +11550,7 @@
 11549	Main Line 5 Main City _ President
 11550	Main Line 6 Main City _ Alex 1
 11551	Main Line 7 Main City _ Alex 2
-11552	Main Realm 8 Borde de la Floresta_Pandora 2
+11552	Main Realm 8 Borde of la Floresta_Pandora 2
 11553	Main Line 9 Main City _ Aldebaran 1
 11554	Main line 10 Floresta Perdida_Pandora 3
 11555	Realm principal 11 Floresta perdida_Eurídice 1
@@ -11586,7 +11586,7 @@
 11585	Main line 141 Mountain Village of the Cumbre Salvaje_Seika 4
 11586	Main line 42 Village of the Montaña del Cumbre Salvaje_Santiago
 11587	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
-11588	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
+11588	Main line 44 Camino of la Montaña del Cumbre Salvaje_Eudora 15
 11589	Main Realm 45 Mountain Village of the Wild Summit_Illusion of Gemini 2
 11590	Realm Principal 46 Mountain Village of the Cumbre Salvaje_Aldebrans 2
 11591	Main line 47 Camino del Montaña del Cumbre Salvaje_Aiolia 1
@@ -11621,8 +11621,8 @@
 11620	17 Euridice Floresta 2
 11621	18 Old Roderic Battleground
 11622	19 Old Alex Battleground 1
-11623	20 Orpheus Camp de flores 3
-11624	21 the last breath of the aspirants Pozo de los Muertos 2
+11623	20 Orpheus Camp of flores 3
+11624	21 the last breath of the aspirants Pozo of los Muertos 2
 11625	22 The mysterious golden knight
 11626	23 Eudora commercial change zone 4
 11627	24 Aiolia commercial change zone 3
@@ -11684,27 +11684,27 @@
 11683	79 Bread vendor
 11684	80 Claude of the Wild Mountain Summit
 11685	81 Zack villa by Roderic
-11686	zUnicornio de Andromeda
+11686	zUnicornio of Andromeda
 11687	zpersona misteriosode Andromeda moves
 11688	zpersona misteriosode Andromeda moves
 11689	zShina of Andromeda throws herself in the river
 11690	Andromeda zShina gets up
-11691	Sirius Nazhi de Fênix
+11691	Sirius Nazhi of Fênix
 11692	zpersona misteriosode Phoenix moves
 11693	zpersona misteriosode Phoenix gets up
-11694	zShina de Phoenix throws herself in the river
-11695	zShina de Phoenix gets up
+11694	zShina of Phoenix throws herself in the river
+11695	zShina of Phoenix gets up
 11696	zGeki of Pegasus Bear
 11697	zpersona misteriosode Pegasus moves
 11698	zpersona misteriosode Pegasus gets up
-11699	zShina de Pegasus throws herself in the river
+11699	zShina of Pegasus throws herself in the river
 11700	zShina of Pegasus gets up
 11701	zBan of Leo Lesser Dragon
 11702	zpersona misteriosode Dragon moves
 11703	Zpersona misteriosode Dragon gets up
 11704	ZShina of Dragon is thrown into the river
 11705	zShina of Dragon gets up
-11706	zichi of Sea Dragon de Cisne
+11706	zichi of Sea Dragon of Cisne
 11707	zpersona misteriosode Cygnus moves
 11708	Zpersona misteriosode Cisne gets up
 11709	ZShina of Cygnus is shot in the river
@@ -11715,9 +11715,9 @@
 11714	Principal realm of 105 precipice of red leaves_Ikki 2
 11715	Main line 106 precipice of the red leaves_Shiryu 6
 11716	Main Realm 107 Mansion Kido_person in suspicious ways
-11717	Realm Principal 109 Ciudade de la Plata_espectador 5
-11718	Main Realm 109 Ciudad de la Plata_espectador 6
-11719	Main Realm 109 Ciudad de la Plata_espectador 7
+11717	Realm Principal 109 Ciudade of la Plata_espectador 5
+11718	Main Realm 109 Ciudad of la Plata_espectador 6
+11719	Main Realm 109 Ciudad of la Plata_espectador 7
 11720	Realm Principal 113 Forest Aokigahara_Phoenix Negra 1
 11721	Main Realm 114 Floresta Aokigahara Seiya 1
 11722	Main Realm 115 Labyrinth of Stones and Ghosts_ Black Dragon 2
@@ -11732,35 +11732,35 @@
 11731	Main Realm 152 Farm of Oshino Lana
 11732	Tangle Instance Zone 01 Shiryu
 11733	Tangle Instance Zone 02 Shun
-11734	Secondary line 01 Ciudad de la Plata_Pino of wisdom
-11735	Secondary Realm 02 Ciudad de la Plata_Seller ticket seller
+11734	Secondary line 01 Ciudad of la Plata_Pino of wisdom
+11735	Secondary Realm 02 Ciudad of la Plata_Seller ticket seller
 11736	Secondary Realm 03 _Sila
-11737	Secondary Realm 04 Ciudad de la Plata_Mia 1
-11738	High School Ciudad de la Plata_Caio
+11737	Secondary Realm 04 Ciudad of la Plata_Mia 1
+11738	High School Ciudad of la Plata_Caio
 11739	Secondary Realm 06 City of la Plata_Caleb
-11740	Secondary School 07 Ciudad de la Plata_Mia 1
-11741	Secondary school 08 Ciudad de la Plata_Gaubert
-11742	Secondary school 09 Ciudad de la Plata_Nachi
-11743	Secondary Realm 10 Ciudad de la Plata_armadura unicornio
+11740	Secondary School 07 Ciudad of la Plata_Mia 1
+11741	Secondary school 08 Ciudad of la Plata_Gaubert
+11742	Secondary school 09 Ciudad of la Plata_Nachi
+11743	Secondary Realm 10 Ciudad of la Plata_armadura unicornio
 11744	Secondary school 11 Floresta Aokigahara_Jabu
 11745	Secondary school 12 Floresta Aokigahara_Jabu injured
 11746	Secondary Realm 13 Floresta Aokigahara_ Jabu Explosion
 11747	Secondary Realm 14 Floresta Aokigahara_Sfinge
-11748	Secondary Realm 15 Village de Campana_jefe de la villa
-11749	Secondary Realm 16 Village de Campana_campana 1
-11750	Secondary line 17 Village de Campana_campana 2
-11751	Secondary line 18 Village de Campana_Nyx 1
-11752	Secondary line 19 Village de Campana_Nyx 2
-11753	Secondary Realm 20 Village de Campana_Nyx 3
-11754	Secondary Realm 21 Village de Campana_Nyx 4
-11755	Secondary Realm 22 Village de Campana_Ying
-11756	Secondary Realm 23 Village de Campana_Kim
-11757	Secondary line 24 Village de Campana_Ying 2
-11758	Secondary line 25 Village de Campana_Kim 2
-11759	Secondary line 26 Village de Campana_Ying 3
-11760	Secondary line 27 Village de Campana_luciérnaga
-11761	Secondary line 28 Village de Campana_Amir
-11762	Secondary line 29 Village de Campana_Knucklerot
+11748	Secondary Realm 15 Village of Campana_jefe of la villa
+11749	Secondary Realm 16 Village of Campana_campana 1
+11750	Secondary line 17 Village of Campana_campana 2
+11751	Secondary line 18 Village of Campana_Nyx 1
+11752	Secondary line 19 Village of Campana_Nyx 2
+11753	Secondary Realm 20 Village of Campana_Nyx 3
+11754	Secondary Realm 21 Village of Campana_Nyx 4
+11755	Secondary Realm 22 Village of Campana_Ying
+11756	Secondary Realm 23 Village of Campana_Kim
+11757	Secondary line 24 Village of Campana_Ying 2
+11758	Secondary line 25 Village of Campana_Kim 2
+11759	Secondary line 26 Village of Campana_Ying 3
+11760	Secondary line 27 Village of Campana_luciérnaga
+11761	Secondary line 28 Village of Campana_Amir
+11762	Secondary line 29 Village of Campana_Knucklerot
 11763	Secondary line 30 Oshino_Aron farm
 11764	Secondary 31 Farm of Oshino_ mysterious lord
 11765	Secondary line 32 Oshino farm) _Albert
@@ -11773,14 +11773,14 @@
 11772	Secondary line 39 Sunset beach_Laxus
 11773	Secondary line 40 Sunset beach_sirena 1
 11774	Secondary line 41 Sunset_sirena beach 2
-11775	Secondary line 42 Ciudad de la Plata_Caleb 1
-11776	Secondary school 44 Ciudad de la plata_Jabu 4
-11777	Secondary line 45 Village de Campana_Jabel
+11775	Secondary line 42 Ciudad of la Plata_Caleb 1
+11776	Secondary school 44 Ciudad of la plata_Jabu 4
+11777	Secondary line 45 Village of Campana_Jabel
 11778	Secondary Realm 46 Pueblo del Sino_teleportador
 11779	Secondary school 47 Pueblo del Sino_Artesanos
 11780	Secondary school 48 Pueblo del Sino_farmaceuticos
-11781	Secondary Realm 49 Ciudad de la Plata_Farmaceuticos
-11782	Secondary Realm 50_Ciudad de la Plata_Master of Skills
+11781	Secondary Realm 49 Ciudad of la Plata_Farmaceuticos
+11782	Secondary Realm 50_Ciudad of la Plata_Master of Skills
 11783	Secondary Realm 51 City of Silver_Store Manager
 11784	Secondary Realm 52
 11785	Secondary line Sunset beach Laxus 2
@@ -12048,7 +12048,7 @@
 12047	Main Realm Camino del Olvido Gold Saint Illusion 2
 12048	Instance zone 02 stone
 12049	Tangle instance zone 02 Aioros leak
-12050	Zona de instancia_zoombie that grants the mission
+12050	Zona of instancia_zoombie that grants the mission
 12051	Tangle instance zone_the corpse of the Grand Master
 12052	Zone of instance_thinking_to fulfill mission
 12053	Secondary Realm 53_Temple of destiny_Anjie 2 receive mission
@@ -12058,7 +12058,7 @@
 12057	Secondary Realm 57 Julian's mansion Julian's maid
 12058	Secondary Realm 57 Pueblo del Olvido_excellent merchant
 12059	Secondary school 58 Pueblo del olvido_Almacen npc
-12060	Secondary Realm 59 Mansión de Julian_tiendas npc
+12060	Secondary Realm 59 Mansión of Julian_tiendas npc
 12061	Secondary Realm 60 Julian's Mansion_Master of Skills
 12062	Secondary Realm 61 Julian's Mansion_Functions
 12063	Secondary Realm 80 Slave slave house
@@ -12134,22 +12134,22 @@
 12133	85 Realm main dark ice stall_Gallon 7 with missions
 12134	Main Realm 88 Demon_Hyoga Reef
 12135	Engaging instance zone 01_Hyoga do the mission
-12136	Secondary Realm 01 Village de los Celtas_Jonas 1
-12137	Secondary Realm 02 Village de los Celtas_Jonas 2
-12138	Secondary Realm 03 Camp de entreno_Hyoga 1
-12139	Secondary Realm 04 Camp de entreno_Hyoga 2
+12136	Secondary Realm 01 Village of los Celtas_Jonas 1
+12137	Secondary Realm 02 Village of los Celtas_Jonas 2
+12138	Secondary Realm 03 Camp of entreno_Hyoga 1
+12139	Secondary Realm 04 Camp of entreno_Hyoga 2
 12140	Secondary Realm 05 at the wreck_person mysterious1
-12141	Secondary Realm 06 Floresta de la oscuridad_person mysterious2
+12141	Secondary Realm 06 Floresta of la oscuridad_person mysterious2
 12142	Secondary Realm 07 Demon Reef_person mysterious3
 12143	Secondary Realm 08 Ice Wall Eterna_Feien
-12144	Secondary Realm 09 Village de la Nieve_Miya 1
-12145	Secondary Realm 10 Village de la Nieve_André 1
-12146	Secondary Realm 11 Village de la Nieve_André 1 2
-12147	Secondary Realm 12 Village de la Nieve_André 1 3
+12144	Secondary Realm 09 Village of la Nieve_Miya 1
+12145	Secondary Realm 10 Village of la Nieve_André 1
+12146	Secondary Realm 11 Village of la Nieve_André 1 2
+12147	Secondary Realm 12 Village of la Nieve_André 1 3
 12148	Secondary Realm 13 Torre Congelada_Prudence 1
 12149	Secondary Realm 14 Torre Congelada_Sam 1
 12150	Secondary Realm 15 Torre Congelada_Paulo 1
-12151	Main Realm 16 Village de la Nieve_Natasia 1
+12151	Main Realm 16 Village of la Nieve_Natasia 1
 12152	Secondary Realm 17 Torre Congelada_Nicholas 1
 12153	Secondary Realm 18 Frozen Tower_Nicholas 2
 12154	Secondary Realm 19 Frozen Tower_man of beautiful costumes
@@ -12179,15 +12179,15 @@
 12178	Secondary Realm 43 Valle del Viento_stone of inscription 1
 12179	Secondary Realm 44 Valley of the Wind_the mind of Odin 1
 12180	Secondary Realm 45 Dark Ice Station_Mott 1
-12181	Secondary Realm 46 Aurora at the Camp de Nieve_Mott 2
+12181	Secondary Realm 46 Aurora at the Camp of Nieve_Mott 2
 12182	Secondary Realm 47 Dark Ice Station_ Black Ice Knight
 12183	Secondary Realm 48 Dark Ice Station_Daladin 1
 12184	Secondary Realm 49 Dark Ice Station_Daladin 2
-12185	Secondary Realm 50 Aurora at Camp de Nieve_Faertai 1
-12186	High school 51 Aurora at Camp de Nieve_Faertai 2
+12185	Secondary Realm 50 Aurora at Camp of Nieve_Faertai 1
+12186	High school 51 Aurora at Camp of Nieve_Faertai 2
 12187	Secondary Realm 52 Castillo del Hielo Azul_Faertai 3
-12188	Secondary Realm 53 Aurora in the Camp de Nieve_eremita 1
-12189	Secondary Realm 54 Aurora at the Camp de Nieve_eremita 2
+12188	Secondary Realm 53 Aurora in the Camp of Nieve_eremita 1
+12189	Secondary Realm 54 Aurora at the Camp of Nieve_eremita 2
 12190	Junior High 55 Ice Castle Blue_eremita 3
 12191	Secondary Realm 56 Castillo del Hielo Azul_eremita 4
 12192	High School 57 Ice Castle Blue_Kanon 1
@@ -12195,12 +12195,12 @@
 12194	High school 59 Demon Reef_person mysterious4
 12195	Secondary Realm 60 Dark Ice Station_guard with Ice Sword Blue
 12196	Secondary Realm 61 Dark Ice Station_Sundar del Hielo Oscuro
-12197	Secondary Realm 62_Villa de los Celtas_ Vasili
+12197	Secondary Realm 62_Villa of los Celtas_ Vasili
 12198	Secondary Realm 102 Shuya convinces the player
 12199	Main Realm 81 Seiya recovers in front of the Sanctuary Walls
 12200	Main Realm add 01 Kiki before the instance zone
 12201	Main Realm add 02 Kiki after the instance zone
-12202	Adventure 01 Floresta de coral_Mu
+12202	Adventure 01 Floresta of coral_Mu
 12203	Secondary Realm 01 castaway
 12204	Secondary Realm 02 Captain Nemo 1
 12205	Secondary Realm 03 Captain Nemo 2
@@ -12347,7 +12347,7 @@
 12346	Main Realm 58 fractured side of Saga after battle
 12347	Main Realm 59 Seiya in the City of Hades
 12348	Secondary Realm 10 cemetery of Paz_Conde Heinstein 2 conclude mission
-12349	Secondary Realm 11 Cementerio de la Paz_Condessa conclude mission
+12349	Secondary Realm 11 Cementerio of la Paz_Condessa conclude mission
 12350	Secondary Realm 12 Cemetery of La Paz_Didi Conclude Mission
 12351	Secondary Realm 13 Wind alley Strong_Virginia Conclude mission
 12352	Secondary Realm 14 Füssen_Mensajero dDios del sueño Conclude Mission
@@ -12359,19 +12359,19 @@
 12358	Secondary Realm 1 Twilight Forest_Maximus finish mission
 12359	Secondary Realm 20 long wind alley _ Leg bone complete mission
 12360	Secondary Realm 21 Igreja_Victoria 2 end mission
-12361	Secondary Realm 22 Granja de Andreas_Loja 1
+12361	Secondary Realm 22 Granja of Andreas_Loja 1
 12362	Secondary Realm 22 Hunter
-12363	Secondary Realm 23 Granja de Andreas_Loja 2
+12363	Secondary Realm 23 Granja of Andreas_Loja 2
 12364	Secondary Realm 23 the bonfire burned
-12365	Secondary Realm 24 Granja de Andreas_Loja 3
-12366	Secondary Realm 25 Granja de Andreas_Loja 4
+12365	Secondary Realm 24 Granja of Andreas_Loja 3
+12366	Secondary Realm 25 Granja of Andreas_Loja 4
 12367	Secondary Realm 26 City of Füssen_Loja 1
 12368	Secondary school 27 City of Füssen_Loja 2
 12369	Secondary school 28 City of Füssen_Loja 3
 12370	Secondary Realm 2 Andreas Farm_mission Guderian complete mission
 12371	Secondary Realm 3 Farm of andreas_Henize finish mission
-12372	L'linea secundaria 4 Granja de andreas_sandra complete mission
-12373	Secondary Realm 5 Granja de Andreas_perezoso finish mission
+12372	L'linea secundaria 4 Granja of andreas_sandra complete mission
+12373	Secondary Realm 5 Granja of Andreas_perezoso finish mission
 12374	Secondary Realm 6 Church_Patrick complete mission
 12375	Secondary Realm 7 cemetery of peace_Victor complete mission
 12376	Secondary Realm 8 cemetery of peace_Vicory complete mission
@@ -12420,7 +12420,7 @@
 12419	Underworld_ Mainline 38_Kanon 2
 12420	Underworld_the main line 39_Kanon 3
 12421	Underworld_the main line 40_Almade Shion
-12422	Underworld_the main line 41_Hijos de la Tierra
+12422	Underworld_the main line 41_Hijos of la Tierra
 12423	Underworld_mainline 42_Radamanthys 1
 12424	Underworld_mainline 43_Radamanthys 2
 12425	Underworld_ Main Line 44_ Walking spirits of the Dead
@@ -12449,7 +12449,7 @@
 12448	History of teleport houses NPC
 12449	After the sixth house single use prize mission
 12450	House of aries 0 'Saori Hit by an Arrow
-12451	Aries Instance Zone 01 Mu de Aries
+12451	Aries Instance Zone 01 Mu of Aries
 12452	Main Realm 01 Ikii in the village finalize
 12453	Realm main Shun in the forest complete
 12454	Realm Main 03 Shiryu False in the sea of ​​flowers complete
@@ -12514,7 +12514,7 @@
 12513	Fuga_Chef Tang
 12514	Fuga_Xiao Wukong
 12515	Fuga_Li-yun
-12516	Fuga_Mascara de la Muerte
+12516	Fuga_Mascara of la Muerte
 12517	Fuga_Abu
 12518	Twelve Houses 01-03_instance zone submission once only
 12519	Twelve House 01-03_instance zone guide
@@ -12529,9 +12529,9 @@
 12528	The elegy of the goddess_single instance instance submission
 12529	The elegy of the goddess · after_one instance zone submission once only
 12530	Escape from Sagittarius_zone of instance mission grant_Naimi
-12531	Arco 3 de Rozan service to conclude verification
+12531	Arco 3 of Rozan service to conclude verification
 12532	Meeting with Leo_Creados
-12533	​​Castillo de Hielo Azul_complete mission within the instance zone
+12533	​​Castillo of Hielo Azul_complete mission within the instance zone
 12534	Enter the NPC Instance Zone
 12535	Arc current check 3 full service mission
 12536	Area of ​​the city 01 Sanctuary 01 delegate [sanctuary]
@@ -12605,7 +12605,7 @@
 12604	Realm main sanctuary Athena concession
 12605	Main Realm 01 Pier_Barquero
 12606	Main Realm of 02 Muelle_Hyoga
-12607	Main Realm 01 Ciudad de Plata_Hyoga
+12607	Main Realm 01 Ciudad of Plata_Hyoga
 12608	Main Realm 04 Mansion Kido_Saori
 12609	Main Realm 05 Mansion Kido_Guladu employee of the foundation
 12610	Main Realm 06 Mansion Kido_Tatsumi Tokumaru
@@ -12623,15 +12623,15 @@
 12622	Main Realm 18 Son of Stars_Seiya
 12623	Main Realm 19 Arena_Phoenix Negra
 12624	Main Realm 20 Sea of ​​Trees_Shun
-12625	Main Realm 21 Mar de arboles_infancia de Pandora
+12625	Main Realm 21 Mar of arboles_infancia of Pandora
 12626	Main Realm 22 Sea of ​​trees_infancia Ikki
 12627	Main Realm 23 Sea of ​​trees_Seika's childhood
 12628	Main Realm 24 Sea of ​​trees_Seiya's childhood
 12629	Main Realm 25 Sea of ​​trees_Seiya
-12630	Main Realm 26 Mar de arboles_Marin
-12631	Main Realm 27 Mar de arboles_Hyoga
-12632	Main Realm 28 Village de Campana_Seiya
-12633	Main Realm 29 Village de Campana_Hyoga
+12630	Main Realm 26 Mar of arboles_Marin
+12631	Main Realm 27 Mar of arboles_Hyoga
+12632	Main Realm 28 Village of Campana_Seiya
+12633	Main Realm 29 Village of Campana_Hyoga
 12634	Main Realm 30 Village of Sino_Shiryu
 12635	Main Realm 31 Village of Sino_Shun
 12636	Main Realm 32 Farm of Oshino_Hyoga
@@ -12663,7 +12663,7 @@
 12662	Main Realm 58 Mansion Kido_Shina
 12663	Main Realm 59 Mansion Kido_Aiolia
 12664	Main Realm 56 Sea of ​​trees_Seiya's childhood
-12665	​​Main Realm 61 Rancho de Oshino_Shina
+12665	​​Main Realm 61 Rancho of Oshino_Shina
 12666	Main Realm 62 Cueva del Viento_Jamian
 12667	Main Realm 63 Mansion Kido_Aiolia
 12668	Main Realm 64 Sea of ​​the Tree_Seiya
@@ -12702,48 +12702,48 @@
 12701	Activity of the Grand Master_Receive in full double
 12702	Activity of the Grand Master_Capataz of the low level of complete sanctuary
 12703	Activity of the Grand Master_Capataz of the advanced level of the complete sanctuary
-12704	Sublimation of the constellation_Geminis de Oro of the first generation
-12705	Sublimation of the constellation_Piscis de Oro of the first generation
-12706	Sublimation of the constellation_Virgo de Oro of the first generation
-12707	Sublimation of the constellation_Libra de Oro of the first generation
-12708	Sublimation of the constellation_Escorpio de Oro of the first generation
+12704	Sublimation of the constellation_Geminis of Oro of the first generation
+12705	Sublimation of the constellation_Piscis of Oro of the first generation
+12706	Sublimation of the constellation_Virgo of Oro of the first generation
+12707	Sublimation of the constellation_Libra of Oro of the first generation
+12708	Sublimation of the constellation_Escorpio of Oro of the first generation
 12709	Sublimation of the Golden Sagittarius constellation of the first generation
 12710	Sublimation of the constellation_Cancer of Gold of the first generation
-12711	Sublimation of the constellation_Capricornio de Oro of the first generation
-12712	Sublimation of the constellation_Aquario de Oro of the first generation
-12713	Sublimation of the constellation_Leo de Oro of the first generation
+12711	Sublimation of the constellation_Capricornio of Oro of the first generation
+12712	Sublimation of the constellation_Aquario of Oro of the first generation
+12713	Sublimation of the constellation_Leo of Oro of the first generation
 12714	Sublimation of the constellation_Aries of Gold of the first generation
-12715	Sublimation of the constellation_Tauro de Oro of the first generation
+12715	Sublimation of the constellation_Tauro of Oro of the first generation
 12716	Sublimation of the constellation_ obelisk test
-12717	Sublimation of the Constellation_Santuario de Athena
+12717	Sublimation of the Constellation_Santuario of Athena
 12718	Sublimation of the constellation_The land of the end of Athena
 12719	Sublimation of the Golden Gemini constellation of generation 1
 12720	Sublimation of the Golden Gemini constellation of the first generation 2
 12721	Sublimation of the Golden Gemini constellation of the first generation 3
-12722	Sublimation of the constellation_Piscis de Oro of the first generation 1
-12723	Sublimation of the constellation_Piscis de Oro of the first generation 2
-12724	Sublimation of the constellation_Piscis de Oro of the first generation 3
-12725	Sublimation of the constellation_Virgo de Oro of the first generation 1
-12726	Sublimation of the constellation_Virgo de Oro of the first generation 2
-12727	Sublimation of the constellation_Virgo de Oro of the first generation 3
-12728	Sublimation of the constellation_Libra de Oro of the first generation 1
-12729	Sublimation of the constellation_Libra de Oro of the first generation 2
-12730	Sublimation of the constellation_Libra de Oro of the first generation 3
+12722	Sublimation of the constellation_Piscis of Oro of the first generation 1
+12723	Sublimation of the constellation_Piscis of Oro of the first generation 2
+12724	Sublimation of the constellation_Piscis of Oro of the first generation 3
+12725	Sublimation of the constellation_Virgo of Oro of the first generation 1
+12726	Sublimation of the constellation_Virgo of Oro of the first generation 2
+12727	Sublimation of the constellation_Virgo of Oro of the first generation 3
+12728	Sublimation of the constellation_Libra of Oro of the first generation 1
+12729	Sublimation of the constellation_Libra of Oro of the first generation 2
+12730	Sublimation of the constellation_Libra of Oro of the first generation 3
 12731	Sublimation of the constellation_Sagittal of Gold of the first generation 1
 12732	Sublimation of the Golden Sagittarius constellation of the first generation 2
 12733	Sublimation of the constellation_Sagittal of Gold of the first generation 3
-12734	Sublimation of the constellation_Aquario de Oro of the first generation 1
-12735	Sublimation of the constellation_Aquario de Oro of the first generation 2
-12736	Sublimation of the constellation_Aquario de Oro of the first generation 3
-12737	Sublimation of the constellation_Leo de Oro of the first generation 1
-12738	Sublimation of the constellation_Leo de Oro of the first generation 2
-12739	Sublimation of the constellation_Leo de Oro of the first generation 3
-12740	Ascending Sign - Mu de aries
-12741	Ascending Sign - Mu de aries 2
-12742	Ascending Sign - Mu de aries 3
-12743	Sublimation of the constellation_Caballero de Oro mysterious person1
-12744	Sublimation of constellation_Caballero de Oro mysterious person2
-12745	Sublimation of the constellation_Caballero de Oro mysterious person3
+12734	Sublimation of the constellation_Aquario of Oro of the first generation 1
+12735	Sublimation of the constellation_Aquario of Oro of the first generation 2
+12736	Sublimation of the constellation_Aquario of Oro of the first generation 3
+12737	Sublimation of the constellation_Leo of Oro of the first generation 1
+12738	Sublimation of the constellation_Leo of Oro of the first generation 2
+12739	Sublimation of the constellation_Leo of Oro of the first generation 3
+12740	Ascending Sign - Mu of aries
+12741	Ascending Sign - Mu of aries 2
+12742	Ascending Sign - Mu of aries 3
+12743	Sublimation of the constellation_Caballero of Oro mysterious person1
+12744	Sublimation of constellation_Caballero of Oro mysterious person2
+12745	Sublimation of the constellation_Caballero of Oro mysterious person3
 12746	Sanctuary 01 City Principal_Marin
 12747	Santuario02 Ciudad Principal_Aiolia
 12748	Sanctuary 03 Lost Forest_Niya 1
@@ -12757,28 +12757,28 @@
 12756	Rozan practice spot 05_ Yunkai's mate before challenge 1
 12757	Rozan practice site 06_ Yunkai partner before challenge 2
 12758	Rozan 07 Village del Bambú_Yunkai 3
-12759	Rozan 08_Villa del Bambú_Ilusión de oro
+12759	Rozan 08_Villa del Bambú_Ilusión of oro
 12760	Rozan 09_Cumbre del Reecuentro_Cima cloudy
 12761	Rozan 10 Village del Bambú_respiración negra
 12762	Rozan 11 Ruins of the Sanctuary__ Shadow of the Black Beast_before the defeat
-12763	Rozan 12 ruins of the Sanctuary__Sombra de la bruta negra_ after the defeat
-12764	Galactic Tournament01 Ciudad de la Plata_young citizen
-12765	Galactic Tournament02 Ciudad de la Plata_falling identity plate
-12766	Galactic Tournament03 Ciudad de la Plata_Orphanage Children of the Stars_ 元 1
-12767	Galactic Tournament04 Ciudad de la Plata_Orphanage Children of the Stars_City 1
-12768	Galactic Tournament05 Ciudad de la Plata_Orphanage Children of the Stars outside_City that fell
-12769	Galactic Tournament06 Ciudad de la Plata_Orphanage Children of the Stars outside_City 2
+12763	Rozan 12 ruins of the Sanctuary__Sombra of la bruta negra_ after the defeat
+12764	Galactic Tournament01 Ciudad of la Plata_young citizen
+12765	Galactic Tournament02 Ciudad of la Plata_falling identity plate
+12766	Galactic Tournament03 Ciudad of la Plata_Orphanage Children of the Stars_ 元 1
+12767	Galactic Tournament04 Ciudad of la Plata_Orphanage Children of the Stars_City 1
+12768	Galactic Tournament05 Ciudad of la Plata_Orphanage Children of the Stars outside_City that fell
+12769	Galactic Tournament06 Ciudad of la Plata_Orphanage Children of the Stars outside_City 2
 12770	Galactic Tournament07 City of a Silver_Ofphanate Children of the Stars outside_ 元 2
-12771	Galactic Tournament08 Ciudad de la Plata_ injured citizens
-12772	Arena Galactica 09 Ciudad de la Plata_appendices passing knights
-12773	Galactic Tournament10 Ciudad de la Plata_Niya 1
+12771	Galactic Tournament08 Ciudad of la Plata_ injured citizens
+12772	Arena Galactica 09 Ciudad of la Plata_appendices passing knights
+12773	Galactic Tournament10 Ciudad of la Plata_Niya 1
 12774	Galactic Tournament11 Floresta Aokigahara_Niya 2
 12775	Galactic Tournament12 Floresta Aokigahara_my black side 1
 12776	Galactic Tournament13 Floresta Aokigahara_my black side 2
 12777	Galactic Tournament14 Floresta Aokigahara_ilusion of the Grand Master
-12778	Galactic Tournament15 Village de Campana_anciano
-12779	Galactic Tournament16 Village de Campana_Villa de la Campanita
-12780	Galactic Tournament17 Ciudad de la Plata_medical
+12778	Galactic Tournament15 Village of Campana_anciano
+12779	Galactic Tournament16 Village of Campana_Villa of la Campanita
+12780	Galactic Tournament17 Ciudad of la Plata_medical
 12781	Galactic Tournament18 Floresta Aokigahara_cosmos black mysterious
 12782	Sanctuary_01 teacher of the Lost Forest
 12783	Sanctuary_02 Master of the Wild Mountain Peak
@@ -12806,12 +12806,12 @@
 12805	Galactic War_02 City of the silver master of the cabin
 12806	Galactic War_03 City of silver - hut - unconscious prophet
 12807	Galactic War_04 City of silver doctors in the bazaar
-12808	Galactic War_05 Ciudad de la Plata in front of the doctor's cabin
+12808	Galactic War_05 Ciudad of la Plata in front of the doctor's cabin
 12809	Galactic War_06 City of silver - hut - prophet waking up
 12810	Galactic War_07 Forest of Aokigahara prophet
 12811	Galactic War_08 Aokigahara forest villager
-12812	Galactic War_09 Village de Campana villager
-12813	Galactic War_10 Village de Campana prophet
+12812	Galactic War_09 Village of Campana villager
+12813	Galactic War_10 Village of Campana prophet
 12814	Galactic War_11 Galactic War after the doctor picks up medication
 12815	Escolta_completar dialog
 12816	Escort_event to complete the mission
@@ -12886,7 +12886,7 @@
 12885	Atlas of the Magical Cancer Transformation NPC
 12886	02 Proof of use
 12887	YY the mission has been completed
-12888	Open Pozo de los Muertos_veterano
+12888	Open Pozo of los Muertos_veterano
 12889	Test to complete the mission - even
 12890	Test to complete the mission
 12891	Test mission 2_ Chang'an
@@ -13204,7 +13204,7 @@
 13203	2014_Colect Fulu
 13204	2014_Siempre Enamorados
 13205	2014_Embassador of Wealth_ Lottery Ticket 1
-13206	2014_Muchacho de la Riqueza_ Lottery ticket 2
+13206	2014_Muchacho of la Riqueza_ Lottery ticket 2
 13207	Christmas Mission 2015_Which is finished
 13208	2016_ 30 year Birthday Party verification mission
 13209	2016 Dia Branco - Verify Quest
@@ -13250,10 +13250,10 @@
 13249	Chinese New Year_Guild_to eliminate the Three Judges Concluded
 13250	Chinese New Year _Exercise Spy Completed
 13251	Chinese New Year_Mission Map 13_Atena
-13252	Chinese New Year _Mission Map 1_Coballeros de Oro 1
-13253	Chinese New Year _Mission Map 2_Coballeros de Oro 2
-13254	Chinese New Year _Mission Map 3_Coballeros de Oro 3
-13255	Chinese New Year _Mission Map 4_Coballeros de Oro 4
+13252	Chinese New Year _Mission Map 1_Coballeros of Oro 1
+13253	Chinese New Year _Mission Map 2_Coballeros of Oro 2
+13254	Chinese New Year _Mission Map 3_Coballeros of Oro 3
+13255	Chinese New Year _Mission Map 4_Coballeros of Oro 4
 13256	Golden Week_Pirates of Snow
 13257	Test _Gato dwarf
 13258	Qingming _ Caiotus
@@ -13439,7 +13439,7 @@
 13438	Break
 13439	Cygnus's Armor
 13440	Get
-13441	Frozen warriors
+13441	Frozen Warrior
 13442	Rescue
 13443	Fire off
 13444	Burn
@@ -13456,9 +13456,9 @@
 13455	Rescue
 13456	Oricalco Nucleus
 13457	Get
-13458	Disappointed Apprentice
+13458	Fainted Apprentice
 13459	Lifting
-13460	Aldeano Prisoner
+13460	Trapped Villager
 13461	Awakening
 13462	Snowball
 13463	Picking up
@@ -13615,7 +13615,7 @@
 13614	Move away
 13615	Fencing
 13616	Move away
-13617	Nacimiento de Sacrificio a los Dioses
+13617	Nacimiento of Sacrificio a los Dioses
 13618	Open
 13619	Amulet
 13620	Collecting
@@ -13717,7 +13717,7 @@
 13716	Picking up
 13717	Organization of Paradise
 13718	Rotation
-13719	Tears Athena
+13719	Tears of Athena
 13720	Collecting
 13721	Small altar
 13722	Sacrifice
@@ -15143,13 +15143,13 @@
 15142	Collect
 15143	Food
 15144	Picking up
-15145	Just strange
+15145	Strange Soil
 15146	Search
 15147	Oricalco
 15148	Picking up
 15149	Crystallization of the Underworld
 15150	Investigate
-15151	Pink snow
+15151	Snow Rose
 15152	Picking up
 15153	Devilwood
 15154	Picking up

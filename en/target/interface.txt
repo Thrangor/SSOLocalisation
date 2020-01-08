@@ -611,8 +611,8 @@
 610	Receive Astro EXP:
 611	EXP:
 612	Astro EXP:
-613	Current Concentrated Practice Level: %d \rImproved Properties: \r %s
-614	Next level of Concentrated Practice: %d \r Improved properties: \r %s
+613	Current Submersible Level: %d \rImproved Properties: \r %s
+614	Next level of Submersible: %d \r Improved properties: \r %s
 615	& %s &: %s
 616	& %s & told you: %s
 617	& %s &: %s

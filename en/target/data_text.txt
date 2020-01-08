@@ -122,7 +122,7 @@
 121	It is necessary to establish faith in this place without hope.
 122	I can be the fastest in the Ocean ~~
 123	Please, release my brother ...... He is not a criminal ......
-124	This event includes 3 Challenge Instance Zones in sequential chains, and the second one is here, with me: Monte de Nieve del Gran Lobo. After forming a team, receive the mission here, with me, in order to participate. Participation consumes points of divine struggle. In this week there remain ^e12500 ${rep (71)} points of Divine Strike Points ^N. ^e12500 This event supports the "Tutelary Troop Mode." ^N The Captain can form the troop. Requirements to be a member of the troop: 1. 3-6 superior players of level 60; 2. 0-6 level players between 30-59. In the Troop Inheritance Mode, if the number of players below level 59 is equal to or greater than 3, the superior players of level 60 may obtain the highest value inheritance prize.
+124	This event includes 3 Challenge Instance Zones in sequential chains, and the second one is here, with me: Monte of Nieve del Gran Lobo. After forming a team, receive the mission here, with me, in order to participate. Participation consumes points of divine struggle. In this week there remain ^e12500 ${rep (71)} points of Divine Strike Points ^N. ^e12500 This event supports the "Tutelary Troop Mode." ^N The Captain can form the troop. Requirements to be a member of the troop: 1. 3-6 superior players of level 60; 2. 0-6 level players between 30-59. In the Troop Inheritance Mode, if the number of players below level 59 is equal to or greater than 3, the superior players of level 60 may obtain the highest value inheritance prize.
 125	Oh, how did Hans depart so long ago and still not come back? Why, lately, I always dream of an old ship? Could it be that something happened with Hans?
 126	What I hate the most is walking.
 127	Players can get a benefit reward weekly here with me. Players, do not miss this opportunity.
@@ -506,7 +506,7 @@
 505	Later, does Shiryu go with me or not?
 506	The Three Judges of the Underworld are then there forward. For Avanza to the Champs Elysees, we need to defeat them and knock down the Wailing Wall!
 507	This is the fourth struggle to advance to the Underworld. Recommended level: 90 Recommended Fighting Power: 150,000 Minimum number of people: 12
-508	^e12500This event supports the "Disciple Mode". ^N \r (You can only participate once a day) \rThe leader can create raide. \r Requirements to be a member of the raide: \r1. 3-6 players higher than level 90; \r2. 0-6 level players between 60-89. \rIn the Disciple Mode, if the number of players below 89 is equal to or greater than 3, players higher than 90 may obtain a higher value of Favor Points. \r \r-The Grand Coliseum depends on the powerful telekinesis of Mu de Aries to create the Field of Practice. In this Coliseum, you will face the challenges of the Golden Knights of the previous generation and the Specters; only the Knight with the true strength can go through the challenge.
+508	^e12500This event supports the "Disciple Mode". ^N \r (You can only participate once a day) \rThe leader can create raide. \r Requirements to be a member of the raide: \r1. 3-6 players higher than level 90; \r2. 0-6 level players between 60-89. \rIn the Disciple Mode, if the number of players below 89 is equal to or greater than 3, players higher than 90 may obtain a higher value of Favor Points. \r \r-The Grand Coliseum depends on the powerful telekinesis of Mu of Aries to create the Field of Practice. In this Coliseum, you will face the challenges of the Golden Knights of the previous generation and the Specters; only the Knight with the true strength can go through the challenge.
 509	Lightning Strike +816
 510	Lightning Attack +447
 511	Attack +3522 HP +5154 Defense +80 Attacks of all properties +271 Resistance to all properties +7 Probability of CritShield + 3 %attack + 3%
@@ -532,7 +532,7 @@
 531	Do not ask me, the illustrious, because I'm definitely not going to tell you that, to cross the House of Gemini you need to open the mechanism on both sides of the walk, you will be imprisoned here for the rest of your life, hahahaha
 532	It's all my fault, I did not protect Louise right. I am not a good older brother.
 533	All rebellious behavior against the Gods leads to eternal misfortune!
-534	Aries - The king of Thessaly, Átamas, and the princess, Néfele, have married and had a pair of twins; however, the king had an out-of-wedlock relationship with Ino de Tebas, expelling Princess Néfele from the palace, in addition to receiving Ino as his new wife. After Princess Ino had her children, she decided to kill the two twins left by the previous princess, Néfele. She bribed the soothsayer to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
+534	Aries - The king of Thessaly, Átamas, and the princess, Néfele, have married and had a pair of twins; however, the king had an out-of-wedlock relationship with Ino of Tebas, expelling Princess Néfele from the palace, in addition to receiving Ino as his new wife. After Princess Ino had her children, she decided to kill the two twins left by the previous princess, Néfele. She bribed the soothsayer to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
 535	When I have already gathered 30 litters of the "Energy of the Cosmo", you can find me to withdraw the prize. The limit is one person per team. (You can verify the account through the status buff of the [Aioros Companion] that loads)
 536	In the truly beautiful world, there is no suffering or pain.
 537	I will have courage!
@@ -545,7 +545,7 @@
 544	CritBonus +2474
 545	Fire Damage +1345
 546	It seems that Mom revived ...... if everything that happened in the dream come true, it will be very good;
-547	If you have the Protective Constellations of the "Souvenir de Sirena" or the "Mini Sorento", please remember to come and find me.
+547	If you have the Protective Constellations of the "Souvenir of Sirena" or the "Mini Sorento", please remember to come and find me.
 548	Lately, in the vicinity of the Well of the Dead, unusual things have appeared; that is really worrying.
 549	... Why, brother?
 550	This is my own choice.
@@ -568,7 +568,7 @@
 567	I am the warrior who seeks freedom; Should I do something for her?
 568	That he must come, he will come in every way; In contrast to passively waiting, it is better to take the initiative and attack.
 569	(The rusty anchor of the ship is anchored in the sand on the beach.)
-570	After that transformation happened, 13 years ago, this site was known as Castillo de Hades.
+570	After that transformation happened, 13 years ago, this site was known as Castillo of Hades.
 571	The gathering of these powerful energies emits a bright ray of light ......
 572	Is it all? No, it's just the beginning.
 573	(A mineral piece of Starry Silver Sand.)
@@ -576,7 +576,7 @@
 575	The catastrophe is not over yet, those who are still alive need to face it with courage.
 576	I've always wanted to give the best care for Louise, but only now I know that I just did not understand her.
 577	Tolos, stay here forever!
-578	Aries - The king of Thessaly, Átamas, and the princess, Néfele, were married and had a house of twins; however the king had a case out of wedlock with Ino de Tebas, expelling Princess Néfele from the palace, in addition to receiving Ino as his new wife. After Princess Ino had her children, she decided to kill the two twins left by the princess Previous, Néfele. She bribed the fortune-teller to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
+578	Aries - The king of Thessaly, Átamas, and the princess, Néfele, were married and had a house of twins; however the king had a case out of wedlock with Ino of Tebas, expelling Princess Néfele from the palace, in addition to receiving Ino as his new wife. After Princess Ino had her children, she decided to kill the two twins left by the princess Previous, Néfele. She bribed the fortune-teller to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
 579	Then come here to receive all types of event missions, with me!
 580	Taking account of this stove is an arduous, serious job.
 581	The God of Love blesses us.
@@ -649,7 +649,7 @@
 648	In the end, where is that weird Cosmo?
 649	In order to prevent my sister from suffering from the bite of these snakes, all these years I always wanted to defeat Gordon, the Celestial Star of Hardness.
 650	The transience of Cosmo ...... the withering of flowers Salas is also transient.
-651	The legend of Aries - The king of Thessaly, Átamas, and the princess, Néfele, got married and had a pair of twins; however the king had an out-of-wedlock relationship with Ino de Tebas, expelling Princess Néfele from the palace, in addition to receiving his new wife. After Princess Ino had her children, she decided to kill the two twins left by the previous princess, Néfele. She bribed the fortune-teller to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
+651	The legend of Aries - The king of Thessaly, Átamas, and the princess, Néfele, got married and had a pair of twins; however the king had an out-of-wedlock relationship with Ino of Tebas, expelling Princess Néfele from the palace, in addition to receiving his new wife. After Princess Ino had her children, she decided to kill the two twins left by the previous princess, Néfele. She bribed the fortune-teller to complain to the king: if the children of the previous marriage were not sacrificed as an offering to Zeus, the gods would be furious and the harvest of that year would be catastrophic. So he knew, Néfele asked for help from Zeus, who sent a ram of golden fleece to catch the two brothers and take them to the skies. Due to the high speed, the girl fell into the sea; the ram at the same time that it looked for the girl, protected the brother, becoming the Aries of today.
 652	Knights of the Goddess, Congratulations for annihilating the servants of Hades, vitoria inevitably belongs to Athena!
 653	The blessing and protection of the Goddess! I've never been so healthy, like this!
 654	Ah, young Knight, please protect, protect our Goddess Athena well!
@@ -681,7 +681,7 @@
 680	The legend of Taurus - near the Phoenician river that passes through the site of Harmony, in Greece, there is a pretty princess named Europa.One day, the princess and the servants went to the fields to pick flowers and have fun. Suddenly, a bull of pure white as snow appeared, looking at Europe with soft and gentle eyes; in truth, that too was Zeus disguised to admire the beauty of the princess. In the beginning, the princess was surprised, but, later, she went in that gentle bull's direction and caressed it gently. As the bull seemed very cunning and extremely docile, the princess calmed down and climbed on her back to ride it. Suddenly, the bull began to run and, finally, jumped into the Egeu Sea. The princess clung to the bull when all the creatures of the sea emerged to greet Zeus ; she, at last, understood that the bull was transformed Zeus. After they arrived on the island of Crete, he celebrated his marriage to the God. Then, Zeus transformed into bull and Princess Europe spent the following days cheerfully.
 681	This site is protected by me, Charon, Celestial Star of the Interval. Do you want to challenge my authority or collaborate with me? I am waiting for you!
 682	El Pueblo del Olvido does not commit itself in any way.
-683	Mu de Aries and his disciple, Kiki, are preparing a test for the Knight.
+683	Mu of Aries and his disciple, Kiki, are preparing a test for the Knight.
 684	Within the heart of Gemini, good and evil are entangled from beginning to end. Help Gemini eliminate evil from her heart, take her forever to the side of Justice!
 685	Happy Festivity of the Moon!
 686	I feel there is a force of evil here.
@@ -695,7 +695,7 @@
 694	In truth, we, orphans from here, should commemorate today's reunion, but it is a pity that I have come specially to put an end to them.
 695	That is going to be the place where you are going to be terrified!
 696	On behalf of a few Bronze Knights, the Grand Master summoned us, Silver Knights, that is to drown in a glass of water!
-697	I, Aiolia de Leo, will not disappoint the expectations of the Grand Master in any way!
+697	I, Aiolia of Leo, will not disappoint the expectations of the Grand Master in any way!
 698	Ahh ...... So, is this the divine oppressive force? ......
 699	I really like this great site ... he is bathed in the glory characteristics of the epic.
 700	Everywhere there are detestable lifeless people.
@@ -725,7 +725,7 @@
 724	The Legend of Gemini - Enamored by the Queen of Sparta, the beautiful Zeus, in order to get close to her, transform a Cygnus, and the two had a pair of twins - the immortal Pollux and the mortal Castor. Both are brave warriors and adventurers, generally, made great deeds together. They also had two twin cousins ​​- Idas and Linceu. One day, the four were preparing to catch some oxen; They took many and prepared the division. The winners Idas and Linceu took advantage of Pollux and, when Castor was unprepared, they took all the oxen and took them away. Enraged, the two pairs of twins began a great duel, and in the end Idas hit Castor with a spear, killing Pollux, deeply sad, wanted to accompany his brother Castor to the kingdom of heaven but, because of his immortality, could not fulfill his desire. His suffering moved Zeus, who created a constellation, located separately in the kingdom of heaven in the realm of death.
 725	He helped me so quickly to put an end to a jewel thief, that's the ultimate! Hehe ............
 726	...... No ...... I ...... prevent
-727	When I have already gathered 1 litters from the "Telekinesis de Jamiel", you can find me to withdraw the prize. The limit is one person per team. (You can verify the account through the status buff of the [Telekinesis of Jamiel] that loads)
+727	When I have already gathered 1 litters from the "Telekinesis of Jamiel", you can find me to withdraw the prize. The limit is one person per team. (You can verify the account through the status buff of the [Telekinesis of Jamiel] that loads)
 728	Did you think you would find good memories here? Keep dreaming!
 729	That, I'm a moon cake ...
 730	Lately, I'm restless, nothing's going to happen ...... Ai, stop imagining things, as long as the Grand Master is, what can happen?
@@ -757,7 +757,7 @@
 756	Blind blindness my two eyes and opened the door of the Underworld.
 757	Here there is no hope, there is only despair ......
 758	If you collect 50 "Light of Goodness", then I can give you a prize for the efforts to fight. (You can check through the buff status of the [Light of Goodness] you load)
-759	243 years ago, Shion de Aries was my fighting partner in the duel against Hades.
+759	243 years ago, Shion of Aries was my fighting partner in the duel against Hades.
 760	An ancient altar of divinity, replete with vestiges of time.
 761	Lightning Strike +883
 762	Lightning Strike +692
@@ -900,7 +900,7 @@
 899	Oh God, this town is already on the verge of collapse, do not let bad luck fall in this place.
 900	Go immediately to look for the treasure thieves, they hide inside the pile of stones!
 901	(The greatness of silence is like an incessant patrol outside the temple.)
-902	I did not think I was going to find Orpheus de Lira in this place.
+902	I did not think I was going to find Orpheus of Lira in this place.
 903	Young, when you appear to be the same age as me, you will also become a scholar.
 904	Damn! Miss Saori was captured by that bastard again!
 905	Air Attack +20 Diversion +10
@@ -937,7 +937,7 @@
 936	The Count's whole family is a good person. Although I am already dead, I will protect the earl's property well.
 937	Mortals, you can not enter through that entrance, desist from your efforts.
 938	It seems that this place is not good at all.
-939	Only if we invade the palace will we be able to advance to the Giudecca de Hades.
+939	Only if we invade the palace will we be able to advance to the Giudecca of Hades.
 940	Silence! Now is the time to judge your crimes!
 941	Vulgares, in addition to the information they want to know about Excalibur, have you paid attention to my feelings?
 942	There has been an intense struggle in the Twelve Houses of Gold, it was when Seiya, Hyoga, Shiryu, Shun and Ikki fought to rescue the Goddess! Of course, I also lived everything personally! Players of level between 80-89 can with me, return to that disturbing fight. Each week, when completing the first 6 or the last 6 Houses and the challenge of the Grand Master's Hall, I will give you a little advantage, by listening to the stories I tell. You know, the life of a guardian is very monotonous, you do not have a person to talk to. The most outrageous thing is that I do not have anyone to believe that I lived that fight!
@@ -1126,7 +1126,7 @@
 1125	HP +1065
 1126	Great Attack +664
 1127	Hit +418
-1128	If you have "Souvernir de Seiya" or the "Squire of Seiya", please remember that you must come to me.
+1128	If you have "Souvernir of Seiya" or the "Squire of Seiya", please remember that you must come to me.
 1129	The cycle of life, golden test!
 1130	Who will be my obstacle before invading the final?
 1131	What you have in mind will become what you see.
@@ -1272,7 +1272,7 @@
 1271	Lightning Attack +407
 1272	Lightning Strike +479
 1273	HP +1227
-1274	Land Attack +1034
+1274	Earth Damage +1034
 1275	Hit +576
 1276	The Golden Armor of Sagittarius belongs to us.
 1277	^e12500 The number of mission findings is counted together with the advanced level events "Requiem of the Sanctuary" and "Butterflies of the Underworld." ^N \r (The event will be open within these two periods: 12:00 - 2:00 p.m. and 8:00 p.m. - 10 p.m. You can only get the prize once a day.) \r \rA large number of servants from the forces of the King of the Underworld appeared in the vicinity of the Sanctuary. \r Knights, protect the doors of the Sanctuary and the statue of Athena, quickly!
@@ -1317,7 +1317,7 @@
 1316	Lightning Attack +534
 1317	Lightning Attack +627
 1318	HP +1311
-1319	Land Attack +1137
+1319	Earth Damage +1137
 1320	Hit +584
 1321	Phoenix Negro hid in this strange forest, a little carelessness and you can fall in his illusion.
 1322	Due to a partial system failure on December 18, 2015, the Knights' resistance was disabled and the effects of the medications disappeared. The army of the Sanctuary will return the resistance and lost medicines.
@@ -1348,7 +1348,7 @@
 1347	Lightning attack +585
 1348	Lightning Strike +576
 1349	HP +1391
-1350	Land Attack +1141
+1350	Earth Damage +1141
 1351	Hit +592
 1352	Each place has a person like me, who has a sense of responsibility and justice, which attracts more courageous people to protect the tranquility of the place.
 1353	^e12500 Counted along with the 'Protect Athena' event ^N. \rMr. Saori is in great danger now, there are many Silver Knights wanting to catch her, she needs your protection!
@@ -1391,7 +1391,7 @@
 1390	Lightning Attack +670
 1391	Lightning Attack +625
 1392	HP +1452
-1393	Land Attack +1227
+1393	Earth Damage +1227
 1394	Hit +637
 1395	My body is completely hurt to protect Miss Kido.
 1396	See! Bachelors of the Underworld are about to occupy the Aegean Sea, that is a military campaign "In the name of love". I, the God of Love from the Underworld, will propose a war challenge here for you! Do you have the courage to accept it?
@@ -1421,7 +1421,7 @@
 1420	Lightning Strike +619
 1421	Lightning Strike +727
 1422	HP +1506
-1423	Land Attack +1240
+1423	Earth Damage +1240
 1424	Hit +671
 1425	In the end, what does the Grand Master want to do ...?
 1426	^e12500 Counts together with the event 'Apocalypse of Aldebaran'. ^N \r ('Tsunami at Atlantis' only drops awards once per day.) \r \r-In recent times, many tsunamis have occurred and people pray for the arrival of the glory of the Goddess. According to my observations, this may be related to the sinking of Atlantis, a long time ago. Quick, go investigate.
@@ -1466,7 +1466,7 @@
 1465	Lightning Attack +678
 1466	Lightning Attack +660
 1467	HP +1599
-1468	Land Attack +1247
+1468	Earth Damage +1247
 1469	Hit +769
 1470	If that is Athena, what is the Grand Master trying to cover ...?
 1471	Lamech! God of Nothing, destined to destroy the universe! He positioned himself in the gap between chaos and the heavenly world to see earthly beings mourn. The truth behind the Incident of the Red Mist will be discovered by you ........ \r (Revealed every Saturday, 8:00 pm - 11:00 pm)
@@ -1475,7 +1475,7 @@
 1474	Come, join me, we will create the future together!
 1475	The situation is increasingly interesting.
 1476	Play well, Master will talk again!
-1477	They say that in the mythological age, in the northeast direction of the Sanctuary, at the end of a huge mountain, the great fire thief, Prometheus, stole and hid the flame. And he named the place with the name of the greatest Knight, Roderio de Pegasus. This is a steep mountain, under the shelter of Prometheus, the sacred fire burns on the mountain top, throughout the year, without the flame going out .
+1477	They say that in the mythological age, in the northeast direction of the Sanctuary, at the end of a huge mountain, the great fire thief, Prometheus, stole and hid the flame. And he named the place with the name of the greatest Knight, Roderio of Pegasus. This is a steep mountain, under the shelter of Prometheus, the sacred fire burns on the mountain top, throughout the year, without the flame going out .
 1478	I am the guide of the Sanctuary, with orders from the Great Master I will guide you through the Twelve Hunts. The Twelve Golden Hunts are protected by the Golden Knights; without order of the Grand Master, he wants to go through the Twelve Fighters is absolutely impossible.
 1479	The Heinstein family will not understand in any way!
 1480	It's time, move towards the Shrine, suppress the false Great Master ..
@@ -1496,7 +1496,7 @@
 1495	Lightning Strike +777
 1496	Lightning attack +716
 1497	HP +1617
-1498	Land Attack +1345
+1498	Earth Damage +1345
 1499	Hit +813
 1500	Pandora produces the Illusion of the Pandora's Box, and thus begins the bet with the Goddess Athena. Do you accept the challenge? You must defeat the illusion and sin within your heart and in the midst of chaos, strive to achieve peace!
 1501	The Cosmo of the Goddess is about to awaken, in the midst of darkness, the force is stirring. Guardians of Saori, she needs your protection, go fast! \r (You can participate 4 times a day from Protect Saori.) \r ^e12500It is counted in conjunction with the advanced level event 'Protect Athena'. ^N
@@ -1569,7 +1569,7 @@
 1568	Lightning attack +890
 1569	Lightning Attack +747
 1570	HP +1897
-1571	Land Attack +1541
+1571	Earth Damage +1541
 1572	Deviation +428
 1573	Nobody can take away my treasure, nobody!
 1574	The fragrance of roses is really attractive, have you lost yourself among them too?
@@ -1613,7 +1613,7 @@
 1612	Lightning Strike +803
 1613	Lightning Strike +811
 1614	HP +1956
-1615	Land Attack +972
+1615	Earth Damage +972
 1616	Deviation +496
 1617	Knights! \rThe 'Path of the Storm' is an illusory world created through telekinesis by the people of Jamir. All the monsters of that world receive the protection of that telekinesis. Even a powerful Knight does not cause great damage to them, and that is why, here in the battle, the capabilities of team cooperation and not individual heroism are proven. Collaborating is essential to achieve victory!
 1618	Give me back my little one, snif, snif ...
@@ -1633,7 +1633,7 @@
 1632	Members of the competition who meet the requirements, can here with me, receive the Entry Ticket. (line 5)
 1633	Here is very special ... The Fire Cemetery is very special ...
 1634	Without God's will, destiny will not be yours. At this moment, I want to hug you.
-1635	Festival e Celebração de Renascimento, os Cavaleiros trouxeram an exclusive event to celebrate or Festival of Outono together with você. Here I am able to receive expansions of a series of events of the Festival and Celebration of Renascimento, as well as the special event of the Festival of Outono. He was vir here to ganhar! Você is soon? Recedo tudo! ~~
+1635	Festival e Celebração of Renascimento, os Cavaleiros trouxeram an exclusive event to celebrate or Festival of Outono together with você. Here I am able to receive expansions of a series of events of the Festival and Celebration of Renascimento, as well as the special event of the Festival of Outono. He was vir here to ganhar! Você is soon? Recedo tudo! ~~
 1636	Stay away from me!
 1637	The sand becomes gold, the gold becomes sand. \rTo every 10 rewards you give me, I will improve your skills. \rAbilities 2, 3 and 4 can be upgraded to level 4. Combat attribute can be upgraded to level 3.
 1638	You are following the path of ruin!
@@ -2088,7 +2088,7 @@
 2087	Happy National Day! Seven happy days for the National Day, happy every day ~~ from 01 to 07 of Octubro, from 8:00 pm to 10:00 pm, you can recirb here with me the change ticket for the whole day for the Happy National Day , after October 8th, with 5 exchange tickets, you can exchange for great National Day gifts.
 2088	It has a huge hole in the Wall of the Holy War!
 2089	Knight, I will take you near the King of the Seas, he can appear in the ^ff0000 oscillation of snow and petals ^N. ^ff0000 The light area of ​​the teleportation destination is a security zone, PK is not allowed. When leaving the Security Area, follow the arrows on the floor to reach the BOSS update point.
-2090	Land Attack +60
+2090	Earth Damage +60
 2091	Lightning Attack +443
 2092	Lightning Attack +357
 2093	HP +248
@@ -2268,7 +2268,7 @@
 2267	The Aurora guides my way. The people of the Ice Field manage to foresee the destiny. From the changes of the Aurora. Like you, of the Shrine, they do the same with astrology. Follow the directions of Aurora, you will get to enter the Temple of the Seal.
 2268	Brother ... I'm still not the same as you ...
 2269	We must maintain the peace of the training camp, even if we lose our lives we can not doubt.
-2270	Every year or Festival of Barco-Dragão em Rozan é tão popular! O Mu'ma once I disse "Coma com seus sobrinhos to cause invejava no sobrinho das outras pessoas!" Agora estou anxious hair Festival do Barco-Dragão do next year, year that vem will be melhor ainda! \rDicas: A celebração ends às 6 da manhã do dia 31 de maio!
+2270	Every year or Festival of Barco-Dragão em Rozan é tão popular! O Mu'ma once I disse "Coma com seus sobrinhos to cause invejava no sobrinho das outras pessoas!" Agora estou anxious hair Festival do Barco-Dragão do next year, year that vem will be melhor ainda! \rDicas: A celebração ends às 6 da manhã do dia 31 of maio!
 2271	1. Secondary ticket; Army members who meet the requirements of the competition, can here with me, receive Entry Ticket I of the corresponding line. 2. Main ticket; With title "Multi-Server PK Competition • Army Chief" and "Red Team Entry (Blue) I ticket (line 15)" of the Army Chief, you can receive here with me, 42 "Red Team Entrance Tickets (Blue) II (line 15) ", entry ticket II can be negotiated.
 2272	Please select the difficulty level of the BOSS Niobe, Earth Star of Darkness.
 2273	The roads to be traveled are long, we have to go faster.
@@ -2325,7 +2325,7 @@
 2324	Entry prohibited for all unrelated persons!
 2325	The Code of the Knights is engraved on the stone. Knights should always remember the rules and respect them seriously!
 2326	Help, help!
-2327	To redeem Saori child, we need to go back in time and help Aioros de Sagitario in the escape.
+2327	To redeem Saori child, we need to go back in time and help Aioros of Sagitario in the escape.
 2328	The wind, the colors spread throughout the world, we can, like the wind, circulate around it.
 2329	For you, the sun of my heart, I will endure and continue in that place of death.
 2330	That temple has unimaginable strength, leaving the intruder disoriented. Since following the guidelines of the Aurora is not going to be lost. Even though I'm blind, I can clearly deduce the color change of the Aurora from the Ice Field. Let me help you, through telepathy, I can tell you that the time everything is the color of the Aurora.

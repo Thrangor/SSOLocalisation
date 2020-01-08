@@ -11,7 +11,7 @@ mb_http_input('UTF-8');
 mb_language('uni');
 mb_regex_encoding('UTF-8');
 ob_start('mb_output_handler');
-
+ini_set('memory_limit','1512M');
 ini_set('max_execution_time', 300000);
 	class BinaryStream {
 		public $binary='';

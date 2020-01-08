@@ -65,7 +65,7 @@
 64	In ${dynamic_dir(55, "Activities")}, complete Tempest at Atlantis.
 65	Complete 1x Ten Caves
 66	In ${dynamic_dir(55, "Activities")}, complete Ten Caves.
-67	Be victorious in [Arena] Ruinas de Atica
+67	Be victorious in [Arena] Ruinas of Atica
 68	In ${dynamic_dir(55, "Activities")}, complete Attic Ruins.
 69	Complete 1x Exterminate Evil
 70	In ${dynamic_dir(55, "Activities")}, complete Eradicate Evil.
@@ -196,7 +196,7 @@
 195	Congratulations, you picked up the four dragons! Maybe in the near future you can satisfy your desire.
 196	Complete the Challenge of the Instance
 197	Go to the ${npc(212333)} to complete the "Black Meteor" dungeon
-198	Go to the ${npc(212333)} to complete the dungeon "Huracán de las Tinieblas"
+198	Go to the ${npc(212333)} to complete the dungeon "Huracán of las Tinieblas"
 199	Go to the ${npc(212333)} to complete the "Galactic Explosion" dungeon.
 200	Go to the ${npc(212333)} to complete the "Final Symphony" dungeon
 201	Go to the ${npc(212333)} to complete the "Destr. Máxima" dungeon
@@ -627,7 +627,7 @@
 626	Defeat Cygnus N. in [[Hero] 10Cue.] Dif.Sem.
 627	Demigods · Black Dragon
 628	Defeat Dragon N. in [[Hero] 10Cue.] Dif.Sem.
-629	Demigods · Ikki de Phoenix
+629	Demigods · Ikki of Phoenix
 630	Defeat Ikki in [[Hero] 10Cue.] Dif.Sem.
 631	Divine Fighter · Centaur
 632	Defeat Centaur in [[Hero] Cor. Sag.] Dif.Lu.Di
@@ -651,7 +651,7 @@
 650	Defeat Cygnus N. in [[Hero] 10Cue.] Dif.So.Di.
 651	Divine Soldier · Black Dragon
 652	Defeat Dragon N. in [[Hero] 10Cue.] Dif.So.Di.
-653	Divine Soldier · Ikki de Phoenix
+653	Divine Soldier · Ikki of Phoenix
 654	Defeat Ikki in [[Hero] 10Cue.] Dific.Solda.Divino
 655	Divine Soldier · Centaur
 656	Defeat Centaur in [[Hero] Cor. Sag.] Dif.So.Di.

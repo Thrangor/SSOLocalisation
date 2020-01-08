@@ -1,4 +1,4 @@
-0	Loja
+0	
 1	Loja VIP
 2	Loja de Trajes
 3	Fortificação
@@ -120,1039 +120,731 @@
 119	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
 120	Sangue de Hades*20
 121	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-122	Punho da Justiça
-123	Camiseta casual, design moderno, acabamento fino
-124	GAME OVER
-125	Camiseta casual, design moderno, acabamento fino
-126	Cruz Vermelha
-127	Camiseta casual, design moderno, acabamento fino
-128	Calça Cinza
-129	Calça casual, combina com tudo
-130	Calça Azul Marinho
-131	Calça casual, combina com tudo
-132	Calça Azul
-133	Calça casual, combina com tudo
-134	Tênis Azul
-135	Calçado casual, prático e confortável
-136	Tênis Roxo
-137	Calçado casual, prático e confortável
-138	Tênis Verde
-139	Calçado casual, prático e confortável
-140	Traje Black Skull
-141	É possível se apaixonar durante o halloween, não é?
-142	Luva Black Skull
-143	É possível se apaixonar durante o halloween, não é?
-144	Botas Black Skull
-145	É possível se apaixonar durante o halloween, não é?
-146	Capacete Black Skull
-147	É possível se apaixonar durante o halloween, não é?
-148	Jaqueta Colorida
-149	Moda esportiva confortável e estilosa
-150	Jaqueta Simples
-151	Moda esportiva confortável e estilosa
-152	Jaqueta Extravagante
-153	Moda esportiva confortável e estilosa
-154	Bermuda Colorida
-155	Moda esportiva confortável e estilosa
-156	Bermuda Simples
-157	Moda esportiva confortável e estilosa
-158	Bermuda Extravagante
-159	Moda esportiva confortável e estilosa
-160	Tênis Colorido
-161	Moda esportiva confortável e estilosa
-162	Tênis Simples
-163	Moda esportiva confortável e estilosa
-164	Tênis Extravagante
-165	Moda esportiva confortável e estilosa
-166	Traje de Gatinho
-167	Parte da fantasia de gatinho
-168	Traje de Leopardo
-169	Parte da fantasia de leopardo
-170	Traje Doraemiau (M)
-171	Parte da fantasia de Doraemiau
-172	Luva de Gatinho
-173	Parte da fantasia de gatinho
-174	Luva de Leopardo
-175	Parte da fantasia de leopardo
-176	Luva Doraemiau (M)
-177	Parte da fantasia de Doraemiau
-178	Botas de Gatinho
-179	Sapatos de moda com garras de gato azul escuro, dedicados aos meninos.
-180	Botas de Leopardo
-181	sapatos de moda garra gato leopardo bonito, dedicado aos meninos.
-182	Botas Doraemiau (M)
-183	Sapatos de garra de gato azul celeste, dedicados aos meninos.
-184	Chapéu de Gatinho
-185	Lindo cocar de garra de gato azul escuro, dedicado aos meninos.
-186	Chapéu de Leopardo
-187	Boné de garra de gato fofo para garotos.
-188	Chapéu Doraemiau (M)
-189	Cocar de garra de gato azul celeste, dedicado aos meninos.
-190	Biquíni Atraente
-191	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
-192	Sandálias Atraentes
-193	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
-194	Biquíni Brisa do Mar
-195	A brisa do mar deixa as pessoas mais felizes!
-196	Sandálias Brisa do Mar
-197	A brisa do mar deixa as pessoas mais felizes!
-198	Biquíni Charmoso
-199	Charme misterioso, um estilo diferente!
-200	Sandálias Charmosas
-201	Charme misterioso, um estilo diferente!
-202	Biquíni Fofo
-203	A fofura acalenta o coração das pessoas
-204	Sandálias Fofas
-205	A fofura acalenta o coração das pessoas
-206	Biquíni Descolado
-207	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
-208	Sandálias Descoladas
-209	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
-210	Biquíni Arco-Íris
-211	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
-212	Sandálias Arco-Íris
-213	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
-214	Traje Pink Skull
-215	É possível se apaixonar durante o halloween, não é?
-216	Luva Pink Skull
-217	É possível se apaixonar durante o halloween, não é?
-218	Botas Pink Skull
-219	É possível se apaixonar durante o halloween, não é?
-220	Capacete Pink Skull
-221	É possível se apaixonar durante o halloween, não é?
-222	Jaqueta Colorida
+122	Sangue Demoníaco*20
+123	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
+124	Sangue Demoníaco
+125	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
+126	Sangue de Bronze*20
+127	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
+128	Sangue de Bronze
+129	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
+130	Sangue de Ouro*20
+131	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
+132	Sangue de Ouro
+133	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
+134	Livro do Oráculo de Athena
+135	Abre a astrologia do universo pequeno de mais alta ordem, e a alma estelar de alta ordem não é mais um sonho.
+136	Hiper Poção IV
+137	Restaura imediatamente a quantidade de HP da metade da HP máxima. A recuperação total é de 10 milhões de HP.
+138	Hiper Poção III
+139	Restaura imediatamente a quantidade de HP da metade do HP máximo. A recuperação total é de 2 milhões de HP.
+140	Hiper Poção I
+141	Responda a uma pequena quantidade de vida.
+142	Energético I*20
+143	pode obter 500 de caixa mágica após o uso.
+144	Energético I
+145	pode obter 500 de caixa mágica após o uso.
+146	Potencializador*20
+147	pode obter 400 energia de produção após o uso.
+148	Potencializador
+149	pode obter 400 energia de produção após o uso.
+150	Expansão do Inventário
+151	Barra de posição da mochila expandida 6 grade.
+152	Expansão do Armazém
+153	Expanda a barra de localização do armazém.
+154	Megafone Mundial x100
+155	Consumido ao falar no World Channel. O nível 40 ou superior pode ser ativado.
+156	Megafone Mundial x10
+157	Consumido ao falar no World Channel. O nível 40 ou superior pode ser ativado.
+158	2x EXP de centro de energia
+159	Aumento do tempo de experiência dupla em 60 minutos.
+160	Dado do Destino*20
+161	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
+162	Dado do Destino
+163	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
+164	Coração Eclíptica I
+165	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+166	Coração Eclíptica II
+167	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+168	Coração Eclíptica III
+169	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+170	Coração Eclíptica IV
+171	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+172	Coração Eclíptica V
+173	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+174	Troca de equipamento[Escudeiro]
+175	Colete uma certa quantia para resgatar o equipamento da régua.
+176	Luz da Determinação de Métis
+177	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
+178	Presente de Áries II (Sublime)
+179	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
+180	Punho da Justiça
+181	Camiseta casual, design moderno, acabamento fino
+182	GAME OVER
+183	Camiseta casual, design moderno, acabamento fino
+184	Cruz Vermelha
+185	Camiseta casual, design moderno, acabamento fino
+186	Calça Cinza
+187	Calça casual, combina com tudo
+188	Calça Azul Marinho
+189	Calça casual, combina com tudo
+190	Calça Azul
+191	Calça casual, combina com tudo
+192	Tênis Azul
+193	Calçado casual, prático e confortável
+194	Tênis Roxo
+195	Calçado casual, prático e confortável
+196	Tênis Verde
+197	Calçado casual, prático e confortável
+198	Traje Black Skull
+199	É possível se apaixonar durante o halloween, não é?
+200	Luva Black Skull
+201	É possível se apaixonar durante o halloween, não é?
+202	Botas Black Skull
+203	É possível se apaixonar durante o halloween, não é?
+204	Capacete Black Skull
+205	É possível se apaixonar durante o halloween, não é?
+206	Jaqueta Colorida
+207	Moda esportiva confortável e estilosa
+208	Jaqueta Simples
+209	Moda esportiva confortável e estilosa
+210	Jaqueta Extravagante
+211	Moda esportiva confortável e estilosa
+212	Bermuda Colorida
+213	Moda esportiva confortável e estilosa
+214	Bermuda Simples
+215	Moda esportiva confortável e estilosa
+216	Bermuda Extravagante
+217	Moda esportiva confortável e estilosa
+218	Tênis Colorido
+219	Moda esportiva confortável e estilosa
+220	Tênis Simples
+221	Moda esportiva confortável e estilosa
+222	Tênis Extravagante
 223	Moda esportiva confortável e estilosa
-224	Jaqueta Simples
-225	Moda esportiva confortável e estilosa
-226	Jaqueta Extravagante
-227	Moda esportiva confortável e estilosa
-228	Minissaia Preta
-229	Moda esportiva confortável e estilosa
-230	Minissaia Bordô
-231	Moda esportiva confortável e estilosa
-232	Minissaia Estampada
-233	Moda esportiva confortável e estilosa
-234	Tênis Colorido
-235	Moda esportiva confortável e estilosa
-236	Tênis Simples
-237	Moda esportiva confortável e estilosa
-238	Tênis Extravagante
-239	Moda esportiva confortável e estilosa
-240	Traje de Ratinha
-241	Parte da fantasia de ratinha
-242	Traje de Onça
-243	Parte da fantasia de onça
-244	Traje Doraemiau (F)
-245	Parte da fastasia de Doraemiau
-246	Meia de Ratinha
-247	Parte da fantasia de ratinha
-248	Meia de Onça
-249	Meias de garra de gato de leopardo fofas para meninas.
-250	Meia Doraemiau
-251	Meias de garra de gato azul-céu fofas, dedicadas às meninas.
-252	Luva de Ratinha
-253	Parte da fantasia de ratinha
-254	Luva de Onça
-255	Luvas de garra de gato fofo, para garotas.
-256	Luva Doraemiau (F)
-257	Luvas de garra de gato azul-céu fofas, dedicadas às meninas.
-258	Botas de Ratinha
-259	Parte da fantasia de ratinha
-260	Botas de Onça
-261	Sapatos de moda garra gato leopardo bonito, dedicado às meninas.
-262	Botas Doraemiau (F)
-263	Sapatos de moda de garra de gato azul-celeste, dedicados às meninas.
-264	Chapéu de Ratinha
-265	Parte da fantasia de ratinha
-266	Chapéu de Onça
-267	Boné de moda com garras de gato-leopardo, dedicado às meninas.
-268	Chapéu Doraemiau (F)
-269	Boné de moda com garras de gato azul celeste, dedicado às meninas.
-270	Atadura
-271	Te deixa com um visual amedrontador
-272	Óculos Charmoso
-273	Charme misterioso, um estilo diferente!
-274	Óculos Encantador
-275	Encantador e inesquecível!
-276	Óculos Elegante
-277	Quanta elegância!
-278	Óculos Atraente
-279	Vermelho é a cor da paixão!
-280	Insígnia das Nuvens
-281	Em troca dos itens necessários no Pegasus e no Wings.
-282	Sangue Demoníaco*20
-283	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
-284	Sangue Demoníaco
-285	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
-286	Sangue de Bronze*20
-287	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
-288	Sangue de Bronze
-289	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
-290	Sangue de Ouro*20
-291	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
-292	Sangue de Ouro
-293	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
-294	Livro do Oráculo de Athena
-295	Abre a astrologia do universo pequeno de mais alta ordem, e a alma estelar de alta ordem não é mais um sonho.
-296	Hiper Poção IV
-297	Restaura imediatamente a quantidade de HP da metade da HP máxima. A recuperação total é de 10 milhões de HP.
-298	Hiper Poção III
-299	Restaura imediatamente a quantidade de HP da metade do HP máximo. A recuperação total é de 2 milhões de HP.
-300	Hiper Poção I
-301	Responda a uma pequena quantidade de vida.
-302	Energético I*20
-303	pode obter 500 de caixa mágica após o uso.
-304	Energético I
-305	pode obter 500 de caixa mágica após o uso.
-306	Potencializador*20
-307	pode obter 400 energia de produção após o uso.
-308	Potencializador
-309	pode obter 400 energia de produção após o uso.
-310	Expansão do Inventário
-311	Barra de posição da mochila expandida 6 grade.
-312	Expansão do Armazém
-313	Expanda a barra de localização do armazém.
-314	Megafone Mundial x100
-315	Consumido ao falar no World Channel. O nível 40 ou superior pode ser ativado.
-316	Megafone Mundial x10
-317	Consumido ao falar no World Channel. O nível 40 ou superior pode ser ativado.
-318	2x EXP de centro de energia
-319	Aumento do tempo de experiência dupla em 60 minutos.
-320	Dado do Destino*20
-321	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
-322	Dado do Destino
-323	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
-324	Coração Eclíptica I
-325	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-326	Coração Eclíptica II
-327	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-328	Coração Eclíptica III
-329	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-330	Coração Eclíptica IV
-331	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-332	Coração Eclíptica V
-333	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-334	Troca de equipamento[Escudeiro]
-335	Colete uma certa quantia para resgatar o equipamento da régua.
-336	Bênção da Deusa☆Áries(II)
-337	Abre a reputação da deusa e ganha recompensas extras da deusa.
-338	Luz da Determinação de Métis
-339	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-340	Presente de Áries II (Sublime)
-341	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
-342	Presente de Áries II (Supremo)
-343	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
-344	Sangue de Poseidon*20
-345	Melhora o efeito ao moldar uma escala.
-346	Sangue de Ouro*20
-347	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
-348	Sangue de Bronze*20
-349	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
-350	Sangue de Prata*20
-351	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
-352	Sangue de Hades*20
-353	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-354	Punho da Justiça
-355	Camiseta casual, design moderno, acabamento fino
-356	GAME OVER
-357	Camiseta casual, design moderno, acabamento fino
-358	Cruz Vermelha
-359	Camiseta casual, design moderno, acabamento fino
-360	Calça Cinza
-361	Calça casual, combina com tudo
-362	Calça Azul Marinho
-363	Calça casual, combina com tudo
-364	Calça Azul
-365	Calça casual, combina com tudo
-366	Tênis Azul
-367	Calçado casual, prático e confortável
-368	Tênis Roxo
-369	Calçado casual, prático e confortável
-370	Tênis Verde
-371	Calçado casual, prático e confortável
-372	Traje Black Skull
-373	É possível se apaixonar durante o halloween, não é?
-374	Luva Black Skull
-375	É possível se apaixonar durante o halloween, não é?
-376	Botas Black Skull
-377	É possível se apaixonar durante o halloween, não é?
-378	Capacete Black Skull
-379	É possível se apaixonar durante o halloween, não é?
-380	Jaqueta Colorida
-381	Moda esportiva confortável e estilosa
-382	Jaqueta Simples
-383	Moda esportiva confortável e estilosa
-384	Jaqueta Extravagante
-385	Moda esportiva confortável e estilosa
-386	Bermuda Colorida
-387	Moda esportiva confortável e estilosa
-388	Bermuda Simples
-389	Moda esportiva confortável e estilosa
-390	Bermuda Extravagante
-391	Moda esportiva confortável e estilosa
-392	Tênis Colorido
-393	Moda esportiva confortável e estilosa
-394	Tênis Simples
-395	Moda esportiva confortável e estilosa
-396	Tênis Extravagante
-397	Moda esportiva confortável e estilosa
-398	Traje de Gatinho
-399	Parte da fantasia de gatinho
-400	Traje de Leopardo
-401	Parte da fantasia de leopardo
-402	Traje Doraemiau (M)
-403	Parte da fantasia de Doraemiau
-404	Luva de Gatinho
-405	Parte da fantasia de gatinho
-406	Luva de Leopardo
-407	Parte da fantasia de leopardo
-408	Luva Doraemiau (M)
-409	Parte da fantasia de Doraemiau
-410	Botas de Gatinho
-411	Sapatos de moda com garras de gato azul escuro, dedicados aos meninos.
-412	Botas de Leopardo
-413	sapatos de moda garra gato leopardo bonito, dedicado aos meninos.
-414	Botas Doraemiau (M)
-415	Sapatos de garra de gato azul celeste, dedicados aos meninos.
-416	Chapéu de Gatinho
-417	Lindo cocar de garra de gato azul escuro, dedicado aos meninos.
-418	Chapéu de Leopardo
-419	Boné de garra de gato fofo para garotos.
-420	Chapéu Doraemiau (M)
-421	Cocar de garra de gato azul celeste, dedicado aos meninos.
-422	Biquíni Atraente
-423	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
-424	Sandálias Atraentes
-425	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
-426	Biquíni Brisa do Mar
-427	A brisa do mar deixa as pessoas mais felizes!
-428	Sandálias Brisa do Mar
-429	A brisa do mar deixa as pessoas mais felizes!
-430	Biquíni Charmoso
-431	Charme misterioso, um estilo diferente!
-432	Sandálias Charmosas
-433	Charme misterioso, um estilo diferente!
-434	Biquíni Fofo
-435	A fofura acalenta o coração das pessoas
-436	Sandálias Fofas
-437	A fofura acalenta o coração das pessoas
-438	Biquíni Descolado
-439	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
-440	Sandálias Descoladas
-441	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
-442	Biquíni Arco-Íris
-443	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
-444	Sandálias Arco-Íris
-445	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
-446	Traje Pink Skull
-447	É possível se apaixonar durante o halloween, não é?
-448	Luva Pink Skull
-449	É possível se apaixonar durante o halloween, não é?
-450	Botas Pink Skull
-451	É possível se apaixonar durante o halloween, não é?
-452	Capacete Pink Skull
-453	É possível se apaixonar durante o halloween, não é?
-454	Jaqueta Colorida
-455	Moda esportiva confortável e estilosa
-456	Jaqueta Simples
-457	Moda esportiva confortável e estilosa
-458	Jaqueta Extravagante
-459	Moda esportiva confortável e estilosa
-460	Minissaia Preta
-461	Moda esportiva confortável e estilosa
-462	Minissaia Bordô
-463	Moda esportiva confortável e estilosa
-464	Minissaia Estampada
-465	Moda esportiva confortável e estilosa
-466	Tênis Colorido
-467	Moda esportiva confortável e estilosa
-468	Tênis Simples
-469	Moda esportiva confortável e estilosa
-470	Tênis Extravagante
-471	Moda esportiva confortável e estilosa
-472	Traje de Ratinha
-473	Parte da fantasia de ratinha
-474	Traje de Onça
-475	Parte da fantasia de onça
-476	Traje Doraemiau (F)
-477	Parte da fastasia de Doraemiau
-478	Meia de Ratinha
-479	Parte da fantasia de ratinha
-480	Meia de Onça
-481	Meias de garra de gato de leopardo fofas para meninas.
-482	Meia Doraemiau
-483	Meias de garra de gato azul-céu fofas, dedicadas às meninas.
-484	Luva de Ratinha
-485	Parte da fantasia de ratinha
-486	Luva de Onça
-487	Luvas de garra de gato fofo, para garotas.
-488	Luva Doraemiau (F)
-489	Luvas de garra de gato azul-céu fofas, dedicadas às meninas.
-490	Botas de Ratinha
-491	Parte da fantasia de ratinha
-492	Botas de Onça
-493	Sapatos de moda garra gato leopardo bonito, dedicado às meninas.
-494	Botas Doraemiau (F)
-495	Sapatos de moda de garra de gato azul-celeste, dedicados às meninas.
-496	Chapéu de Ratinha
-497	Parte da fantasia de ratinha
-498	Chapéu de Onça
-499	Boné de moda com garras de gato-leopardo, dedicado às meninas.
-500	Chapéu Doraemiau (F)
-501	Boné de moda com garras de gato azul celeste, dedicado às meninas.
-502	Atadura
-503	Te deixa com um visual amedrontador
-504	Óculos Charmoso
-505	Charme misterioso, um estilo diferente!
-506	Óculos Encantador
-507	Encantador e inesquecível!
-508	Óculos Elegante
-509	Quanta elegância!
-510	Óculos Atraente
-511	Vermelho é a cor da paixão!
-512	Insígnia das Nuvens
-513	Em troca dos itens necessários no Pegasus e no Wings.
-514	Sangue Demoníaco*20
-515	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
-516	Sangue Demoníaco
-517	A lenda é a essência sanguínea do demônio, que pode melhorar muito a estabilidade da energia.
-518	Sangue de Bronze*20
-519	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
-520	Sangue de Bronze
-521	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
-522	Sangue de Ouro*20
-523	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
-524	Sangue de Ouro
-525	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
-526	Livro do Oráculo de Athena
-527	Abre a astrologia do universo pequeno de mais alta ordem, e a alma estelar de alta ordem não é mais um sonho.
-528	Hiper Poção IV
-529	Restaura imediatamente a quantidade de HP da metade da HP máxima. A recuperação total é de 10 milhões de HP.
-530	Hiper Poção III
-531	Restaura imediatamente a quantidade de HP da metade do HP máximo. A recuperação total é de 2 milhões de HP.
-532	Energético I*20
-533	pode obter 500 de caixa mágica após o uso.
-534	Energético I
-535	pode obter 500 de caixa mágica após o uso.
-536	Potencializador*20
-537	pode obter 400 energia de produção após o uso.
-538	Potencializador
-539	pode obter 400 energia de produção após o uso.
-540	Expansão do Inventário
-541	Barra de posição da mochila expandida 6 grade.
-542	Expansão do Armazém
-543	Expanda a barra de localização do armazém.
-544	Megafone Mundial*200
-545	é consumido ao falar no World Channel.
-546	Megafone Mundial*10
-547	é consumido ao falar no World Channel.
-548	Megafone de Anúncio*200
-549	é consumido quando se fala no canal de transmissão.
-550	Megafone de Anúncio*10
-551	é consumido quando se fala no canal de transmissão.
-552	Megafone de Anúncio
-553	é consumido quando se fala no canal de transmissão.
-554	2x EXP de centro de energia
-555	Aumento do tempo de experiência dupla em 60 minutos.
-556	Dado do Destino*20
-557	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
-558	Dado do Destino
-559	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
-560	Bênção da Deusa☆Áries(II)
-561	Abre a reputação da deusa e ganha recompensas extras da deusa.
-562	Rosas
-563	Uma flor valiosa que pode ser usada para dar a um amigo. As atividades acima do nível 60 caíram.
-564	Cartão de Investida
-565	Um item mágico que pode ser varrido diretamente por uma cópia do evento.
-566	Coração Eclíptica I
-567	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-568	Coração Eclíptica II
-569	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-570	Coração Eclíptica III
-571	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-572	Coração Eclíptica IV
-573	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-574	Coração Eclíptica V
-575	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
-576	Luz da Estrela Condensada*5
-577	Material usado em troca dos itens relevantes da régua.
-578	Troca de equipamento[Escudeiro]
-579	Colete uma certa quantia para resgatar o equipamento da régua.
-580	Fragmento Bronze*5
-581	Após coletar uma certa quantia, você pode trocar por um santo de bronze. Há uma grande queda nas atividades acima do nível 20.
-582	Fragmento Prata*5
-583	Após coletar uma certa quantia, você pode trocar por roupas sagradas de prata. Há uma grande queda na atividade acima do nível 60.
-584	Autorização de Armadura[Bronze]
-585	Em troca do certificado do colete de bronze de ordem superior.
-586	Autorização de Armadura[Prata]
-587	Em troca do vale de um colete de prata de ordem superior.
-588	Jade Estelar Negra*5
-589	Pano Sagrado Escuro 1-10 Elenco em Estrela. Pode ser resgatado.
-590	Cristal Estelar Negro*5
-591	Dark Saint Cloth 11-16 elenco de estrelas. Pode ser resgatado.
-592	Esplendor Estelar Negro*5
-593	Santos das Trevas 17-32 elenco de estrelas. Pode ser resgatado.
-594	Jade Estelar*5
-595	A roupa sagrada da roupa sagrada 1-10 estrelas lançadas. Há uma grande queda nas atividades acima do nível 20.
-596	Cristal Estelar*5
-597	The Pegasus Saint Cloth é um elenco de 11 a 16 estrelas. Há uma grande queda na atividade acima do nível 50.
-598	Esplendor Estelar*5
-599	The Pegasus Saint Cloth é um elenco de 17-32 estrelas. Há uma grande queda na atividade acima do nível 70.
-600	Poeira Estelar*5
-601	é usado para roupas sagradas de bronze comuns. Há uma grande queda na atividade acima do nível 30.
-602	Areia Estelar*5
-603	é usado para roupas sagradas de prata comuns. Há uma grande queda na atividade acima do nível 50.
-604	Brilho Estelar [Terra]*5
-605	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
-606	Brilho Estelar [Fogo]*5
-607	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
-608	Brilho Estelar [Água]*5
-609	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
-610	Brilho Estelar [Vento]*5
-611	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
-612	Luz Espiritual*10
-613	é usado para equipar a energia. Há uma grande queda na atividade acima do nível 30.
-614	Luz Espiritual+*10
-615	O  é usado para equipar a energia. Há uma grande queda na atividade acima do nível 50.
-616	Flor da Alma*10
-617	é usado para equipar a energia. Há uma grande queda na atividade acima do nível 30.
-618	Flor da Alma+*10
-619	O  é usado para equipar a energia. Há uma grande queda na atividade acima do nível 50.
-620	Jovem Fervoroso
-621	Avance bravamente e queime! Cosmo!
-622	Imaturo
-623	Jovem e pueril, bons tempos
-624	Bonito e Elegante
-625	Jovem belo, elegante e natural
-626	Luz Dourada
-627	A luz do sol envolve você
-628	Jovem Fofo
-629	A fofura é a justiça
-630	Maduro
-631	O tempo proporciona a maturidade
-632	Jamiel (M)
-633	Descendente do povo de Jamiel
-634	Espírito Zen
-635	O homem mais próximo de Deus
-636	Pinta Embaixo do Olho
-637	A beleza dele pode competir com o sol e a lua
-638	Terror e Justiça
-639	A justiça pode ser terrível
-640	Jovem Fervoroso
-641	Jovem de coração fervoroso
-642	Pégasus
-643	Penteado de Seiya de Pégasus
-644	Dragão
-645	Penteado de Shiryu de Dragão
-646	Cisne
-647	Penteado de Hyoga de Cisne
-648	Andrômeda
-649	Penteado de Shun de Andrômeda
-650	Fênix
-651	Penteado de Ikki de Fênix
-652	Áries
-653	Penteado de Mu de Áries
-654	Virgem
-655	Penteado de Virgem de Shaka
-656	Peixes
-657	Penteado de Afrodite de Peixes
-658	Câncer
-659	Penteado de Máscara da Morte de Câncer
-660	Moça Fofa
-661	Eu e meu Pet ficamos bobos com tanta fofura!
-662	Moça Inocente
-663	Para quem tem um coração puro
-664	Imperatriz
-665	Tem que me chamar de Imperatriz!
-666	Moça Charmosa
-667	Com um sorriso a cidade se curva, com mais outro o país todo também
-668	Valente e Brilhante
-669	Cheia de espírito heroico, que mulher mais peculiar!
-670	Moça do Lírio
-671	Moça independente e autossuficiente, parece um lírio calmo e contido
-672	Jamiel (F)
-673	Descendente do povo de Jamiel
-674	Moça das Neves
-675	Elegante e nobre, quem, senão eu?
-676	Moça Delicada
-677	Delicada como uma rosa
-678	Último Mistério
-679	disse que é misterioso, então você adivinhou ~~
-680	Pureza Impecável
-681	Penteado impecável
-682	Maria-Chiquinha
-683	Para quem tem um coração puro
-684	Encanto Misterioso
-685	O mistério é o encanto de uma mulher!
-686	Flor Selvagem
-687	Flores silvestres na beira da estrada, você vai buscá-lo ~
-688	Bolinhos Fofinhos
-689	Dois bolinhos são melhores do que um!
-690	Coque Jovial
-691	Penteado jovial e descolado
-692	Charme Natural
-693	Beleza natural como a de um hibisco
-694	Sábia e Delicada
-695	Ela sabe que livros contém tesouros
-696	Bonita e Clássica
-697	Bela, única e independente
-698	Elegância Graciosa
-699	A elegância é algo que se cultiva
-700	Fragmento de Estola
-701	Após a coleta do  em uma determinada quantidade, ele pode ser usado para troca de itens.
-702	Jovem Fervoroso
-703	Avance bravamente e queime! Cosmo!
-704	Imaturo
-705	Jovem e pueril, bons tempos
-706	Bonito e Elegante
-707	Jovem belo, elegante e natural
-708	Luz Dourada
-709	A luz do sol envolve você
-710	Jovem Fofo
-711	A fofura é a justiça
-712	Maduro
-713	O tempo proporciona a maturidade
-714	Jamiel (M)
-715	Descendente do povo de Jamiel
-716	Espírito Zen
-717	O homem mais próximo de Deus
-718	Pinta Embaixo do Olho
-719	A beleza dele pode competir com o sol e a lua
-720	Terror e Justiça
-721	A justiça pode ser terrível
-722	Jovem Fervoroso
-723	Jovem de coração fervoroso
-724	Pégasus
-725	Penteado de Seiya de Pégasus
-726	Dragão
-727	Penteado de Shiryu de Dragão
-728	Cisne
-729	Penteado de Hyoga de Cisne
-730	Andrômeda
-731	Penteado de Shun de Andrômeda
-732	Fênix
-733	Penteado de Ikki de Fênix
-734	Áries
-735	Penteado de Mu de Áries
-736	Virgem
-737	Penteado de Virgem de Shaka
-738	Peixes
-739	Penteado de Afrodite de Peixes
-740	Câncer
-741	Penteado de Máscara da Morte de Câncer
-742	Moça Fofa
-743	Eu e meu Pet ficamos bobos com tanta fofura!
-744	Moça Inocente
-745	Para quem tem um coração puro
-746	Imperatriz
-747	Tem que me chamar de Imperatriz!
-748	Moça Charmosa
-749	Com um sorriso a cidade se curva, com mais outro o país todo também
-750	Valente e Brilhante
-751	Cheia de espírito heroico, que mulher mais peculiar!
-752	Moça do Lírio
-753	Moça independente e autossuficiente, parece um lírio calmo e contido
-754	Jamiel (F)
-755	Descendente do povo de Jamiel
-756	Moça das Neves
-757	Elegante e nobre, quem, senão eu?
-758	Moça Delicada
-759	Delicada como uma rosa
-760	Último Mistério
-761	disse que é misterioso, então você adivinhou ~~
-762	Pureza Impecável
-763	Penteado impecável
-764	Maria-Chiquinha
-765	Para quem tem um coração puro
-766	Encanto Misterioso
-767	O mistério é o encanto de uma mulher!
-768	Flor Selvagem
-769	Flores silvestres na beira da estrada, você vai buscá-lo ~
-770	Bolinhos Fofinhos
-771	Dois bolinhos são melhores do que um!
-772	Coque Jovial
-773	Penteado jovial e descolado
-774	Charme Natural
-775	Beleza natural como a de um hibisco
-776	Sábia e Delicada
-777	Ela sabe que livros contém tesouros
-778	Bonita e Clássica
-779	Bela, única e independente
-780	Elegância Graciosa
-781	A elegância é algo que se cultiva
-782	Fragmento de Estola
-783	Após a coleta do  em uma determinada quantidade, ele pode ser usado para troca de itens.
-784	Espírito Caótico de Leão
-785	O  atualiza as montagens low-end de leão para o must-have para montagens high-end.
-786	Fusor de Energia
-787	O uso deste item durante a evolução das partículas aumenta muito a taxa de sucesso.
-788	Sangue de Prata
-789	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
-790	Sangue de Prata*20
-791	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
-792	Sangue de Hades
-793	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-794	Sangue de Hades*20
-795	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-796	Fusor de Energia
-797	O uso deste item durante a evolução das partículas aumenta muito a taxa de sucesso.
-798	Sangue de Prata
-799	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
-800	Sangue de Prata*20
-801	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
-802	Sangue de Hades
-803	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-804	Sangue de Hades*20
-805	pode melhorar o efeito quando a estrela lança as roupas sagradas.
-806	Luz Estelar*5
-807	Fundição em estrela de Tianma Sanctuary 33-48. Há uma grande queda na atividade acima do nível 80.
-808	Areia do Submundo*5
-809	é usado para as necessidades da roupa sagrada.
-810	Chave Cósmica
-811	Fundamentos para observação de estrelas. As atividades acima do nível 65 caíram.
-812	Traje Superior Vênus
-813	Última moda em Vênus
-814	Calções Venus Time
-815	Última moda em Vênus
-816	Botas Vênus (M)
-817	Última moda em Vênus
-818	Luva Vênus (M)
-819	Última moda em Vênus
-820	Camiseta Brisa do Mar
-821	A brisa do mar deixa as pessoas mais felizes!
-822	Bermuda Brisa do Mar
-823	A brisa do mar deixa as pessoas mais felizes!
-824	Chinelos Brisa do Mar
-825	A brisa do mar deixa as pessoas mais felizes!
-826	Traje Vênus
-827	Última moda em Vênus
-828	Calções Venus Gravity
-829	Última moda em Vênus
-830	Botas Vênus (F)
-831	Última moda em Vênus
-832	Luva Vênus (F)
-833	Última moda em Vênus
-834	Biquíni Girassol
-835	Brilhante como um girassol
-836	Sandálias Girassol
-837	Brilhante como um girassol
-838	Óculos de Sol Básico
-839	Bonito e básico
-840	Óculos Vermelho
-841	óculos quentes, na moda.
-842	Óculos de Sol Coral
-843	Fantasma misterioso, imprevisível.
-844	Óculos de Sol Roxo
-845	Fantasma misterioso, imprevisível.
-846	Coração de Cerejeira
-847	Troque os itens essenciais de Sakura e Knight.
-848	Estrela de Prata
-849	Redenção do assassino de asas de prata e tempestade.
-850	Ovo de Coelinho Fofo
-851	Aberto para conseguir um pequeno parceiro - Meng Bunny.
-852	Traje Superior Vênus
-853	Última moda em Vênus
-854	Calções Venus Time
-855	Última moda em Vênus
-856	Botas Vênus (M)
-857	Última moda em Vênus
-858	Luva Vênus (M)
-859	Última moda em Vênus
-860	Traje Vênus
-861	Última moda em Vênus
-862	Calções Venus Gravity
-863	Última moda em Vênus
-864	Botas Vênus (F)
-865	Última moda em Vênus
-866	Luva Vênus (F)
-867	Última moda em Vênus
-868	Óculos de Sol Básico
-869	Bonito e básico
-870	Óculos Vermelho
-871	óculos quentes, na moda.
-872	Óculos de Sol Coral
-873	Fantasma misterioso, imprevisível.
-874	Óculos de Sol Roxo
-875	Fantasma misterioso, imprevisível.
-876	Coração de Cerejeira
-877	Troque os itens essenciais de Sakura e Knight.
-878	Estrela de Prata
-879	Redenção do assassino de asas de prata e tempestade.
-880	Luz Sagrada de Ouro
-881	Usado em conjunto com o Cupom dos Santos Dourados, redime o Pano de Saint de Ouro no NPC Lightbringer
-882	Poção de Afrodite
-883	pode remodelar a forma do seu personagem após o uso.
-884	Poção de Afrodite
-885	pode remodelar a forma do seu personagem após o uso.
-886	Luz da Determinação de Métis
-887	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-888	Máscara Noturna (M)
-889	Trajes temáticos Magic Paradise.
-890	Máscara Noturna (F)
-891	Trajes temáticos Magic Paradise.
-892	Chapéu de Bruxo
-893	Trajes temáticos Magic Paradise.
-894	Traje Superior Country
-895	Trajes temáticos Magic Paradise.
-896	Calça Country
-897	Trajes temáticos Magic Paradise.
-898	Luva Country
-899	Trajes temáticos Magic Paradise.
-900	Botas Country
-901	Trajes temáticos Magic Paradise.
-902	Traje Superior Americano
-903	Trajes temáticos Magic Paradise.
-904	Calça Americana
-905	Trajes temáticos Magic Paradise.
-906	Luva Americana
-907	Trajes temáticos Magic Paradise.
-908	Botas Americanas (M)
-909	Trajes temáticos Magic Paradise.
-910	Chapéu de Bruxa
-911	Trajes temáticos Magic Paradise.
-912	Traje Fashion
-913	Trajes temáticos Magic Paradise.
-914	Botas Fashion
-915	Trajes temáticos Magic Paradise.
-916	Traje Americano
-917	Trajes temáticos Magic Paradise.
-918	Botas Americanas (F)
-919	Trajes temáticos Magic Paradise.
-920	Máscara Noturna (M)
-921	Trajes temáticos Magic Paradise.
-922	Máscara Noturna (F)
-923	Trajes temáticos Magic Paradise.
-924	Chapéu de Bruxo
-925	Trajes temáticos Magic Paradise.
-926	Traje Superior Country
-927	Trajes temáticos Magic Paradise.
-928	Calça Country
-929	Trajes temáticos Magic Paradise.
-930	Luva Country
-931	Trajes temáticos Magic Paradise.
-932	Botas Country
-933	Trajes temáticos Magic Paradise.
-934	Traje Superior Americano
-935	Trajes temáticos Magic Paradise.
-936	Calça Americana
-937	Trajes temáticos Magic Paradise.
-938	Luva Americana
-939	Trajes temáticos Magic Paradise.
-940	Botas Americanas (M)
-941	Trajes temáticos Magic Paradise.
-942	Chapéu de Bruxa
-943	Trajes temáticos Magic Paradise.
-944	Traje Fashion
-945	Trajes temáticos Magic Paradise.
-946	Botas Fashion
-947	Trajes temáticos Magic Paradise.
-948	Traje Americano
-949	Trajes temáticos Magic Paradise.
-950	Botas Americanas (F)
-951	Trajes temáticos Magic Paradise.
-952	Presente de Áries II (Sublime)
-953	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
-954	Presente de Áries II (Supremo)
-955	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
-956	Alma da Relíquia
-957	pode ser usado para aprimorar o valor da energia do artefato.
-958	Alma da Relíquia
-959	pode ser usado para aprimorar o valor da energia do artefato.
-960	Fonte Espiritual I
-961	Aumenta o valor da aura do personagem.
-962	Esplendor Sagrado
-963	é usado para capas. As páginas dos deuses obtidas após a vitória no campo de batalha podem ser trocadas.
-964	Esplendor Sagrado+
-965	é usado para capas. As páginas dos deuses obtidas após a vitória no campo de batalha podem ser trocadas.
-966	Carinho à Primeira Vista
-967	Os dois são casados ​​e os meninos devem ter adereços.
-968	Amor à Primeira Vista
-969	Os dois casados ​​e as meninas devem ter adereços.
-970	Sangue de Poseidon
-971	Melhora o efeito ao moldar uma escala.
-972	Sangue de Poseidon*20
-973	Melhora o efeito ao moldar uma escala.
-974	Áxis de Reformulação
-975	O  pode reformular o espírito de alguns equipamentos.
-976	Áxis de Preservação*10
-977	O  retém o encantamento anterior ao reformular o revestimento.
-978	Áxis de Preservação+
-979	O  retém o encantamento anterior ao reformular o revestimento.
-980	Áxis de Transição
-981	Itens que devem ser consumidos quando o Espírito é transferido.
-982	Alianças de Casamento
-983	Dois casais devem ser casados.
-984	Kit de Casamento de Luxo
-985	Pacote de casamento para um casamento de sonho.
-986	Pilha de Convites
-987	O  é embalado com convites para pais e parentes.
-988	Marca Texto
-989	O item essencial para a mensagem no quadro de mensagens com inscrição de luxo, a bênção é vista por todos.
-990	Sangue de Poseidon
-991	Melhora o efeito ao moldar uma escala.
-992	Sangue de Poseidon*20
-993	Melhora o efeito ao moldar uma escala.
-994	Áxis de Reformulação
-995	O  pode reformular o espírito de alguns equipamentos.
-996	Áxis de Preservação*10
-997	O  retém o encantamento anterior ao reformular o revestimento.
-998	Áxis de Preservação+
-999	O  retém o encantamento anterior ao reformular o revestimento.
-1000	Áxis de Transição
-1001	Itens que devem ser consumidos quando o Espírito é transferido.
-1002	Resplendor do Oceano*5
-1003	é uma obrigação para as escalas.
-1004	Ovo de Bebê Panda
-1005	Cute Baby Panda de Ano Novo, segurando um koi vermelho para lhe dar um Ano Novo!
-1006	Sangue de Espectro
-1007	Melhora o efeito quando a estrela lança uma roupa sagrada.
-1008	Sangue de Espectro*20
-1009	Melhora o efeito quando a estrela lança uma roupa sagrada.
-1010	Sangue de Espectro
-1011	Melhora o efeito quando a estrela lança uma roupa sagrada.
-1012	Sangue de Espectro*20
-1013	Melhora o efeito quando a estrela lança uma roupa sagrada.
-1014	Cristal de Degeneração
-1015	pode ser usado para ordem crescente de emblemas.
-1016	Cristal do Abismo
-1017	pode ser usado para a ordem crescente da pedra.
-1018	Cristal de Furacão
-1019	pode ser usado para a atualização da pulseira.
-1020	Cristal de Hades
-1021	pode ser usado para a atualização de emblemas de ordem superior.
-1022	Cristal de Poseidon
-1023	pode ser usado para a atualização de pedras de alta ordem.
-1024	Cristal de Zeus
-1025	pode ser usado para a atualização de pulseiras de alta ordem.
-1026	Pacote de presente de retorno de gratidão de grande valor
-1027	O  contém 18 vezes o valor de itens de valor agregado, e cada personagem pode ser aberto apenas uma vez.
-1028	Pacote do Frenesi Nv10
-1029	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1030	Pacote do Frenesi Nv59
-1031	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1032	Pacote do Frenesi Nv79
-1033	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1034	Pacote de presente de retorno de gratidão de grande valor
-1035	O  contém 18 vezes o valor de itens de valor agregado, e cada personagem pode ser aberto apenas uma vez.
-1036	Pacote do Frenesi Nv10
-1037	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1038	Pacote do Frenesi Nv59
-1039	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1040	Pacote do Frenesi Nv79
-1041	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
-1042	Gema - Sol
-1043	pode embutir e aprimorar os atributos da alma da armadura.
-1044	Gema - Lua
-1045	pode embutir e aprimorar os atributos da alma da armadura.
-1046	Gema - Mercúrio
-1047	pode embutir e aprimorar os atributos da alma da armadura.
-1048	Gema - Vênus
-1049	pode embutir e aprimorar os atributos da alma da armadura.
-1050	Gema - Marte
-1051	pode embutir e aprimorar os atributos da alma da armadura.
-1052	Gema - Júpiter
-1053	pode embutir e aprimorar os atributos da alma da armadura.
-1054	Gema - Saturno
-1055	pode embutir e aprimorar os atributos da alma da armadura.
-1056	Gema - Urano
-1057	pode embutir e aprimorar os atributos da alma da armadura.
-1058	Gema - Netuno
-1059	pode embutir e aprimorar os atributos da alma da armadura.
-1060	Gema - Plutão
-1061	pode embutir e aprimorar os atributos da alma da armadura.
-1062	Espírito de Gema
-1063	Experiência de atualização adicional pode ser adicionada quando as atualizações de gemas de alma.
-1064	Gema - Sol
-1065	pode embutir e aprimorar os atributos da alma da armadura.
-1066	Gema - Lua
-1067	pode embutir e aprimorar os atributos da alma da armadura.
-1068	Gema - Mercúrio
-1069	pode embutir e aprimorar os atributos da alma da armadura.
-1070	Gema - Vênus
-1071	pode embutir e aprimorar os atributos da alma da armadura.
-1072	Gema - Marte
-1073	pode embutir e aprimorar os atributos da alma da armadura.
-1074	Gema - Júpiter
-1075	pode embutir e aprimorar os atributos da alma da armadura.
-1076	Gema - Saturno
-1077	pode embutir e aprimorar os atributos da alma da armadura.
-1078	Gema - Urano
-1079	pode embutir e aprimorar os atributos da alma da armadura.
-1080	Gema - Netuno
-1081	pode embutir e aprimorar os atributos da alma da armadura.
-1082	Gema - Plutão
-1083	pode embutir e aprimorar os atributos da alma da armadura.
-1084	Espírito de Gema
-1085	Experiência de atualização adicional pode ser adicionada quando as atualizações de gemas de alma.
-1086	Pacote de presente de devolução dos pontos de Áries
-1087	Bênção de Áries! Você pode devolver 800.000 estrelas em 30 dias. Limitado uma vez.
-1088	Cristal Espiritual
-1089	Os acessórios necessários para atualizar a alma da armadura.
-1090	Fragmento de Gema
-1091	Material essencial para a atualização de gemas de alma.
-1092	Fragmento de Gema
-1093	Material essencial para a atualização de gemas de alma.
-1094	Luz da Determinação de Métis
-1095	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-1096	Luz da Determinação de Métis
-1097	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-1098	Pacote de presente de recompensa de Áries
-1099	Bênção de Áries! Pode devolver 20.000 estrelas em 30 dias. Limitado uma vez.
-1100	Pacote de presente de devolução dos pontos de Áries
-1101	Bênção de Áries! Você pode devolver 800.000 estrelas em 30 dias. Limitado uma vez.
-1102	Pacote de presente de recompensa de Áries
-1103	Bênção de Áries! Pode devolver 20.000 estrelas em 30 dias. Limitado uma vez.
-1104	Memento de Anima*1
-1105	Quando usado no  Protoss, aprimora a experiência intensificada.
-1106	Memento de Anima*20
-1107	Quando usado no  Protoss, aprimora a experiência intensificada.
-1108	Meteorito Condensado*1
-1109	Procure consumíveis necessários para estrelas.
-1110	Meteorito Condensado*20
-1111	Procure consumíveis necessários para estrelas.
-1112	Sussurro de Jápeto
-1113	Redefine o valor do despertar astral após o uso.
-1114	Memento de Anima*1
-1115	Quando usado no  Protoss, aprimora a experiência intensificada.
-1116	Memento de Anima*20
-1117	Quando usado no  Protoss, aprimora a experiência intensificada.
-1118	Meteorito Condensado*1
-1119	Procure consumíveis necessários para estrelas.
-1120	Meteorito Condensado*20
-1121	Procure consumíveis necessários para estrelas.
-1122	Sussurro de Jápeto
-1123	Redefine o valor do despertar astral após o uso.
-1124	Emblema do Sacerdote
-1125	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
-1126	Emblema do Ursinho
-1127	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
-1128	Emblema do Rei Pirata
-1129	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
-1130	Papel para Votação
-1131	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
-1132	Bandeira do Grande Mestre
-1133	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
-1134	Selo Sagrado do Silêncio
-1135	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
-1136	Disfarce de Hermes
-1137	pode ser usado para alternar entre diferentes ocupações.
-1138	Troca de Gênero
-1139	Alterne entre os sexos após o uso.
-1140	Disfarce de Hermes
-1141	pode ser usado para alternar entre diferentes ocupações.
-1142	Troca de Gênero
-1143	Alterne entre os sexos após o uso.
-1144	Espírito de Batalha de Leão
-1145	O  atualiza os suportes high-end para o must-have para os high-end.
-1146	Flor de Lótus
-1147	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-1148	Flor de Lótus
-1149	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-1150	Pessoa Misteriosa
-1151	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-1152	Pessoa Misteriosa
-1153	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-1154	Pessoa Misteriosa
-1155	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-1156	Pessoa Misteriosa
-1157	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+224	Traje de Gatinho
+225	Parte da fantasia de gatinho
+226	Traje de Leopardo
+227	Parte da fantasia de leopardo
+228	Traje Doraemiau (M)
+229	Parte da fantasia de Doraemiau
+230	Luva de Gatinho
+231	Parte da fantasia de gatinho
+232	Luva de Leopardo
+233	Parte da fantasia de leopardo
+234	Luva Doraemiau (M)
+235	Parte da fantasia de Doraemiau
+236	Botas de Gatinho
+237	Sapatos de moda com garras de gato azul escuro, dedicados aos meninos.
+238	Botas de Leopardo
+239	sapatos de moda garra gato leopardo bonito, dedicado aos meninos.
+240	Botas Doraemiau (M)
+241	Sapatos de garra de gato azul celeste, dedicados aos meninos.
+242	Chapéu de Gatinho
+243	Lindo cocar de garra de gato azul escuro, dedicado aos meninos.
+244	Chapéu de Leopardo
+245	Boné de garra de gato fofo para garotos.
+246	Chapéu Doraemiau (M)
+247	Cocar de garra de gato azul celeste, dedicado aos meninos.
+248	Biquíni Atraente
+249	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+250	Sandálias Atraentes
+251	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+252	Biquíni Brisa do Mar
+253	A brisa do mar deixa as pessoas mais felizes!
+254	Sandálias Brisa do Mar
+255	A brisa do mar deixa as pessoas mais felizes!
+256	Biquíni Charmoso
+257	Charme misterioso, um estilo diferente!
+258	Sandálias Charmosas
+259	Charme misterioso, um estilo diferente!
+260	Biquíni Fofo
+261	A fofura acalenta o coração das pessoas
+262	Sandálias Fofas
+263	A fofura acalenta o coração das pessoas
+264	Biquíni Descolado
+265	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
+266	Sandálias Descoladas
+267	Sol, praia, beleza! Quente e quente, como uma brisa da primavera ~
+268	Biquíni Arco-Íris
+269	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
+270	Sandálias Arco-Íris
+271	Céu depois da chuva, arco-íris na praia! Belas paisagens são lindas ~
+272	Traje Pink Skull
+273	É possível se apaixonar durante o halloween, não é?
+274	Luva Pink Skull
+275	É possível se apaixonar durante o halloween, não é?
+276	Botas Pink Skull
+277	É possível se apaixonar durante o halloween, não é?
+278	Capacete Pink Skull
+279	É possível se apaixonar durante o halloween, não é?
+280	Jaqueta Colorida
+281	Moda esportiva confortável e estilosa
+282	Jaqueta Simples
+283	Moda esportiva confortável e estilosa
+284	Jaqueta Extravagante
+285	Moda esportiva confortável e estilosa
+286	Minissaia Preta
+287	Moda esportiva confortável e estilosa
+288	Minissaia Bordô
+289	Moda esportiva confortável e estilosa
+290	Minissaia Estampada
+291	Moda esportiva confortável e estilosa
+292	Tênis Colorido
+293	Moda esportiva confortável e estilosa
+294	Tênis Simples
+295	Moda esportiva confortável e estilosa
+296	Tênis Extravagante
+297	Moda esportiva confortável e estilosa
+298	Traje de Ratinha
+299	Parte da fantasia de ratinha
+300	Traje de Onça
+301	Parte da fantasia de onça
+302	Traje Doraemiau (F)
+303	Parte da fastasia de Doraemiau
+304	Meia de Ratinha
+305	Parte da fantasia de ratinha
+306	Meia de Onça
+307	Meias de garra de gato de leopardo fofas para meninas.
+308	Meia Doraemiau
+309	Meias de garra de gato azul-céu fofas, dedicadas às meninas.
+310	Luva de Ratinha
+311	Parte da fantasia de ratinha
+312	Luva de Onça
+313	Luvas de garra de gato fofo, para garotas.
+314	Luva Doraemiau (F)
+315	Luvas de garra de gato azul-céu fofas, dedicadas às meninas.
+316	Botas de Ratinha
+317	Parte da fantasia de ratinha
+318	Botas de Onça
+319	Sapatos de moda garra gato leopardo bonito, dedicado às meninas.
+320	Botas Doraemiau (F)
+321	Sapatos de moda de garra de gato azul-celeste, dedicados às meninas.
+322	Chapéu de Ratinha
+323	Parte da fantasia de ratinha
+324	Chapéu de Onça
+325	Boné de moda com garras de gato-leopardo, dedicado às meninas.
+326	Chapéu Doraemiau (F)
+327	Boné de moda com garras de gato azul celeste, dedicado às meninas.
+328	Atadura
+329	Te deixa com um visual amedrontador
+330	Óculos Charmoso
+331	Charme misterioso, um estilo diferente!
+332	Óculos Encantador
+333	Encantador e inesquecível!
+334	Óculos Elegante
+335	Quanta elegância!
+336	Óculos Atraente
+337	Vermelho é a cor da paixão!
+338	Insígnia das Nuvens
+339	Em troca dos itens necessários no Pegasus e no Wings.
+340	Tempestade
+341	
+342	Peixe-voador · Armadura voadora
+343	
+344	Cavalo de Pégasus
+345	
+346	Fênix
+347	
+348	Fênix Negra
+349	
+350	Ryusei
+351	
+352	Dragão Soberano da Noite
+353	
+354	Jade·Asa de Dragão
+355	
+356	Tiamat
+357	
+358	Grífo Espectral
+359	
+360	Hiper Poção IV
+361	Restaura imediatamente a quantidade de HP da metade da HP máxima. A recuperação total é de 10 milhões de HP.
+362	Hiper Poção III
+363	Restaura imediatamente a quantidade de HP da metade do HP máximo. A recuperação total é de 2 milhões de HP.
+364	Energético I*20
+365	pode obter 500 de caixa mágica após o uso.
+366	Energético I
+367	pode obter 500 de caixa mágica após o uso.
+368	Potencializador*20
+369	pode obter 400 energia de produção após o uso.
+370	Potencializador
+371	pode obter 400 energia de produção após o uso.
+372	Expansão do Inventário
+373	Barra de posição da mochila expandida 6 grade.
+374	Expansão do Armazém
+375	Expanda a barra de localização do armazém.
+376	Megafone Mundial*200
+377	é consumido ao falar no World Channel.
+378	Megafone Mundial*10
+379	é consumido ao falar no World Channel.
+380	Megafone de Anúncio*200
+381	é consumido quando se fala no canal de transmissão.
+382	Megafone de Anúncio*10
+383	é consumido quando se fala no canal de transmissão.
+384	Megafone de Anúncio
+385	é consumido quando se fala no canal de transmissão.
+386	2x EXP de centro de energia
+387	Aumento do tempo de experiência dupla em 60 minutos.
+388	Dado do Destino*20
+389	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
+390	Dado do Destino
+391	- Foi adicionada uma oportunidade de recompensar aleatoriamente após o "Destiny Trial" e "Biography Mission".
+392	Cartão de Investida
+393	Um item mágico que pode ser varrido diretamente por uma cópia do evento.
+394	Coração Eclíptica I
+395	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+396	Coração Eclíptica II
+397	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+398	Coração Eclíptica III
+399	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+400	Coração Eclíptica IV
+401	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+402	Coração Eclíptica V
+403	Aumenta a barra de posição da régua e a estrela do guardião que não joga terá bônus de atributo à estrela do guardião.
+404	Luz da Estrela Condensada*5
+405	Material usado em troca dos itens relevantes da régua.
+406	Fragmento Bronze*5
+407	Após coletar uma certa quantia, você pode trocar por um santo de bronze. Há uma grande queda nas atividades acima do nível 20.
+408	Fragmento Prata*5
+409	Após coletar uma certa quantia, você pode trocar por roupas sagradas de prata. Há uma grande queda na atividade acima do nível 60.
+410	Jade Estelar Negra*5
+411	Pano Sagrado Escuro 1-10 Elenco em Estrela. Pode ser resgatado.
+412	Cristal Estelar Negro*5
+413	Dark Saint Cloth 11-16 elenco de estrelas. Pode ser resgatado.
+414	Esplendor Estelar Negro*5
+415	Santos das Trevas 17-32 elenco de estrelas. Pode ser resgatado.
+416	Jade Estelar*5
+417	A roupa sagrada da roupa sagrada 1-10 estrelas lançadas. Há uma grande queda nas atividades acima do nível 20.
+418	Cristal Estelar*5
+419	The Pegasus Saint Cloth é um elenco de 11 a 16 estrelas. Há uma grande queda na atividade acima do nível 50.
+420	Esplendor Estelar*5
+421	The Pegasus Saint Cloth é um elenco de 17-32 estrelas. Há uma grande queda na atividade acima do nível 70.
+422	Poeira Estelar*5
+423	é usado para roupas sagradas de bronze comuns. Há uma grande queda na atividade acima do nível 30.
+424	Areia Estelar*5
+425	é usado para roupas sagradas de prata comuns. Há uma grande queda na atividade acima do nível 50.
+426	Brilho Estelar [Terra]*5
+427	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
+428	Brilho Estelar [Fogo]*5
+429	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
+430	Brilho Estelar [Água]*5
+431	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
+432	Brilho Estelar [Vento]*5
+433	é usado para roupas sagradas de ouro. Há uma grande queda na atividade acima do nível 70.
+434	Luz Espiritual*10
+435	é usado para equipar a energia. Há uma grande queda na atividade acima do nível 30.
+436	Luz Espiritual+*10
+437	O  é usado para equipar a energia. Há uma grande queda na atividade acima do nível 50.
+438	Flor da Alma*10
+439	é usado para equipar a energia. Há uma grande queda na atividade acima do nível 30.
+440	Flor da Alma+*10
+441	O  é usado para equipar a energia. Há uma grande queda na atividade acima do nível 50.
+442	Fragmento de Estola
+443	Após a coleta do  em uma determinada quantidade, ele pode ser usado para troca de itens.
+444	Jovem Fervoroso
+445	Avance bravamente e queime! Cosmo!
+446	Imaturo
+447	Jovem e pueril, bons tempos
+448	Bonito e Elegante
+449	Jovem belo, elegante e natural
+450	Luz Dourada
+451	A luz do sol envolve você
+452	Jovem Fofo
+453	A fofura é a justiça
+454	Maduro
+455	O tempo proporciona a maturidade
+456	Jamiel (M)
+457	Descendente do povo de Jamiel
+458	Espírito Zen
+459	O homem mais próximo de Deus
+460	Pinta Embaixo do Olho
+461	A beleza dele pode competir com o sol e a lua
+462	Terror e Justiça
+463	A justiça pode ser terrível
+464	Jovem Fervoroso
+465	Jovem de coração fervoroso
+466	Pégasus
+467	Penteado de Seiya de Pégasus
+468	Dragão
+469	Penteado de Shiryu de Dragão
+470	Cisne
+471	Penteado de Hyoga de Cisne
+472	Andrômeda
+473	Penteado de Shun de Andrômeda
+474	Fênix
+475	Penteado de Ikki de Fênix
+476	Áries
+477	Penteado de Mu de Áries
+478	Virgem
+479	Penteado de Virgem de Shaka
+480	Peixes
+481	Penteado de Afrodite de Peixes
+482	Câncer
+483	Penteado de Máscara da Morte de Câncer
+484	Moça Fofa
+485	Eu e meu Pet ficamos bobos com tanta fofura!
+486	Moça Inocente
+487	Para quem tem um coração puro
+488	Imperatriz
+489	Tem que me chamar de Imperatriz!
+490	Moça Charmosa
+491	Com um sorriso a cidade se curva, com mais outro o país todo também
+492	Valente e Brilhante
+493	Cheia de espírito heroico, que mulher mais peculiar!
+494	Moça do Lírio
+495	Moça independente e autossuficiente, parece um lírio calmo e contido
+496	Jamiel (F)
+497	Descendente do povo de Jamiel
+498	Moça das Neves
+499	Elegante e nobre, quem, senão eu?
+500	Moça Delicada
+501	Delicada como uma rosa
+502	Último Mistério
+503	disse que é misterioso, então você adivinhou ~~
+504	Pureza Impecável
+505	Penteado impecável
+506	Maria-Chiquinha
+507	Para quem tem um coração puro
+508	Encanto Misterioso
+509	O mistério é o encanto de uma mulher!
+510	Flor Selvagem
+511	Flores silvestres na beira da estrada, você vai buscá-lo ~
+512	Bolinhos Fofinhos
+513	Dois bolinhos são melhores do que um!
+514	Coque Jovial
+515	Penteado jovial e descolado
+516	Charme Natural
+517	Beleza natural como a de um hibisco
+518	Sábia e Delicada
+519	Ela sabe que livros contém tesouros
+520	Bonita e Clássica
+521	Bela, única e independente
+522	Elegância Graciosa
+523	A elegância é algo que se cultiva
+524	Fragmento de Estola
+525	Após a coleta do  em uma determinada quantidade, ele pode ser usado para troca de itens.
+526	Espírito Caótico de Leão
+527	O  atualiza as montagens low-end de leão para o must-have para montagens high-end.
+528	Fusor de Energia
+529	O uso deste item durante a evolução das partículas aumenta muito a taxa de sucesso.
+530	Sangue de Prata
+531	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
+532	Sangue de Prata*20
+533	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
+534	Sangue de Hades
+535	pode melhorar o efeito quando a estrela lança as roupas sagradas.
+536	Sangue de Hades*20
+537	pode melhorar o efeito quando a estrela lança as roupas sagradas.
+538	Luz Estelar*5
+539	Fundição em estrela de Tianma Sanctuary 33-48. Há uma grande queda na atividade acima do nível 80.
+540	Areia do Submundo*5
+541	é usado para as necessidades da roupa sagrada.
+542	Chave Cósmica
+543	Fundamentos para observação de estrelas. As atividades acima do nível 65 caíram.
+544	Traje Superior Vênus
+545	Última moda em Vênus
+546	Calções Venus Time
+547	Última moda em Vênus
+548	Botas Vênus (M)
+549	Última moda em Vênus
+550	Luva Vênus (M)
+551	Última moda em Vênus
+552	Camiseta Brisa do Mar
+553	A brisa do mar deixa as pessoas mais felizes!
+554	Bermuda Brisa do Mar
+555	A brisa do mar deixa as pessoas mais felizes!
+556	Chinelos Brisa do Mar
+557	A brisa do mar deixa as pessoas mais felizes!
+558	Traje Vênus
+559	Última moda em Vênus
+560	Calções Venus Gravity
+561	Última moda em Vênus
+562	Botas Vênus (F)
+563	Última moda em Vênus
+564	Luva Vênus (F)
+565	Última moda em Vênus
+566	Biquíni Girassol
+567	Brilhante como um girassol
+568	Sandálias Girassol
+569	Brilhante como um girassol
+570	Óculos de Sol Básico
+571	Bonito e básico
+572	Sangue de Bronze*20
+573	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
+574	Sangue de Bronze
+575	O efeito pode ser aprimorado no Pano de Bronze Fundido em Estrela e no Pano Santo de Prata.
+576	Sangue de Prata*20
+577	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
+578	Sangue de Prata
+579	Melhora o efeito quando você conjura todas as vestimentas de prata e bronze.
+580	Óculos Vermelho
+581	óculos quentes, na moda.
+582	Óculos de Sol Coral
+583	Fantasma misterioso, imprevisível.
+584	Óculos de Sol Roxo
+585	Fantasma misterioso, imprevisível.
+586	Coração de Cerejeira
+587	Troque os itens essenciais de Sakura e Knight.
+588	Estrela de Prata
+589	Redenção do assassino de asas de prata e tempestade.
+590	Ovo de Coelinho Fofo
+591	Aberto para conseguir um pequeno parceiro - Meng Bunny.
+592	Luz Sagrada de Ouro
+593	Usado em conjunto com o Cupom dos Santos Dourados, redime o Pano de Saint de Ouro no NPC Lightbringer
+594	Poção de Afrodite
+595	pode remodelar a forma do seu personagem após o uso.
+596	Luz da Determinação de Métis
+597	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
+598	Máscara Noturna (M)
+599	Trajes temáticos Magic Paradise.
+600	Máscara Noturna (F)
+601	Trajes temáticos Magic Paradise.
+602	Chapéu de Bruxo
+603	Trajes temáticos Magic Paradise.
+604	Traje Superior Country
+605	Trajes temáticos Magic Paradise.
+606	Calça Country
+607	Trajes temáticos Magic Paradise.
+608	Luva Country
+609	Trajes temáticos Magic Paradise.
+610	Botas Country
+611	Trajes temáticos Magic Paradise.
+612	Traje Superior Americano
+613	Trajes temáticos Magic Paradise.
+614	Calça Americana
+615	Trajes temáticos Magic Paradise.
+616	Luva Americana
+617	Trajes temáticos Magic Paradise.
+618	Botas Americanas (M)
+619	Trajes temáticos Magic Paradise.
+620	Chapéu de Bruxa
+621	Trajes temáticos Magic Paradise.
+622	Traje Fashion
+623	Trajes temáticos Magic Paradise.
+624	Botas Fashion
+625	Trajes temáticos Magic Paradise.
+626	Traje Americano
+627	Trajes temáticos Magic Paradise.
+628	Botas Americanas (F)
+629	Trajes temáticos Magic Paradise.
+630	Presente de Áries II (Sublime)
+631	Um pacote de presente de grande valor, limitado a uma pessoa por pessoa.
+632	Alma da Relíquia
+633	pode ser usado para aprimorar o valor da energia do artefato.
+634	Fonte Espiritual I
+635	Aumenta o valor da aura do personagem.
+636	Esplendor Sagrado
+637	é usado para capas. As páginas dos deuses obtidas após a vitória no campo de batalha podem ser trocadas.
+638	Esplendor Sagrado+
+639	é usado para capas. As páginas dos deuses obtidas após a vitória no campo de batalha podem ser trocadas.
+640	Carinho à Primeira Vista
+641	Os dois são casados ​​e os meninos devem ter adereços.
+642	Amor à Primeira Vista
+643	Os dois casados ​​e as meninas devem ter adereços.
+644	Sangue de Poseidon
+645	Melhora o efeito ao moldar uma escala.
+646	Sangue de Poseidon*20
+647	Melhora o efeito ao moldar uma escala.
+648	Áxis de Reformulação
+649	O  pode reformular o espírito de alguns equipamentos.
+650	Áxis de Preservação*10
+651	O  retém o encantamento anterior ao reformular o revestimento.
+652	Áxis de Preservação+
+653	O  retém o encantamento anterior ao reformular o revestimento.
+654	Áxis de Transição
+655	Itens que devem ser consumidos quando o Espírito é transferido.
+656	Alianças de Casamento
+657	Dois casais devem ser casados.
+658	Kit de Casamento de Luxo
+659	Pacote de casamento para um casamento de sonho.
+660	Pilha de Convites
+661	O  é embalado com convites para pais e parentes.
+662	Marca Texto
+663	O item essencial para a mensagem no quadro de mensagens com inscrição de luxo, a bênção é vista por todos.
+664	Sangue de Poseidon
+665	Melhora o efeito ao moldar uma escala.
+666	Sangue de Poseidon*20
+667	Melhora o efeito ao moldar uma escala.
+668	Sangue de Hades
+669	Melhora o efeito quando a estrela lança uma roupa sagrada.
+670	Sangue de Hades*20
+671	Melhora o efeito quando a estrela lança uma roupa sagrada.
+672	Sangue de Ouro
+673	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
+674	Sangue de Ouro*20
+675	Aprimora o efeito quando a estrela lança vestes de ouro e vestimentas do protagonista.
+676	Véu de casamento do amor à temporada de neve
+677	
+678	Vestido de casamento do amor à temporada de neve
+679	
+680	Sapato Feminino do Amor à Temporada de Neve
+681	
+682	Cabelo masculino do amor à temporada de neve
+683	
+684	Terno do amor à temporada de neve
+685	
+686	Calça social do amor à temporada de neve
+687	
+688	Áxis de Reformulação
+689	O  pode reformular o espírito de alguns equipamentos.
+690	Áxis de Preservação*10
+691	O  retém o encantamento anterior ao reformular o revestimento.
+692	Áxis de Preservação+
+693	O  retém o encantamento anterior ao reformular o revestimento.
+694	Áxis de Transição
+695	Itens que devem ser consumidos quando o Espírito é transferido.
+696	Resplendor do Oceano*5
+697	é uma obrigação para as escalas.
+698	Ovo de Bebê Panda
+699	Cute Baby Panda de Ano Novo, segurando um koi vermelho para lhe dar um Ano Novo!
+700	Sangue de Espectro
+701	Melhora o efeito quando a estrela lança uma roupa sagrada.
+702	Sangue de Espectro*20
+703	Melhora o efeito quando a estrela lança uma roupa sagrada.
+704	Cristal de Degeneração
+705	pode ser usado para ordem crescente de emblemas.
+706	Cristal do Abismo
+707	pode ser usado para a ordem crescente da pedra.
+708	Cristal de Furacão
+709	pode ser usado para a atualização da pulseira.
+710	Cristal de Hades
+711	pode ser usado para a atualização de emblemas de ordem superior.
+712	Cristal de Poseidon
+713	pode ser usado para a atualização de pedras de alta ordem.
+714	Cristal de Zeus
+715	pode ser usado para a atualização de pulseiras de alta ordem.
+716	Pacote do Frenesi Nv10
+717	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+718	Pacote do Frenesi Nv59
+719	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+720	Pacote do Frenesi Nv79
+721	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+722	Pacote do Frenesi Nv10
+723	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+724	Pacote do Frenesi Nv59
+725	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+726	Pacote do Frenesi Nv79
+727	Os itens do pacote  podem ajudá-lo a atualizar mais rapidamente, e cada personagem pode ser aberto apenas uma vez.
+728	Gema - Sol
+729	pode embutir e aprimorar os atributos da alma da armadura.
+730	Gema - Lua
+731	pode embutir e aprimorar os atributos da alma da armadura.
+732	Gema - Mercúrio
+733	pode embutir e aprimorar os atributos da alma da armadura.
+734	Gema - Vênus
+735	pode embutir e aprimorar os atributos da alma da armadura.
+736	Gema - Marte
+737	pode embutir e aprimorar os atributos da alma da armadura.
+738	Gema - Júpiter
+739	pode embutir e aprimorar os atributos da alma da armadura.
+740	Gema - Saturno
+741	pode embutir e aprimorar os atributos da alma da armadura.
+742	Gema - Urano
+743	pode embutir e aprimorar os atributos da alma da armadura.
+744	Gema - Netuno
+745	pode embutir e aprimorar os atributos da alma da armadura.
+746	Gema - Plutão
+747	pode embutir e aprimorar os atributos da alma da armadura.
+748	Espírito de Gema
+749	Experiência de atualização adicional pode ser adicionada quando as atualizações de gemas de alma.
+750	Gema - Sol
+751	pode embutir e aprimorar os atributos da alma da armadura.
+752	Gema - Lua
+753	pode embutir e aprimorar os atributos da alma da armadura.
+754	Gema - Mercúrio
+755	pode embutir e aprimorar os atributos da alma da armadura.
+756	Gema - Vênus
+757	pode embutir e aprimorar os atributos da alma da armadura.
+758	Gema - Marte
+759	pode embutir e aprimorar os atributos da alma da armadura.
+760	Gema - Júpiter
+761	pode embutir e aprimorar os atributos da alma da armadura.
+762	Gema - Saturno
+763	pode embutir e aprimorar os atributos da alma da armadura.
+764	Gema - Urano
+765	pode embutir e aprimorar os atributos da alma da armadura.
+766	Gema - Netuno
+767	pode embutir e aprimorar os atributos da alma da armadura.
+768	Gema - Plutão
+769	pode embutir e aprimorar os atributos da alma da armadura.
+770	Espírito de Gema
+771	Experiência de atualização adicional pode ser adicionada quando as atualizações de gemas de alma.
+772	Cristal Espiritual
+773	Os acessórios necessários para atualizar a alma da armadura.
+774	Fragmento de Gema
+775	Material essencial para a atualização de gemas de alma.
+776	Fragmento de Gema
+777	Material essencial para a atualização de gemas de alma.
+778	Luz da Determinação de Métis
+779	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
+780	Luz da Determinação de Métis
+781	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
+782	Pacote de presente de devolução dos pontos de Câncer
+783	...
+784	Presente de Câncer (Sublime)
+785	...
+786	Presente de Câncer (Supremo)
+787	...
+788	Pacote de presente de devolução dos pontos de Câncer
+789	
+790	Presente de Câncer (Sublime)
+791	...
+792	Presente de Câncer (Supremo)
+793	...
+794	Memento de Anima*1
+795	Quando usado no  Protoss, aprimora a experiência intensificada.
+796	Memento de Anima*20
+797	Quando usado no  Protoss, aprimora a experiência intensificada.
+798	Meteorito Condensado*1
+799	Procure consumíveis necessários para estrelas.
+800	Autorização de Armadura[Bronze]
+801	Em troca do certificado do colete de bronze de ordem superior.
+802	Meteorito Condensado*20
+803	Procure consumíveis necessários para estrelas.
+804	Sussurro de Jápeto
+805	Redefine o valor do despertar astral após o uso.
+806	Memento de Anima*1
+807	Quando usado no  Protoss, aprimora a experiência intensificada.
+808	Memento de Anima*20
+809	Quando usado no  Protoss, aprimora a experiência intensificada.
+810	Meteorito Condensado*1
+811	Procure consumíveis necessários para estrelas.
+812	Meteorito Condensado*20
+813	Procure consumíveis necessários para estrelas.
+814	Sussurro de Jápeto
+815	Redefine o valor do despertar astral após o uso.
+816	Emblema do Sacerdote
+817	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
+818	Emblema do Ursinho
+819	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
+820	Emblema do Rei Pirata
+821	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
+822	Papel para Votação
+823	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
+824	Bandeira do Grande Mestre
+825	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
+826	Autorização de Armadura[Prata]
+827	Em troca do vale de um colete de prata de ordem superior.
+828	Selo Sagrado do Silêncio
+829	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
+830	Disfarce de Hermes
+831	pode ser usado para alternar entre diferentes ocupações.
+832	Troca de Gênero
+833	Alterne entre os sexos após o uso.
+834	Disfarce de Hermes
+835	pode ser usado para alternar entre diferentes ocupações.
+836	Troca de Gênero
+837	Alterne entre os sexos após o uso.
+838	Espírito de Batalha de Leão
+839	O  atualiza os suportes high-end para o must-have para os high-end.
+840	Flor de Lótus
+841	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
+842	Flor de Lótus
+843	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
+844	Pessoa Misteriosa
+845	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+846	Pessoa Misteriosa
+847	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+848	Pessoa Misteriosa
+849	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.

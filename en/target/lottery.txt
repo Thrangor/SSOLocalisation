@@ -20,7 +20,7 @@
 19	EXP Double Power Center
 20	Advanced Recovery Elixir
 21	^a800ffEstrela Altair of Tanabata x1 (Practice max 4500)
-22	^a800ffEstrela Vega de Tanabata x1 (Practice max 4500)
+22	^a800ffEstrela Vega of Tanabata x1 (Practice max 4500)
 23	^a800ffFlores x999
 24	^a800ff Thor's Chimera x1: Flying Horse Swap
 25	^a800ffOther random large prizes
@@ -156,7 +156,7 @@
 155	Relic Insignia
 156	Spiritual Crystal
 157	^a800ffJune SD x1 (Practice max 4500)
-158	^e5872fPresa de Leo x1
+158	^e5872fPresa of Leo x1
 159	^a800ff Blessing of the Goddess ☆ Lion x999
 160	^a800ffOther random large prizes: Includes flying mount: Pandora Mascot x1, Silver Blood x100, Demon Blood (perfect) x1 \ Summer Costume Gift Pack x1, Energy Fuse x100, Relic Insignia (Universal Relic Exchange ) x1, Storm Divine Stone (universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
 161	Lion Month Costume Package
@@ -288,7 +288,7 @@
 287	Black Wind Costume Gift Package
 288	November lottery wing
 289	^a800ffMini Kanon x1 (Practice max 4500)
-290	^e5872fMadràgora de Aldebaran x1
+290	^e5872fMadràgora of Aldebaran x1
 291	^a800ff Blessing of the Goddess ☆ Capricorn (III) x999
 292	^a800ffOther random big prizes: Includes Flying Montage: Huskys Sleigh x1, Snow Walk Costume Gift Package x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
 293	Black Kiss
@@ -422,7 +422,7 @@
 421	^a800ffBên. of the Goddess ☆ Gordon (Practice Limit: 4500)
 422	^e5872fPoseidon: Elmo of Creation and Destruction [Legend] x1
 423	^a800ffBenedet of the Goddess ☆ Twins (IV) x999
-424	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montage Golden Saber Tooth, Fairy King Wings, Random costume packs, Demon Blood (Perfect) x1 \rSangue de Prata x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \rClassic Fashion Insignia x1, Cleric Insignia x1, Insignia of Squire Classic x1, etc ...
+424	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montage Golden Saber Tooth, Fairy King Wings, Random costume packs, Demon Blood (Perfect) x1 \rSangue of Prata x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \rClassic Fashion Insignia x1, Cleric Insignia x1, Insignia of Squire Classic x1, etc ...
 425	Golden Saber Tooth
 426	Dark Gray Package
 427	Navy Blue Package

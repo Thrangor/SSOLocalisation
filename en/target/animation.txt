@@ -112,7 +112,7 @@
 111	Underworld - Players invade Giudecca
 112	Underworld - Memories of Shun
 113	Underworld - The Sound of War .anm
-114	Underworld - Start concentrated practice
+114	Underworld - Start Submersible
 115	Champs Elysees - The sigh in the hyper-dimension espacio.anm
 116	Champs Elysees - Back to the world of light .anm
 117	Exhibition of Escenário - Land of the Constellations
@@ -120,11 +120,11 @@
 119	Exhibition of the Stage - Galactic Arena
 120	Exhibition of the Scene - Rozan
 121	Exhibition of the stage - The path of oblivion
-122	Escenario Show - Isla de la Reina Muerte
+122	Escenario Show - Isla of la Reina Muerte
 123	Exhibition of the Scene - Eastern Siberia
 124	Exhibition of the Scene - Atlantis
 125	Exhibition of the Scene - Andromeda Island
-126	Exhibition of the Scene - Castillo de Hades
+126	Exhibition of the Scene - Castillo of Hades
 127	Exhibition of the Escenári - The twelve houses
 128	Exhibition of the Scene - Underworld
 129	The Battle of the Gods - The Starstorm Arises
@@ -157,9 +157,9 @@
 156	Regional Exhibition - Atlantis _ Poseidonia
 157	Three Leo Bows - Playing with fire
 158	Three Arcs of Leo - Surge Aiolia
-159	Event - Village de Saori1
-160	Event - Village de Saori2
-161	Event - Village de Saori3
+159	Event - Village of Saori1
+160	Event - Village of Saori2
+161	Event - Village of Saori3
 162	Three Pisces Bows - Apparition of Aphrodite
 163	Tres arcos Libra - Suggestions Portal
 164	Three bows Libra - Surge Doko
@@ -190,15 +190,15 @@
 189	Two new Arches - Tartaro _ The Queen of the Underworld emerges
 190	Two New Arches - Tartaro_ Transfiguration of the body of the queen of the Underworld
 191	Cemetery - boss arises
-192	Three new Arcos_ northern city _ Plaza de la Ciudad
+192	Three new Arcos_ northern city _ Plaza of la Ciudad
 193	Three new Arches - northern city_Surge Boss
 194	Ice Sanctuary - Sirena and Kraken
 195	Ice Sanctuary - The Valkyries
 196	Two new Arcos - Tartaro _ Stage 3 presentation mechanism
 197	Two new Arches - Tartaro_Surge the shadow of the God of the Dream
 198	Pillars of the Seven Seas - Poseidon Surge
-199	Event - Q edition of the Village de Saori 1
-200	Event - Q edition of the Village de Saori 2
+199	Event - Q edition of the Village of Saori 1
+200	Event - Q edition of the Village of Saori 2
 201	Pillars of the Seven Seas - Broken Main Pillar
 202	Underworld and Twelve Houses - Invasion of the Underworld
 203	Underworld and Twelve Houses - The fate of battle
@@ -208,7 +208,7 @@
 207	Countercurrent - Appearance of Kiew
 208	Contracorriente - Appearance of Zelos
 209	Countercurrent - Emergence of Niobi
-210	The twelve gold houses - Casa de Aries_Mu arranges the armors
+210	The twelve gold houses - Casa of Aries_Mu arranges the armors
 211	The twelve gold houses - Saori hit by the arrow
 212	The twelve gold houses - Taurus _ The beginning of the battle
 213	The twelve gold houses - The titanic supernova of the Taurus knight
@@ -329,7 +329,7 @@
 328	Hyoga of Cygnus!
 329	The Galactic Tournament continues!
 330	Seiya of Pegasus VS Shiryu of Dragon
-331	The winner is Seiya de Pegasus!
+331	The winner is Seiya of Pegasus!
 332	Seiya conquers the victory against Shiryu with difficulty!
 333	Volume III
 334	Battle Soldiers in the Coliseum Grad!
@@ -592,7 +592,7 @@
 591	He was pursuing the Cosmo of Lune, advancing to the deepest Underworld of Hades!
 592	Under the great Cosmo of music, bronze knights lose their senses
 593	Shiryu and Hyoga walk together, moving towards the deeps of hell, they will quickly reach the darkest part of the hell of the Swamp of Darkness
-594	Orpheus de facto launched an attack in their direction! How did this happen?
+594	Orpheus of facto launched an attack in their direction! How did this happen?
 595	When you wake up with doubts, witness a scene ......
 596	Meeting! Golden Knights!
 597	Volume II - Meeting! Golden Knights!

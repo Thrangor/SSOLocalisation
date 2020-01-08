@@ -38,7 +38,7 @@
 37	He who found his end on the Island of Queen Death and returned from Hell.
 38	^ffff00Defense +150 \rHP +1800 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 39	Conclude the Main Quest "Saga of the Sanctuary", Cap X: "The Flames of the Island of the Death Queen! to get the title
-40	^009933Trotamundos del Campo de Hielo
+40	^009933Trotamundos del Campo of Hielo
 41	The one who became the guardian of Eastern Siberia.
 42	^ffff00Defense +175 \rHP +1950 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 43	Conclude the Main Quest "Saga of Poseidon", Cap I: "The Power of Poseidon!" To obtain the title
@@ -78,7 +78,7 @@
 77	Be an adventurer full of hope and brilliance in the Grand Coliseum.
 78	^ffff00Attack +70 \rHP +900 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 79	Conclude 30 secondary quests at the Grand Coliseum to get the title
-80	^009933Dragón de Rozan
+80	^009933Dragón of Rozan
 81	He who has a just heart protects Rozan like the Dragon.
 82	^ffff00Attack +90 \rHP +1200 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 83	Conclude 30 secondary quests in Rozan to obtain the title
@@ -86,7 +86,7 @@
 85	Awaken people who were lost for years.
 86	^ffff00Attack +120 \rHP +1500 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 87	Conclude 30 secondary quests on the Forgotten Path to get the title
-88	^009933Phoenix de las Llamas
+88	^009933Phoenix of las Llamas
 89	Incinerate the unclean world, you are the Phoenix of the Flames!
 90	^ffff00Attack +150 \rHP +1800 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 91	Conclude 30 secondary Quests on the Isle of Queen Death to obtain the title
@@ -172,9 +172,9 @@
 171	^0099ccCaballero Fantastic
 172	Fantastic Knight fighting for the Earth.
 173	Conclude the collection VII of the title "Saint Fantastico" to obtain the title
-174	^0099cc Saint de Athena
+174	^0099cc Saint of Athena
 175	Knight who fights firmly for the Goddess Athena.
-176	Conclude the collection VIII of the title "Saint de Athena" to obtain the title
+176	Conclude the collection VIII of the title "Saint of Athena" to obtain the title
 177	^0099cc Legendary Knight
 178	His name became a legend on Earth.
 179	Conclude the IX collection of the title "Legendary Knight" to obtain the title
@@ -534,7 +534,7 @@
 533	^0099cc Lucky Star of the 17Y
 534	Congratulations! You are the Lucky Star of the 17Y!
 535	Withdraw in the Lucky Box obtained when participating in the 17Y Community Event.
-536	^0099cc Saint de la YY
+536	^0099cc Saint of la YY
 537	Supreme honor of the YY!
 538	Raffled in the Gift Package of the YY Event.
 539	^0099cc Knight of the Duowan
@@ -571,7 +571,7 @@
 570	Remove in the Gift Pack of the Knights of the Goddess to get the title
 571	^0099ccThe Arrival of Athena
 572	Remove in the Gold Gift Package of the Goddess to get the title
-573	^0099cc Saint Dorado de Athena
+573	^0099cc Saint Dorado of Athena
 574	Remove in the Golden Armor Gift Pack to get the title
 575	^0099cc Athena Exclamation
 576	^ffff00HP +1200 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
@@ -767,7 +767,7 @@
 766	^009933 It was from Hyoga
 767	The pursuit of the squirrel by a nut is also a type of training!
 768	^ffff00Pressure +40 \rEvasion +40 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
-769	Conclude the Quest "Era de Hyoga" in the Eastern Sibéria to obtain the title
+769	Conclude the Quest "Era of Hyoga" in the Eastern Sibéria to obtain the title
 770	^009933 From the Hands of the Own Master
 771	Obtained the knowledge of Armor repair with Aries own Mu!
 772	^ffff00Air Damage +100 \rPress +60 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
@@ -804,7 +804,7 @@
 803	^5acbcc 【Fruit Prohibited】 · Multi-Server Competitor
 804	As elite of the Guild 【Fruit Prohibido】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 805	Qualification to participate in the PK Multi-Server Competition of Armies
-806	^5acbccCol de los Solitarios · Multi-Server Competitor
+806	^5acbccCol of los Solitarios · Multi-Server Competitor
 807	As the elite of the Clan of Solitaires Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 808	^5acbccCreation · Multi-Server Competitor
 809	As elite of the breeding Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
@@ -838,8 +838,8 @@
 837	As elite of the Guild Furious Waves, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
 838	^5acbccTeam that dares to Kill A ★ S · Multiserver Competitor
 839	As elite of the Guild Team that dares to Kill A ★ S, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
-840	^5acbccPico, Cumbre de la Montanha · Multi-Server Competitor
-841	As elite of the Pico Guild, Cumbre de la Montanha, obtained the qualification to participate in the Multiserver PK Competition of Armies!
+840	^5acbccPico, Cumbre of la Montanha · Multi-Server Competitor
+841	As elite of the Pico Guild, Cumbre of la Montanha, obtained the qualification to participate in the Multiserver PK Competition of Armies!
 842	^5acbccBelleza Real · Multi-Server Competitor
 843	As elite of the Royal Beauty Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 844	^5acbcc Entire Earth Law · Multiserver Competitor
@@ -870,7 +870,7 @@
 869	As the elite of the Lolu Guild of Eternal Life, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 870	^5acbccDomínio 灬 Oculto · Multi-Server Competitor
 871	As elite of the Guild Domínio 灬 Oculto, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
-872	^5acbccMundo de la Matanza · Multi-Server Competitor
+872	^5acbccMundo of la Matanza · Multi-Server Competitor
 873	As the elite of the World of Slaughter Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 874	^5acbcc 〖News Channel〗 · Multi-Server Competitor
 875	As elite of the Guild 〖News Channel obtuvo, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
@@ -938,11 +938,11 @@
 937	In [Heroic] Elegy of the Goddess II, defeat all Bosses of difficulty Divine Soldier
 938	^a800ffSemidiós · Divine Angel
 939	In [Heroic] Elegy of the Goddess II, defeat all the Bosses of difficulty Semidiós
-940	^ff4ca4Monoria de Un Saint
+940	^ff4ca4Monoria of Un Saint
 941	Welcome back, Knight of the Goddess! With this Title, you can receive special Quest with Emissary of the Festival, from the 16th until September 30th
 942	^5acbcc17173 · VIP
 943	Special Title obtained by opening the Exclusive Gift Package of the 17173!
-944	^5acbccCoballero Dorado de la Duowan
+944	^5acbccCoballero Dorado of la Duowan
 945	Special Title obtained by opening the Duowan Exclusive Gift Package!
 946	^5acbccExpert of the Tencent Game
 947	Special Title obtained by opening Tencent's Exclusive Gift Package!
@@ -1050,7 +1050,7 @@
 1049	^5acbccCosplayer
 1050	^5acbccMysterious Thousand Faces
 1051	^5acbcc Hidden Person
-1052	^a800ffServidor de Prueba nº1 · Troy Cavalry Group
+1052	^a800ffServidor of Prueba nº1 · Troy Cavalry Group
 1053	^As one of the first 10 groups in the Power Ranking of those who registered for the First Multiserver Competition, you will get the qualification to participate in the international competition.
 1054	^A800ff gold service No. 2
 1055	^a800ff gold service No. 3 · Vickhill team
@@ -1074,7 +1074,7 @@
 1073	^a800ff Orion 1 · Xuantian Team
 1074	^a800ff Orion 2 · Game Love Team
 1075	^a800ff Orion 3 · Mana
-1076	^a800ff Orion 4 · Devil De Shadow Team
+1076	^a800ff Orion 4 · Devil of Shadow Team
 1077	^a800ff Orion 5 · Z@rk Team
 1078	^a800ff Orion No. 6 · Artifact Baby Team
 1079	^a800ff Orion 7 · Exclusive Sponsor

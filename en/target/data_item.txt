@@ -7,7 +7,7 @@
 6	Western Wall
 7	Land of the Constellations
 8	Coliseum
-9	Monte de las Estrellas
+9	Monte of las Estrellas
 10	Acropolis
 11	Well of the Dead
 12	Rodorio Apogee
@@ -26,7 +26,7 @@
 25	Vestiges of the Shipwreck
 26	Yggdrasil
 27	Country of Ice
-28	Village de Sirena
+28	Village of Sirena
 29	Lost City
 30	Temple of Poseidon
 31	Village del Golfo
@@ -136,7 +136,7 @@
 135	Magic Seed
 136	Magic Bamboo
 137	Crystal clear water
-138	Secret drug of the Dragon
+138	Secret Remedy of the Dragon
 139	Fertilizer
 140	Pure Heart Herb
 141	Analgesic Herb
@@ -840,7 +840,7 @@
 839	Fest Package. from Summer
 840	Country Package (7 days)
 841	100 Silver Star Element packages
-842	Plaquita de la Luck as thanks
+842	Plaquita of la Luck as thanks
 843	Lucky Plate as a thank you
 844	Lucky Plate
 845	God · Pack of Taurus pieces
@@ -1205,8 +1205,8 @@
 1204	Capricorn Gold Reward (667 Emerald)
 1205	Capricorn Gift Pack
 1206	Gold Capricorn Return Point (2667 Emerald)
-1207	Aquarius Reward Gift Pack
-1208	Gold Reward for Aquarius (667 Emerald)
+1207	Gemini Reward Gift Pack
+1208	Gold Reward for Gemini (667 Emerald)
 1209	Aquarius Gift Pack
 1210	Gold Return Point for Aquarius (2667 Emerald)
 1211	Leo II Reward Gift Pack
@@ -1815,7 +1815,7 @@
 1814	Warehouse Expansion
 1815	Moving the Sky and the Earth: Epic Equipment
 1816	Basic Package
-1817	Drug Box
+1817	Remedy Box
 1818	Gold Gift
 1819	Power Source
 1820	Treasure Box of Time
@@ -2122,7 +2122,7 @@
 2121	Golden Pisces Transformation Card Gift Pack (15 days)
 2122	Gold Pisces Transformation Card Gift Pack (3 Days)
 2123	Gold Blood Treasure Box
-2124	Strength of Virgo de Oro
+2124	Strength of Virgo of Oro
 2125	Gold Pound Strength
 2126	Gold Sagittarius Force
 2127	Gold Aquarius Force
@@ -3402,7 +3402,7 @@
 3401	Rare Titles Pack (1)
 3402	Pack of Rare Titles (3)
 3403	Pack of Rare Titles (2)
-3404	Another bottle of Coca de Herencia
+3404	Another bottle of Coca of Herencia
 3405	Coca of Inheritance
 3406	Stunning magical starlight
 3407	Magic Starlight
@@ -3762,7 +3762,7 @@
 3761	Advanced Level Title Pack of All Celebrity Competition
 3762	Goddess Special Correspondent Title Gift Pack
 3763	Title Vem. With.
-3764	Title Raio de Sol
+3764	Title Raio of Sol
 3765	Title Moonlight Shine
 3766	Quick Intermediate Level Title Pack
 3767	Quick competition award title pack
@@ -6050,7 +6050,7 @@
 6049	Red envelope of 500 coins of the Knight
 6050	Red envelope of 50 coins of the Knight
 6051	Beginner card Battle of the Ashes Knight 5173 level 10
-6052	Beginner card Batalla de las Cenizas Knight 5173 level 20
+6052	Beginner card Batalla of las Cenizas Knight 5173 level 20
 6053	Beginner card Battle of the Ashes Knight 5173 level 30
 6054	Beginner card Battle of the Ashes Knight 5173 level 50
 6055	Beginner card Battle of the Ashes Knight 5173 level 80
@@ -6281,7 +6281,7 @@
 6280	Condensed Meteor Pack x100
 6281	Condensed Meteorite x5
 6282	Condensed Star Light x20
-6283	Memento de Anima x15
+6283	Memento of Anima x15
 6284	Orange Stellar Soul 20 pcs
 6285	Spiritual Source I x10
 6286	Fragment of Gem x30
@@ -6453,7 +6453,7 @@
 6452	Large Gift Pack of the Devout Knight
 6453	Big gift package of Mutual Affection
 6454	Affection Mutual Fashion Kit
-6455	Caja 3333x Sangre de Athena
+6455	Caja 3333x Sangre of Athena
 6456	Divine Blood of Athena x9999
 6457	PGP Mission Gift Pack
 6458	PGP surprise gift package
@@ -7598,7 +7598,7 @@
 7597	Frame
 7598	Serket - Scorpion King
 7599	Frame
-7600	Leopard of the stars
+7600	Star Leopard
 7601	Mount
 7602	Party in wind garden, rain and deer
 7603	Mount
@@ -8435,7 +8435,7 @@
 8434	Authorization to extend Warehouse
 8435	Goddess' Gift ☆ Gemini (III)
 8436	^a800ffMini Capella x1 (4500 rating maximum limit)
-8437	^e5872fEspada de Hades [Legend] x1
+8437	^e5872fEspada of Hades [Legend] x1
 8438	^e5872f Gem Fragment x9999
 8439	^a800ffFavor of the Goddess ☆ Gemini Version (III) x999
 8440	^a800ff too many big random prizes
@@ -8530,7 +8530,7 @@
 8529	Burning Soul
 8530	Fierce Soul
 8531	Advanced Silver Pack
-8532	Bolsa de Estrellas II
+8532	Bolsa of Estrellas II
 8533	Condensed Star Light
 8534	Goddess' Gift ☆ Taurus
 8535	^a800ff Mini Ban x1 (4500 rating limit)
@@ -8666,7 +8666,7 @@
 8665	Warehouse Expansion
 8666	Goddess' Gift ☆ Capricorn (III)
 8667	^a800ffMini Kanon x1 (4500 rating maximum limit)
-8668	^e5872fManager of Aldebaran x1
+8668	^e5872fDatura Flower x1
 8669	^e5872f Gem Fragment x9999
 8670	^a800ffFavor of the Goddess ☆ Capricorn Version (III) X999
 8671	^a800ff too many big random prizes
@@ -9326,7 +9326,7 @@
 9325	Warehouse Expansion
 9326	Goddess' Gift ☆ Leo
 9327	^a800ff June version x1 (4500 rating limit)
-9328	^e5872fColillo de Leo x1
+9328	^e5872fColillo of Leo x1
 9329	^e5872f Gem Fragment x9999
 9330	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 9331	^a800ff too many big random prizes
@@ -9966,7 +9966,7 @@
 9965	Burning Soul
 9966	Fierce Soul
 9967	Senior voucher packages
-9968	Bolsa de Estrellas II
+9968	Bolsa of Estrellas II
 9969	Condensed Star Light
 9970	Hyper Potion III
 9971	Destination Data
@@ -10281,7 +10281,7 @@
 10280	Warehouse Expansion
 10281	Goddess' Gift ☆ Leo
 10282	^a800ffQ June version x1 (4500 rating limit)
-10283	^e5872fColillo de Leo x1
+10283	^e5872fColillo of Leo x1
 10284	^e5872f Gem Shape x9999
 10285	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 10286	^a800ff too many big random prizes
@@ -10771,7 +10771,7 @@
 10770	IX · Titan's Armor
 10771	X · Armor of Destiny
 10772	XI · Armor of Cupid
-10773	III · Rocio de Rocío
+10773	III · Rocio of Rocío
 10774	IV · Helmet of the Wind
 10775	V · Halo Helmet
 10776	VI · Prince's Helmet
@@ -10845,8 +10845,8 @@
 10844	Statue of Athena
 10845	Bucket
 10846	Shrine Chapter 2 Pearl Necklace
-10847Eudora	ointment
-10848	Smoke Pump
+10847	Eudora ointment
+10848	Smoke Bomb
 10849	Hammer of Prometheus
 10850	Bloodless Grass
 10851	Needle
@@ -10929,7 +10929,7 @@
 10928	Libra Spear
 10929	Stone Range
 10930	Oricalco
-10931	Stardust de Plata
+10931	Stardust of Plata
 10932	Guardian of the Silver City
 10933	One Who Floats on the Sea of ​​Trees
 10934	King of the wild field
@@ -11006,7 +11006,7 @@
 11005	Proof of self-hunt EXP increase
 11006	Scatter EXP increase auto-hunting
 11007	Gospel of Atlantis
-11008	Elixir de Rozan
+11008	Elixir of Rozan
 11009	Elixir of the Dragon
 11010	Torch
 11011	Ice Chisel
@@ -11035,7 +11035,7 @@
 11034	Fertilizer
 11035	Golden Dagger
 11036	Discard
-11037	Secondary Line_06 Judas Room_Puñal de oro
+11037	Secondary Line_06 Judas Room_Puñal of oro
 11038	Discard
 11039	Discard
 11040	Golden Dagger
@@ -11049,7 +11049,7 @@
 11048	Protection of Asclepio
 11049	Doctor's Potion
 11050	Flour
-11051	Coup de Leandro
+11051	Coup of Leandro
 11052	Wood Hammer
 11053	Julian's gift
 11054	Bucket of Water
@@ -11860,11 +11860,11 @@
 11859	Object of Capricorn Inheritance
 11860	Object of Inheritance of Aquarius
 11861	Virgo Heritage Object
-11862	Object of the Herencia de León
-11863	Object of the Herencia de León
+11862	Object of the Herencia of León
+11863	Object of the Herencia of León
 11864	Object of the Aries Heritage
 11865	Purpose of the Libra Heritage
-11866	Object of the Taurus Inheritance
+11866	Taurus Heritage
 11867	Silk Thread of Love
 11868	Stone Infected Range
 11869	Oricalco of energy concentration
@@ -12067,7 +12067,7 @@
 12066	Fragments of the valuable treasure of Cancer
 12067	Morality Medal
 12068	Aldebaran Challenge Coupon
-12069	Light of Atena
+12069	Light of Athena
 12070	Page of the Divine Sacrifice Book
 12071	Fragments of the Relic of Capricorn
 12072	Fragments of the most valuable treasure of Capricorn
@@ -12584,7 +12584,7 @@
 12583	Fragment of the Core
 12584	Underworld Star Element
 12585	Silver Meteorite
-12586	Memento de Anima
+12586	Memento of Anima
 12587	Whisper of Iapetus
 12588	Condensed Meteorite
 12589	Bronze Meteorite
@@ -12670,7 +12670,7 @@
 12669	Resonance Stone of the Seas
 12670	Ice Wings
 12671	Seal of Darkness Mark
-12672	Trilla de la Estrella
+12672	Trilla of la Estrella
 12673	Party change ticket of the festival of mid-autumn
 12674	Ticket of change of classic mount
 12675	Ticket of exchange of Squire clasica
@@ -13585,7 +13585,7 @@
 13584	Castle of Death
 13585	Land of the Constellations
 13586	Arena
-13587	Monte de las Estrellas
+13587	Monte of las Estrellas
 13588	Acropolis
 13589	Well of the Dead
 13590	Rod Mount
@@ -14364,7 +14364,7 @@
 14363	Sword of Hades [Legend]
 14364	Ax of Minotaur
 14365	Gemini: Gemini's Object
-14366	Mandragora of Aldebaran
+14366	Mandragora of Datura flower
 14367	Shaka: Virgo Artifact
 14368	Deep: Infernal Shoulder
 14369	Cancer Tweezers
@@ -14424,12 +14424,12 @@
 14423	Thunder Core
 14424	Nucleus of the Storm
 14425	Army_emergence in battle medicament HP file 1
-14426	Army_emergence in the battle drug HP file 2
+14426	Army_emergence in the battle Remedy HP file 2
 14427	Army_emergence in battle medicate HP file 3
 14428	Army_emergency in battle medicate HP file 4
-14429	Army_emergency in the battle drug HP file 5
+14429	Army_emergency in the battle Remedy HP file 5
 14430	Army_emergence in battle medicate HP file 6
-14431	Army_emergency in the battle drug HP file 7
+14431	Army_emergency in the battle Remedy HP file 7
 14432	Army special recovery order
 14433	Hyper Potion I
 14434	Hyper Potion II

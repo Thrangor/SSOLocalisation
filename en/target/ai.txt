@@ -91,7 +91,7 @@
 90	$nobubble${lev(30-200)}$noname$UImid ${npc(%d)} appeared in ${line (4, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
 91	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 92	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
-93	Alma de Ley-hu
+93	Alma of Ley-hu
 94	$nobubble${lev(35-200)}$noname$UImid ${npc(%d)} appeared in ${line (3, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
 95	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 96	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
@@ -362,8 +362,8 @@
 361	$noname$UImidEternal darkness is approaching. The servant will enter the Age of Darkness, releasing level 99 and Episode of Hades (next chapter).
 362	$noname$UImidAthena entered the Underworld to go to Hades. Knights, open the Path to the Underworld! Athena needs your protection!
 363	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
-364	$noname$UImidThe Great Eclipse has already begun. Knights, go beyond Pandora's restriction, destroy the Wailing Wall and enter the Champs de Elysees, returning light to Earth!
-365	$noname$UImidThe Wailing Wall was destroyed. Activated the Hades Bitterness Event, releasing level 10 of the Concentrated Practice and the Episode of Fields of Elysees
+364	$noname$UImidThe Great Eclipse has already begun. Knights, go beyond Pandora's restriction, destroy the Wailing Wall and enter the Champs of Elysees, returning light to Earth!
+365	$noname$UImidThe Wailing Wall was destroyed. Activated the Hades Bitterness Event, releasing level 10 of the Submersible and the Episode of Fields of Elysees
 366	$noname$UImidNumber of ore collected.
 367	Crystal Wall
 368	Star Revolution
@@ -612,7 +612,7 @@
 611	$UImid $noname ^FF0000Red Team ^N domino %s!
 612	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Corazón ^N!
 613	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Fuego ^N!
-614	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla de las Llamas ^N!
+614	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla of las Llamas ^N!
 615	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Amor ^N!
 616	$UImid $noname ^3A5FCDThe Red Team ^N dominated the Crystal of the ^FF7F00 Heart Island ^N!
 617	$UImid $noname ^3A5FCDEquipo Rojo ^N dominated the Crystal of the ^FF7F00Isla del Fuego ^N!

@@ -1174,4 +1174,3 @@
 1173	Verificar ${dynamic_dir(55, "\Actividades Diarias"\)} y completa [Actividad] Rastro del destino
 1174	Usa ${dynamic_dir(5, "\Sistema Star Cast"\)} y mejorar cualquier armadura sagrada a Nvl5 
 1175	En ${dynamic_dir(1, "\Sistema de Cosmo"\)} agregue estrellas por un valor de 1000
-

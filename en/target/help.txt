@@ -102,7 +102,7 @@
 101	The Twelve Houses of Gold I
 102	The Twelve Houses of Gold II
 103	The Twelve Houses of Gold III
-104	In the schedule of the day, sign up to participate in the ^ffd700Doce Casas de Oro (Final), Sanctuary of Ice and the Twelve Houses of Gold (Extra) ^ffffff
+104	In the schedule of the day, sign up to participate in the ^ffd700Doce Casas of Oro (Final), Sanctuary of Ice and the Twelve Houses of Gold (Extra) ^ffffff
 105	Seven Pillars of the Ocean (Before)
 106	In the schedule of the day, sign up to participate in the ^ffd700 Seven Pillars of the Ocean (Before) and Seven Pillars of the Ocean (After) ^ffffff
 107	Perfecting Equipment
@@ -133,14 +133,14 @@
 132	Related tools
 133	What are Accessories?
 134	^ffd700Brazalete, Joya Spiritual, Insignia, Beads, and would ride ^ffffff Stole equipment are called "accessory" and have different methods of improvement and obtaining normal equipment.
-135	With ^ffd700Master of Improvement ^ffffff use the function of ^ffd700Claveteado de Runa ^ffffff to clavetear ^ffd700Rune ^ffffff in the ^ffd700Accessory ^ffffff
+135	With ^ffd700Master of Improvement ^ffffff use the function of ^ffd700Claveteado of Runa ^ffffff to clavetear ^ffd700Rune ^ffffff in the ^ffd700Accessory ^ffffff
 136	Get Rune
 137	The ^ffd700Runa ^ffffff is made with the ^ffd700 Crafting Ability. It is necessary to consume ^ffd700 Book of Spells ^ffffff, among other raw materials
 138	Teacher Trainer
 139	Get Pet
 140	Upon reaching  ^ffd700LV59 ^N ^ffd700Quest will receive the Pet ^ffffff and can change when using ^ffd700Luz ^ffffff Star Condensed with ffd700Intendente Squire . ^Ffffff
 141	Mayor of Squire
-142	Click to find the path to the Sanctuary, where the ^ffd700Intendente de Squire ^ffffff is located
+142	Click to find the path to the Sanctuary, where the ^ffd700Intendente of Squire ^ffffff is located
 143	Redefine Practice
 144	Using ffd700Corazón  ^^ffffff Star can redefine ffd700Cualificaciones ^^ffffff of Squire which are not satisfied
 145	Squire
@@ -167,7 +167,7 @@
 166	Album
 167	Click to open the album
 168	Character Illustration
-169	At the end of the mission ^ffd700Kaballeros de la Diosa ^ffffff of Professor ^ffd700Masami Kurumada ^ffffff, you can get the ^ffd700Ilustration ^ffffff corresponding to that character.
+169	At the end of the mission ^ffd700Kaballeros of la Diosa ^ffffff of Professor ^ffd700Masami Kurumada ^ffffff, you can get the ^ffd700Ilustration ^ffffff corresponding to that character.
 170	Masami Kurumada
 171	Click to find the path to where the ^ffd700Professor Kurumada ^ffffff is located
 172	Collectible Illustrations of Scenario Illustrations
@@ -197,7 +197,7 @@
 196	Open Quick Buying interface
 197	When you reach ^ffd700LV40 ^N, you can awaken your own ^ffd700Cosmos ^N. (Daily events can help you level up quickly)
 198	Level up
-199	When you reach ^ffd700LV45 ^N, you can search Severo, Luz de Esperanza ^ffd700, to buy the Rosary, which increases the number of attributes.
+199	When you reach ^ffd700LV45 ^N, you can search Severo, Luz of Esperanza ^ffd700, to buy the Rosary, which increases the number of attributes.
 200	When you reach ^ffd700LV35 ^N, you can get a ^ffd700Squire ^N to help you in battle.
 201	When you reach ^ffd700LV38 ^N, you can get a ^ffd700Armor of Silver ^N of enormous power.
 202	Upon reaching ^ffd700LV60 ^N, the Dungeons of the Daily Events will be replaced by ^ffd700Advanced Dungeons ^N and the awards ^ffd700 will increase ^N.
@@ -210,7 +210,7 @@
 209	In the ^ffd700LV80 ^N you can open the ^ffd700Dungeon of the Hero ^N. There is the possibility of dropping powerful equipment of pink and gold ^Nd.
 210	When you reach ^ffd700LV80 ^N, you will be able to exchange the ^ffd700 Advanced level Orange Rosary ^N and ^ffd700 increase the level of Rosary ^N.
 211	Increase Expertise
-212	In the ^ffd700LV85 or lower ^N, when you reach 100000 of Power, you can get the ^ffff00Ala de Bronce ^N.
+212	In the ^ffd700LV85 or lower ^N, when you reach 100000 of Power, you can get the ^ffff00Ala of Bronce ^N.
 213	When you reach ^ffd700LV95 ^N, you can get the powerful ^ffd700Spirit of the Armor ^N.
 214	Upon reaching ^ffd700LV90 ^N, a new Dungeon ^ffd700Elegia of the Goddess ^N will open.
 215	Upon reaching ^ffd700LV90 ^N, the Dungeons of the Daily Events will be replaced by ^ffd700 Advanced Dungeons ^N and the awards ^ffd700 will increase ^N!
@@ -291,7 +291,7 @@
 290	Alma
 291	In the ^ffd700Astrology ^N Interface of the Cosmo, by consuming ^ffd700 Hidden Potential ^N, you can get ^ffd700 Alma ^N. Souls are divided into ^ffd700types ^N Omega, Solar and Lunar. ^ffd700Almas ^N of ^ffd700types ^N different offer different additional properties and it is necessary ^ffd700CosmicPoint ^N of ^ffd700type ^N corresponding. The Omega Soul is the most powerful, it is recommended that you prioritize the improvement of it.
 292	Soul of Orange
-293	There are many events in the game that give prize of ^ffd700Alma de la Naranja ^N. After the change, the ^ffd700 Gift Packages of great value ^N of the Item Mall will be sold at good prices. Therefore, it is recommended that you first use ^ffd700Alma of the Orange ^N when improving Cosmo skills. \rLocation of the ^ffd700Item Mall ^N in the ranking below \r ^ffd700 High value gift package - Recommended promotions - Item Mall ^N. \rYou can also use the Light of Experience to make the exchange.
+293	There are many events in the game that give prize of ^ffd700Alma of la Naranja ^N. After the change, the ^ffd700 Gift Packages of great value ^N of the Item Mall will be sold at good prices. Therefore, it is recommended that you first use ^ffd700Alma of the Orange ^N when improving Cosmo skills. \rLocation of the ^ffd700Item Mall ^N in the ranking below \r ^ffd700 High value gift package - Recommended promotions - Item Mall ^N. \rYou can also use the Light of Experience to make the exchange.
 294	Item Mall
 295	In the classification ^ffd700 High Value Gift Package - Recommended Promotions ^N of the ^^ffd700 Star ^N Store, you can find many cheap gift packages that contain Orange Star Soul.
 296	Increase the level and dismantle Alma
@@ -306,12 +306,12 @@
 305	Recommended Equipment
 306	The Power of ^ffd700 %s ^N is very low, it is recommended that you replace with priority. Through the Events Calendar, you can enter ^ffd700semanalmente ^N in the ^ffd700Dungeon of Equipment ^N to obtain equipments with greater Power.
 307	The Power of ^ffd700 %s ^N is very low, it is recommended that you enter the ^ffd700 Instance Instance Zone ^N to obtain equipment with higher Power.
-308	In the program of the event, sign up to participate in the ^ffd700Doce Casas de Oro (Final), Sanctuary of Ice and Twelve Houses of Gold (Extra) ^N
+308	In the program of the event, sign up to participate in the ^ffd700Doce Casas of Oro (Final), Sanctuary of Ice and Twelve Houses of Gold (Extra) ^N
 309	In the schedule of the event, sign up to participate in the ^ffd700 Seven Pillars of the Ocean (Before), Seven Pillars of the Ocean (After), Ten Caverns [Hero], Heart of Sagittarius [Hero] ^N
 310	Elegy of the Goddess (before)
 311	In the schedule of the event, sign up to participate in the ^ffd700Elegia of the Goddess (Before) [Hero], Elegy of the Goddess (After) [Hero] ^N
 312	Grad Castle Blue
-313	In the program of the event, sign up to participate in ^ffd700Castillo del Grad Azul [Hero] and Castillo de Hades [Hero] ^N
+313	In the program of the event, sign up to participate in ^ffd700Castillo del Grad Azul [Hero] and Castillo of Hades [Hero] ^N
 314	In the ^ffd700Dungeon of Equipment ^N, defeat the Boss and the Elite Monster to obtain high quality equipment.
 315	Ice Sanctuary
 316	The End of Hades
@@ -348,9 +348,9 @@
 347	Alison
 348	Click to find the path to where ^ffd700Alison, Cinturón Vendor ^N is located
 349	Beads
-350	The equipment ^ffd700Beads ^N can increase ^ffd700Ataque, Defense, HP, Chance of critical and Speed ​​of obtaining of EXP when killing monster ^N. \rAfter merging ^ffd700Challenge of advanced level ^N can also increase ^ffd700Propriedad of unique attack ^N. \rAfter the reputation of the ^ffd700Luz de la Fe ^N achieve a corresponding requirement, you can buy Beads with ^ffd700Severo, Light of Hope ^N.
+350	The equipment ^ffd700Beads ^N can increase ^ffd700Ataque, Defense, HP, Chance of critical and Speed ​​of obtaining of EXP when killing monster ^N. \rAfter merging ^ffd700Challenge of advanced level ^N can also increase ^ffd700Propriedad of unique attack ^N. \rAfter the reputation of the ^ffd700Luz of la Fe ^N achieve a corresponding requirement, you can buy Beads with ^ffd700Severo, Light of Hope ^N.
 351	Severe
-352	Click to find the path to where ^ffd700Severo, Luz de la Esperanza ^N is located
+352	Click to find the path to where ^ffd700Severo, Luz of la Esperanza ^N is located
 353	Look in the Coliseum Grad for the ^ffd700Artífice ^N to perfect the equipment and increase the Power.
 354	Find the way to the Master of Improvement
 355	Recommended improvement
@@ -359,14 +359,14 @@
 358	Click to find the path to the Grad Coliseum, where the ^ffd700 Master of Improvement ^N is located
 359	The equipments have ^ffd700Slots of Perfecting ^N. By improving them, you can ^ffd700 considerably increase the attributes ^N. \rThe number of Slot of Improvement of the equipment is 4. Before category 9, ^ffd700 increases 1 slot to each category ^N. \rImprove equipment with the ^ffd700Master of Improvement of Equipment ^N. The first time you use 10 units of Demonic Blood, you will get great benefits.
 360	To perfect equipment it is necessary to consume ^ffd700 Spiritual Light and Demonic Blood ^N, which can be obtained in all large multiplayer events. ^Ffd700 Demonic Blood ^N can also be purchased in Item Mall.
-361	Through Habilidade de Produção or purchase of Runas de outros jogadores, you will be able to find ^ffd700 Artífice ^Npara ^ffd700Cravejar Runa ^N
+361	Through Habilidade of Produção or purchase of Runas of outros jogadores, you will be able to find ^ffd700 Artífice ^Npara ^ffd700Cravejar Runa ^N
 362	Clavetear
 363	Rune recommended
 364	It is recommended that you use Runa ^ffd700 %s ^N, ^ffd700 %s ^N, ^ffd700 %s ^N. Runes can be obtained through Crafting or by buying other players. It is possible to use Ares Reputation as an exchange, obtaining advanced quality Runes.
 365	It is recommended that you use Runa ^ffd700 %s ^N, ^ffd700 %s ^N, ^ffd700 %s ^N
 366	Auction House
 367	Click to find the road to the Colosseum Grand, where the ^ffd700 remains Auction House ^N
-368	With the ^ffd700 Improvement Master ^N uses the function of ^ffd700Claveteado de Runa ^N to clavetear ^ffd700Runa ^N in the equipment.
+368	With the ^ffd700 Improvement Master ^N uses the function of ^ffd700Claveteado of Runa ^N to clavetear ^ffd700Runa ^N in the equipment.
 369	The ^ffd700Runa ^N is made with the ^ffd700 Crafting Ability ^N. The final product can also be ^ffd700 purchased from other players ^N. To obtain powerful Runes of ^ffd700quality advanced ^N, it is necessary to search ^ffd700Sherlock of Change of Prizes of the Battlefield ^N in the Priestly Zone
 370	Click to find the path to Coliseo Grad, where the ^ffd700 Craftsman ^N is located
 371	Basic materials needed in crafting, are sold by the ^ffd700 Craftsman ^N next to the ^ffd700 Craftsman ^N.
@@ -423,7 +423,7 @@
 422	See Squire
 423	Click to open Squire interface
 424	Get Squire
-425	When picking ^ffd700 Magic Crystal ^N in daily events, you can change by ^ffd700Alma of Magic ^N with ^ffd700Intendente de Squire ^N. After opening, you can randomly get a weird Squire. By using the ^ffd700Bendition of the Goddess ^N, there is a chance of getting a Squire even stronger and weirder.
+425	When picking ^ffd700 Magic Crystal ^N in daily events, you can change by ^ffd700Alma of Magic ^N with ^ffd700Intendente of Squire ^N. After opening, you can randomly get a weird Squire. By using the ^ffd700Bendition of the Goddess ^N, there is a chance of getting a Squire even stronger and weirder.
 426	Squire's Reputation
 427	After completing the level 35 Squire quest daily, you can get ^ffd700 Squire Reputation ^N. Receive the quest to obtain ^ffd700 Reputation of the Squire ^N, with the Emissary of the Squire.
 428	Improve Practice
@@ -431,7 +431,7 @@
 430	Click to open interface of ^ffd700Squire ^N
 431	Change ^ffd700 Condensed Star Light ^N with ^ffd700 Squire Reputation Emmision ^N
 432	Magic Crystal
-433	You can change ^ffd700Alma of Magic ^N and get Rare Squire, with the ^ffd700Intendente de Squire ^N.
+433	You can change ^ffd700Alma of Magic ^N and get Rare Squire, with the ^ffd700Intendente of Squire ^N.
 434	You can change the Squire's improvement tool, with ^ffd700 Squire Reputation Emmision ^N. It can also be obtained by participating in team training events or purchased at ^ffd700Item Mall ^N.
 435	Do you want to get ^ffd700Light of Condensed Star ^N? Then participate in the team building event!
 436	Use ^ffd700 Ecliptic Heart ^N to increase Squire's slot. It can improve Power of the Squire ^ffd700Clan ^N.
@@ -501,7 +501,7 @@
 500	Power of Celestial Spirit
 501	^ffd700After strengthening and improving the Celestial Spirit ^N, according to the ^ffd700Professor Index ^N of the player, it is possible to increase the skill in the ^ffd700Power of Perception ^N. Each Celestial Spirit ^ffd700 can provide a maximum of 10 points to the Percentage index ^N, and the maximum it can have is ^ffd700100 points ^N. If you are not satisfied with the distribution of the current Expertise Index, you can, after ^ffd700reconfigure the ^N skill, empty and restore the entire expertise index consumed. Each week, you can redefine free 1x. For extra times, it is necessary to consume the ^ffd700Japeto murmur ^N sold in Item Mall
 502	After finishing exploring a scenario, you can get the ^ffd700Illustration ^N corresponding to it.
-503	At the conclusion of the quest ^ffd700Kaballeros de la Diosa ^N of the Professor ^ffd700Masami Kurumada ^N, you can get the ^ffd700Ilustration ^N corresponding to that character. There is also probability of dropping when killing thieves and monsters in the Dungeons. When the reputation of the stage reach a certain level, there will also be a part of the Illustrations on sale.
+503	At the conclusion of the quest ^ffd700Kaballeros of la Diosa ^N of the Professor ^ffd700Masami Kurumada ^N, you can get the ^ffd700Ilustration ^N corresponding to that character. There is also probability of dropping when killing thieves and monsters in the Dungeons. When the reputation of the stage reach a certain level, there will also be a part of the Illustrations on sale.
 504	Click to find the path to where the ^ffd700 Professor Masami Kurumada ^N is located
 505	When you defeat the monsters in a scenario, there is a chance of obtaining ^ffd700 Collectable Items ^N corresponding to that scenario. There is also a chance to drop in the Dungeons.
 506	Introduction:
@@ -732,7 +732,7 @@
 731	Click on the link to speak with Athena
 732	Click on the link to automatically find the quest conclusion path
 733	Click on the link to pursue the Gold Saint Illusion
-734	Click here to use the "Megasores de Pegasus" ability
+734	Click here to use the "Megasores of Pegasus" ability
 735	Click here to use the "Diamond Dust" skill
 736	Click here to use the skill "Wrath of the Dragon"
 737	Click here to use the "Nebula Tempest" skill

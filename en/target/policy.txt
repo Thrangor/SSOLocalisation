@@ -493,8 +493,8 @@
 492	Galactic Illusion!
 493	Garuda Hurricane!
 494	Garuda Hurricane!
-495	¡Destructor de Indra!
-496	¡Destructor de Indra!
+495	¡Destructor of Indra!
+496	¡Destructor of Indra!
 497	Raaw !!!
 498	Thanatos, please take revenge for me ......
 499	How can I die, aaah ......
@@ -1248,7 +1248,7 @@
 1247	$noname$UImidIf unfortunately you are successful by the stroke of her ability, she will give you all her blood ~~ take care Knight!
 1248	Now - to hell !!
 1249	Do you think that joining forces can defeat me? Oh -
-1250	$noname$UImidSpada de luz abode!
+1250	$noname$UImidSpada of luz abode!
 1251	$noname$UImidThe sword of Hades will mark you, increase the damage and cause vertigo in you!
 1252	This world belongs to me! Nobody can stop me!
 1253	$noname$UImid! The sword of Hades will make you invincible, if you have been hit by the sword of darkness before, it will still increase the damage and cause the vertigo !!
@@ -1742,7 +1742,7 @@
 1741	$noname$UImidJefe of Siberia was updated, come to challenge him
 1742	$noname$UImidJefe of Atlantis was updated, come and challenge him
 1743	$noname$UImidJefe of the Andromeda Island was updated, come to challenge it
-1744	$noname$UImidJefe de Rozan was updated, come to challenge him
+1744	$noname$UImidJefe of Rozan was updated, come to challenge him
 1745	Hahaha, I'm going to show you my special ability that I learned around the world! Tiger Roar!
 1746	Hunf, weak side! They all fell! I'm going to rest a little, then ......
 1747	Hahaha, I am going to show you my special ability that I learned around the world! Tiger Roar!
@@ -4874,7 +4874,7 @@
 4873	$noname$UImid! The attack of the second horde of monsters started !!
 4874	$noname$UImid! The attack of the third horde of monsters began !!
 4875	$noname$UImid! The attack of the last horde of monsters started !!
-4876	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
+4876	$noname$UImidSaori: Ah! Tremi of Sagita, what do you want?
 4877	$spec animation_2005
 4878	Cha, cha, cha
 4879	$spec questportrait_308
@@ -4884,14 +4884,14 @@
 4883	This time I want a slightly weaker attack!
 4884	$spec questportrait_307
 4885	$spec animation_2003
-4886	$noname$UImid¡Zelos de Rana and Sorrento de Sirena appeared!
+4886	$noname$UImid¡Zelos of Rana and Sorrento of Sirena appeared!
 4887	$noname$UImid! There is an imminent attack on Saori! Quick, gather some people to protect it, there is not much time !!
 4888	$spec animation_2004
 4889	$noname$UImid! The attack of the first horde of monsters started !!
 4890	$noname$UImid! The attack of the second horde of monsters began !!
 4891	$noname$UImid! The attack of the third horde of monsters started !!
 4892	$noname$UImid! The attack of the last horde of monsters started !!
-4893	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
+4893	$noname$UImidSaori: Ah! Tremi of Sagita, what do you want?
 4894	$spec animation_2005
 4895	$spec questportrait_635
 4896	$spec questportrait_624
@@ -6091,7 +6091,7 @@
 6090	$noname$UImid! The attack of the first horde of monsters started !!
 6091	$noname$UImid! The attack of the second horde of monsters began !!
 6092	$noname$UImid! The attack of the third horde of monsters started !!
-6093	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
+6093	$noname$UImidSaori: Ah! Tremi of Sagita, what do you want?
 6094	$spec animation_2005
 6095	$noname$UImidSagita Tremi: I have orders from the Grand Master to take Saori to the Shrine. And dare you interrupt me?
 6096	$spec sound_2001
@@ -6889,7 +6889,7 @@
 6888	$noname$UImid! The attack of the first horde of monsters started !!
 6889	$noname$UImid! The attack of the second horde of monsters began !!
 6890	$noname$UImid! The attack of the third horde of monsters started !!
-6891	$noname$UImidSaori: Ah! Tremi de Sagita, what do you want?
+6891	$noname$UImidSaori: Ah! Tremi of Sagita, what do you want?
 6892	$spec animation_2005
 6893	This time I want a slightly weaker attack!
 6894	$spec questportrait_307

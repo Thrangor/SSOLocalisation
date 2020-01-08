@@ -470,7 +470,7 @@
 469	General of the Scylla Ocean
 470	Scales of the General of the Scylla Ocean
 471	General of the Emperor of the Ocean Chrysaor
-472	General of the Baian de Hipocampo Ocean
+472	General of the Baian of Hipocampo Ocean
 473	General of the Sorrentine Ocean of Sirene
 474	Scales of the General of the Sea Dragon Human Version
 475	Marina Kraken
@@ -478,9 +478,9 @@
 477	Navy Satin Soldier of the Trident of the Tides
 478	Remote Satin Marine Sailor of Good Proportions
 479	Sea Witch Marine Scales
-480	scales of Marina de Sirene
+480	scales of Marina of Sirene
 481	Mermaid Marine Scales
-482	Emperor of the Seas Poseidon
+482	Poseidon Poseidon
 483	Young Pandora grabbing Hades
 484	Pandora taking the Trident
 485	Pandora with empty hands
@@ -589,8 +589,8 @@
 588	Soldier [Shrine]
 589	Shina
 590	Shina
-591	Guard [Monte de las Estrellas]
-592	Gemini in Monte de las Estrellas
+591	Guard [Monte of las Estrellas]
+592	Gemini in Monte of las Estrellas
 593	Marin
 594	Marin
 595	Marin
@@ -850,7 +850,7 @@
 849	Snake Food
 850	Yoda
 851	The old soldiers who do not die
-852	Michel Cazador de Vidas
+852	Michel Cazador of Vidas
 853	Demon announcing Death
 854	Galahad
 855	Leader of the Zumbis
@@ -1044,7 +1044,7 @@
 1043	Soldier [Shrine]
 1044	Underworld Soldier
 1045	Hades
-1046	King of the Underworld
+1046	Hades
 1047	Morpheus
 1048	Glorious Dream
 1049	Black Army Guard
@@ -1052,7 +1052,7 @@
 1051	Black Sentinel
 1052	Black Dragon
 1053	Army Assassin [Darkness]
-1054	Secuaz [Cab. Silver]
+1054	Silver Knight
 1055	Strong Minion [Cab. Silver]
 1056	Sven
 1057	Sextans
@@ -1201,7 +1201,7 @@
 1200	Kim
 1201	Child
 1202	Child
-1203	Rayod Luminosos del Cosmo de Katherin
+1203	Rayod Luminosos del Cosmo of Katherin
 1204	Laxus
 1205	Marina
 1206	Caleb
@@ -1279,7 +1279,7 @@
 1278	Curado Apprentice
 1279	Wounded Villager
 1280	Mask of Death
-1281	Zombi of Sekishiki
+1281	Sekishiki Zombie
 1282	Dohko
 1283	Mysterious Soul
 1284	Hell Waves
@@ -1382,12 +1382,12 @@
 1381	Uncontrolled Villager
 1382	Resentful Spirit
 1383	Sekishike
-1384	Zombi of Sekishiki
+1384	Sekishiki Zombie
 1385	Spirit [Rozan]
 1386	Monkey
 1387	Spirit of the Bronze Armor
 1388	Blood Raven
-1389	Zombi of Sekishiki
+1389	Sekishiki Zombie
 1390	Lei-Hu
 1391	Lei-Hu
 1392	Shiryu
@@ -1835,7 +1835,7 @@
 1834	Nordic Knight of the Dark Ice
 1835	Scarlet
 1836	North
-1837	Canto de la Sirena
+1837	Canto of la Sirena
 1838	Amazona Aurora del Hielo Negro
 1839	Amazona Aurora
 1840	Servant of the Siren
@@ -1979,7 +1979,7 @@
 1978	Marine Sentinel
 1979	Emperor's Guard
 1980	Navy Operator
-1981	Captain of the Guard of the Emperor of the Seas
+1981	Captain of the Guard of the Poseidon
 1982	Golden Gun
 1983	Marina Fervoroso
 1984	Dynamite barrel
@@ -2051,9 +2051,9 @@
 2050	Seiya
 2051	Seiya
 2052	Adventure 01 Forest of Coral_Mineral of Starsand Silver 1
-2053	Adventure 02 Forest of Coral_Mineral of Starsand de Plata 2
-2054	Adventure 03 Forest of Coral_Mineral of Starsand de Plata 3
-2055	Adventure 04 Forest of Coral_Mineral of Starsand de Plata 4
+2053	Adventure 02 Forest of Coral_Mineral of Starsand of Plata 2
+2054	Adventure 03 Forest of Coral_Mineral of Starsand of Plata 3
+2055	Adventure 04 Forest of Coral_Mineral of Starsand of Plata 4
 2056	Pirate Leader
 2057	Marine Dragon Messenger
 2058	Mysterious Marina
@@ -2073,9 +2073,9 @@
 2072	Guardian of the Siren
 2073	Marina singing Hymn of War
 2074	Marina singing Hymn of War
-2075	Battle flag of the Emperor of the Seas
+2075	Battle flag of the Poseidon
 2076	Battle flag of Athena
-2077	Tactics of the Secondary Line 20 Invisible Monster Battle Flag of the Emperor of the Seas
+2077	Tactics of the Secondary Line 20 Invisible Monster Battle Flag of the Poseidon
 2078	Secondary Line Tactics 21 Sanctuary Body Monster Sanctuary
 2079	Sirena
 2080	Carrey
@@ -2240,7 +2240,7 @@
 2239	Underworld Reaper
 2240	Monica Smiling
 2241	Butterfly King Dream Weaver
-2242	Roda de Tentación
+2242	Roda of Tentación
 2243	Executor Lucas
 2244	Lazy
 2245	Victoria Friend
@@ -2312,13 +2312,13 @@
 2311	Warrior of the Underworld
 2312	Difficult to Know
 2313	Dead servant
-2314	Jailer of the First Prison
+2314	First Division Warden
 2315	Haldor
 2316	Bloody Director
-2317	First Prison Messenger
+2317	First Division Messenger
 2318	Pele
 2319	Scourge of Punishment
-2320	Guard of the First Division
+2320	First Division Guard
 2321	Successful
 2322	Shadow of the Demon Star
 2323	Blood Raven
@@ -2336,7 +2336,7 @@
 2335	Son of the Chief of the People
 2336	Zombie
 2337	Warrior of the Shadows of the Underworld
-2338	Butterfly king of the Underworld
+2338	Butterfly Hades
 2339	Andromeda Black
 2340	Black Knight Reborn
 2341	Argol
@@ -2560,7 +2560,7 @@
 2559	Aiolia
 2560	Seiya
 2561	Pegasus
-2562	Show the Next Phase of the Underworld 08 Monstuo de Cuerpo Effect of Dimension
+2562	Show the Next Phase of the Underworld 08 Monstuo of Cuerpo Effect of Dimension
 2563	Spirit
 2564	Seiya
 2565	Pegasus
@@ -2694,7 +2694,7 @@
 2693	Seiya
 2694	Marin
 2695	Seiya
-2696	Guard [Monte de las Estrellas]
+2696	Guard [Monte of las Estrellas]
 2697	Seiya
 2698	Tracker
 2699	Apprentice
@@ -2877,7 +2877,7 @@
 2876	Flight of the Dragon
 2877	Teacher
 2878	Black Tracker Dress
-2879	Villager of the Village de la Campana
+2879	Villager of the Village of la Campana
 2880	Faceless Golden Silhouette
 2881	Black Atmosphere
 2882	​​Black Shadow
@@ -3024,7 +3024,7 @@
 3023	Restriction Monster Base Army Update Event
 3024	Guard [Army Base]
 3025	Send Additional Prize of the Goddess
-3026	Send Rayo de Sol Award
+3026	Send Rayo of Sol Award
 3027	Neutral Teletransport
 3028	Light effect of the Divine Weapon
 3029	Light effect of the Divine shield
@@ -3308,7 +3308,7 @@
 3307	Death Star
 3308	Star of Confusion
 3309	Shipwrecked Zombie
-3310	Zombi Viciado
+3310	Addicted Zombie
 3311	Guard of the Blood of Desperation
 3312	Soul Hunter
 3313	Fury of the Lava
@@ -3458,12 +3458,12 @@
 3457	Hades's Avatar
 3458	Illusion
 3459	Hades
-3460	King of the Underworld
+3460	Hades
 3461	Hades
-3462	King of the Underworld
+3462	Hades
 3463	Hades
-3464	King of the Underworld
-3465	Field of the King of the Underworld
+3464	Hades
+3465	Field of the Hades
 3466	Summon Tombstone
 3467	Summon Tombstone
 3468	Summon Tombstone
@@ -3717,8 +3717,8 @@
 3716	Aldebaran
 3717	Taurus
 3718	Poison Zoombie
-3719	Zombi Akane
-3720	Zombie Li-yun
+3719	Small Zombie
+3720	Li-Yun Zombie 
 3721	Explosive Zoombie
 3722	Hell Waves
 3723	Unleash the Zombies
@@ -3887,9 +3887,9 @@
 3886	Hyoga
 3887	Cygnus
 3888	Poseidon
-3889	Emperor of the Seas
+3889	Poseidon
 3890	Poseidon
-3891	Emperor of the Seas
+3891	Poseidon
 3892	Divinity of Poseidon
 3893	Pillar of Life
 3894	Shun
@@ -6472,7 +6472,7 @@
 6471	Shiryu
 6472	Shun
 6473	Dark Assassin
-6474	Punta de la Flecha
+6474	Punta of la Flecha
 6475	Monster of Vibration
 6476	Dragon of Darkness
 6477	Black Dragon
@@ -6674,9 +6674,9 @@
 6673	Ikki
 6674	Phoenix
 6675	Hades
-6676	King of the Underworld
+6676	Hades
 6677	Hades
-6678	King of the Underworld
+6678	Hades
 6679	Hyoga
 6680	Cygnus
 6681	Seiya
@@ -6688,7 +6688,7 @@
 6687	Shiryu
 6688	Dragon
 6689	Thunder Wall
-6690	Happiness 5 King of the Underworld, decisive battle of Hades
+6690	Happiness 5 Hades, decisive battle of Hades
 6691	Birth Place
 6692	Internal Mission of the Instance Zone
 6693	Brave Soul Marina
@@ -6894,11 +6894,11 @@
 6893	Death will distribute General Server Award Parameter of the General Situation
 6894	Test for increasing attack points
 6895	Test for the increase of defense points
-6896	The Soul of the King of the Seas resentful
+6896	The Soul of the Poseidon resentful
 6897	Projection of the God of the dream
 6898	Persefone
 6899	Queen of the Underworld
-6900	The will of the King of the Underworld
+6900	The will of the Hades
 6901	Pandora
 6902	Guardian [Hades]
 6903	Server Process buff Area
@@ -6921,7 +6921,7 @@
 6920	Enter in Proof of Era 8 Monster
 6921	Enter in Proof of Era 9 Monster
 6922	The server process
-6923	Zombi by Hira Sakamoto
+6923	Hira Sakamoto Zombie
 6924	Replace Eva model
 6925	Crusade! Boss of the world
 6926	Replace teleporter model
@@ -7112,23 +7112,23 @@
 7111	Demonic Soldier of Hell
 7112	Demonic Soldier of Hell
 7113	Demonic Soldier of Hell
-7114	Aldebaran (level LV5 Qianxiu)
-7115	Aldebaran (45)
-7116	Aldebaran (55)
-7117	Aldebaran (65)
-7118	Aldebaran (75)
-7119	Aldebaran (85)
-7120	Aldebaran (95)
+7114	Datura Flower (level LV5 Qianxiu)
+7115	Datura Flower (45)
+7116	Datura Flower (55)
+7117	Datura Flower (65)
+7118	Datura Flower (75)
+7119	Datura Flower (85)
+7120	Datura Flower (95)
 7121	Illusion of the Celestial Star of the Clamor
 7122	Illusion of the Celestial Star of the Clamor
 7123	Flower Datura Cannibal
 7124	Flower Datura Cannibal
 7125	Flower Datura Cannibal
 7126	Flower Datura Cannibal
-7127	Aldebaran
-7128	Aldebaran
-7129	Aldebaran
-7130	Aldebaran
+7127	Datura Flower
+7128	Datura Flower
+7129	Datura Flower
+7130	Datura Flower
 7131	Invisible Monster Hanging buff In the Underground Palace
 7132	All-day opening controller 1
 7133	Command Monster
@@ -7139,7 +7139,7 @@
 7138	General
 7139	Hypnos
 7140	God of the Dream
-7141	Soul of Lei-hu
+7141	Thunder Tiger Soul
 7142	Wounded Monster on the Side of Atos
 7143	Blazing Yin Yang
 7144	Radamanthys
@@ -7149,7 +7149,7 @@
 7148	Oneros
 7149	God of the Dream
 7150	Poseidon
-7151	Emperor of the Seas
+7151	Poseidon
 7152	Persephone
 7153	Empress of the Underworld
 7154	Command Monster
@@ -7162,7 +7162,7 @@
 7161	Capricorn
 7162	NPC_Monstruo
 7163	Chrysaor
-7164	Emperor of the Seas
+7164	Poseidon
 7165	Clothing of the Tang Dynasty
 7166	Bloody Mantle
 7167	Lightning
@@ -7313,32 +7313,32 @@
 7312	God of Evil
 7313	Transparent monster monitors boss switch
 7314	Dispute Area Transparent Monster
-7315	Persefone
-7316	Queen of the Underworld
+7315	Persephone
+7316	Queen of Hades
 7317	Radamanthys
 7318	Wyvern
 7319	Hypnos
-7320	God of the Dream
+7320	God of Dreams
 7321	Shura
 7322	Capricorn
 7323	Aiolia
 7324	Leo
 7325	Aldebaran
 7326	Taurus
-7327	Transmissão_ King of the Underworld
+7327	Transmissão_ Hades
 7328	Transmission_Goddess
-7329	Transmission_King of the seas
+7329	Transmission_Poseidon
 7330	Statue of Hades
-7331	<Protect>
+7331	<Defense>
 7332	Statue of Athena
-7333	<Protect>
+7333	<Defense>
 7334	Statue of Poseidon
-7335	<Protect>
+7335	<Defense>
 7336	Dead Summoner Summoner Monster
 7337	Chrysaor
-7338	Emperor of the Seas
+7338	Poseidon
 7339	Kanon
-7340	General of the Marine Dragon
+7340	Sea Dragon
 7341	Isaac
 7342	Kraken
 7343	Lamech
@@ -7679,7 +7679,7 @@
 7678	Battlefield 2 Monster To Enter the Line
 7679	Battlefield 3 Line Mission Monster
 7680	Battlefield 3 Monster to Enrar in the Line
-7681	Battlefield 4 Monstruo de Misión de la Línea
+7681	Battlefield 4 Monstruo of Misión of la Línea
 7682	Battlefield 4 Monster To Enter the Line
 7683	Battlefield 5 Line Mission Monster
 7684	Monster battlefield 5 To enter the Line
@@ -7752,10 +7752,10 @@
 7751	General control monster
 7752	Device for capturing birds - Upload to Device to Capture Birds Acivar Mosntruo Control Device 1
 7753	Device to capture birds - Go up to the Device to Capture Birds Acivar Control Mosntruo Device 2
-7754	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo de Control Device 3
+7754	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo of Control Device 3
 7755	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo of Control Device 4
-7756	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo de Control Device 5
-7757	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo de Control Device 6
+7756	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo of Control Device 5
+7757	Device to capture birds - Go up to the Device to Capture Birds Acivar Mosntruo of Control Device 6
 7758	Device to capture birds - Leave the Device to Capture Birds Control Monster Device 1
 7759	Device to capture birds - Leave the Device to Capture Birds Control Monster Device 2
 7760	Bird Capture Device - Leave Device to Capture Birds Control Monster Device 3
@@ -7802,17 +7802,17 @@
 7801	Lyre of Orpheus
 7802	Squire -Jamian Attack of the Raven
 7803	Squire - Jamian Defense of the Raven
-7804	Relic-Ativação de Chicote de Troll
+7804	Relic-Ativação of Chicote of Troll
 7805	Relic-Attack of Troll's Chicote Attack
-7806	Relic-Chicote de Troll Attacked by Attack
+7806	Relic-Chicote of Troll Attacked by Attack
 7807	Summon: Relic-Hypnos
 7808	Summon: Relic-Hypnos
 7809	Artifact - Activate Invocation of Blood Wings of the Six Demonic Besias
 7810	Artifact - Activate Attack of the Blood Wings of the Six Demonic Beasts
 7811	Artifact - Activate Attack on the Blood Wings of the Six Demonic Beasts
-7812	Divine Artifact - Invocation of the sword of the King of the Underworld
-7813	Divine Artifact - Activate the attack of the sword of the King of the Underworld
-7814	Divine Artifact - Sword of the King of the Underworld triggered by the attack
+7812	Divine Artifact - Invocation of the sword of the Hades
+7813	Divine Artifact - Activate the attack of the sword of the Hades
+7814	Divine Artifact - Sword of the Hades triggered by the attack
 7815	Artifact - Activate the invocation of the Divine Dagger
 7816	Artifact - Activate Davin Dagger Attack
 7817	Artifact - Activate Attack on the Divine Dagger
@@ -7848,21 +7848,21 @@
 7847	Divine Artifact - Invocation of the Helm of the Celestial Star of Skill
 7848	Divine Artifact - Activate Attack of the Helm of the Celestial Star of Skill
 7849	Divine Artifact - Helm of the Celestial Star of Skill triggered by the attack
-7850	Relic-Ativação de Chicote de Balron
-7851	Relic-Ativação de Ataque de Chicote de Balron
-7852	Relic-Chicote de Balron Attacked by Attack
+7850	Relic-Ativação of Chicote of Balron
+7851	Relic-Ativação of Ataque of Chicote of Balron
+7852	Relic-Chicote of Balron Attacked by Attack
 7853	Artifact - Action Invoking the Scorpio Stinger
 7854	Artifact - Action Scorpio Stinger Attack
 7855	Artifact - Activate the Attack on the Scorpio Stinger
-7856	Divine Artifact - Invocation of the Queen of Aldebaran
-7857	Divine Artifact - Activate attack of the Queen of Aldebaran
-7858	Divine Artifact - Queen of Aldebaran activated by the attack
+7856	Divine Artifact - Invocation of the Datura Flower
+7857	Divine Artifact - Activate attack of the Datura Flower
+7858	Divine Artifact - Datura Flower activated by the attack
 7859	Summon: Relic-Virgem
 7860	Summon: Relic-Virgem
 7861	Summon: Relic-Virgem
-7862	Relic - Ativação de Ombreiras de Deep
-7863	Relic - Ativação de Ataque Deep Ombreiras
-7864	Relic - Ombreiras de Deep Ativado por Ataque
+7862	Relic - Ativação of Ombreiras of Deep
+7863	Relic - Ativação of Ataque Deep Ombreiras
+7864	Relic - Ombreiras of Deep Ativado por Ataque
 7865	Divine Artifact - Invocation of Papillon Butterflies
 7866	Divine Artifact - Activate attack of Papillon Butterflies
 7867	Divine Artifact - Papillon butterflies triggered by the attack
@@ -7871,7 +7871,7 @@
 7870	Summon: Reliquia-Papillon
 7871	Shaka's Rosary
 7872	Shaka's Rosary
-7873	Beads de Shaka
+7873	Beads of Shaka
 7874	Divine Artifact - Invocation of the String Puppet
 7875	Divine Artifact - Activate Attack of the String Puppet
 7876	Divine Artifact - String puppet activated by the attack
@@ -7884,8 +7884,8 @@
 7883	Artifact - Acting Invocation of Poseidon's Trident
 7884	Artifact - Action Attack to the Trident of Poseidon
 7885	Artifact - Action Attack to the Trident of Poseidon
-7886	Ativação de Invocação do Punho de Ferro de Golem
-7887	Attack of Ataque do Punho de Ferro de Golem
+7886	Ativação of Invocação do Punho of Ferro of Golem
+7887	Attack of Ataque do Punho of Ferro of Golem
 7888	Golem Ferro Punho Attacked by Attack
 7889	Artifact - Action Invoking the Lymnades Helmet
 7890	Artifact - Action Lymnades Helmet Attack
@@ -7893,13 +7893,13 @@
 7892	Artifact - Action Invoking the Wisdom Ring of Poseidon
 7893	Artifact - Action Attack of the Wisdom Ring of Poseidon
 7894	Artifact - Action Attack to the Ring of Wisdom of Poseidon
-7895	Relic-Ativação de Elmo de Poseidon
-7896	Relic-Ativação Attack of Elmo de Poseidon
-7897	Relic-Elmo de Poseidon Attacked by Attack
+7895	Relic-Ativação of Elmo of Poseidon
+7896	Relic-Ativação Attack of Elmo of Poseidon
+7897	Relic-Elmo of Poseidon Attacked by Attack
 7898	Artifact - Acting Invocation of Sirene's Magic Flute
 7899	Artifact - Action Attack of Sirene's Magic Flute
 7900	Artifact - Action Attack to the Magic Flute of Sirene
-7901	Relic-Ativação de Tridente de Pandora
+7901	Relic-Ativação of Tridente of Pandora
 7902	Relic-Ativação Pandora's Trident Attack
 7903	Pandora Relic-Trident Attacked by Attack
 7904	Divine Artifact - Invocation of the Traitorous Shell
@@ -7932,14 +7932,14 @@
 7931	Divine Artifact - Statute of the Judgment of Lune activated by the attack
 7932	Artifact - Action Invoking the Bull's Helmet
 7933	Artifact - Action Attack to the Bull's Helmet
-7934	Artifact - Action Attack to the Casco de Toro
+7934	Artifact - Action Attack to the Casco of Toro
 7935	Artifact - Acting Invocation of the Hammer
 7936	Artifact - Activate Hammer Attack
 7937	Artifact - Activate Hammer Attack
 7938	Divine Artifact - Activate Invocation of the Magical Dragonthorn
 7939	Divine Artifact - Activate attack of the Magic Dragon Thorn
 7940	Divine Artifact - Magic Dragon Thorn activated by attack
-7941	Relic-Ativação de Mascara de Águia
+7941	Relic-Ativação of Mascara of Águia
 7942	Relic-Ativação Attack of Mask of Águia
 7943	Relic-Attacked Attacked Eagle Mask
 7944	Artifact - Activate Invocation of the Golden Weapon
@@ -7963,7 +7963,7 @@
 7962	Spectrum
 7963	Spirit of the Altar
 7964	invisible monster
-7965	Monster Summoned by the Emperor of the Seas
+7965	Monster Summoned by the Poseidon
 7966	Monster Summoned by Sirene
 7967	Monster Summoned by Kraken
 7968	Damage reduction
@@ -8184,12 +8184,12 @@
 8183	Avatar for Hades
 8184	Illusion
 8185	Hades
-8186	King of the Underworld
+8186	Hades
 8187	Hades
-8188	King of the Underworld
+8188	Hades
 8189	Hades
-8190	King of the Underworld
-8191	Field of the King of the Underworld
+8190	Hades
+8191	Field of the Hades
 8192	Summon Tombstone
 8193	Summon Tombstone
 8194	Summon Tombstone
@@ -8223,7 +8223,7 @@
 8222	General Situation_Provocation Monster Close the Donation Account
 8223	General Situation_Donate Donation Provocation Monster
 8224	Hades
-8225	King of the Underworld
+8225	Hades
 8226	Radamanthys
 8227	Wyvern
 8228	Radamanthys
@@ -8697,7 +8697,7 @@
 8696	Glutton
 8697	Determination of Poseidonia
 8698	Lava Stone
-8699	Espirítu de Culpa Closed
+8699	Espirítu of Culpa Closed
 8700	Soul Cutter
 8701	Emissary of nightmares
 8702	Ghost
@@ -9281,7 +9281,7 @@
 9280	Kingdom of the Gods
 9281	Kingdom of the Hungry Ghosts
 9282	Animal Kingdom
-9283	Virgo daily monthly _Monstruo de Control General
+9283	Virgo daily monthly _Monstruo of Control General
 9284	Shaka
 9285	Virgo
 9286	Variant of the Human Kingdom
@@ -9294,7 +9294,7 @@
 9293	Special Event Indication Arrow
 9294	Shining Arrow of Special Event Indication
 9295	Variant of the Animal Kingdom
-9296	Virgo monthly diary _Monstruos de Control Reposición
+9296	Virgo monthly diary _Monstruos of Control Reposición
 9297	Virgo Monthly diary_ Enter the Instance Zone NPC Body Monster
 9298	Underworld Soldier
 9299	Underworld Soldier
@@ -9305,7 +9305,7 @@
 9304	Stage Pass Monster
 9305	Invisible General Control Monster
 9306	Hades
-9307	King of the Underworld
+9307	Hades
 9308	Wyvern
 9309	Three judges of the Underworld
 9310	Griffon
@@ -9900,7 +9900,7 @@
 9899	Golden Knight
 9900	Transformation
 9901	Illusion. Bee-Queen
-9902	Illusion.Spiitu de Scylla
+9902	Illusion.Spiitu of Scylla
 9903	General of the 7 Oceans
 9904	Illusion. Siren
 9905	Illusion. Kraken spirit
@@ -10034,7 +10034,7 @@
 10033	Illusion of Scylla
 10034	Illusion of
 10035	Illusion. Bee-Queen
-10036	Illusion.Spiitu de Scylla
+10036	Illusion.Spiitu of Scylla
 10037	General of the 7 Oceans
 10038	Illusion. Siren
 10039	Illusion. Kraken spirit
@@ -10078,7 +10078,7 @@
 10077	Golden Knight
 10078	White illusion
 10079	Group of Gold-Pisces-Red Rose
-10080	Grupo de Oro-Pisces-Rosa Negra
+10080	Grupo of Oro-Pisces-Rosa Negra
 10081	Illusion.Previous generation of Pisces
 10082	Golden Knight
 10083	Gold Group-General Control Monster
@@ -10110,7 +10110,7 @@
 10109	Commander of Specters
 10110	Strange
 10111	Hades
-10112	King of the Underworld
+10112	Hades
 10113	Kart Race
 10114	Ninja Transmitter
 10115	Ninja Transmitter
@@ -10145,7 +10145,7 @@
 10144	Commander of the Marines
 10145	Strange
 10146	Poseidon
-10147	Emperor of the Seas
+10147	Poseidon
 10148	Teddy Bear
 10149	Invisible Monster passing phase
 10150	Invisible General Control Monster
@@ -10404,7 +10404,7 @@
 10403	Scales of the General of the Seas
 10404	Dragon of the Sea
 10405	General of the seas
-10406	​​Emperor of the Seas
+10406	​​Poseidon
 10407	Scales of the General of the Seas
 10408	Sirena
 10409	Scales of the General of the Seas
@@ -10543,7 +10543,7 @@
 10542	Golden Gun
 10543	Arc 2_ area of ​​invisible buff
 10544	Invisible General Control Monster
-10545	Arco 2_Monstruo de habilidades invisibles
+10545	Arco 2_Monstruo of habilidades invisibles
 10546	Black Serpent
 10547	Protect the Tower of Relój- Start Event Monster of Provocation
 10548	Cremunus
@@ -10569,7 +10569,7 @@
 10568	npc_Fire of the Clock Tower
 10569	Watchmaker of the Sanctuary
 10570	npc_Transparent watchmaker's mission
-10571	npc_Estatua de Athena
+10571	npc_Estatua of Athena
 10572	Shadow Surprise Attacker
 10573	Guard of the Specters
 10574	Attacker Surprise of the Shadows
@@ -10701,14 +10701,14 @@
 10700	Fortified Ice Giants
 10701	Star Delta Amethyst
 10702	Transparent Monster of the Delta Star
-10703	Alberich de Megrez
+10703	Alberich of Megrez
 10704	Star Beta_Hagende Merak
 10705	Divine Fire Trap of Heaven
 10706	Little Giant
 10707	Spirit of Evil of Hell
 10708	Fortified Ice Giants
 10709	Fortified Ice Giants
-10710	GIgante de Fuego Fortalecido
+10710	GIgante of Fuego Fortalecido
 10711	Collect Mission NPC
 10712	Essence of Aurora
 10713	Soul of Gladiator Titan
@@ -10741,7 +10741,7 @@
 10740	Aru General Control Monster
 10741	Aru Gate
 10742	Tornado
-10743	GIgante de Fuego Fortalecido
+10743	GIgante of Fuego Fortalecido
 10744	Deep Well Monster General Control
 10745	Lava Stone Beast
 10746	Shido
@@ -10936,13 +10936,13 @@
 10935	Hidden General Control Monster
 10936	Queen of the Underworld Phase Monster
 10937	Poison Zoombie
-10938	Vanguard of the King of the Underworld
-10939	Pioneer Guard of the King of the Underworld
-10940	Imperial Guard King of the Underworld
-10941	Adicion de Dios de la Muerte_Marm of Activation for a limited time
-10942	Adicion de Dios de la Muerte_Monstruo Recueno for a limited time
+10938	Vanguard of the Hades
+10939	Pioneer Guard of the Hades
+10940	Imperial Guard Hades
+10941	Adicion of Dios of la Muerte_Marm of Activation for a limited time
+10942	Adicion of Dios of la Muerte_Monstruo Recueno for a limited time
 10943	Butterfly of the Underworld
-10944	Butterfly king of the Underworld
+10944	Butterfly Hades
 10945	Fantasia Animation of the Dreaming God_Suspending Monster
 10946	Wyvern
 10947	Bloodthirsty Bat
@@ -10981,13 +10981,13 @@
 10980	Diablito
 10981	Diablito
 10982	Explosive Zoombie
-10983	Guard of the King of the Underworld
+10983	Guard of the Hades
 10984	Old time guard
 10985	door
 10986	door
 10987	Dead spirit of Hell
 10988	Person forgotten from Hell
-10989	Guard of the King of the Underworld
+10989	Guard of the Hades
 10990	Tartar Guard
 10991	Zelos
 10992	Watcher of the Bridge of Souls
@@ -11000,21 +11000,21 @@
 10999	Warden of the Underworld Prison
 11000	door
 11001	queen
-11002	Estrella Celeste de la Maga
+11002	Estrella Celeste of la Maga
 11003	Datura cannibal
 11004	Shadow of the God of Death
 11005	Violent shadow of the God of death
 11006	Explosive Zoombie
-11007	Vanguard of the King of the Underworld
-11008	Pioneer Guard of the King of the Underworld
-11009	Imperial Guard King of the Underworld
+11007	Vanguard of the Hades
+11008	Pioneer Guard of the Hades
+11009	Imperial Guard Hades
 11010	Tartarus Megacariocyte
 11011	Previous generation of Lira Silver Knight
 11012	Previous generation of a Damaged Unicorn
 11013	June of Chameleon
-11014	Cemetery-Vanguardaq of the Ice Monstrio de Ability
+11014	Cemetery-Vanguardaq of the Ice Monstrio of Ability
 11015	Statue
-11016	Cosmo Energy of the King of the Underworld Cemetery
+11016	Cosmo Energy of the Hades Cemetery
 11017	Butterfly from the Underworld of the Cemetery
 11018	Monster from the birthplace of the Cemetery
 11019	Previous Generation of the Scorpio Gold Knight
@@ -11140,7 +11140,7 @@
 11139	Demonic Flower
 11140	Previous generation of the Celestial Star Demoniac
 11141	Poseidon
-11142	Emperor of the Seas
+11142	Poseidon
 11143	Arena-Monster General control
 11144	Arena-baía- invisible monster
 11145	Essence of the Wind
@@ -11335,7 +11335,7 @@
 11334	Giant Tempest Summoner
 11335	Giant Tempest Summoner
 11336	Tornado barrier
-11337	Marinas de Elite super strong
+11337	Marinas of Elite super strong
 11338	Super strong Marine Guard
 11339	Gift of sleepy person
 11340	gift of Dudu
@@ -11361,7 +11361,7 @@
 11360	Bat
 11361	Spirit of the Bee-queen
 11362	astrolabe
-11363	Espiitu de Scylla
+11363	Espiitu of Scylla
 11364	General of the seas
 11365	Kraken Spirit
 11366	General of the seas
@@ -11392,7 +11392,7 @@
 11391	Illusion
 11392	MEdusa of the abyss
 11393	Temple of Poseidon
-11394	Emperor of the Seas
+11394	Poseidon
 11395	amphora
 11396	Goddess Athena
 11397	Amphora-Temple Square-Place of birth
@@ -11401,7 +11401,7 @@
 11400	Minions of evil
 11401	Restless Dudu
 11402	Poseidon
-11403	Emperor of the Seas
+11403	Poseidon
 11404	Petrified
 11405	Petrified
 11406	Petrified
@@ -11486,11 +11486,11 @@
 11485	Satin Soldier
 11486	Sailor Soldier
 11487	Poseidon
-11488	Emperor of the Seas
+11488	Poseidon
 11489	Radamanthys
 11490	Celestial Star of Fury
 11491	Chrysaor
-11492	Emperor of the Seas
+11492	Poseidon
 11493	Sorento
 11494	Sirena
 11495	Lava slime
@@ -11755,7 +11755,7 @@
 11754	15, Soldier Raso del Hielo Man agil_Monstruo updated
 11755	Ice warriors in training
 11756	Varied fish
-11757	16, Soldier Raso de Hielo Hombre Fuerte_Monstruo updated
+11757	16, Soldier Raso of Hielo Hombre Fuerte_Monstruo updated
 11758	Soldier of the sanctuary in training
 11759	Varied fish
 11760	1 Private soldier of the sanctuary_Monstruo updated
@@ -11805,7 +11805,7 @@
 11804	Street vendor 2
 11805	Street Vendor 3
 11806	queen
-11807	Estrella Celeste de la Maga
+11807	Estrella Celeste of la Maga
 11808	Larry
 11809	Gloomy Celestial Estrela
 11810	Animation Control Monster
@@ -11893,7 +11893,7 @@
 11892	Blue team area
 11893	Attacking Team 1 Birth Monster
 11894	Attacking Team 2 Birth Monster
-11895	Equipe Attacker 3 Monstro de Nacimiento
+11895	Equipe Attacker 3 Monstro of Nacimiento
 11896	Attacking Team 4 Monster of Nacimeinto
 11897	Attacking Team 5 Monster of birth
 11898	Red Team Area
@@ -11935,7 +11935,7 @@
 11934	Loki
 11935	God of Evil
 11936	Poseidon
-11937	Emperor of the Seas
+11937	Poseidon
 11938	Hypnos
 11939	God of the Dream
 11940	Protection Flag Level 1
@@ -11964,9 +11964,9 @@
 11963	Chrysaor
 11964	Krishna
 11965	Poseidon
-11966	Emperor of the Seas
+11966	Poseidon
 11967	Poseidon
-11968	Emperor of the Seas
+11968	Poseidon
 11969	Baian
 11970	Marine Horse
 11971	Sorrento
@@ -12003,11 +12003,11 @@
 12002	Illusion of Lei-Hu
 12003	trident
 12004	Servant with Halberd from the Bottom of the Sea
-12005	Phase 6_Monstruo de Trampas de efecto luz
+12005	Phase 6_Monstruo of Trampas of efecto luz
 12006	Birthplace
 12007	Animation_Transmission Monster of Chrysaor Animation
 12008	trident
-12009	Marina Guardian de Elite
+12009	Marina Guardian of Elite
 12010	Marina Guradián
 12011	Servant with Halberd from the Bottom of the Sea
 12012	Small Black Ophiuchus
@@ -12016,7 +12016,7 @@
 12015	Ophiuchus black
 12016	Skill Monster_stream area
 12017	Skill monster_ Transparent stream monster
-12018	Monster Skill_Astrolábio de Chrysaor
+12018	Monster Skill_Astrolábio of Chrysaor
 12019	Sirena clone
 12020	Skill Monster_Darón Marino AOE
 12021	current trap: Boomerang
@@ -12068,17 +12068,17 @@
 12067	Eliminate Flying Sword NPC Nº 9
 12068	Flaming Giant
 12069	Hades
-12070	King of the Underworld
+12070	Hades
 12071	Hades
-12072	King of the Underworld
+12072	Hades
 12073	Hades
-12074	King of the Underworld
+12074	Hades
 12075	Hades
-12076	King of the Underworld
+12076	Hades
 12077	Hades
-12078	King of the Underworld
+12078	Hades
 12079	Hades
-12080	King of the Underworld
+12080	Hades
 12081	Giant Sword
 12082	Eclipse
 12083	Hades flying sword
@@ -12144,7 +12144,7 @@
 12143	White square monster use Seiya
 12144	NPC use model monsters
 12145	NPC Use monster Queen of the Underworld
-12146	NPC Use monster model King of the Underworld
+12146	NPC Use monster model Hades
 12147	NPC Use monster model God of Dream
 12148	NPC Use monster model of death
 12149	NPC Use Monster Model Dream God
@@ -12286,7 +12286,7 @@
 12285	Nix in love
 12286	Shadow of Gemini
 12287	Aquarius NPC_Camus
-12288	Statue of the Emperor of the Seas
+12288	Statue of the Poseidon
 12289	NPC_Protective shell of the prison gate
 12290	NPC_Shion of Aries
 12291	Shion of Aries
@@ -12334,7 +12334,7 @@
 12333	Strange
 12334	Ugliness eruption
 12335	Butterfly of the Underworld
-12336	Butterfly king of the Underworld
+12336	Butterfly Hades
 12337	Skill_Frost Mines nv3
 12338	Skill_Frost Mines nv5
 12339	Butterfly Papilionidae
@@ -12377,7 +12377,7 @@
 12376	NPC_Place of resurrection
 12377	NPC_Mustruo Animation Transmission Valkyries
 12378	NPC_Invisible Monster Valkyries
-12379	Sorrento de Sirena
+12379	Sorrento of Sirena
 12380	General of the seas
 12381	Flame Knight of the Ice Field
 12382	Knight protector of the ice field
@@ -12388,7 +12388,7 @@
 12387	Ice Field Warrior
 12388	Star Warrior of the Ice Field
 12389	Frost Warrior of the Ice Field
-12390	Guerrero of Ventania del Campo de hielo
+12390	Guerrero of Ventania del Campo of hielo
 12391	Warrior of the Divine Clan of the Ice Field
 12392	jellyfish
 12393	Articles from the scene_Coral
@@ -12402,7 +12402,7 @@
 12401	Ink Pool
 12402	Small octopus
 12403	Sirena Fairy
-12404	Furacán de Relámpago
+12404	Furacán of Relámpago
 12405	Illusion Strings
 12406	Skill_ Submission Cords
 12407	Knight Protector of the Bottom of the Sea
@@ -12521,7 +12521,7 @@
 12520	Clone of Zelos
 12521	area of ​​poison
 12522	Sapuris of the frog
-12523	jefe3_Invocar Sapúris de Rana
+12523	jefe3_Invocar Sapúris of Rana
 12524	Radamanthys
 12525	<Knight>
 12526	Radamanthys
@@ -13419,7 +13419,7 @@
 13418	Left Door Guard
 13419	Ice Coffin
 13420	Ice Coffin
-13421	Diamond Dust at Casa de Libra
+13421	Diamond Dust at Casa of Libra
 13422	House of Libra Shun
 13423	General Control Monster of the House of Libra
 13424	House of Libra Seiya
@@ -13491,7 +13491,7 @@
 13490	Ice Coffin
 13491	Skill_Snow Storm
 13492	Skill_Ice match
-13493	Skill_Tornado de hielo
+13493	Skill_Tornado of hielo
 13494	Aiolia
 13495	Leo's Golden Knight
 13496	Pilar
@@ -13849,7 +13849,7 @@
 13848	Waves of Hell_Model_Animation
 13849	★ Buddha of the 6 existences ★
 13850	Winning team of multi-server PK
-13851	Sword eXcalibur de Oro_Model_Animation
+13851	Sword eXcalibur of Oro_Model_Animation
 13852	President Lee
 13853	Winning team of multi-server PK
 13854	Exclamation of Athena Left_Right_Animation
@@ -13917,15 +13917,15 @@
 13916	Discard
 13917	Defensive glass of blue equipment
 13918	Common pedestal
-13919	King of the Underworld
+13919	Hades
 13920	Fenix ​​Egg
 13921	Loki
 13922	Minos
 13923	Guide npc_Rey of the Underworld
 13924	npc_Santuario Guide
-13925	Guide npc_ Emperor of the Seas
+13925	Guide npc_ Poseidon
 13926	Grand Master
-13927	Emperor of the Seas
+13927	Poseidon
 13928	Baian
 13929	Immortal Fenix
 13930	Immortal Determination

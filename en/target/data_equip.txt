@@ -144,11 +144,11 @@
 143	Crown of Talos
 144	Ares Helmet
 145	Crown of Talos
-146	Casco de Ares
+146	Casco of Ares
 147	Crown of Talos
-148	Casco de Ares
+148	Casco of Ares
 149	Crown of Talos
-150	Casco de Ares
+150	Casco of Ares
 151	Leader's handkerchief
 152	Leader's handkerchief
 153	Leader's handkerchief
@@ -167,12 +167,12 @@
 166	Atlas handkerchief
 167	Atlas handkerchief
 168	Atlas handkerchief
-169	Pañunelo de Heracles
-170	Pañunelo de Heracles
-171	Pañunelo de Heracles
-172	Pañunelo de Heracles
-173	Pañunelo de Heracles
-174	Pañunelo de Heracles
+169	Pañunelo of Heracles
+170	Pañunelo of Heracles
+171	Pañunelo of Heracles
+172	Pañunelo of Heracles
+173	Pañunelo of Heracles
+174	Pañunelo of Heracles
 175	Capaneo scarf
 176	Capaneo Scarf
 177	Capaneo scarf
@@ -1038,14 +1038,14 @@
 1037	Armor of the eternal strength of Hephaestus
 1038	Evening walk clothing
 1039	New Death Mask Costume
-1040	Rubí de Aiolia
+1040	Rubí of Aiolia
 1041	Meditation Clothing by Odin
 1042	Clothes of Shion granted by the Gods
 1043	Tunic of the Power of Perseus
 1044	Immortal Armor of Brontes
 1045	Armor of the eternal strength of Hephaestus
 1046	Talos shirt
-1047	Pectoral de Ares
+1047	Pectoral of Ares
 1048	Talos Shirt
 1049	Pectoral of Ares
 1050	Talos shirt
@@ -1282,7 +1282,7 @@
 1281	Clothes stuck by Kill Bill
 1282	Viagem blouse (F)
 1283	Blouse of Rodolfo (F)
-1284	Blouse of Boneco de Neve (F)
+1284	Blouse of Boneco of Neve (F)
 1285	Mrs. Polar's Blouse (F)
 1286	Blouse do Papai Noel (F)
 1287	Autumn Ode jacket
@@ -1404,15 +1404,15 @@
 1403	Upper part of explosion tattoo wings
 1404	Love wings upper part of the snow season
 1405	Love wings upper part of the snow season
-1406	Tatuajo de ángel caeido
+1406	Tatuajo of ángel caeido
 1407	Sobretudo do Dragão (M)
 1408	Sobretudo do Dragão Negro (M)
 1409	Sobretudo do Dragão Azul (M)
 1410	Sobretudo do Dragão Rosa (M)
 1411	Diabolic Noisy Shirt (M)
-1412	Blusão de Viagem (M)
+1412	Blusão of Viagem (M)
 1413	Camisa do Papai Noel (M)
-1414	Shirt of Boneco de Neve (M)
+1414	Shirt of Boneco of Neve (M)
 1415	Shirt of Mr. Polar (M)
 1416	Camisa do Papai Noel (M)
 1417	Ode wrap in the autumn wind
@@ -1533,7 +1533,7 @@
 1532	Upper part of wings of malignant tattoo
 1533	Upper part of explosion tattoo wings
 1534	Top of love wings of the snow season
-1535	Tatuajo de ángel caeido
+1535	Tatuajo of ángel caeido
 1536	FIGHTER
 1537	Fist of Justice
 1538	GAME OVER
@@ -1611,12 +1611,12 @@
 1610	Common fashion men's trousers
 1611	Floating dance ghost social trousers
 1612	Pent. Lake Two Swans (F)
-1613	Touca de Boneco de Neve (F)
+1613	Touca of Boneco of Neve (F)
 1614	Penteado Edelweiss (F)
 1615	Penteado da Royalty (F)
 1616	Penteado Oriental (F)
 1617	Penteado Amor Perfeito (F)
-1618	Penteado de Jamiel (F)
+1618	Penteado of Jamiel (F)
 1619	Penteado da Noite Dançante (F)
 1620	Penteado Shallot (F)
 1621	Pumpkin head (female)
@@ -1630,7 +1630,7 @@
 1629	Intelligent and Delicate
 1630	Pretty and Classical
 1631	Graceful Elegance
-1632	Penteado de Verão (F)
+1632	Penteado of Verão (F)
 1633	Helm of war of the dignity of the Samurai
 1634	Hat full of black pearls
 1635	Flamenco head ornament
@@ -1645,7 +1645,7 @@
 1644	Pent. Dragão Rosa (F)
 1645	Pent. Diabolical Noite (F)
 1646	Cabeça do Rodolfo (F)
-1647	Cabeça do Boneco de Neve (F)
+1647	Cabeça do Boneco of Neve (F)
 1648	Cabeça do Sr. Polar (F)
 1649	Cabeça do Papai Noel (F)
 1650	Double Tail
@@ -1699,16 +1699,16 @@
 1698	Uniform of the diabolical subject (female)
 1699	Touquinha Piu (F)
 1700	Pent. Lake Two Swans (M)
-1701	Touca de Boneco de Neve (M)
+1701	Touca of Boneco of Neve (M)
 1702	Penteado Edelweiss (M)
 1703	Penteado Oriental (M)
-1704	Penteado de Jamiel (M)
+1704	Penteado of Jamiel (M)
 1705	Penteado Amor Perfeito (M)
 1706	Penteado da Noite Dançante (M)
 1707	Penteado Shallot (M)
 1708	Pumpkin head (male)
 1709	Penteado da Royalty (M)
-1710	Penteado de Verão (M)
+1710	Penteado of Verão (M)
 1711	Helm of War Last Samurai
 1712	Black Pearl ship captain's hat
 1713	Warlock Hat
@@ -1733,7 +1733,7 @@
 1732	Pent. Dragão Rosa (M)
 1733	Pent. Noite Devil
 1734	Cabeça Papai Noel (M)
-1735	Cabeça Boneco de Neve (M)
+1735	Cabeça Boneco of Neve (M)
 1736	Cabeça Mr. Polar (M)
 1737	Cabeça Rodolfo (M)
 1738	Cherry blossom control
@@ -1775,7 +1775,7 @@
 1774	Chapéu Cacarejo (M)
 1775	Gothic Chapeau (F)
 1776	Luvas Lake Two Swans (F)
-1777	Luva de Boneco de Neve (F)
+1777	Luva of Boneco of Neve (F)
 1778	Luva gives Royalty (F)
 1779	East Luva (F)
 1780	Luva da Noite Dançante (F)
@@ -1785,7 +1785,7 @@
 1784	Luvas do Dragão Azul (F)
 1785	Luvas do Dragão Rosa (F)
 1786	Luvas do Papai Noel (F)
-1787	Luvas do Boneco de Neve (F)
+1787	Luvas do Boneco of Neve (F)
 1788	Luvas do Sr. Polar (F)
 1789	Luvas do Papai Noel (F)
 1790	Original (female)
@@ -1844,7 +1844,7 @@
 1843	Luva da Guerreira
 1844	Luvas Piu (F)
 1845	Luvas Lake Two Swans (M)
-1846	Luva de Boneco de Neve (M)
+1846	Luva of Boneco of Neve (M)
 1847	Luva da Realeza (M)
 1848	East Luva (M)
 1849	Luva Marinha (M)
@@ -1856,7 +1856,7 @@
 1855	Luvas do Dragão Rosa (M)
 1856	Luvas da Noite Diabolica (M)
 1857	Luvas do Papai Noel (M)
-1858	Luvas do Boneco de Neve (M)
+1858	Luvas do Boneco of Neve (M)
 1859	Luvas do Sr. Polar (M)
 1860	Luvas do Rodolfo (M)
 1861	Native (male)
@@ -1949,7 +1949,7 @@
 1948	Clothes stuck by Kill Bill
 1949	Viagem blouse (F)
 1950	Blouse of Rodolfo (F)
-1951	Blouse of Boneco de Neve (F)
+1951	Blouse of Boneco of Neve (F)
 1952	Blouse of Mrs. Polar (F)
 1953	Blouse do Papai Noel (F)
 1954	Top female suit in the common way 005A
@@ -2089,9 +2089,9 @@
 2088	Sobretudo do Dragão Azul (M)
 2089	Sobretudo do Dragão Rosa (M)
 2090	Diabolic Noise Shirt (M)
-2091	Blusão de Viagem (M)
+2091	Blusão of Viagem (M)
 2092	Camisa do Papai Noel (M)
-2093	Shirt of Boneco de Neve (M)
+2093	Shirt of Boneco of Neve (M)
 2094	Shirt of Mr. Polar (M)
 2095	Camisa do Papai Noel (M)
 2096	Kitten Costume
@@ -2206,16 +2206,16 @@
 2205	Smart student male lenses
 2206	Night Mask (M)
 2207	Sapatos Lago dos Cisne (F)
-2208	Sapato de Boneco de Neve (F)
+2208	Sapato of Boneco of Neve (F)
 2209	Sapato Edelweiss (F)
 2210	Sapato da Royalty (F)
 2211	Eastern Sapato (F)
-2212	Sapato de Jamiel (F)
+2212	Sapato of Jamiel (F)
 2213	Sapato Amor Perfeito (F)
 2214	Sapato da Noite Dançante (F)
 2215	Sapato Shallot (F)
 2216	Bindings [Bolts] (F)
-2217	Sapato de Verão (F)
+2217	Sapato of Verão (F)
 2218	Sandals of the dignity of the Samurai
 2219	Boot full of black pearls
 2220	Flamenco high heels shoe
@@ -2315,7 +2315,7 @@
 2314	Women's elegant leather shoes
 2315	Red Tea Female Feet of Purple Forest Float
 2316	Feminine Shoe of the Light of the Moon Silver
-2317	Sapatos de Viagem (F)
+2317	Sapatos of Viagem (F)
 2318	Mary's Beach Shoe
 2319	Hashima Women's Blessing Shoe
 2320	Female sun rays dectetive shoes
@@ -2337,7 +2337,7 @@
 2336	Tutankhamun · Shoes Female scepter
 2337	Female shoes the story of a true gang
 2338	Female shoes ninja assassin
-2339	Sapatos de Maiden Café (F)
+2339	Sapatos of Maiden Café (F)
 2340	Female Pirates of the Caribbean Shoes
 2341	Female shoes rubber ducky
 2342	Female shoes havaiana beach
@@ -2357,17 +2357,17 @@
 2356	High Heels of Falling Night
 2357	Sapato da Guerreira
 2358	Sapatos Piu (F)
-2359	Boots of Lago de Cisnes (M)
-2360	Sapato de Boneco de Neve (M)
+2359	Boots of Lago of Cisnes (M)
+2360	Sapato of Boneco of Neve (M)
 2361	Sapato Edelweiss (M)
 2362	Sapato da Realeza (M)
 2363	Eastern Sapato (M)
-2364	Sapato de Jamiel (M)
+2364	Sapato of Jamiel (M)
 2365	Sapato Amor Perfeito (M)
 2366	Sapato da Noite Dançante (M)
 2367	Sapato Shallot (M)
 2368	Bindings [Bolts] (M)
-2369	Sapato de Verão (M)
+2369	Sapato of Verão (M)
 2370	Last Samurai Shoe
 2371	Black Pearl Boat Captain's Shoe
 2372	Bullfighter's Dazzling Shoe
@@ -2381,7 +2381,7 @@
 2380	Botas do Dragão Rosa (M)
 2381	Diabolic Noite Boots (M)
 2382	Boots do Papai Noel (M)
-2383	Boots of Boneco de Neve (M)
+2383	Boots of Boneco of Neve (M)
 2384	Boots of Mr. Polar (M)
 2385	Boots of Rodolfo (M)
 2386	Enthusiasm (red)
@@ -2703,7 +2703,7 @@
 2702	Gladiator's Handkerchief
 2703	Medtron Medicine Band
 2704	Lion hair belt of Heracles
-2705	​​Corona de la crmor de Esterópes
+2705	​​Corona of la crmor of Esterópes
 2706	Corona of the cry of Esterópes
 2707	Leader's handkerchief
 2708	Helm of Valkirias
@@ -2740,12 +2740,12 @@
 2739	Atlas handkerchief
 2740	Atlas handkerchief
 2741	Atlas handkerchief
-2742	Pañunelo de Heracles
-2743	Pañunelo de Heracles
-2744	Pañunelo de Heracles
-2745	Pañunelo de Heracles
-2746	Pañunelo de Heracles
-2747	Pañunelo de Heracles
+2742	Pañunelo of Heracles
+2743	Pañunelo of Heracles
+2744	Pañunelo of Heracles
+2745	Pañunelo of Heracles
+2746	Pañunelo of Heracles
+2747	Pañunelo of Heracles
 2748	Capaneo Scarf
 2749	Capaneo Scarf
 2750	Capaneo Scarf
@@ -3276,7 +3276,7 @@
 3275	talisman of Talos
 3276	talisman of Talos
 3277	Talisman of Talos
-3278	Talosán de Talos
+3278	Talosán of Talos
 3279	Attack GM50W
 3280	Attack 1 gm50w
 3281	Apprentice Talisman
@@ -3569,7 +3569,7 @@
 3568	Saturn's Rosary
 3569	Black Hole Rosary
 3570	Dragon's Rosary
-3571	Beads de la Arena
+3571	Beads of la Arena
 3572	Rosary of the Jewel
 3573	Rosary of the Rock
 3574	Mountain Rosary
@@ -3585,7 +3585,7 @@
 3584	Stalactite Rosary
 3585	Crystallization Rosary
 3586	Snow Rosary
-3587	Beads de la Onda
+3587	Beads of la Onda
 3588	Rosary of Ice
 3589	Tsunami Rosary
 3590	Holy Rosary
@@ -3596,12 +3596,12 @@
 3595	Rosary of Flames
 3596	Beads del Calor
 3597	Flaming Rosary
-3598	Beads de la Fusión
+3598	Beads of la Fusión
 3599	Rosary of the Fiery Dust
 3600	Lava Rosary
 3601	Hellfire Rosary
 3602	Brilliant Rosary
-3603	Beads de la Explosión Solar
+3603	Beads of la Explosión Solar
 3604	Rosary of the Precept
 3605	Rosary of the Precept
 3606	Rosary of the Precept
@@ -3612,7 +3612,7 @@
 3611	Rosary of Judgment
 3612	Rosary of Venus
 3613	Rosary of the Nebula
-3614	Beads de Andromeda
+3614	Beads of Andromeda
 3615	Beads del Ion
 3616	Electric Power Rosary
 3617	Pulsation Rosary
@@ -3626,18 +3626,18 @@
 3625	Galactic Rosary
 3626	Pegasus Rosary
 3627	Rosary of the Feathers
-3628	Beads de las Alas
-3629	Beads de la Niebla
+3628	Beads of las Alas
+3629	Beads of la Niebla
 3630	Gale's Rosary
 3631	Beads del Huracán
 3632	Rosary of Speed
 3633	Meteor's Rosary
-3634	Beads de la Libertad
+3634	Beads of la Libertad
 3635	Comet's Rosary
 3636	Rosary of Wisdom
 3637	Light of the current of Accounts_Category 11_Naranja
 3638	Light of the current of Accounts_Category 12_Naranja
-3639	Beads de la Luz
+3639	Beads of la Luz
 3640	Rosary of the Crystal Light
 3641	Rosary of the Aurora
 3642	Rosary of Serenity

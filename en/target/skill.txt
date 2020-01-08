@@ -76,7 +76,7 @@
 75	You need to be advanced to have the Gold Constellation to learn
 76	Skill
 77	Wrestling Skills
-78	Concentrated Practice:
+78	Submersible:
 79	LV %d max
 80	Free on the LV %d
 81	Active
@@ -717,7 +717,7 @@
 716	^O021^ffff00 Sacrifice Shield\r^O009^ffffff can absorb damage quantity. Immune to all control and interruption of skills during this time
 717	^O021^ffff00 Sacrifice Shield
 718	^O021 Shun-queimar equip DPS status auréola 3
-719	^O021 Shun-status of recuperação fora do campo de batalha 1
+719	^O021 Shun-status of recuperação fora do campo of batalha 1
 720	^O021 Shun-status of recovery within the field of batalha 1
 721	^O021 Shun-Status attack padrão 1
 722	^O021^ffff00Dimensional Strength Chain\r\r^O009^ffffff Increase of 50 %in Dimensional Chain Damage
@@ -735,14 +735,14 @@
 734	^O021^ffff00 Starlight gives liberdade
 735	^O021 Shun-Voltar ao Status of Potência Total 1
 736	^O021 Shun- Status Diminish Defiance 1
-737	^O021 Shun-Status Recolher or Mostro de Velocidade 1
+737	^O021 Shun-Status Recolher or Mostro of Velocidade 1
 738	^O021^ffff00 Corrente do Destino\r^O009^ffffff velocity of movimento reduziu 2 m/s.
 739	^O021^ffff00A Destination Chain
 740	^O021^ffff00 Shun - Status of Attack of Big Dano of Monstro 1
 741	^O021^ffff00 Corrente's Labyrinth\r^O009^ffffff speed of movement reduziu 3 m/s.
 742	^O021^ffff00 Corrente's Labirinto
 743	^O021 Dynamic Aura ^O009 Continue to Recover HP Quickly
-744	^O021 piscar-ferido extremidade de sucção status gatilho
+744	^O021 piscar-ferido extremidade of sucção status gatilho
 745	^O021^ffff00 Nebulous Light\r^O009^ffffff HP Continuous Recovery Index
 746	^O021^ffff00 Nebula Light
 747	^O021^ffff00Invoke - Keeper of the Constellation
@@ -772,12 +772,12 @@
 771	^O021^ffff00Pisces Guardian ★
 772	^O021 Shun-Attack Extra Large Dano of Monstro 2
 773	^O021 Dragão e Tigre_Transformação Shiryu 2
-774	^O021^ffff00 bênção Escudo\r^O009^ffffff Index of Absorption of Value Fixo de Danos, Minimize Danos Sofridos ao Máximo
+774	^O021^ffff00 bênção Escudo\r^O009^ffffff Index of Absorption of Value Fixo of Danos, Minimize Danos Sofridos ao Máximo
 775	^O021^ffff00 bênção Coat of Arms
 776	^O021^ffff00 Corrente's Labirinto
-777	^O021^ffff00 Interrogate Espião de Rozan with Torture 1
-778	^O021^ffff00 Interrogate Espião de Rozan with Torture 2
-779	^O021^ffff00 Status of Proteção de Rozan
+777	^O021^ffff00 Interrogate Espião of Rozan with Torture 1
+778	^O021^ffff00 Interrogate Espião of Rozan with Torture 2
+779	^O021^ffff00 Status of Proteção of Rozan
 780	^O021^ffff00586 Skills Continuam Sofrendo Danos\r^O009^ffffff HP index continues to diminish
 781	Skills continue to Suffer Damage 781 ^O021^ffff00586
 782	^O021^ffff00 Overthrow ^O009 ^0verthrow
@@ -1046,7 +1046,7 @@
 1045	^O021^ffff00 challenge of individual constellation 15
 1046	^O021^ffff00 main line Mask da Morte buff
 1047	^O021^ffff00 Linha main protect Dohko
-1048	^O021^ffff00 cosmo de ouro\r^O009^ffffff fenced by a magic força
+1048	^O021^ffff00 cosmo of ouro\r^O009^ffffff fenced by a magic força
 1049	^O021 galtatic war
 1050	^O021^ffff00 puppet of stars ^O009 ^ffffffYou were controlled hairs from the puppet rays of stars
 1051	^O021^ffff00 puppet of stars
@@ -1381,7 +1381,7 @@
 1380	^O021^ffff00Flaming Flames
 1381	^O021^ffff00 invalid 1
 1382	^O021^ffff00 torment\r^O009^ffffff feeling foolishness ...
-1383	^O021^ffff00 Inflamável\r^O009^ffffff mais vulneráveis ​​às chamas ardentes chamas de inferno and influência
+1383	^O021^ffff00 Inflamável\r^O009^ffffff mais vulneráveis ​​às chamas ardentes chamas of inferno and influência
 1384	^O021^ffff00 Inflamável
 1385	^O021^ffff00Deceleration\r^O009 ^ffffffEach second reduces the movement speed by 3m/s
 1386	^O021^ffff00 Ikki_Começa to move DEBUFF_status of invoking monster
@@ -1396,13 +1396,13 @@
 1395	^O021^ffff00 Ikki _estado repelir_repelir wrestle
 1396	^O021^ffff00 confusão\r^O009^ffffff já não sabe quem você é
 1397	^O021^ffff00 confusão
-1398	^O021^ffff00 Ikki_Punho Phantom_ status of invocação de monstro
+1398	^O021^ffff00 Ikki_Punho Phantom_ status of invocação of monstro
 1399	^O021^ffff00 Ikki_Domínio do Fogo_ status of invoking monster
 1400	^O021^ffff00 Ikki_histo invoke creatures_convoke surto
-1401	^O021^ffff00 Erupção Vulcânica\r^O009^ffffff taxa de lesõesf aumentou em 10%.
+1401	^O021^ffff00 Erupção Vulcânica\r^O009^ffffff taxa of lesõesf aumentou em 10%.
 1402	^O021^ffff00 Erupção Vulcânica
 1403	^O021^ffff00 Ikki_ Shield of Fogo_ Status of Shield
-1404	^O021^ffff00Scudo de Resurrección\r\r^O009^ffffff Absorbs damage
+1404	^O021^ffff00Scudo of Resurrección\r\r^O009^ffffff Absorbs damage
 1405	^O021^ffff00 Resurrection shield
 1406	^O021^ffff00Shadow Illusion\r^O009 ^ffffffPhoenix hides in the shadows, temporarily camouflaging himself.
 1407	^O021^ffff00Ilusion Shadow
@@ -1600,7 +1600,7 @@
 1599	^O021^ffff00 forms Iaido
 1600	^O021 dispersed form Iaido
 1601	^O021^ffff00 Ice Damage\r\r^O009^ffffff Decreases the resistance to damage
-1602	^O021^ffff00Maldición de Hielo
+1602	^O021^ffff00Maldición of Hielo
 1603	^O021^ffff00Cool Frozen ^r ^O009 ^ffffffReduces Diamond Dust consumption by 50%
 1604	^O021^ffff00Cycle
 1605	^O021^ffff00Pared Cold\r^O009 ^ffffffInmune to the following damage
@@ -1732,7 +1732,7 @@
 1731	^O021^ffff00 nebulous outbreak
 1732	^O021^ffff00 monsters Universal-teleport players
 1733	^O021^ffff00Reincarnation of Phoenix For a period of time you can no longer use the Reincarnation of the Phoenix
-1734	^O021^ffff00Reincarnación de Phoenix
+1734	^O021^ffff00Reincarnación of Phoenix
 1735	^O021^ffff00 Ikki-unleashed the war of talents skills
 1736	^O021^ffff00Fury of the Dragon\r\r^O009^ffffff Damage index reduced by 30%
 1737	^O021 lamella offended
@@ -1936,7 +1936,7 @@
 1935	The barrier nebula will absorb a large amount of damage.
 1936	^O021^ffff00 fuzzy barrier
 1937	^O021^ffff00Venew of the Network\r^O009 ^ffffffDisminution of continuous HP
-1938	^O021^ffff00Veneno de la Red
+1938	^O021^ffff00Veneno of la Red
 1939	^O021^ffff00 Broodlings original_style seat 2_Evocar
 1940	^O021^ffff00 fishnets\r^O009^ffffff can not be moved.
 1941	^O021^ffff00 fishnets Wounds
@@ -2151,7 +2151,7 @@
 2150	^O021^ffff00 real enchanted roses
 2151	^O021^ffff00 vampire\r^O009^ffffff continuously be a lot of damage.
 2152	^O021^ffff00 vampire
-2153	^O021^ffff00 Piranha Rose\r^O009^ffffff drugs can not respond
+2153	^O021^ffff00 Piranha Rose\r^O009^ffffff remedy can not respond
 2154	^O021^ffff00 Piranha Rose
 2155	^O021^ffff00 Gold of Saint Blessings
 2156	^O021^ffff00 Seven Seas_Neptune kneeling
@@ -2219,7 +2219,7 @@
 2218	^O021^ffff00 sete seas coluna_gaiola python escapement
 2219	^O021^ffff00 sete mares coluna_net pássaro
 2220	^O021^ffff00 sete mares coluna_armadilha animais
-2221	^O021^ffff00 sete mares coluna_teias de aranha
+2221	^O021^ffff00 sete mares coluna_teias of aranha
 2222	^O021^ffff00 cabelo as Snow Dragon\r^O009^ffffff open caixa do tesouro, to youthful tempo temporidoridorido.
 2223	^O021^ffff00 hair like a neve
 2224	^O021^ffff00 light\r^O009^ffffff speed increased slightly.
@@ -2227,7 +2227,7 @@
 2226	^O021^ffff00 recuperação\r^O009^ffffff constantly restored to life, provided hair building of armazenamento.
 2227	^O021^ffff00 attack\r^O009^ffffff attack power aumentou, furnished hair building of loja
 2228	^O021^ffff00 attack
-2229	^O021^ffff00 defesa\r^O009^ffffff increase as foras de defesa, a formação ministrada halos edifícios
+2229	^O021^ffff00 defesa\r^O009^ffffff increase as foras of defesa, a formação ministrada halos edifícios
 2230	^O021^ffff00Defensa
 2231	^O021 Legião qualificação _BOSS disperse
 2232	^O021 Qualifying_Legião building accessed by sangue
@@ -2238,9 +2238,9 @@
 2237	^O021 exclusive services
 2238	^O021^ffff00Qero Absolute Approximate\r^O009 ^ffffffReduce defense
 2239	^O021^ffff00Absolute Absolute Absolute
-2240	^O021^ffff00 caixão de gelo\r^O009^ffffff foi selado em um caixão de gelo entre
-2241	^O021^ffff00 caixão de gelo
-2242	^O021 Aquarius Camus - solução caixão de halo gelo
+2240	^O021^ffff00 caixão of gelo\r^O009^ffffff foi selado em um caixão of gelo entre
+2241	^O021^ffff00 caixão of gelo
+2242	^O021 Aquarius Camus - solução caixão of halo gelo
 2243	^O021 Aquarius Camus - Amanhecer Beak
 2244	^O021 Aquarius Camus - Universal estrache
 2245	^O021^ffff00 força psychic prisoner\r^O009^ffffff vigor érigado a ler não pode to be moved.
@@ -2258,9 +2258,9 @@
 2257	^O021^ffff00 bad Shield
 2258	^O021^ffff00 escuridão resposta\r^O009^ffffff answer 0.5% for life ends when bad or bad disappears protetor
 2259	^O021^ffff00 Reply escuro
-2260	^O021^ffff00 Quando caixão de gelo ar frio\r^O009^ffffff sustained sangue hair, litter overposta 30 will be frozen.
-2261	^O021^ffff00 caixão de ar frio gelo
-2262	^O021^ffff00 gelo caixão against\r^O009^ffffff vai lutar for trás quando atavo target, para o destiny com o caixão de ar frio de gelo.
+2260	^O021^ffff00 Quando caixão of gelo ar frio\r^O009^ffffff sustained sangue hair, litter overposta 30 will be frozen.
+2261	^O021^ffff00 caixão of ar frio gelo
+2262	^O021^ffff00 gelo caixão against\r^O009^ffffff vai lutar for trás quando atavo target, para o destiny com o caixão of ar frio of gelo.
 2263	^O021^ffff00 ice coffin counter attack
 2264	^O021 silver war - collect gas consumption
 2265	^O021^ffff00 Shield\r^O009^ffffff control is frozen, ice shield to protect the whole body, if the shield is broken, will suffer additional damage.
@@ -2945,11 +2945,11 @@
 2944	^O021^ffff00 Universal monster_raised from corpo fixo
 2945	^O021^ffff00 Cruz do Norte Guardião\r^O009^ffffff imunological control.
 2946	^O021^ffff00 do Norte Cruz Guardião
-2947	^O021^ffff00 Cruz do Norte Guardião\r^O009^ffffff taxa de lesões melhorar significantly.
+2947	^O021^ffff00 Cruz do Norte Guardião\r^O009^ffffff taxa of lesões melhorar significantly.
 2948	^O021^ffff00 Absolute Zone\r^O009 ^ffffffIncreases the damage suffered
 2949	^O021^ffff00 Curse to Cruz do Norte
-2950	^O021^ffff00 Cerberus efeito de luz
-2951	^O021^ffff00 Beluga efeito de luz assento
+2950	^O021^ffff00 Cerberus efeito of luz
+2951	^O021^ffff00 Beluga efeito of luz assento
 2952	^O021 opera house _0 universal call
 2953	^O021 theater _2 Palace Cássios efeito prontos light - Lei
 2954	^O021 theater _2 Palace Cássios efeitos prontos luz - fogo
@@ -3101,7 +3101,7 @@
 3100	^O021^ffff00 Imperial Food\r^O009^ffffff pill you take the Imperial Food tablets, can temporarily suppress forest power Eater
 3101	^O021^ffff00 Imperial Food Pill
 3102	^O021^ffff00 Orpheus Lire Blending ^O009\r^ffffffChance to trigger special effects during combat
-3103	^O021^ffff00Bendición de Lira de Orpheus
+3103	^O021^ffff00Bendición of Lira of Orpheus
 3104	^O021^ffff00 Medieval Shield Blessing\r^O009 ^ffffffChance of triggering special effects during combat
 3105	^O021^ffff00Blending of the Medusa Shield
 3106	^O021^ffff00 body will be taken under the shock of the earthquake temporarily unable to move.
@@ -3123,7 +3123,7 @@
 3122	^O021^ffff00 Lira Blending\r\r^O009^ffffff Increases damage by 60%
 3123	^O021^ffff00Biration of Lira
 3124	^O021^ffff00Guardian da Lira\r^O009 ^ffffffReduction of damage increases by 80%
-3125	^O021^ffff00Guardian de Lira
+3125	^O021^ffff00Guardian of Lira
 3126	^O021^ffff00 blessing Shield\r^O009^ffffff attacks ignore defense
 3127	^O021^ffff00 Blessing Shield of
 3128	^O021^ffff00 Guardian Shield\r^O009^ffffff all your target will be injured while Sinopec 80% reduction in status after being attacked five times disappear
@@ -3613,8 +3613,8 @@
 3612	^O021^ffff00 piece of information transfiguration chandelier harm reduction
 3613	^O021^ffff00 Gold Explosion\r^O009 ^ffffffActivates gold skills
 3614	^O021^ffff00 Gold Explosion
-3615	^O021^ffff00Recarga de Oro\r^O009 ^ffffffPower of the Gold Explosion\rDuring this period, the Golden Cosmo will not be unleashed again
-3616	^O021^ffff00Recarga de Oro
+3615	^O021^ffff00Recarga of Oro\r^O009 ^ffffffPower of the Gold Explosion\rDuring this period, the Golden Cosmo will not be unleashed again
+3616	^O021^ffff00Recarga of Oro
 3617	^O021^ffff00Cancelar flight
 3618	Precision Index Decreases by (75%)
 3619	^O021^ffff00Decrease of Precision
@@ -3629,7 +3629,7 @@
 3628	^O021 gold evolution_nebula swirl_status skills monster fairy pulled
 3629	^O021 Gold Fairy Evolution__ Summon Demons and Monsters Monster Status
 3630	^O021^ffff00 Athena's Willpower During this period the Determination skills become instantaneous
-3631	^O021^ffff00Valuntad de Athena
+3631	^O021^ffff00Valuntad of Athena
 3632	^O021 fairies gold__ evolution of light therapy Status Lun
 3633	^O021 gold evolution__ Phoenix meal slight reduction physical status
 3634	^O021^ffff00 Damage Protection Damage Reduction increases 40%
@@ -5378,7 +5378,7 @@
 5377	^O021^ffff00 Lion Guardian
 5378	^O021 Are 2 Status started Rights
 5379	^O021^ffff00Moral of Odes\r\r^O009^ffffff The greater the number of enemies near Odes, the greater its strength
-5380	^O021^ffff00Moral de Odes
+5380	^O021^ffff00Moral of Odes
 5381	^O021 Region 01 Resistance fighters Shrine forgotten to disperse
 5382	^O021 Seiya Passively increases all anti
 5383	^O021 Passively enhances all anti-ice
@@ -5746,7 +5746,7 @@
 5745	^O021 occupation gold soul
 5746	^O021 Reputation - Underworld melodias inferno
 5747	^O021^ffff00Alas Pegasus\r\r^O009^ffffff Increases speed of movement and resistance to damage
-5748	^O021^ffff00Alas de Pegasus
+5748	^O021^ffff00Alas of Pegasus
 5749	^O021^ffff00 Broken Armor\r^O009^ffffff Use Genma Star Death Axes Illusion of armor success, please invade the key!
 5750	^O021^ffff00 broken armor
 5751	^O021^ffff00 frozen ice cream ^FFFFFF avoid ice storm generated by the freeze effect
@@ -5768,8 +5768,8 @@
 5767	^O021^ffff00 confusion of the song
 5768	^O021^ffff00 revenge\r^O009^ffffff vindictive wrath makes you get hurt and endurance are greatly improved!
 5769	^O021Shadow of another world_Estrella Celeste of Ability_Dispersar BUFF of the Lava Beast
-5770	^O021Shadows of another world_Estrella Celeste de la Ability_Dispersar BUFF giving advantage over the element of ice and wind
-5771	^O021Shadows of another world_Estrella Celeste de la Ability_Dispersar BUFF giving advantage over lightning and wind element
+5770	^O021Shadows of another world_Estrella Celeste of la Ability_Dispersar BUFF giving advantage over the element of ice and wind
+5771	^O021Shadows of another world_Estrella Celeste of la Ability_Dispersar BUFF giving advantage over lightning and wind element
 5772	^O021^ffff00Crystal Seal\r^O009 ^ffffffThe effect of the Crystal Seal teleports people around
 5773	The extinction of Starlight\r^O009^ffffff reduce the resistance to damage.
 5774	^O021^ffff00 reduce the resistance of the abnormal status
@@ -5782,16 +5782,16 @@
 5781	^O021^ffff00 Dragon coercion\r^O009^ffffff dragon full force of body, increase damage.
 5782	^O021^ffff00 Coercion Dragon
 5783	^O021Shadows of another world_Estrella Celeste del Mal_Eliminar llamas
-5784	^O021Shadow of another world_Estrella Celeste del Mal_Eliminar de hielo
+5784	^O021Shadow of another world_Estrella Celeste del Mal_Eliminar of hielo
 5785	^O021Shadow of another world_Estrella Celeste del Mal_Liberar
-5786	^O021Shadows of another world_Estrella Celeste de la Ability_Contraataque
+5786	^O021Shadows of another world_Estrella Celeste of la Ability_Contraataque
 5787	^O021^ffff00 Star Protection\r^O009 ^ffffffIncrease damage reduction
 5788	^O021^ffff00 Star Protection
 5789	^O021^ffff00Universe of Light The Light Universe Power can control the Black Wind of the Region
 5790	^O021^ffff00Universe of Light
 5791	^O021 Shadow of another world_Control of the general dispersion
-5792	^O021Shadow of another world_Estrella Celeste de la Ability_Provocación
-5793	^O021Shadows of another world_Estrella Celeste de la Ability_Contra atacar immunity
+5792	^O021Shadow of another world_Estrella Celeste of la Ability_Provocación
+5793	^O021Shadows of another world_Estrella Celeste of la Ability_Contra atacar immunity
 5794	^O021^ffff00Acelerar ^Under the influence of the ice, the Frozen Giant increased its speed
 5795	^O021^ffff00Increase attack Under the influence of the Lava Beast, increased attack of the Skylight Celestial Star
 5796	^O021^ffff00Increase attack
@@ -5858,10 +5858,10 @@
 5857	^O021^ffff00Estrength of the Underworld: HP
 5858	^O021^ffff00Infrastructure: Damage\r^O009 ^ffffffIncreases the damage index
 5859	^O021^ffff00Infrastructure: Damage
-5860	^O021Shadows of another world_Estrella Celeste de la Abierta_Ataque de las Llamas
-5861	^O021Shadows of another world_Estrella Celeste de la Ability_Ice of Ice Crystals
-5862	^O021Shadows of another world_Estrella Celeste de la Ability_Inmunidad a las Llamas
-5863	^O021Shadows of another world_Estrella Celeste de la Ability_Inmunidad a Cristales de Hielo
+5860	^O021Shadows of another world_Estrella Celeste of la Abierta_Ataque of las Llamas
+5861	^O021Shadows of another world_Estrella Celeste of la Ability_Ice of Ice Crystals
+5862	^O021Shadows of another world_Estrella Celeste of la Ability_Inmunidad a las Llamas
+5863	^O021Shadows of another world_Estrella Celeste of la Ability_Inmunidad a Cristales of Hielo
 5864	^O021Protección_Dragón Marino_Disminuye Stamina
 5865	^O021Dragon Marine Protection_Increases the probability of resistance to critics
 5866	^O021^ffff00Divina Another Dimension_Jalar
@@ -5880,7 +5880,7 @@
 5879	^O021^ffff00 Rozan's Emerging Warrior\r^O009 ^ffffffReduction of Damage Reduction
 5880	^O021^ffff00Dragon Rising of Rozan
 5881	The main point of the attack, you feel your blood is boiling.
-5882	^O021^ffff00Veneno de Fuego
+5882	^O021^ffff00Veneno of Fuego
 5883	He was burned by the fire of the blessing of mythological beings and has lost the ability to move.
 5884	^O021^ffff00 Flame Mastery Under the influence of the Flame Mastery, the speed of flight and movement decreases.
 5885	^O021^ffff00Domain of Flames
@@ -6080,7 +6080,7 @@
 6079	^O021^ffff00 Rainbow's Causer
 6080	^O021^ffff00 Rainbow
 6081	^O021^ffff00 Pegasus Blessing\r^O009 ^ffffffWhen obtaining the Pegasus Blessing, the speed of movement increases
-6082	^O021^ffff00Bendición de Pegasus
+6082	^O021^ffff00Bendición of Pegasus
 6083	^O021^ffff00 PGP Platform Level 1 Prize\r^O009 ^ffffffIncreases 500 of the maximum HP index and, when killing monsters, increases 1% of the EXP obtained
 6084	^O021^ffff00 PGP Platform Level 1 Award
 6085	^O021^ffff00 PGP Platform Level 2 Prize\r^O009 ^ffffffIncreases 1000 of the maximum HP index and, when killing monsters, increases 2% of the EXP obtained
@@ -6139,7 +6139,7 @@
 6138	^O021^ffff00 Leo Technician
 6139	^O021 Activation Range of the Phoenix Technique
 6140	^O021^ffff00Reincarnation of the Phoenix\r^O009 ^ffffffIncreases the damage index
-6141	^O021^ffff00Reincarnación de Phoenix
+6141	^O021^ffff00Reincarnación of Phoenix
 6142	^O021^ffff00Genius Technique\r^O009 ^ffffffLearned the Gemini Technique!
 6143	^O021^ffff00Technology of Gemini
 6144	^O021Activate Sea Dragon Technical Skill
@@ -6467,7 +6467,7 @@
 6466	^O021^ffff00 Wind Sheet
 6467	^O021^ffff00 Destruction Hurricane\r^O009 ^ffffffRepelir
 6468	^O021^ffff00 Glory Candle Increases flight speed and damage
-6469	^O021^ffff00Selo de Glória
+6469	^O021^ffff00Selo of Glória
 6470	^O021^ffff00 Disapproval\r^O009 ^ffffffAtordoar
 6471	^O021^ffff00
 6472	^O021Iwan passive attack
@@ -7250,8 +7250,8 @@
 7249	Dragon boxing, can repel the enemy
 7250	L Dragon's Fist
 7251	Rozan esoteric, can beat the enemy
-7252	Over
-7253	Zi moves defense, can reduce damage
+7252	Dragon Protection
+7253	Dragon's defensive skills can increased damage reduction.
 7254	_ Attack of the Dragon Tiger
 7255	_ Dragon Claw Ray
 7256	Dragon_Tigers
@@ -7382,7 +7382,7 @@
 7381	Main Line of Beginners Village_Acelerate
 7382	Saori in person_Teleport
 7383	Rozan-Matar Swallows Secondary Line
-7384	Next on the Houses_Retrato de Cabeza that immobilizes the body with provocation
+7384	Next on the Houses_Retrato of Cabeza that immobilizes the body with provocation
 7385	Light of Vigor
 7386	Increases Defensive Nature
 7387	Regeneration of HP per second: {^FFABFC %d ^FFFF00}\rEffect depends on Andromeda Attack Power.
@@ -7526,8 +7526,8 @@
 7525	Protection of Aquarius - Blessing
 7526	Protection of Pisces - Blessing
 7527	Dragon and Tiger_Transformation Shiryu 2
-7528	Rozan_Habilidad de Espião del Santuário 1
-7529	Rozan_Habilidad de Espião del Santuário 2
+7528	Rozan_Habilidad of Espião del Santuário 1
+7529	Rozan_Habilidad of Espião del Santuário 2
 7530	Rozan Shadow Spy Ability 3
 7531	Starlight Extinction
 7532	Additional Attack: {^FFABFC %d ^FFFF00}\rBonus Earth Damage: {^FFABFC %d ^FFFF00}\rBonus Fire Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: { ^FFABFC %d ^FFFF00}\rBonus Air Damage: {^FFABFC %d ^FFFF00}\r Cause Damage {^FFABFC %d%% ^FFFF00}
@@ -7952,7 +7952,7 @@
 7951	%s Increases initial heal and damage reduction of ^c0c0ff[%s]^FFFF00 by 50%% Exclusive Signing ability: ^00FF00 %s Andromeda ^FFFF00
 7952	^c0c0ffNeedded Nr.24 of Andromeda Armor ^A2FFFF
 7953	Eternal Conflict
-7954	Applies to the allied target the Amnesty of Hades and Soul of Hades. \t ^00FF00Amnistía de Hades ^FFFF00\rAl suffer lethal damage, it returns to life with %d%% of its maximum HP.\rDuration: %ds \t ^00FF00Alarm of Hades ^FFFF00\rBlocks damage suffered \ 20%% maximum HP of Andromeda\rDuration: 8s\r\ n Exclusive Signability: ^00FF00 %s Andromeda ^FFFF00
+7954	Applies to the allied target the Amnesty of Hades and Soul of Hades. \t ^00FF00Amnistía of Hades ^FFFF00\rAl suffer lethal damage, it returns to life with %d%% of its maximum HP.\rDuration: %ds \t ^00FF00Alarm of Hades ^FFFF00\rBlocks damage suffered \ 20%% maximum HP of Andromeda\rDuration: 8s\r\ n Exclusive Signability: ^00FF00 %s Andromeda ^FFFF00
 7955	^c0c0ffNeedded LV.32 of the Andromeda Armor ^A2FFFF
 7956	Incentive
 7957	^c0c0ff[%s]^FFFF00 removes control status from Andromeda and its allies. This effect occurs only once every 12s Signal exclusive of: ^00FF00 %sAndromed ^FFFF00
@@ -8131,10 +8131,10 @@
 8130	Swallow
 8131	Sprinkling flour
 8132	Give gift
-8133	Coup de Leandro
+8133	Coup of Leandro
 8134	Withdraw
 8135	Render
-8136	Smoke Pump
+8136	Smoke Bomb
 8137	Cure
 8138	Stand up
 8139	Leo's Fist
@@ -8362,8 +8362,8 @@
 8361	Additional Damage: %d\rDamage: %d%%\r^c0c0ff [Power Capsule] ^FFFF00\rReduction of Damage: %d\rDuration: 10s
 8362	^ff0000 little space when you can use enemies ^A2FFFF on a damage line and reduces the enemy hit for a period of time when the release of damage skills is reduced by 30 %%
 8363	For his own enemies within the range of 7 meters of damage caused by the release of skills for low effect when the damage is reduced by 30 %%
-8364	reincarnation
-8365	Additional attack: %d damage %d%% caused ^c0c0ff [reincarnation] ^FFFF00silence for 5 seconds.
+8364	Transmigration to the Six Paths
+8365	Additional attack: %d damage %d%% caused ^c0c0ff [Transmigration to the Six Paths] ^FFFF00silence for 5 seconds.
 8366	^ff0000 Little space when you can use ^A2FFFF to enemies within 10 yards around each other, causing damage and silencing effect when releasing the skills skills suffered by 30 %%
 8367	Ring of Heavenly Treasure
 8368	Increase your own defense power during the release of the skill %d\rAdditional attack power: %d\r causes %d%% damage
@@ -9090,7 +9090,7 @@
 9089	^c0c0ffNeed Survice LV.10 of Aldebaran ^A2FFFF
 9090	Chaotic Wind
 9091	If the Domain bar is at 80%% ^c0c0ff[%s]^FFFF00 will remove the target from the ground, preventing him from using abilities, even if the skill animation has altered\rThe Exclusive Sign of: ^00FF00 %s Andromeda ^FFFF00
-9092	^c0c0ffNeedario LV.24 de Surplice de Aldebaran ^A2FFFF
+9092	^c0c0ffNeedario LV.24 of Surplice of Aldebaran ^A2FFFF
 9093	Divine Fury
 9094	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 Increase the value of the Shenwei field by 80%% per time. Soul exclusive guardian constellation: ^00FF00%s Andromeda ^FFFF00
 9095	^c0c0ff Needs Survival LV.16 of Aldebaran ^A2FFFF
@@ -9436,7 +9436,7 @@
 9435	Additional Attack: {^FFABFC %d ^FFFF00} attacked five times, totaling {^FFABFC %d%% ^FFFF00} damage to ground targets damage reduced by 50 %%
 9436	Additional Attack: %d attacked 5 times in a total of %d%% damage on target ground damage reduced by 50 %%
 9437	continuous beam at the target ejection pole, up to 5 times the attack
-9438	Don de Gloria
+9438	Don of Gloria
 9439	After the Good Explosion, the status of ^00FF00Flower of Life ^FFFF00 is activated, each stack recovers {^FFABFC %d ^FFFF00} from HP / s and accumulates up to 4 stacks\rDuration: 8s \ : ^00FF00 %s Dragon of the Sea ^FFFF00
 9440	After the Blast of Good, the status of ^00FF00Flor of Life ^FFFF00 is activated, each stack recovers %d HP / s and accumulates up to 4 stacks\rDuration: 8s\rExclusive Signability of: ^00FF00 %s Dragon of the Sea ^FFFF00
 9441	^c0c0ffNeedings LV.12 of Queen's Armor ^A2FFFF
@@ -9717,7 +9717,7 @@
 9716	Life Response: {^FFABFC %d ^FFFF00} additional recovery amount for each status: {^FFABFC %d ^FFFF00} targets on the ground to reduce the effect of 50 %%
 9717	Restores Life: %d additional recovery value of each status: %d reduce the effects of the target soil 50 %%
 9718	In blue targets for pale blood treatment while according to target body ^00FF00Blue blue coloration ^A2FFFF stacks additional recovery value after the onset of phagocytic target ^00FF00blue light ^A2FFFF blessing and ^00FF00benzion ^A2FFFF, just companions team and their own release
-9719	Starting distance: 15m\r^00FF00Sangre de Vida ^FFFF00\rServe yourself and healing to your teammates within an area of ​​5m; each second recovers {^FFABFC %d ^FFFF00} from HP, has duration %ds\reduce the effects caused by the terrestrial targets by 50%%
+9719	Starting distance: 15m\r^00FF00Sangre of Vida ^FFFF00\rServe yourself and healing to your teammates within an area of ​​5m; each second recovers {^FFABFC %d ^FFFF00} from HP, has duration %ds\reduce the effects caused by the terrestrial targets by 50%%
 9720	Tear distance: 15m\r^00FF00 Lifeblood ^FFFF00 ^Holds himself and his healing teammates within an area of ​​5m, every second recovers %d HP,\rtains a duration %dry substance, reduces the effects caused by plant is oriented to 50 %%
 9721	Sprint fast forward, but they won ^00FF00sangue of life ^A2FFFF status
 9722	Additional attack: {^FFABFC %d ^FFFF00}\rcausa {^FFABFC %d%% ^FFFF00} damage,\rreduction of damage caused by land targets by 50%%\r^00FF00 Glorious repression ^FFFF00\rAl receive glorious repression, can not move, lasts for 3s
@@ -10097,10 +10097,10 @@
 10096	^c0c0ff Needs 10 Papillon Surplice ^A2FFFF
 10097	Dragon Feroz
 10098	Wyvern form: ^c0c0ff[%s]^FFFF00 has the cooldown reduced by 5s\rHuman Form: ^c0c0ff[%s]^FFFF00 has Reduces cooldown by 10s\rExclusive ability of Sign: ^00FF00 %s Wyvern ^FFFF00
-10099	^c0c0ffNeissario LV.16 of Surplice de Papillon ^A2FFFF
+10099	^c0c0ffNeissario LV.16 of Surplice of Papillon ^A2FFFF
 10100	Strong Dragon
 10101	Use ^c0c0ff[%s]^FFFF00 increases by 30%% max HP and restores HP Human Form: ^c0c0ff[%s]^FFFF00 adds 10 Rage points Exclusive Sign Attribute: ^00FF00 %s Wyvern ^FFFF00
-10102	^c0c0ffNeissario LV.24 de Surplice de Papillon ^A2FFFF
+10102	^c0c0ffNeissario LV.24 of Surplice of Papillon ^A2FFFF
 10103	Ao Lufei moves, causing general damage of the magic flower.
 10104	Termination of Strings
 10105	Ao Lufei moves, causing huge damage to the magic flower.
@@ -10633,7 +10633,7 @@
 10632	Throws love roses, the probability that in ^00FF00 roses ^A2FFFF status
 10633	Gift of love
 10634	Although the enemy, or to give you full of love ~
-10635	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage reduces damage caused by land targets by 50%%All effects of gifts will only be effective against players . ^00FF00corazón seductive ^FFFF00La velocidad de vuelo y el movimiento if reduce 4m/s, 4s ^00FF00corazón intoxicating ^FFFF00can not move, 4s ^00FF00corazón Silencer ^FFFF00Silences for 4s ^00FF00corazón petrified ^FFFF00petrifica 4s ^00FF00corazón Entusiasmante ^FFFF00burns , every second suffers {^FFABFC %d ^FFFF00} damages, 4s ^00FF00 heart without mercy ^FFFF00 immediate death, only has effect on the level of the players smaller than the own
+10635	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage reduces damage caused by land targets by 50%%All effects of gifts will only be effective against players . ^00FF00corazón seductive ^FFFF00La velocidad of vuelo y el movimiento if reduce 4m/s, 4s ^00FF00corazón intoxicating ^FFFF00can not move, 4s ^00FF00corazón Silencer ^FFFF00Silences for 4s ^00FF00corazón petrified ^FFFF00petrifica 4s ^00FF00corazón Entusiasmante ^FFFF00burns , every second suffers {^FFABFC %d ^FFFF00} damages, 4s ^00FF00 heart without mercy ^FFFF00 immediate death, only has effect on the level of the players smaller than the own
 10636	Additional Attack: %dcause %d%% damage. reduces the damage caused by ground targets by 50%%All effects of gifts will only have effect on players. ^00FF00 seductive heart ^FFFF00The speed of flight and movement is reduced to 4m/s, 4s ^00FF00Intoxicating heart ^FFFF00no can be moved, 4s ^00FF00 Heart Silencer ^FFFF00Silences for 4s ^00FF00 petrified heart ^FFFF00petrifica 4s ^00FF00 Heart Enthusiasm ^FFFF00 is burnt by fire, every second suffers damage %d, 4s ^00FF00 heart without mercy ^FFFF00 immediate death, is effective for lower level players who the own
 10637	Launches multiple gift box, make enemies within 8 yards of random get the effect of love, and there is a very low probability of getting ^00FF00 heart effect ^A2FFFF cold
 10638	Blessing of love
@@ -11234,7 +11234,7 @@
 11233	\t ^c0c0ff [Bloodwing Blood Curse] ^FFFF00Yeovil extreme blood targets, the target and nearby enemies, causing huge damage, and immediately reduce target health maximum 6%% of life, accompanied by the outbreak of bloody catastrophe effect; The effect of the blood curse outbreak: after 6 seconds to make their own allied players bypass the blood curse effect, reduce the maximum value of life 1%% of life per second for 8 seconds, the blood curse effect does not is lethal. Spoiled %d %%. ^c0c0ff [Wing Blood Wings] ^FFFF00 Yeovil Blood Wings to protect the side of the host, constantly knocking around and fighting enemies for 8 seconds; and reduce owner damage 80 %%, was attacked 10 times after the disappearance of the status for up to 12 seconds. When releasing the trigger comes with control effects (Squire was also attacked frequency of consumption) \t artifact value of probability trigger effect associated with the divine.
 11234	Blessing after obtaining the use of six demon animals, fighting probability trigger ^c0c0ff [Bloodwing curse of blood] ^A2FFFF or ^c0c0ff [winged blood wings] ^A2FFFF
 11235	inflammatory
-11236	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground reduced damage 50%% ^00FF00 drugs ^FFFF00 Inflammatory speed flight reduced to 5 m/s for 4 seconds
+11236	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground reduced damage 50%% ^00FF00 remedy ^FFFF00 Inflammatory speed flight reduced to 5 m/s for 4 seconds
 11237	Additional attack: %d causes damage %d%% damage to ground targets reduced by 50%% ^00FF00 inflammatory ^FFFF00 flight speed reduced to 5 m/s, 4 sec
 11238	Cerberus toxins target version, enter target probability ^00FF00 inflammatory status ^A2FFFF
 11239	toxic flame
@@ -11791,7 +11791,7 @@
 11790	The Lucky Kirin activates the power of fire and resounds with the sky and the earth, building the Domain of Flames. Deals damage to enemies within an area of ​​10m around them and adds the effect of ^00FF00Domain of Flames
 11791	Arrival of the God of Fire
 11792	^00FF00Agreement of the God of Fire ^FFFF00 increases the damage index by %d %%, lasts for 8s
-11793	Kirin de Suerte invokes the power of the God of Fire to help her eliminate evil
+11793	Kirin of Suerte invokes the power of the God of Fire to help her eliminate evil
 11794	Shadow Wave
 11795	Throws a charged Shadow wave, dealing damage to the enemy.
 11796	Bursting Explosion

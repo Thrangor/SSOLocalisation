@@ -1313,4 +1313,3 @@
 1312	^811f0c Click on the redemption list to receive the ^ff0000 star coupon ^811f0c reward issued according to the highest ranking in history
 1313	Click the Challenge button to challenge your opponent
 1314	Click here to return to the previous interface
-
