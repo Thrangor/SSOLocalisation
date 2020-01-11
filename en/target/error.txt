@@ -297,7 +297,7 @@
 296	LINK - the server does not support that request
 297	Network communication error between servers
 298	LINK - repeat the login, currently, the account is blocked, please wait 5 minutes
-299	LINK - repeat the login, the account is currently blocked, please check the force login
+299	The account is alredy connected, please use the Forced login option.
 300	LINK - Nonce index invalid
 301	LINK - Error logging out
 302	LINK - Error in the game server's attempt to obtain player character information

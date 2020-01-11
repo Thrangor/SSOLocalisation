@@ -339,7 +339,7 @@
 338	Create Guild alliance
 339	Guild Alliance List
 340	Element Transfer
-341	Change amount of Astro EXP
+341	Astro EXP
 342	Enter the competition arena
 343	Discover adversary of the current field
 344	Consult facts of war

@@ -314,7 +314,7 @@
 313	Squire blocked, it is not possible to replace the equipment that has
 314	Attribute
 315	Don
-316	Current Practice
+316	Practice
 317	Maximum Practice
 318	LV Maximum
 319	Attack

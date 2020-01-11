@@ -2738,7 +2738,7 @@
 2737	What happened? I felt the small fluctuations in the universe!
 2738	Do these flowers appear to be branching incubators in the existence of evil, while the incubation period, without risk of destroying them or waiting for it to end hatch? But dangers and opportunities, specifically, how you choose to look!
 2739	The children are out of it! These bugs to show them.
-2740	to Yaoxing
+2740	Waves
 2741	Oh! What the hell, as soon as possible to buy something, I would go back to get it.
 2742	forces of the underworld began to invade the base Guild!
 2743	Meng Day Star Rhadamanthus appeared in the middle!
@@ -3676,12 +3676,12 @@
 3675	Defeat the Predecessor of Aquarius
 3676	Defeat the Pisces Antecessor
 3677	You have a break!
-3678	Milestones
-3679	0/5 for Yaoxing
-3680	1/5 to Yaoxing
-3681	2/5 for Yaoxing
-3682	3/5 for Yaoxing
-3683	4/5 for Yaoxing
+3678	Hatchery
+3679	Wave 0/5
+3680	Wave 1/5
+3681	Wave 2/5
+3682	Wave 3/5
+3683	Wave 4/5
 3684	Sphinx 0/1
 3685	A copy of the clearance
 3686	competitive way to achieve your goals
