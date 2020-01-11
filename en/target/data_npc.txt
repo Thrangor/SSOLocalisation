@@ -6452,7 +6452,7 @@
 6451	Armor
 6452	Sagittarius
 6453	Armor
-6454	Black Attacker
+6454	Black Invader
 6455	Snow Lotus Guard
 6456	The claw of the ice knights
 6457	The zombies of Yomotsu
@@ -8794,7 +8794,7 @@
 8793	Resurrection! The legend of the Colosseum
 8794	Resurrection! Dead gladiators
 8795	Divisional surrender test instance zone service
-8796	Incubation! Nest of infernal butterflies
+8796	Butterfly Nest.
 8797	Dwarf Bow 3 Pisces Service
 8798	Service of the bow dwarf 3 Pounds
 8799	Service of the bow dwarf 3 Leo
@@ -14767,7 +14767,7 @@
 14766	Prayer
 14767	Crystal resources
 14768	Collect
-14769	Powder magazine
+14769	Gunpowder Barrel
 14770	atheist
 14771	Monthly Libra _ Previous generation of gold 01
 14772	Monthly Libra _ Previous generation of gold 02

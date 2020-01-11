@@ -10476,8 +10476,8 @@
 10475	Absorption of fifty percent damages like this
 10476	Give to what will be a shining shield
 10477	Libra: Dohko the Golden Gun
-10478	\t ^c0c0ff [Golden Gun Granville] ^FFFF00 gold strike at the target and stuck to the ground, around the target and cause a lot of damage and knocked down four seconds, and then give everyone the additional goal of Viagra effect Pistol of Gold. reduction targets 10 all abnormal resistance status, damage for 15 seconds %d%% ^c0c0ff [Golden Pistol care] ^FFFF00 Golden Pistol protect the owner, so the owner of the enemy attack to obtain the deterrent effect of the scales every three seconds stun 1.5 seconds to shoot three times, and to reduce owner damage 80 %%, was attacked 10 times after the disappearance of the status for up to 12 seconds. When releasing the trigger comes with control effects (Squire was also attacked frequency of consumption) \t artifact value of probability trigger effect associated with the divine.
-10479	Libra Blessing get accustomed after the fight provoked probability ^c0c0ff [Golden Gun Granville] ^A2FFFF or ^c0c0ff [Golden Care Gun] ^A2FFFF
+10478	\t ^c0c0ff [Golden Gun Barrage] ^FFFF00 knock down the enemy for four secounds and cause alot of damage\r Apply the debuff to the target which will reduce abnormal resistance by 10\r and damage the target for 10 secs by %d%% of the damage\r ^c0c0ff [Golden Pistol Protection] ^FFFF00 Golden Pistol will protect the owner, obtain a buff which will stun\r the target three times for 1.5 secounds, and reduce owner suffered damage by 80 %%.\r Artifact trigger probability is associated with the divine level.
+10479	Libra Blessing trigger a special effect of ^c0c0ff [Golden Gun Barrage] ^A2FFFF or ^c0c0ff [Golden Gun Protection] ^A2FFFF
 10480	Lava Explosion
 10481	Fire Blast
 10482	fire energy source

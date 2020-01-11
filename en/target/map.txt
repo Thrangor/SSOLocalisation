@@ -291,7 +291,7 @@
 290	New 3 Arches: Libra
 291	Grand Coliseum
 292	Invasion! The Avengers
-293	Incubation! The Infernal Butterfly Nest
+293	Butterfly Nest
 294	Anguish! Sonata of Hell
 295	Resurrection! The Dead Warriors
 296	The Dimension of the Pandora's Box

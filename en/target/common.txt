@@ -427,9 +427,9 @@
 426	EXC
 427	Buying any Star value, you will be promoted to VIP level 1!
 428	1. Portable warehouse \r2. Portable perfecting \r3. "Reward" system, the reward prize accumulates for a maximum of 1 day
-429	1. Claveteado of Runa portable \r2. Portable store \r3. Perfecting portable
-430	1. Portable mail \r2. Item Mall VIP \r3. Claveteado of Runa laptop \r4. Portable store \r5. Perfecting portable
-431	1. Portable Auction House \r2. Portable mail \r3. Claveteado of Runa laptop \r4. Portable store \r5. Portable upgrading and VIP Mall Item
+429	1. Portable Rune Inlay \r2. Portable store \r3. Perfecting portable
+430	1. Portable mail \r2. Item Mall VIP \r3. Portable Rune Inlay \r4. Portable store \r5. Perfecting portable
+431	1. Portable Auction House \r2. Portable mail \r3. Portable Rune Inlay \r4. Portable store \r5. Portable upgrading and VIP Mall Item
 432	1. Receives the permanent effect title "Full Portfolio" \r2. Maintains the privileges of VIP LV4 \r3. Increase the current limit of the "Reward" system in 2 days.
 433	1. Receive the permanent effect title "Dancing with Gold" \r2. Maintains VIP LV4 privileges
 434	1. Receive the permanent effect title "Implacable Miner" \r2. Enable the use of VIP chat \r3. Maintains the privileges of VIP LV4 \r4. Increase the current limit of the "Reward" system in 3 days.

@@ -111,7 +111,7 @@
 110	Click to find the path to the Sanctuary, where the ^ffd700Artífice ^ffffff is located
 111	Consumption in Perfecting
 112	To improve equipment you need to consume ^ffd700Luz Spiritual and Demonic Blood ^ffffff, which can be obtained in all major multiplayer events. ^^Ffffff FFD700 Demonic Blood can also be bought at the Item Mall
-113	In ffd700Maestro  ^^ffffff use Improvement function ^^ffd700Claveteado Runa ffffff for clavetear ffd700Runa ^^ffffff in equipment
+113	In ffd700Maestro  ^^ffffff use Improvement function ^^ffd700Rune Engrave ffffff for clavetear ffd700Runa ^^ffffff in equipment
 114	Rune
 115	The ^ffd700Runa ^ffffff is made with the ^ffd700 Crafting Capability ^ffffff. It is necessary to use the ^ffd700 Book of Spells ^ffffff
 116	Crafting Rooms

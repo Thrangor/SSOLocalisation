@@ -1506,8 +1506,8 @@
 1505	Damage
 1506	Rank
 1507	Name
-1508	current HP Boss:
-1509	Summary of damages caused to Boss:
+1508	Boss HP:
+1509	Dmg. Info:
 1510	Close window
 1511	Choose the most suitable for your transmission
 1512	Confirm opening in the background transmission
@@ -2410,8 +2410,8 @@
 2409	Progress:
 2410	Limit:
 2411	Limit:
-2412	Current practice:
-2413	Current practice:
+2412	Practice:
+2413	Practice:
 2414	Evolution
 2415	Absorption
 2416	EXP obtained:
@@ -3362,7 +3362,7 @@
 3361	Draw x10
 3362	Use hero points 100
 3363	Draw x1
-3364	The Duel Arena is open every day at 7:00 p.m. You will receive Cash according to \rtu Rank, as well as receive bonus points \ dof duel.
+3364	Duel Arena is open every day at 7:00 p.m.\rYou will receive Cash according to \ryour Rank, as well as bonus points.
 3365	Change series of opponents
 3366	Level UP manually.
 3367	asfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdf
@@ -4415,11 +4415,11 @@
 4414	Name of the player with eight characters
 4415	Name of the player with eight characters
 4416	Name of the player with eight characters
-4417	Grand Master Election
-4418	Number of possible votes:
+4417	Election
+4418	Votes:
 4419	2 days and 20 hours
-4420	Distance to the end of the vote:
-4421	Receive free paper for voting
+4420	Ends in:
+4421	Free vote
 4422	Explain elections
 4423	Standards
 4424	Turn right
@@ -5918,7 +5918,7 @@
 5917	Cancel
 5918	Maximum level
 5919	Recommendations
-5920	Description: \rCombinating the gems of the shell correctly and reaching a certain level, the special abilities are activated \r Level 50: Protection LV 1 - elemental protection effect \r Level 100: Protection LV 2 - resistance to element +15
+5920	Description: Combine the gems correctly to unlock their hidden abilities. \r Level 50: Protection LV 1 - elemental protection effect \r Level 100: Protection LV 2 - resistance to element +15
 5921	Sign:
 5922	Recommended combination:
 5923	Earth Resistance + 15: So l + Moon + Mercury + Mars + Hades
@@ -8384,9 +8384,9 @@
 8383	100/200
 8384	Next level
 8385	1000
-8386	Star force value：
+8386	Star Power：
 8387	99/100
-8388	Advanced star power：
+8388	Star Power：
 8389	12
 8390	123456789
 8391	Click to receive daily check-in rewards
@@ -8405,14 +8405,14 @@
 8404	1987654321
 8405	30/90
 8406	Summon
-8407	Refresh qualification
-8408	Carrying grade:
-8409	Elemental Attack:
-8410	hits:
+8407	Practice
+8408	Equip lvl:
+8409	Ele. Attck.:
+8410	Accuracy:
 8411	Crit:
 8412	Guardian Star:
-8413	The most qualified:
-8414	Qualification Bonus:
+8413	Q. Limit:
+8414	Q. Bonus:
 8415	Intimacy:
 8416	intimacy
 8417	99999999
