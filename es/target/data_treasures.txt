@@ -780,17 +780,17 @@
 779	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 780	Luz de Determinación de Metis
 781	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
-782	Paquete de regalo de devolución de los puntos de Cáncer
+782	Paquete de regalo de devolución de los puntos de Leo
 783	...
-784	Regalo de Cáncer (Excelente)
+784	Regalo de Leo (Excelente)
 785	...
-786	Regalo de Cáncer (Supremo)
+786	Regalo de Leo (Supremo)
 787	...
-788	Paquete de regalo de devolución de los puntos de Cáncer
+788	Paquete de regalo de devolución de los puntos de Leo
 789	
-790	Regalo de Cáncer (Excelente)
+790	Regalo de Leo (Excelente)
 791	...
-792	Regalo de Cáncer (Supremo)
+792	Regalo de Leo (Supremo)
 793	...
 794	Memento de Anima*1
 795	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.

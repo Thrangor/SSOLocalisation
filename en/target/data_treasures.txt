@@ -780,17 +780,17 @@
 779	The will of the intelligent goddess allows you to relearn combat skills.
 780	Metis Determination Light
 781	The will of the intelligent goddess allows you to relearn combat skills.
-782	Cancer Gift Pack
+782	Leo Gift Pack
 783	...
-784	Cancer Gift (Excellent)
+784	Leo gift (Excellent)
 785	...
-786	Gift of Cancer (Supreme)
+786	Gift of Leo (Supreme)
 787	...
-788	Cancer Gift Pack
+788	Leo Gift Pack
 789	
-790	Cancer Gift (Excellent)
+790	Leo gift (Excellent)
 791	...
-792	Gift of Cancer (Supreme)
+792	Gift of Leo (Supreme)
 793	...
 794	Memento of Anima*1
 795	When used in Anima, it enhances the intensified experience.

@@ -780,17 +780,17 @@
 779	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
 780	Luz da Determinação de Métis
 781	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-782	Pacote de presente de devolução dos pontos de Câncer
+782	Pacote de presente de devolução dos pontos de Leão
 783	...
-784	Presente de Câncer (Sublime)
+784	Presente de Leão (Sublime)
 785	...
-786	Presente de Câncer (Supremo)
+786	Presente de Leão (Supremo)
 787	...
-788	Pacote de presente de devolução dos pontos de Câncer
+788	Pacote de presente de devolução dos pontos de Leão
 789	
-790	Presente de Câncer (Sublime)
+790	Presente de Leão (Sublime)
 791	...
-792	Presente de Câncer (Supremo)
+792	Presente de Leão (Supremo)
 793	...
 794	Memento de Anima*1
 795	Quando usado no  Protoss, aprimora a experiência intensificada.

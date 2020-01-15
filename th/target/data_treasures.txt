@@ -780,17 +780,17 @@
 779	聪慧女神的意志使你能重新学习战斗技能。
 780	Light of Metis
 781	聪慧女神的意志使你能重新学习战斗技能。
-782	Cancer Box II
+782	Leo Box II
 783	...
-784	Cancer Gift(Top)
+784	Leo Gift (Top)
 785	...
-786	Cancer Gift(EX)
+786	Leo Gift (EX)
 787	...
-788	Cancer Box II
+788	Leo Box II
 789	
-790	Cancer Gift(Top)
+790	Leo Gift (Top)
 791	...
-792	Cancer Gift(EX)
+792	Leo Gift (EX)
 793	...
 794	Protoss keepsake*1
 795	星灵强化时使用，可提升强化经验倍率。
