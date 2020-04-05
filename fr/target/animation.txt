@@ -348,9 +348,9 @@
 347	Fly, Dragon Reborn! Fight with your teammates!
 348	Battle The Deadly Battle
 349	We continue in the direction
-350	to the raven's trail
+350	to the Corbeau trail
 351	and we found an old friend!
-352	The Argent knight, Crow Jamian.
+352	The Chevalier d'Argent, Crow Jamian.
 353	We must stay by Athena's side!
 354	Marine announcement, before leaving, left me confused!
 355	Athena should not be in the Sanctuaire?
@@ -384,9 +384,9 @@
 383	The task of destroying the Phoenix falls on your shoulders.
 384	Episode 2 - Phoenix! Deadly Battle of the Cave of the Ten Winds!
 385	Chapter IV - Faith! The Knights of the Goddess!
-386	Chapter 1 - Punishment The Argent Knights!
+386	Chapter 1 - Punishment The Chevalier d'Argent!
 387	Episode 2 - Fangs! The Lion Or Fists!
-388	Crow's Argent knight Jamian emerged in front
+388	Crow's Chevalier d'Argent Jamian emerged in front
 389	Two years ago ...
 390	In the Bamboo Forest of Rozan
 391	Volume V - Chase! Knowing the truth of men!
@@ -425,7 +425,7 @@
 424	Time seems to return for the apprentice period of Hyoga
 425	The Siberian cold, the joint training of two aspiring Knights
 426	Of course, there is still value and justice in Isaak
-427	Volume I - Seal! The power of the Emperor of the Seas!
+427	Volume I - Seal! The power of the Empereur des Mers!
 428	Memories! Justice Aurora!
 429	Cold, cold, cold
 430	Here death came like a severe cold!
@@ -806,7 +806,7 @@
 805	They can not die and suffer eternally, hating every living thing!
 806	Enjoy!
 807	Are you kidding? I do not want to die in a place like this!
-808	Since they insist on resisting ...
+808	Since they insist on Résisting ...
 809	I'm going to send you personally down there!
 810	Hey, brother!
 811	Hey, sister!
@@ -1122,7 +1122,7 @@
 1121	Only about my corpse!
 1122	It seems that the difference between the strength of a golden knight and yours is not yet clear!
 1123	How is it possible ?? I can not see his hit!
-1124	It is useless to resist! You are not a rival to me
+1124	It is useless to Résist! You are not a rival to me
 1125	I'll never let you take your armor!
 1126	How strong!
 1127	Even if he loses his life ...
@@ -1283,7 +1283,7 @@
 1282	Forget, Alexer!
 1283	I'm going to stop your conspiracy and get the Oricalco
 1284	It's really ... A pity
-1285	This is the resistance I expected!
+1285	This is the Résistance I expected!
 1286	Blue impulse!
 1287	Attack!
 1288	The Knight of the Cygne will never yield!

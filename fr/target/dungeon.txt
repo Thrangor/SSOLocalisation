@@ -82,15 +82,15 @@
 81	Already participated in the Dream of the Goddess
 82	${name} já participou de <Aquário! Exceptional Strike>
 83	Já participou de <Aquário! Exceptional Strike>
-84	Battle Objective:
+84	Objectif :
 85	Wait for the start of the fight
 86	Soldat [Lieu Saint] %d / 30
-87	Soldat [Sanctuaire] %d / 30 \rArgol of Perseus %d / 1 \rMisty of Lizard %d / 1
-88	Defeat the enemies that came to attack Saori \r1a horde %d / 18 \r2a horde %d / 22 \r3a horde %d / 21 \r4th horde %d / 18
-89	Raven Jamian %d / 1
-90	Tremi of Sagita %d / 1
+87	Soldat [Sanctuaire] %d / 30 \rArgol de Persée %d / 1 \rMisty du Lezard %d / 1
+88	Eliminer les ennemis qui s'attaque à Saori \r1ère horde %d / 18 \r2ème horde %d / 22 \r3ème horde %d / 21 \r4ème horde %d / 18
+89	Jamian du Corbeau %d / 1
+90	Tremi du Sagita %d / 1
 91	Countdown to the fight: %ds
-92	Soldat [Enfers] %d / 15 \rCeros %d / 1 \rSea Soldat %d / 15 \rSorrento %d / 1
+92	Soldat des Enfers %d / 15 \rZelos %d / 1 \rSoldat des Océans %d / 15 \rSorrento %d / 1
 93	Estrela Terrestre da Prisão %d / 1
 94	Earth Star of Evil %d / 1
 95	Disable the mechanisms to eliminate the Illusion of Heaven
@@ -179,7 +179,7 @@
 178	Destroy the hourglass and get out of your Hypnos Illusion
 179	Within 60s, defeat as many Hades guards as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated Enemies: %d
 180	Bust of the Giant %d / 1
-181	Resist the Abyss Attack \r ^e12500Time Remaining: %ds ^N
+181	Résist the Abyss Attack \r ^e12500Time Remaining: %ds ^N
 182	Lava Giant %d / 1
 183	Set of Giants %d / 1
 184	Alberich de Megrez %d / 1
@@ -211,35 +211,35 @@
 210	Nordic Archers %d / 4 \rPolar Bear %d / 8 \rForest Fall %d / 8
 211	Hidden Event: \rGrand Arctic Wolf %d / 1
 212	Abyssal %d / 1
-213	Poison Toad %d / 7 \rGarde Elite des Enferss %d / 7 \rBloodthirst %d / 9 \rDeathwing Guards %d / 9
-214	Bloodthirsty Bat %d / 9 \rGuard of the God of Death %d / 9
+213	Poison Toad %d / 7 \rGarde Elite des Enfers %d / 7 \rBloodthirst %d / 9 \rDeathwing Guards %d / 9
+214	Bloodthirsty Bat %d / 9 \rGarde des Enfers %d / 9
 215	Troll Iwan %d / 1
 216	Enter the Mysterious Magic Circle
 217	Number of people: %d \rReactive count to break Magic Circle: %d
 218	Griffon Minos %d / 1
 219	Frosts Spectrum %d / 1
-220	Soul-devouring beast %d / 6 \rGarde Elite des Enferss %d / 6
+220	Soul-devouring beast %d / 6 \rGarde Elite des Enfers %d / 6
 221	Talk to Acheron Charon \r (Only the Leader can do this)
 222	Charon of Acheron %d / 1
 223	Charon detests the Treason Thieves, they always hide in the rubble, coveting the treasure of \rCarbon. \rDestroy the debris, find the thieves and defeat them \r (Only the Leader can talk to Charon) \r %d
 224	Papillon des Enfers %d / 12 \rGarde Elite des Enfers %d / 12
 225	Enter the bright area
-226	Within 180s, defeat as many enemies as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated Enemies: %d
-227	Pharaoh of Sphinx %d / 1
-228	Crows %d / 11 \rGarde Elite des Enferss %d / 11
-229	Royaume des Enfers Snake %d / 6 \rFecure Defeat %d / 6
+226	Vous avez 180s, Tuez autant d'ennemis que possible: \r ^e12500Temps Restant: %ds ^N \rEnnemis Tuer: %d
+227	Pharaoh du Sphinx %d / 1
+228	Crows %d / 11 \rGarde Elite des Enfers %d / 11
+229	Serpent des Enfers %d / 6 \rFecure Defeat %d / 6
 230	Save the fairies by killing Sphinx as fast as possible \rOtherwise, every 20 seconds, there will be a sacrificed fairy \r ^e12500 Remaining faeces: %d ^N \rsfinge %d / 1
 231	Rescued %d fairies \rYou get the gift left by the fairies.
-232	Meat-eating Aigle Rotten %d / 18 \rRoyaume des Enfers Symbols %d / 18
+232	Aigle Carnivore %d / 18 \rSiren des Enfers %d / 18
 233	Éaque du Garuda %d / 1
 234	Hidden BOSS: Empress des Enfers %d / 1
 235	Daidalos of Cepheus %d / 1
-236	Argol of Perseus %d / 1
-237	Cepheus Daidalos %d / 1 \rArgol de Perseo %d / 1
-238	Tremi de Sagita %d / 1 \ramaman of Crow %d / 1
-239	Misty de Lagarto %d / 1
+236	Argol de Persée %d / 1
+237	Cepheus Daidalos %d / 1 \rArgol de Persée %d / 1
+238	Tremi du Sagita %d / 1 \rJamian du Corbeau %d / 1
+239	Misty du Lezard %d / 1
 240	Sextant %d / 1
-241	Jamian of Crow %d / 1 \rSetting %d / 1
+241	Jamian du Corbeau %d / 1 \rSetting %d / 1
 242	Defeat the Marine Guards along the way
 243	Isaac of Kraken %d / 1
 244	Sorrento of Sirena %d / 1
@@ -343,7 +343,7 @@
 342	Go to the Cancer House
 343	Defeat Death Mask, Golden Knight of Cancer %d / 1
 344	Go to Lion's House
-345	Defeating Aiolia, Golden Lion Rider %d / 1 \rYou are out of your mind, your FFCC00 Plasma Lightning can destroy the ^FFCC00Pillar of Stone ^N. The destruction of the Pillar can increase the Resistance Dégât of Aiolia
+345	Defeating Aiolia, Golden Lion Rider %d / 1 \rYou are out of your mind, your FFCC00 Plasma Lightning can destroy the ^FFCC00Pillar of Stone ^N. The destruction of the Pillar can increase the Résistance Dégât of Aiolia
 346	Go to the House of Vierge
 347	Defeat Guardians nearby %d / 2
 348	Opening Stone Lotus Gate
@@ -398,7 +398,7 @@
 397	Defeat Alberich de Megrez, Star Delta %d / 1 \r (The Leader talks to Alberich to choose the difficulty of the challenge)
 398	Defeating Shido from Mizar, Star Zeta %d / 1 \rDestroying Bordo de Alcor, Star Zeta %d / 1 \r (The Leader talks to Shido to choose the difficulty of the challenge)
 399	Go to the western part of the Grand Blue Castle and look for Fenrir, the northern wolf
-400	Resist the attacks of the Ice Warriors and the wolves until Fenrir arrives.
+400	Résist the attacks of the Ice Warriors and the wolves until Fenrir arrives.
 401	Defeat Hagen from Merak, Beta Star %d / 1 \r (The Leader talks to Hagen to choose the difficulty of the challenge) \r ^FFCC00Hagen went into fury status, updated fight countdown: ^FF0000 %ds
 402	Defeat Alioth's Fenrir, Epsilon Star %d / 1 \r (The Leader talks to Fenrir to choose the difficulty of the challenge) \r ^FFCC00Fenrir has entered furious status, updated fight countdown: ^FF0000 %ds
 403	Defeating Alberich from Megrez, Star Delta %d / 1 \r (The Leader talks to Alberich to choose the difficulty of the challenge) \r ^FFCC00Alberich has entered furious status, updated fight countdown: ^FF0000 %ds
@@ -569,19 +569,19 @@
 568	You and your partner have recovered all their food, have a good Thanksgiving!
 569	Talk to Santa Claus to start the fight
 570	Defeated Enemies: ^00ffff %d / 200 ^N \rPaste the Candy Jar ^to put it in the incubation screen!
-571	You resisted your enemies successfully, Santa decided to give them gifts! Go soon to receive them!
+571	You Résisted your enemies successfully, Santa decided to give them gifts! Go soon to receive them!
 572	The Sanctuaire plunged into a silence that never was, surrounded by the despair and fear of the survivors. \rAnd what happened here? Talk to ^ffff00 Sirius Nazhi ^N
 573	It is necessary to pass through the Valley of the Black Ventania ^N, in order to continue! \rJuntar ^00ff00Universe of Light ^N, it can help them control the Black Wind of Evil: ^ffff00%d / 12
 574	Is the world going to face another catastrophe? Who is in charge of all this? On the way ahead a dense fog rises, the first step to discovering the truth, to defeat the Celestial Star of the Prison! Shaka's magician is hidden in the ^00ff00Santuary ^N, if two members of the group ^00ff00 come together ^N you can open it! Use it to contain the enemy!
-575	The Celestial Star of the Prisoner claims to have been deceived by the God of the Force, Naveen. But who is he? This is far from over! \rRemove the obstacles in front of you, ^ffff00 Demonic Celestial Star! full of tricks, but if you use the ^00ff00Cosmo ^N left by the Argent Knight, you can break his Magic Barrier!
-576	The death of the Devil Celestial Star has made you even more surprised, God of Ethics, Mokurius? Is it not just a person behind it? \r No matter what the truth, the enemy of the Sanctuaire can not escape! ^Ffff00 Defeat Celestial Star of Agility ^N \rThe Cosmo Remaining of ^00ff00 Argent Knight ^N will give advantageous help during the battle!
+575	The Celestial Star of the Prisoner claims to have been deceived by the God of the Force, Naveen. But who is he? This is far from over! \rRemove the obstacles in front of you, ^ffff00 Demonic Celestial Star! full of tricks, but if you use the ^00ff00Cosmo ^N left by the Chevalier d'Argent, you can break his Magic Barrier!
+576	The death of the Devil Celestial Star has made you even more surprised, God of Ethics, Mokurius? Is it not just a person behind it? \r No matter what the truth, the enemy of the Sanctuaire can not escape! ^Ffff00 Defeat Celestial Star of Agility ^N \rThe Cosmo Remaining of ^00ff00 Chevalier d'Argent ^N will give advantageous help during the battle!
 577	After all, how did this happen? Why would Lira come here? \rThis is ... The Golden 12? They had not sacrificed that?
 578	Victory is only temporary! The God of the Element, Phaedrus, took advantage of the Celestial Star of Agility and the truth is still shrouded in a dense fog, the victory is only temporary! put your guard down, catastrophe has arrived!
 579	Talk to the ^FFCC00Gran Judge ^N to start the battle
 580	Defeat or antecessor of Cavaleiro de Câncer! \rAnterestor de Câncer %d / 1 \rO Antecessor Câncer will invoke zumbis to recover or HP as sacrifices. ^FFCC00Elimine os zumbis ^N or more rapid possível
-581	Defeat Aldebaran's Ancestor! \r Aldebaran Alternate %d / 1 \rAldebaran's Ancestor will summon Demon Flowers. By absorbing the strength of those flowers, Aldebaran will recover a large amount of HP. ^FFCC00Demove the Demonic Flowers ^N as quickly as possible.
+581	Defeat Aldebaran's Ancestor! \r Aldebaran Alternate %d / 1 \rAldebaran's Ancestor will summon Fleurs Demoniaques. By absorbing the strength of those flowers, Aldebaran will recover a large amount of HP. ^FFCC00Demove the Fleurs Demoniaques ^N as quickly as possible.
 582	Defeat the Verseau Antecedent! \r Verseau Verseau %d / 1 \rThe Verseau Antecedent will put his enemies in an ice box and only the ^FFCC00 will destroy him ^N, it will be possible to get out of that prison.
-583	Defeat Bennu! \rBennu %d / 1 \rBennu will invoke the celestial fire, which will leave it resistant to all damage; therefore, ^FFCC00remove the fire ^N as fast as possible.
+583	Defeat Bennu! \rBennu %d / 1 \rBennu will invoke the celestial fire, which will leave it Résistant to all damage; therefore, ^FFCC00remove the fire ^N as fast as possible.
 584	Defeat or Antecessor of Capricórnio! \r Capricorne Anionor %d / 1 \rO Antecessor de Capricórnio will invoke Excalibur to recover its own HP. Caso ela apareça, FFCC00mantenha a Excalibur longe ^N na primeira oportunidade
 585	Wyvern's Defeat or Antecessor! \rWyvern's Adventure %d / 1 \rO Wyvern Antecessor Previous will be the invention of Wyvern's status. ^FFCC00Coletar Vento Essentia ^N Wyvern hair cuspids can disfavor such status
 586	The challengers have won! Open the ^FFCC00 Treasure Chest of Arena ^N to receive the award! \r Treasure Chest of Arena %d / 1
@@ -605,11 +605,11 @@
 604	Go to Pilar Divine North Atlantic Ocean! \rDerrote General Marina Kanon Dragon Navy %d / 1 \r ^^FFCC00Dudu nwill be a companion able to help you in this fight
 605	Go to the Temple of Poseidon! \rDestroy the sirens %d / 7 \rThese sirens protect the last barrier of the Temple of Poseidon, you know what to do!
 606	Enter the Temple of Poseidon! \rDerrote the Medusa %d / 1 \rStopper directly into the eyes of Medusa you turn to stone when she look at you, quickly move back to her FFCC00de ^^N!
-607	Go to the Central Pillar! \rDestroy the Emperor of the Seas, Poseidon %d / 1
+607	Go to the Central Pillar! \rDestroy the Empereur des Mers, Poseidon %d / 1
 608	The Specter ^ffff00Gerald, the Prisoner Earthstar ^N brought his Soldats to attack the Sanctuaire. Everyone must be defeated !!
 609	Gain from the Specter ^ffff00Isolde, the Earth Star of Evil ^N! Defend the Sanctuaire!
-610	They have successfully resisted enemies, they are really Knights of Love and Justice!
-611	They have successfully resisted enemies, they are really Knights of the Goddess!
+610	They have successfully Résisted enemies, they are really Knights of Love and Justice!
+611	They have successfully Résisted enemies, they are really Knights of the Goddess!
 612	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and Deusa, oil to prova vindo da Caixa Magica de Pandora
 613	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Black Pégasus! \rA Ilusão do Pégasus Negro tem a velocity and attack of Pegase comuns, ^FFCC00devie-se seus attacks ^N or more rapid possível
 614	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDeerrote or Cygne Noir! \rA Ilusão do Cisne Negro chama- I know if it is the same as the possum or Ar Frio mais poder; não se deixe ser ^FFCC00congelado ^N by ele
@@ -619,10 +619,10 @@
 618	Through the ^FFCC00Diosa Athena ^N, leave the Illusion of the Pandora's Magic Box
 619	Through ^FFCC00Pandora ^N, leave the Illusion of the Pandora's Magic Box
 620	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
-621	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Argent Nebulae ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Argent Knight of Centaur! The Illusion of Centaur releases red lotus fire, ^FFCC00save these flames ^N as fast as possible to reduce damage
-622	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Whale Argent knight \rWhen whale is dying, he will explode in fury, letting all his force go
-623	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the Sagita Argent knight \rWhen are dying , Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
-624	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Argent Knight of Perseus! Perseus possesses a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+621	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Argent Nebulae ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Centaur! The Illusion of Centaur releases red lotus fire, ^FFCC00save these flames ^N as fast as possible to reduce damage
+622	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Whale Chevalier d'Argent \rWhen whale is dying, he will explode in fury, letting all his force go
+623	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the Sagita Chevalier d'Argent \rWhen are dying , Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+624	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Perseus! Perseus possesses a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
 625	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Cefeu \rA illusion Cefeu an impregnable barrier and their watchmen will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
 626	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
 627	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Knight of Poisson! \rBe careful of the Bloody Rose of Poisson, when his teammates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
@@ -638,8 +638,8 @@
 637	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
 638	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \remains is affixed between Pandora and the Goddess accept the proof from the Magic Box of Pandora
 639	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Shion Belier illusion \ra! Shion's Crystal Wall is highly lethal, destroy it as quickly as possible and deviate from the next attack
-640	Time to close Dungeon: ^FFCC00 %ds. ^N \rBosses in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Illusion of Aldebaran's Antecessor! Aldebaran will summon Demon Flowers. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Demon Flowers ^N as fast as possible.
-641	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Benu Illusion! heavenly fire, which will render it resistant to all harm; so ^^FFCC00eliminate the fire ^N as quickly as possible
+640	Time to close Dungeon: ^FFCC00 %ds. ^N \rBosses in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Illusion of Aldebaran's Antecessor! Aldebaran will summon Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
+641	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Benu Illusion! heavenly fire, which will render it Résistant to all harm; so ^^FFCC00eliminate the fire ^N as quickly as possible
 642	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the predecessor Wyvern \rO's predecessor Wyvern will be invincible under Wyvern status. ^FFCC00Colling Wind Essences ^N spiked by Wyvern can undo such status
 643	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N! The Roses of Nightmare takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
 644	Time to close Dungeon: ^FFCC00 %ds.^N\rrDrooking^FFCC00 5 ^NBosses time restarts!\rBosses defeated in this round: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
@@ -648,10 +648,10 @@
 647	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Andromede Illusion! Black Andromede is equally powerful. When you get caught by it, the current ^FFCC00 will turn ^N into small snakes to attack you
 648	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Dragon Noir Illusion! The illusion of the Dragon Noir has a powerful force, FFCC00 to break off his attacks as quickly as possible!
 649	Time to close Dungeon: ^FFCC00 %ds  ^N\rDrocking FFCC00 ^5 ^el tiempo NBosses restart \ren rBosses defeated this round: %d FFCC00 ^^N \r¡Derrote it Ilusión del Saint of Bronze Phoenix! The Phantom Fist of the Phoenix of Ikki's Illusion of Phoenix will invoke illusions of his own body to fight against you, stand firm and FFCC00reject illusions ^N!
-650	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Argent Knight of Centaur! \rCaution! The Illusion of Centaur releases fire from the red lotus, ^FFCC00devote those flames ^N as quickly as possible to reduce damage
-651	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Whale Argent Knight! \rWhen Whale is Dying , he will explode in fury, letting all his force leave ^N
-652	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Argent Knight of Sagita! \rWhen dying, Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
-653	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Argent Knight's Illusion of Perseus! of Perseus has a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+650	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Chevalier d'Argent of Centaur! \rCaution! The Illusion of Centaur releases fire from the red lotus, ^FFCC00devote those flames ^N as quickly as possible to reduce damage
+651	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Whale Chevalier d'Argent! \rWhen Whale is Dying , he will explode in fury, letting all his force leave ^N
+652	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Chevalier d'Argent of Sagita! \rWhen dying, Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+653	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent's Illusion of Perseus! of Perseus has a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
 654	Time to close dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cefeus Illusion! invincible barrier and their sentries will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
 655	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Poisson! \rBe careful with the Bloody Rose of Poisson, when his group mates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
 656	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Verseau He will put his enemies in an icebox, and only when he is destroyed will it be possible to leave that prison.
@@ -664,8 +664,8 @@
 663	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy Crisaor de Krishna! \rThe Force Divine allows Crisaor to have an immortal body. Only within the ^FFCC00Astrolabio ^N will be without divine force.
 664	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
 665	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Shion Illusion of Belier! The Crystal Wall created by Shion is highly lethal, destroy it as quickly as possible and deviate from the next attack.
-666	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDrive the Illusion of Aldebaran's Antecessor! will invoke Demon Flowers. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Demon Flowers ^N as fast as possible.
-667	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Bennu Illusion! \rBennu he will invoke the heavenly fire, which will render him resistant to all damages; therefore, ^FFCC00eliminate the fire ^N as quickly as possible.
+666	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDrive the Illusion of Aldebaran's Antecessor! will invoke Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
+667	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Bennu Illusion! \rBennu he will invoke the heavenly fire, which will render him Résistant to all damages; therefore, ^FFCC00eliminate the fire ^N as quickly as possible.
 668	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of Wyvern's Antecessor! Wyvern's predecessor will remain invincible under Wyvern status. ^FFCC00 Collecting Wind Essences ^N spits by the Wyvern can undo such status.
 669	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Dream God! takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
 670	Through the ^FFCC00 Goddess Athena ^N out of the Illusion of the Pandora's Box! \r Through ^FFCC00 Pandora ^N out of the Illusion of the Pandora's Box!

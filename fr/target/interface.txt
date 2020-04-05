@@ -100,7 +100,7 @@
 99	Critique
 100	Reduc Dégât
 101	Element
-102	Resistance
+102	Résistance
 103	Critique
 104	Effets
 105	Ignore Effets
@@ -113,27 +113,27 @@
 112	Precision:
 113	Esquive:
 114	Taux Critique:
-115	Resist Crit:
+115	Résist Crit:
 116	Dégât Critique:
-117	Resist Crit:
+117	Résist Crit:
 118	Dégât Terre:
 119	Dégât Eau:
 120	Dégât Feu:
 121	Dégât Vent:
 122	Dégât Elec:
 123	Dégât Lumiere:
-124	Ign Resist Terre:
-125	Ign Resist Eau:
-126	Ign Resist Feu:
-127	Ign Resist Vent:
-128	Ign Resist Elec:
-129	Ign Resist Lumi:
-130	Resist Terre:
-131	Resist Eau:
-132	Resist Feu:
-133	Resist Vent:
-134	Resist Elec:
-135	Resist Lumiere:
+124	Ign Résist Terre:
+125	Ign Résist Eau:
+126	Ign Résist Feu:
+127	Ign Résist Vent:
+128	Ign Résist Elec:
+129	Ign Résist Lumi:
+130	Résist Terre:
+131	Résist Eau:
+132	Résist Feu:
+133	Résist Vent:
+134	Résist Elec:
+135	Résist Lumiere:
 136	Chance:
 137	Blocage:
 138	Penetration:
@@ -144,16 +144,16 @@
 143	Dégât Physique:
 144	Dégât de Sorts:
 145	Shielding
-146	Resist Controle:
-147	Resist Silence:
-148	Resist Saigne:
-149	Resist Etourd:
-150	Resist Affaibli:
-151	Ign Resist Controle:
-152	Ign Resist Silence:
-153	Ign Resist Saigne:
-154	Ign Resist Etourd:
-155	Ign Resist Affaibli:
+146	Résist Controle:
+147	Résist Silence:
+148	Résist Saigne:
+149	Résist Etourd:
+150	Résist Affaibli:
+151	Ign Résist Controle:
+152	Ign Résist Silence:
+153	Ign Résist Saigne:
+154	Ign Résist Etourd:
+155	Ign Résist Affaibli:
 156	Meditation Niv
 157	EXP
 158	EXP+
@@ -165,18 +165,18 @@
 164	The higher the Precision, the less chance the enemy will have to dodge. Only 5% damage is applied when the enemy dodges.
 165	The greater the Esquive, the greater the chances of dodging attacks.
 166	Probability of a critical attack occurring, the initial critical attack is 1.5 times the damage
-167	Increases Dégât Terre. Can be reduced by resistance to this element.
-168	Increases Dégât Eau. Can be reduced by resistance to this element.Increases Dégât Terre. Can be reduced by resistance to this element.
-169	Increases Dégât Feu. Can be reduced by resistance to this element.
-170	Increases Dégât Vent. Can be reduced by resistance to this element.
-171	Increases Dégât Elec. Can be reduced by resistance to this element.
-172	Increases Dégât Lumiere. Can be reduced by resistance to this element.
-173	Earth Resistance reduction. Ignores part of target resistance.
-174	Resist Eau reduction. Ignores part of target resistance.
-175	Resist Feu reduction. Ignores part of target resistance.
-176	Air Resistance reduction. Ignores part of target resistance.
-177	Resistance Elec reduction. Ignores part of target resistance.
-178	Light Resistance reduction. Ignores part of target resistance.
+167	Increases Dégât Terre. Can be reduced by Résistance to this element.
+168	Increases Dégât Eau. Can be reduced by Résistance to this element.Increases Dégât Terre. Can be reduced by Résistance to this element.
+169	Increases Dégât Feu. Can be reduced by Résistance to this element.
+170	Increases Dégât Vent. Can be reduced by Résistance to this element.
+171	Increases Dégât Elec. Can be reduced by Résistance to this element.
+172	Increases Dégât Lumiere. Can be reduced by Résistance to this element.
+173	Earth Résistance reduction. Ignores part of target Résistance.
+174	Résist Eau reduction. Ignores part of target Résistance.
+175	Résist Feu reduction. Ignores part of target Résistance.
+176	Air Résistance reduction. Ignores part of target Résistance.
+177	Résistance Elec reduction. Ignores part of target Résistance.
+178	Light Résistance reduction. Ignores part of target Résistance.
 179	Reduce the damage caused by the Earth Element
 180	Reduce the damage caused by the Fire Element
 181	Reduce the damage caused by the Water Element
@@ -190,17 +190,17 @@
 189	Block reduces portion of incoming damage
 190	Penetration decreases efficiency of target Block
 191	Damage bonus
-192	Increasing the Resistance Dégât will decrease the damage caused
+192	Increasing the Résistance Dégât will decrease the damage caused
 193	Increasing the PVP damage rate will increase the real PVP damage
-194	Increasing the resistance to PVP damage will decrease the PVP damage caused.
+194	Increasing the Résistance to PVP damage will decrease the PVP damage caused.
 195	Reduce physical element skill damage received
 196	Reduce spiritual element skill damage received
 197	Increase the ability of the Unbreakable Determination
-198	Resistance to body control effects (repel or pull)
-199	Resistance to silence effects (motion control and confusion)
-200	Resistance to bleeding type effects (bleed, burn)
-201	Resistance to daze type effects (fall, freeze and petrification)
-202	Resistance to weaken type effects (curses)
+198	Résistance to body control effects (repel or pull)
+199	Résistance to silence effects (motion control and confusion)
+200	Résistance to bleeding type effects (bleed, burn)
+201	Résistance to daze type effects (fall, freeze and petrification)
+202	Résistance to weaken type effects (curses)
 203	Ignore portion of target Control RES
 204	Ignore portion of target Silence RES
 205	Ignore portion of target Bleed RES
@@ -225,29 +225,29 @@
 224	Power Maximum \t %d
 225	Defense \t %d
 226	Damage Frequency \t %.2f
-227	Damage Resistance \t %.2f
-228	Resistance to physical damage \t %.2f
-229	Resistance to spiritual damage \t %.2f
+227	Damage Résistance \t %.2f
+228	Résistance to physical damage \t %.2f
+229	Résistance to spiritual damage \t %.2f
 230	Taux Critique \t %.2f
 231	Critical attack additional damage \t %d
-232	Resist amount to critical \t %.2f
-233	Resist Crit \t %d
+232	Résist amount to critical \t %.2f
+233	Résist Crit \t %d
 234	Fixed rate of cure effect received? T %d
 235	Land ownership attack \t %d
 236	Water element attack \t %d
 237	Fire element attack \t %d
 238	Wind element attack \t %d
 239	Thunder element attack \t %d
-240	Resistance to land ownership \t %.2f
-241	Resistance to element of Water \t %.2f
-242	Resistance to the element of Fire \t %.2f
-243	Wind element Resistance \t %.2f
-244	Thunder element Resistance \t %.2f
-245	Reduction of resistance to element of Earth \t %.2f
-246	Water element resistance reduction \t %.2f
-247	Reduced Resistance to Fire element \t %.2f
-248	Penet. against resist. Wind \t %.2f
-249	Thunder element resistance reduction \t %.2f
+240	Résistance to land ownership \t %.2f
+241	Résistance to element of Water \t %.2f
+242	Résistance to the element of Fire \t %.2f
+243	Wind element Résistance \t %.2f
+244	Thunder element Résistance \t %.2f
+245	Reduction of Résistance to element of Earth \t %.2f
+246	Water element Résistance reduction \t %.2f
+247	Reduced Résistance to Fire element \t %.2f
+248	Penet. against Résist. Wind \t %.2f
+249	Thunder element Résistance reduction \t %.2f
 250	Earth element damage frequency \t %.2f
 251	Frequency of element damage of Water \t %.2f
 252	Fire element damage frequency \t %.2f
@@ -271,26 +271,26 @@
 270	Recovery speed of the Rabies amount in fighting status \t %d
 271	Recovery rate 1 of the Energy amount in wrestling status \t %d
 272	Recovery rate 2 of the Energy amount in wrestling status \t %d
-273	Control Resistance \t %.2f
-274	Resistance to Prejudice \t %.2f
-275	Resistance to Bleeding \t %.2f
-276	Resistance at the last breath \t %.2f
-277	Resistance to Burn \t %.2f
-278	Fall Resistance \t %.2f
-279	Freeze Resistance \t %.2f
-280	Resistance to Petrification \t %.2f
-281	Resistance to Speed ​​Reduction \t %.2f
-282	Weakness Resistance \t %.2f
-283	Ignore resistance to control \t %.2f
-284	Ignore resistance to prejudice \t %.2f
-285	Ignore resistance to bleeding \t %.2f
-286	Ignore resistance to the last breath \t %.2f
-287	Ignore burn resistance \t %.2f
-288	Ignore drop resistance \t %.2f
-289	Ignore Freeze Resistance \t %.2f
-290	Ignore resistance to petrification \t %.2f
-291	Ignore Resist Reduc Vitesse \t %.2f
-292	Ignore resistance to weakening \t %.2f
+273	Control Résistance \t %.2f
+274	Résistance to Prejudice \t %.2f
+275	Résistance to Bleeding \t %.2f
+276	Résistance at the last breath \t %.2f
+277	Résistance to Burn \t %.2f
+278	Fall Résistance \t %.2f
+279	Freeze Résistance \t %.2f
+280	Résistance to Petrification \t %.2f
+281	Résistance to Speed ​​Reduction \t %.2f
+282	Weakness Résistance \t %.2f
+283	Ignore Résistance to control \t %.2f
+284	Ignore Résistance to prejudice \t %.2f
+285	Ignore Résistance to bleeding \t %.2f
+286	Ignore Résistance to the last breath \t %.2f
+287	Ignore burn Résistance \t %.2f
+288	Ignore drop Résistance \t %.2f
+289	Ignore Freeze Résistance \t %.2f
+290	Ignore Résistance to petrification \t %.2f
+291	Ignore Résist Reduc Vitesse \t %.2f
+292	Ignore Résistance to weakening \t %.2f
 293	Increase in percentage of EXP obtained \t %d
 294	Precision \t %.2f
 295	Protection \t %.2f
@@ -298,7 +298,7 @@
 297	Armor of Destruction \t %.2f
 298	Cure Capacity \t %d
 299	PVP Damage Rate \t %.2f
-300	Resistance Dégât PVP \t %.2f
+300	Résistance Dégât PVP \t %.2f
 301	You have not got any title yet
 302	Temporarily without title
 303	You got a new title of " %s"
@@ -915,10 +915,10 @@
 914	Jewel Level has exceeded the maximum value allowed by the armor
 915	Error in the ID of the armor
 916	The armor has reached the maximum level
-917	Insufficient player level
-918	Star Insufficient
-919	Insufficient EXP
-920	Insufficient Experience
+917	Niv Joueur Insuffisant
+918	Etoile Insuffisante
+919	EXP Insuffisant
+920	EXP+ Insuffisant
 921	Parameter error of the requested item
 922	Perfecting of reinforcement made successfully.
 923	%s raised to the %d level

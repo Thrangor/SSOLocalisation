@@ -123,13 +123,13 @@
 122	Amulet
 123	Amulet of Vigor
 124	Amulet
-125	Resistant Amulet
+125	Résistant Amulet
 126	Amulet
 127	Battle Amulet
 128	Amulet
 129	Advanced Amulet of Vigor
 130	Amulet
-131	Advanced Amulet Resistant
+131	Advanced Amulet Résistant
 132	Amulet
 133	Amulet Advanced Batalha
 134	Amulet
@@ -169,13 +169,13 @@
 168	Engraving
 169	Advanced Vigorous Engraving
 170	Engraving
-171	Engraving Advanced Resistant
+171	Engraving Advanced Résistant
 172	Engraving
 173	Advanced Battle Engraving
 174	Engraving
 175	Mysterious Engraving of Vigor
 176	Engraving
-177	Mysterious Resistant Engraving
+177	Mysterious Résistant Engraving
 178	Engraving
 179	Mysterious Battle Engraving
 180	Engraving

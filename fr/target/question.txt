@@ -336,7 +336,7 @@
 335	June and Shun
 336	Shiryu and Shunrei
 337	Which of the following Knights is not beautiful?
-338	Raven Jamian
+338	Corbeau Jamian
 339	Aphrodite of Poisson
 340	Sorento de Sirena
 341	Misty of Lizard
@@ -419,7 +419,7 @@
 418	Milo
 419	From what constellation did the Knight use a bow to wound Saori?
 420	Sagita
-421	Raven
+421	Corbeau
 422	Aigle
 423	Ophiuchus
 424	Which Seiya horn cuts off the Taureau (Golden Knight of Taureau)?

@@ -612,9 +612,9 @@
 611	Girl without Memory
 612	Chief [Village]
 613	Jamian
-614	Raven
+614	Corbeau
 615	Jamian
-616	Raven
+616	Corbeau
 617	Eudora
 618	Apprenti
 619	Eudora
@@ -768,7 +768,7 @@
 767	Aiolia
 768	Lion
 769	Jamian
-770	Raven
+770	Corbeau
 771	Ikki
 772	Phoenix
 773	Shiryu
@@ -942,7 +942,7 @@
 941	Shiryu
 942	Dragon
 943	Jamian
-944	Raven
+944	Corbeau
 945	Shina
 946	Cobra
 947	Shina
@@ -1004,7 +1004,7 @@
 1003	Cowboy
 1004	Mysterious Lord
 1005	Chevalier d'Or
-1006	Raven
+1006	Corbeau
 1007	Katherin
 1008	Shinto
 1009	Katherin
@@ -1342,9 +1342,9 @@
 1341	August
 1342	Exiled King
 1343	Jamian
-1344	Raven
+1344	Corbeau
 1345	Jamian
-1346	Raven
+1346	Corbeau
 1347	Colomba
 1348	Exiled Decayed
 1349	Prêtresse
@@ -2012,7 +2012,7 @@
 2011	Shuya
 2012	Shuya
 2013	Shuya
-2014	Emperor of the Seas
+2014	Empereur des Mers
 2015	General of Dragon des Mers
 2016	Shuya
 2017	Seiya
@@ -2180,7 +2180,7 @@
 2179	NPC4 amulet
 2180	Elderly
 2181	Epitaph
-2182	Statue of the Emperor of the Seas
+2182	Statue of the Empereur des Mers
 2183	Spring Manager
 2184	Sorento
 2185	Musician
@@ -3082,7 +3082,7 @@
 3081	Or Saint Illusion
 3082	Or Saint Illusion
 3083	Jamian
-3084	Raven
+3084	Corbeau
 3085	Tremi
 3086	Sagitta
 3087	Moses
@@ -3163,7 +3163,7 @@
 3162	Aiolia
 3163	Lion
 3164	Jamian
-3165	Raven
+3165	Corbeau
 3166	Tremi
 3167	Sagita
 3168	Aldebaran
@@ -3203,7 +3203,7 @@
 3202	Euridice
 3203	Pandora
 3204	Jamian
-3205	Raven
+3205	Corbeau
 3206	Tremi
 3207	Sagitta
 3208	Main line Presentation 38_ Fall girl Eudora
@@ -3313,7 +3313,7 @@
 3312	Shina
 3313	Cobra
 3314	Jamian
-3315	Raven
+3315	Corbeau
 3316	Aiolia
 3317	Lion
 3318	Seiya
@@ -3505,7 +3505,7 @@
 3504	<Flower of the rope! Laments of the spirits>
 3505	Ivan's soul
 3506	Soul fallen
-3507	Demon flower
+3507	Fleurs Demoniaque
 3508	Orpheus
 3509	Lira
 3510	Orpheus
@@ -6396,9 +6396,9 @@
 6395	Pitch
 6396	Ringtone
 6397	Young people in family mask
-6398	Raven
-6399	Raven
-6400	Raven
+6398	Corbeau
+6399	Corbeau
+6400	Corbeau
 6401	Mila
 6402	Mila
 6403	Black Knight
@@ -7004,18 +7004,18 @@
 7003	Temp. Atlantis
 7004	Mermaid scales fighting
 7005	Mermaid scales fighting
-7006	Statue of Athena
+7006	Statue d'Athena
 7007	Quitter Donjon
 7008	Shina
-7009	Argent Knight
+7009	Chevalier d'Argent
 7010	Shina
-7011	Argent Knight
+7011	Chevalier d'Argent
 7012	Shina
-7013	Argent Knight
+7013	Chevalier d'Argent
 7014	Shina
-7015	Argent Knight
+7015	Chevalier d'Argent
 7016	Shina
-7017	Argent Knight
+7017	Chevalier d'Argent
 7018	Captain of the guard Sirius
 7019	Crisis 12 Houses
 7020	Merchant of the Sanctuaire
@@ -7028,7 +7028,7 @@
 7027	Ediacaran
 7028	Watchmaker of the Sanctuaire
 7029	Statue of Athena
-7030	Ambassador of resistance
+7030	Ambassador of Résistance
 7031	Traveler Merchant
 7032	Royaume des Enfers
 7033	Nest of the Mariposa of the Royaume des Enfers_ leave NPC
@@ -7038,11 +7038,11 @@
 7037	Bristol
 7038	Argent Whale Knight
 7039	Orpheus
-7040	Lyra Argent Knight
+7040	Lyra Chevalier d'Argent
 7041	Rowing
-7042	Argent Knight of Centaur
+7042	Chevalier d'Argent of Centaur
 7043	Hussey
-7044	Argent Knight of Perseus
+7044	Chevalier d'Argent of Perseus
 7045	Dohko
 7046	Or Knight of Balance
 7047	Klose
@@ -7116,12 +7116,12 @@
 7115	Sailor Soldat du Sanctuaire 1
 7116	Sailor Soldat du Sanctuaire 2
 7117	Sailor Soldat du Sanctuaire 3
-7118	Great Judge
-7119	Judge of the Colosseum
-7120	Great Judge
-7121	Judge of the Colosseum
-7122	Great Judge
-7123	Judge of the Colosseum
+7118	Grand Juge
+7119	Juge du Colisée
+7120	Grand Juge
+7121	Juge du Colisée
+7122	Grand Juge
+7123	Juge du Colisée
 7124	Mobile cage test
 7125	Athena
 7126	Shunrei
@@ -7173,14 +7173,14 @@
 7172	Sealed Amphora
 7173	Julian
 7174	Output
-7175	Great Judge
-7176	Grand Coliseum
+7175	Grand Juge
+7176	Grand Colisée
 7177	Elder God
 7178	Doors
 7179	Elder of the Race of the Gods
 7180	Challenge Trap
 7181	Elderly travelers
-7182	<Leave NPC instance zone>
+7182	<Quitter Donjon>
 7183	Abyss_ Hagen Door
 7184	Elder of the Divine Race
 7185	Challenge Trap
@@ -7364,7 +7364,7 @@
 7363	Traveler Trader
 7364	Royaume des Enfers
 7365	Robert
-7366	Atlantis Tsunami.
+7366	Donjon Atlantis
 7367	Aline
 7368	<Or Challenge>
 7369	Catlin
@@ -8510,7 +8510,7 @@
 8509	Collection
 8510	Oracle Store
 8511	Oracle
-8512	Store level 7 of the Guild's resistance base
+8512	Store level 7 of the Guild's Résistance base
 8513	Practice Room
 8514	Sale of Elixir del Castillo de Hades
 8515	Potion
@@ -8844,7 +8844,7 @@
 8843	Against the flow! Arc 3 of Balance
 8844	Against the flow! Lion's Arc 3
 8845	Against the flow! Atla
-8846	Countercurrent! Zodiac crisis
+8846	Crise du Zodiaque
 8847	Return to Guanxing Building
 8848	clock tower service
 8849	stage copy_Hadis service
@@ -10148,7 +10148,7 @@
 10147	Temple-bell square chooses the road-00
 10148	Temple Square - Altar
 10149	Meeting with Leo_Creados
-10150	NPC of the sending mission of the Demonic Flower of the Nightmare
+10150	NPC of the sending mission of the Fleurs Demoniaque of the Nightmare
 10151	Hero of the Cave of the Wind_Phoenix_Ikki
 10152	Hero of the Cueva del Viento_Pegasus Negro
 10153	Hero of the Cave of the Wind_Dragón Negro
@@ -10676,8 +10676,8 @@
 10675	044 Mu 1
 10676	045 Mu 2
 10677	046 Mu 3
-10678	047 Raven 1
-10679	048 Raven 2
+10678	047 Corbeau 1
+10679	048 Corbeau 2
 10680	049 Kiki 1
 10681	050 Kiki 2
 10682	051 Kiki 3
@@ -12963,8 +12963,8 @@
 12962	044 Mu 1
 12963	045 Mu 2
 12964	046 Mu 3
-12965	047 Raven 1
-12966	048 Raven 2
+12965	047 Corbeau 1
+12966	048 Corbeau 2
 12967	049 Kiki 1
 12968	050 Kiki 2
 12969	051 Kiki 3
@@ -14262,7 +14262,7 @@
 14261	Uncover
 14262	Necklace of Sister Juliana
 14263	Find
-14264	Raven des Enfers pretending death
+14264	Corbeau des Enfers pretending death
 14265	Attack, fight, fight
 14266	Holy water
 14267	Collect

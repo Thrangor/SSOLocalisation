@@ -291,7 +291,7 @@
 290	Marine, I will save you!
 291	They ... They really jumped!
 292	Jamian
-293	Q .... what ?! The ravens, who are like my brothers, are attacking me because of that girl ?!
+293	Q .... what ?! The Corbeaus, who are like my brothers, are attacking me because of that girl ?!
 294	(Unconscious) uh ......
 295	It seems that Seiya's situation is serious, he will not wake up so fast.
 296	Does anyone else dare cross that line ?! Who cross the line will die!
@@ -317,7 +317,7 @@
 316	public thievery
 317	Found, what you should!
 318	Let you experience Cepheus strong current iron defense!
-319	The Argent Knight Cefeu
+319	The Chevalier d'Argent Cefeu
 320	Brute force in front of me is no effect!
 321	Adults Papa, I'll take you back for the Or cloth shrine!
 322	I also want to cut off his head, by holding a pile of another head.
@@ -406,10 +406,10 @@
 405	If you get these dark forces from the child who lift a finger, I'll leave you blood for blood!
 406	Miho Mestre, where are you ......
 407	from wild
-408	Go fast! This guy is for me to resist! ! !
+408	Go fast! This guy is for me to Résist! ! !
 409	Mr. Mu, Professor Dohko asked me to convey a message that there is an identity of unknown Sacrée Argent warriors in Rozan.
 410	Rozan's Apprentice
-411	A Argent Knight in Rozan ... Mr. Mu, let me check that first.
+411	A Chevalier d'Argent in Rozan ... Mr. Mu, let me check that first.
 412	Where did this crow come from? It's keeping me from moving forward.
 413	It is necessary that you give half of your blood to complete the repair of the Armor.
 414	Mu
@@ -736,7 +736,7 @@
 735	The Argent Constellation Uncle Saint Crow! Ordered to monitor that person!
 736	adults Jia Mian! Jia Mian adults! Not ok!
 737	This Is not You Duola sister? What is the problem?
-738	Not a bad raven wounded at the Golden Harvest Flower Festival!
+738	Not a bad Corbeau wounded at the Golden Harvest Flower Festival!
 739	What? However, is there such a tragic thing?
 740	Yes, ah! There are a lot of snake ah! People are afraid of snakes can not save!
 741	Do not be afraid! I'll!
@@ -848,7 +848,7 @@
 847	I do not want to hurt anyone, quickly out of the way!
 848	No more talk, the Sanctuaire of people is never retreat!
 849	Surrender! Aioros!
-850	Do not resist, Aiolos! It's useless! Your wound is going to kill you!
+850	Do not Résist, Aiolos! It's useless! Your wound is going to kill you!
 851	Get ready, Aiolos!
 852	Let me go Shura chopped your head now!
 853	Aioros, you can not escape!
@@ -1126,8 +1126,8 @@
 1125	Clue Cosmo orientations to cut here ...... Huh? Downstairs there is a small bag.
 1126	In front of white girl clothes ...... is she necessarily the daughter of Albert Bailey Adams grandfather!
 1127	Hey! This is off limits! Do not go in!
-1128	I am the great Jamian of Raven! I received orders to keep an eye on this place! Brothers, attack!
-1129	fodder seeds to feed those who are ready to eat the raven you gather, have been taken!
+1128	I am the great Jamian of Corbeau! I received orders to keep an eye on this place! Brothers, attack!
+1129	fodder seeds to feed those who are ready to eat the Corbeau you gather, have been taken!
 1130	What? Who is so bold, challenging the thing uncle! I go and see!
 1131	Here are three mount, which is Sagittaire treasure buried mound it?
 1132	Time is running out, you dug a glance at it!
@@ -1597,7 +1597,7 @@
 1596	Ha ha ha, I finally woke up!
 1597	Poseidon
 1598	How is it possible! I am a god
-1599	The Emperor of the Seas was defeated ...... For me!
+1599	The Empereur des Mers was defeated ...... For me!
 1600	Now, let the Central Pillar come!
 1601	Burn, my Cosmo! Let me use life to destroy that Pillar!
 1602	It's Isaac !!
@@ -2295,7 +2295,7 @@
 2294	This is Small Camus universe!
 2295	No matter how, I will find my lost journal!
 2296	Saori
-2297	Athena, do not boast too much! Despite being small, my strength as Emperor of the Seas is still something you can not contain!
+2297	Athena, do not boast too much! Despite being small, my strength as Empereur des Mers is still something you can not contain!
 2298	Athena! What do you want, at last?
 2299	Hades
 2300	Give me back my diary and get out of my house!
@@ -2446,7 +2446,7 @@
 2445	desperate guard
 2446	They are evil
 2447	Kutos
-2448	This is the price you dare to resist!
+2448	This is the price you dare to Résist!
 2449	Minta
 2450	Help! help me!
 2451	bound soul
@@ -3367,7 +3367,7 @@
 3366	scrap thief
 3367	You're doing great! But the training of a Knight has no end. Always increase your strength and always have faith and justice in your heart!
 3368	¡No !!! My treasure was stolen ...!
-3369	Holy Lotus! Opening the Sacrée Lotus can greatly weaken the resistance of the enemies!
+3369	Holy Lotus! Opening the Sacrée Lotus can greatly weaken the Résistance of the enemies!
 3370	The fight started! Strive to defeat your opponents and gain victory on the battlefield!
 3371	All right! The Mysterious Crystal can increase 1000 raw materials of the equipment itself and will be updated on the Snow Bridge after 30 seconds. Disputing the Crystal intelligently is also a means of gaining victory on the Battlefield!
 3372	I waited for you for a long time! You came alone, you really did not disappoint me!
@@ -3419,7 +3419,7 @@
 3418	I will transform this protective force field into Cosmo, I hope I can help you.
 3419	They got rid of my illusion. They seem to have some strength, but it's still not enough to threaten me! Get ready to die! Knights!
 3420	This is the shield of flames, please take it!
-3421	All right! To get to the temple, it is necessary to pass through the infernal winds! It is very difficult to deal with that wind, but in the previous Holy War the Argent Knights managed to stop it with the light of the universe!
+3421	All right! To get to the temple, it is necessary to pass through the infernal winds! It is very difficult to deal with that wind, but in the previous Holy War the Chevalier d'Argent managed to stop it with the light of the universe!
 3422	Survivor of the Sanctuaire
 3423	Stop the attack! The body of the Lava Beast seems to have a problem!
 3424	The Lava Beast that the Celestial Star of Ability invoked has a special counterattack light bow; if attacked, will use his counterattack ability, making fighting more difficult.

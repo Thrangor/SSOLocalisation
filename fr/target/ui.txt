@@ -165,7 +165,7 @@
 164	xxx
 165	Zénis:
 166	xxx
-167	EXP:
+167	EXP+:
 168	EXP:
 169	xxx
 170	Galactic Points:
@@ -191,7 +191,7 @@
 190	1. Registrations open every Saturday and Sunday from 1:00 pm to 3:00 pm and from 10:00 pm to 11:55 pm.
 191	6. The player who is alive or who has more HP wins when the 3mins finish.
 192	5. By choosing the "Equality" mode, the property of the participants will have the same level.
-193	4. Choosing the "Fair Play" mode, the effect of resistance elixirs will be blocked.
+193	4. Choosing the "Fair Play" mode, the effect of Résistance elixirs will be blocked.
 194	3. In Challenge mode, there are no awards and it does not count in the weekly award number.
 195	2. In Challenge mode, the number of participants is chosen and the owner will be the defensive side.
 196	1. With "Automatic Enrollment", the system will wait a while and will do the automatic registration.
@@ -276,7 +276,7 @@
 275	Automatic enrollment
 276	Selecting this option, the power and attributes of the opponents are matched
 277	Equality
-278	Selecting this option, the use of resistance and penetration potions are blocked
+278	Selecting this option, the use of Résistance and penetration potions are blocked
 279	Fair play
 280	Password:
 281	Nom:
@@ -1952,31 +1952,31 @@
 1951	Alma Store
 1952	Alma Store
 1953	Ah this Etoile, this Etoile is awesome. It not only allows you to make a wish come true, but it also enlightens you. Have you seen war flares in movies? In that thing, in the darkness of the night while you wander along the road, it did not cause to just cook it, I really run away from home to travel. What are you waiting for? Play quickly!
-1954	For a Knight, vision is very importPRV Practice your vision counting birds!
-1955	Training completed, rewards:
+1954	La vision est très importante pour un Chevalier, entraînez vous en comtant les oiseaux !
+1955	Entraînement terminée !
 1956	Prix:
 1957	Confirmer
-1958	(Pay attention to shocked eggs!)
-1959	EXP
+1958	(Faites attention aux œufs !)
+1959	EXP+
 1960	EXP
 1961	Zénis
-1962	A random prize
+1962	Un prix au hasard
 1963	Marine
-1964	There are chances to get Bird Wings. Collect 8 and change to - ^8000FF Aigle Eyes
-1965	Double click to break the egg!
+1964	Vous pouvez obtenir une Ailes d'Aigle. Collecter en 8 pour les échanger contre - ^8000FFOeil d'Aigle
+1965	Double cliques pour casser l'Oeuf!
 1966	Marine
-1967	Continue
-1968	Awards
-1969	Completed stage. If you continue, you have the chance to get the title - ^8000FF Aigle Eyes
-1970	Respond in 10 seconds!
-1971	How many birds appeared?
+1967	Continuer
+1968	Gains
+1969	Étape terminée. Si vous continuez, vous avez une chance d'obtenir le titre - ^8000FFOeil d'Aigle
+1970	Vous avez 10 secondes pour répondre !
+1971	Combien d'Oiseaux vue ?
 1972	1
 1973	2
 1974	3
 1975	4
 1976	Right!
-1977	Continue
-1978	(Subtract deaths, add up shocked)
+1977	Continuer
+1978	(Soustraire les morts, additionner ceux ajoutés)
 1979	Answer:
 1980	Maximum
 1981	CPRV
@@ -3362,7 +3362,7 @@
 3361	Draw x10
 3362	Use hero points 100
 3363	Draw x1
-3364	The Duel Arena is open every day at 7:00 p.m. You will receive Zénis according to \rtu Rank, as well as receive bonus points \rdof duel.
+3364	Le VS commence chaque jour à 19:00\rRecevez des Zénis en fonction de votre Rang\rRecevez un bonus de points à la fin du VS.
 3365	Change series of opponents
 3366	Level UP manually.
 3367	asfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdf
@@ -4597,7 +4597,7 @@
 4596	Zénis:
 4597	Prix Items:
 4598	Prix de Quêtes
-4599	EXP:
+4599	EXP+:
 4600	Green:
 4601	Nom de Quête
 4602	Treasure House of the Goddess
@@ -4676,7 +4676,7 @@
 4675	Quests completed today: XX / 50
 4676	Knights of the Goddess
 4677	Golden Knight of Capricorne
-4678	Like: fjasdfkjasfkl; jasl; fj; lj necklace Card Campanula de Oro embarrassed comandane committed against evil spirits evil spirits resist Satan willing to make another meal ask for collar lapel sweep against as tired as tired as volei committed as evil spirits sendother flood Satan is willing to make a meal as part of Satan willing to do for the difficulty of making law as to send the pieces to make the skin as the leader worry about making three rounds as boring as doing sweeping Lanfen decrease the measure: view; ldkfjkldsfj ; slfjaskdfjaskl; jf
+4678	Like: fjasdfkjasfkl; jasl; fj; lj necklace Card Campanula de Oro embarrassed comandane committed against evil spirits evil spirits Résist Satan willing to make another meal ask for collar lapel sweep against as tired as tired as volei committed as evil spirits sendother flood Satan is willing to make a meal as part of Satan willing to do for the difficulty of making law as to send the pieces to make the skin as the leader worry about making three rounds as boring as doing sweeping Lanfen decrease the measure: view; ldkfjkldsfj ; slfjaskdfjaskl; jf
 4679	When evil arrives on Earth, saviors will surely appear. In his search for these "saviors", Master Kurumada went through incalculable difficulties to finally reach the Shrine, where he met the Knights of Athena and was deeply impressed by his courageous acts. Then he decided to record and publish his stories to inspire News heroes.
 4680	Attention: If you already have a quest of the same type at hand, it will be useless to receive another.
 4681	Update (5x)
@@ -4813,7 +4813,7 @@
 4812	start draw
 4813	You have 99 Dice of Destiny for the current time, the update is of, maximum, 5 times - now you can also update it 5 times
 4814	New attempt (5x)
-4815	EXP
+4815	EXP+
 4816	× 1.5
 4817	× 2.0
 4818	× 3.0
@@ -4936,7 +4936,7 @@
 4935	How difficult!
 4936	Difficulty:
 4937	EXP
-4938	Prizes:
+4938	Gains:
 4939	Click on the blue font in the description of the Quest \rto define the location of the meeting.
 4940	The leader can notify all group members to meet at a particular location. \rPlease choose one of the meeting methods below:
 4941	Collect
@@ -5860,10 +5860,10 @@
 5859	Zénis:
 5860	Next level:
 5861	Character level:
-5862	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases damage resistance by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5863	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases Resistance Dégât by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5864	Rhythm \rProtection of 1 point per second in battle status and 2 points per second outside battle status \rInstead of 60 points, increases Resistance Dégât by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5865	Rhythm \rIt is 1 point per second in the battle status and 2 points per second out of the battle status \rInstead of 60 points, the Resistance Dégât increases by 5 %\rSuperior to 60 points, increases the power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
+5862	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases damage Résistance by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
+5863	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases Résistance Dégât by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
+5864	Rhythm \rProtection of 1 point per second in battle status and 2 points per second outside battle status \rInstead of 60 points, increases Résistance Dégât by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
+5865	Rhythm \rIt is 1 point per second in the battle status and 2 points per second out of the battle status \rInstead of 60 points, the Résistance Dégât increases by 5 %\rSuperior to 60 points, increases the power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
 5866	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
 5867	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
 5868	Personality \rThe pointer to the left indicates Holy Personality and to the right indicates Demon Personality \rThe Holy Personality improves your ability to recover HP and support group companions \rThe Demon Personality can increase your power of cause damage \rFacing the power of the good, the pointer moves to the left side and vice-versa \rThe farther from the center is the pointer, the greater the power of some skills. The use of related skills makes the pointer go back to the middle.
@@ -5892,8 +5892,8 @@
 5891	Prix gagner
 5892	Etoile link:
 5893	Prize of the week
-5894	EXP:
-5895	EXP:
+5894	EXP+:
+5895	EXP+:
 5896	EXP:
 5897	EXP+:
 5898	Zénis:
@@ -5918,10 +5918,10 @@
 5917	Annuler
 5918	Niv Max
 5919	Recommendations
-5920	Description: \rCombinating the gems of the shell correctly and reaching a certain level, the special abilities are activated \r Level 50: Protection LV 1 - elemental protection effect \r Level 100: Protection LV 2 - resistance to element +15
+5920	Description: \rCombinating the gems of the shell correctly and reaching a certain level, the special abilities are activated \r Level 50: Protection LV 1 - elemental protection effect \r Level 100: Protection LV 2 - Résistance to element +15
 5921	Signe:
 5922	Recommended combination:
-5923	Earth Resistance + 15: So l + Moon + Mercury + Mars + Hades
+5923	Earth Résistance + 15: So l + Moon + Mercury + Mars + Hades
 5924	Liste des Gemmes
 5925	Plastron
 5926	Casque
@@ -6061,42 +6061,42 @@
 6060	Market
 6061	Market
 6062	Market
-6063	Resistance
-6064	Resistance
-6065	Resistance
-6066	Resistance
-6067	Resistance
-6068	Resistance
-6069	Resistance
-6070	Resistance
-6071	Resistance
-6072	Resistance
-6073	Resistance
-6074	Resistance
-6075	Resistance
-6076	Resistance
-6077	Resistance
-6078	Resistance
-6079	Resistance
-6080	Resistance
-6081	Resistance
-6082	Resistance
-6083	Resistance
-6084	Resistance
-6085	Resistance
-6086	Resistance
-6087	Resistance
-6088	Resistance
-6089	Resistance
-6090	Resistance
-6091	Resistance
-6092	Resistance
-6093	Resistance
-6094	Resistance
-6095	Resistance
-6096	Resistance
-6097	Resistance
-6098	Resistance
+6063	Résistance
+6064	Résistance
+6065	Résistance
+6066	Résistance
+6067	Résistance
+6068	Résistance
+6069	Résistance
+6070	Résistance
+6071	Résistance
+6072	Résistance
+6073	Résistance
+6074	Résistance
+6075	Résistance
+6076	Résistance
+6077	Résistance
+6078	Résistance
+6079	Résistance
+6080	Résistance
+6081	Résistance
+6082	Résistance
+6083	Résistance
+6084	Résistance
+6085	Résistance
+6086	Résistance
+6087	Résistance
+6088	Résistance
+6089	Résistance
+6090	Résistance
+6091	Résistance
+6092	Résistance
+6093	Résistance
+6094	Résistance
+6095	Résistance
+6096	Résistance
+6097	Résistance
+6098	Résistance
 6099	Price of the rates:
 6100	Current Etoile:
 6101	Store Character Name is eight characters
@@ -6119,12 +6119,12 @@
 6118	Market
 6119	Market
 6120	Market
-6121	Resistance
-6122	Resistance
-6123	Resistance
-6124	Resistance
-6125	Resistance
-6126	Resistance
+6121	Résistance
+6122	Résistance
+6123	Résistance
+6124	Résistance
+6125	Résistance
+6126	Résistance
 6127	Message
 6128	Inventory is full, items can no longer be purchased.
 6129	List of purchased items
@@ -6202,42 +6202,42 @@
 6201	Market
 6202	Market
 6203	Market
-6204	Resistance
-6205	Resistance
-6206	Resistance
-6207	Resistance
-6208	Resistance
-6209	Resistance
-6210	Resistance
-6211	Resistance
-6212	Resistance
-6213	Resistance
-6214	Resistance
-6215	Resistance
-6216	Resistance
-6217	Resistance
-6218	Resistance
-6219	Resistance
-6220	Resistance
-6221	Resistance
-6222	Resistance
-6223	Resistance
-6224	Resistance
-6225	Resistance
-6226	Resistance
-6227	Resistance
-6228	Resistance
-6229	Resistance
-6230	Resistance
-6231	Resistance
-6232	Resistance
-6233	Resistance
-6234	Resistance
-6235	Resistance
-6236	Resistance
-6237	Resistance
-6238	Resistance
-6239	Resistance
+6204	Résistance
+6205	Résistance
+6206	Résistance
+6207	Résistance
+6208	Résistance
+6209	Résistance
+6210	Résistance
+6211	Résistance
+6212	Résistance
+6213	Résistance
+6214	Résistance
+6215	Résistance
+6216	Résistance
+6217	Résistance
+6218	Résistance
+6219	Résistance
+6220	Résistance
+6221	Résistance
+6222	Résistance
+6223	Résistance
+6224	Résistance
+6225	Résistance
+6226	Résistance
+6227	Résistance
+6228	Résistance
+6229	Résistance
+6230	Résistance
+6231	Résistance
+6232	Résistance
+6233	Résistance
+6234	Résistance
+6235	Résistance
+6236	Résistance
+6237	Résistance
+6238	Résistance
+6239	Résistance
 6240	Etoile transaction store
 6241	Stock
 6242	My auctions
@@ -7763,78 +7763,78 @@
 7762	Negotiation
 7763	Nom of the other player
 7764	Player's name
-7765	Resistance
-7766	Resistance
-7767	Resistance
-7768	Resistance
-7769	Resistance
-7770	Resistance
-7771	Resistance
-7772	Resistance
-7773	Resistance
-7774	Resistance
-7775	Resistance
-7776	Resistance
-7777	Resistance
-7778	Resistance
-7779	Resistance
-7780	Resistance
-7781	Resistance
-7782	Resistance
-7783	Resistance
-7784	Resistance
-7785	Resistance
-7786	Resistance
-7787	Resistance
-7788	Resistance
-7789	Resistance
-7790	Resistance
-7791	Resistance
-7792	Resistance
-7793	Resistance
-7794	Resistance
-7795	Resistance
-7796	Resistance
-7797	Resistance
-7798	Resistance
-7799	Resistance
-7800	Resistance
-7801	Resistance
-7802	Resistance
-7803	Resistance
-7804	Resistance
-7805	Resistance
-7806	Resistance
-7807	Resistance
-7808	Resistance
-7809	Resistance
-7810	Resistance
-7811	Resistance
-7812	Resistance
-7813	Resistance
-7814	Resistance
-7815	Resistance
-7816	Resistance
-7817	Resistance
-7818	Resistance
-7819	Resistance
-7820	Resistance
-7821	Resistance
-7822	Resistance
-7823	Resistance
-7824	Resistance
-7825	Resistance
-7826	Resistance
-7827	Resistance
-7828	Resistance
-7829	Resistance
-7830	Resistance
-7831	Resistance
-7832	Resistance
-7833	Resistance
-7834	Resistance
-7835	Resistance
-7836	Resistance
+7765	Résistance
+7766	Résistance
+7767	Résistance
+7768	Résistance
+7769	Résistance
+7770	Résistance
+7771	Résistance
+7772	Résistance
+7773	Résistance
+7774	Résistance
+7775	Résistance
+7776	Résistance
+7777	Résistance
+7778	Résistance
+7779	Résistance
+7780	Résistance
+7781	Résistance
+7782	Résistance
+7783	Résistance
+7784	Résistance
+7785	Résistance
+7786	Résistance
+7787	Résistance
+7788	Résistance
+7789	Résistance
+7790	Résistance
+7791	Résistance
+7792	Résistance
+7793	Résistance
+7794	Résistance
+7795	Résistance
+7796	Résistance
+7797	Résistance
+7798	Résistance
+7799	Résistance
+7800	Résistance
+7801	Résistance
+7802	Résistance
+7803	Résistance
+7804	Résistance
+7805	Résistance
+7806	Résistance
+7807	Résistance
+7808	Résistance
+7809	Résistance
+7810	Résistance
+7811	Résistance
+7812	Résistance
+7813	Résistance
+7814	Résistance
+7815	Résistance
+7816	Résistance
+7817	Résistance
+7818	Résistance
+7819	Résistance
+7820	Résistance
+7821	Résistance
+7822	Résistance
+7823	Résistance
+7824	Résistance
+7825	Résistance
+7826	Résistance
+7827	Résistance
+7828	Résistance
+7829	Résistance
+7830	Résistance
+7831	Résistance
+7832	Résistance
+7833	Résistance
+7834	Résistance
+7835	Résistance
+7836	Résistance
 7837	Hour
 7838	Hour
 7839	Hour

@@ -51,13 +51,13 @@
 50	Kneel
 51	Revere kneeling
 52	Dying of fear
-53	Resist
+53	Résist
 54	Win a little kiss
 55	:%)
 56	Making love \r (used by the one who hugs)
 57	Making love
 58	Kiss
-59	Resist \r (used by the target)
+59	Résist \r (used by the target)
 60	I do not want!
 61	Reborn Radio
 62	Invalid command
@@ -223,8 +223,8 @@
 222	Null
 223	Niv
 224	Person
-225	One Hundred Million
-226	Ten thousand
+225	x100M
+226	x10m
 227	pts.
 228	a.
 229	x
@@ -364,15 +364,15 @@
 363	^ff0000LV20 receives Divine Wings ^f2f3f2
 364	^ff0000LV34 there is a bigger bonus ^f2f3f2
 365	^ff0000LV48 there is a bigger bonus ^f2f3f2
-366	• Resistance (Terre): \rVent + Elec + Vie + Def + Précis \rVent + Elec + Vie + Esquive + Dégât \r • Resistance (Eau): \rVent + Elec + Vie + Def + Esquive \rVent + Elec + Def + Précis + Esquive \r • Resistance (Feu): \rVent + Elec + Vie + Def + Dégât \rVent + Elec + Def + Précis + Dégât \r • Resistance (Vent): \rVent + Elec + Vie + Précis + Esquive \rVent + Elec + Def + Esquive + Dégât \r • MResistance (Elec): \rVent + Elec + Vie + Précis + Dégât \rVent + Elec + Précis + Esquive + Dégât
-367	• Resistance (Terre): \rEau + Vent + Vie + Def + Précis \rEau + Vent + Vie + Esquive + Dégât \r • Resistance (Eau): \rEau + Vent + Vie + Def + Esquive \rEau + Vent + Def + Précis + Esquive \r • Resistance (Feu): \rEau + Vent + Vie + Def + Dégât \rEau + Vent + Def + Précis + Dégât \r • Resistance (Vent): \rEau + Vent + Vie + Précis + Esquive \rEau + Vent + Def + Esquive + Dégât \r • Resistance (Elec): \rEau + Vent + Vie + Précis + Dégât \rEau + Vent + Précis + Esquive + Dégât
-368	• Resistance (Terre): \rTerre + Eau + Vie + Def + Précis \rTerre + Eau + Vie + Esquive + Dégât \r • Resistance (Eau): \r Terre + Eau + Vie + Def + Esquive \rTerre + Eau + Def + Précis + Esquive \r • Resistance (Feu): \rSatur + Eau + Vie + Def + Dégât \rTerre + Eau + Def + Précis + Dégât \r • Resistance (Vent): \rTerre + Eau + Vie + Précis + Esquive \rTerre + Eau + Def + Esquive + Dégât \r • Resistance (Elec): \rTerre + Eau + Vie + Précis + Dégât \rTerre + Eau + Précis + Esquive + Dégât
-369	• Resistance (Terre): \rElec + Feu + Vie + Def + Précis \rElec + Feu + Vie + Esquive + Dégât \r • Resistance (Eau): \rElec + Feu + Vie + Def + Esquive \rElec + Feu + Def + Précis + Esquive \r • Resistance (Feu): \rElec + Feu + Vie + Def + Dégât \rElec + Feu + Def + Précis + Dégât \r • Resistance (Vent): \rElec + Feu + Vie + Précis + Esquive \rElec + Feu + Def + Esquive + Dégât \r • Resistance (Elec): \rElec + Feu + Vie + Précis + Dégât \rElec + Feu + Précis + Esquive + Dégât
-370	• Resistance (Terre): \rFeu + Terre + Vie + Def + Précis \rFeu + Terre + Vie + Esquive + Dégât \r • Resistance (Eau): \rFeu + Terre + Vie + Def + Esquive \rFeu + Terre + Def + Précis + Esquive \r • Resistance (Feu): \rMarta + Terre + Vie + Def + Dégât \rFeu + Terre + Def + Précis + Dégât \r • Resistance (Vent): \rFeu + Terre + Vie + Précis + Esquive \rFeu + Terre + Def + Esquive + Dégât \r • Resistance (Elec) \rFeu + Terre + Vie + Précis + Dégât \rFeu + Terre + Précis + Esquive + Dégât
-371	• Resistance (Terre): \rEau + Elec + Vie + Def + Précis \rEau + Elec + Vie + Esquive + Dégât \r • Resistance (Eau): \rEau + Elec + Vie + Def + Esquive \rEau + Elec + Def + Précis + Esquive \r • Resistance (Feu): \rEau + Elec + Vie + Def + Dégât \rEau + Elec + Def + Précis + Dégât \r • Resistance (Vent): \rEau + Elec + Vie + Précis + Esquive \rEau + Elec + Def + Esquive + Dégât \r • Resistance (Elec): \rEau + Elec + Vie + Précis + Dégât \rEau + Elec + Précis + Esquive + Dégât
-372	• Resistance (Terre): \rTerre + Feu + Vie + Def + Précis \rTerre + Feu + Vie + Esquive + Dégât \r • Resistance (Eau): \rTerre + Feu + Vie + Def + Esquive \rTerre + Feu + Def + Précis + Esquive \r • Resistance (Feu): \rTerre + Feu + Vie + Def + Dégât \rTerre + Feu + Def + Précis + Dégât \r • Resistance (Vent): \rTerre + Feu + Vie + Précis + Esquive \rTerre + Feu + Def + Esquive + Dégât \r • Resistance (Elec): \rTerre + Feu + Vie + Précis + Dégât \rTerre + Feu + Précis + Esquive + Dégât
-373	• Resistance (Terre): \rBenetnasch + Vent + Vie + Def + Précis \rBenetnasch + Vent + Vie + Esquive + Dégât \r • Resistance (Eau): \rBenetnasch + Vent + Vie + Def + Esquive \rBenetnasch + Vent + Def + Précis + Esquive \r • Resistance (Feu): \rBenetnasch + Vent + Vie + Def + Dégât \rBenetnasch + Vent + Def + Précis + Dégât \r • Resistance (Vent): \rBenetnasch + Vent + Vie + Précis + Esquive \rBenetnasch + Vent + Def + Esquive + Dégât \r • Resistance (Elec): \rBenetnasch + Vent + Vie + Précis + Dégât \rBenetnasch + Vent + Précis + Esquive + Dégât \r • Resistance (Lumiere): \rBenetnasch + Vent + Vie + Def + Polaris \rBenetnasch + Vent + Vie + Précis + Polaris
-374	• Resistance (Terre): \rVent + Benetnasch + Vie + Def + Précis \rVent + Benetnasch + Vie + Netuno + Plutão \r • Resistance (Eau): \rVent + Benetnasch + Vie + Def + Netuno \rVent + Benetnasch + Def + Précis + Netuno \r • Resistance (Feu): \rVent + Benetnasch + Vie + Def + Plutão \rVent + Benetnasch + Def + Précis + Plutão \r • Resistance (Vent): \rVent + Benetnasch + Vie + Précis + Netuno \rVent + Benetnasch + Def + Netuno + Plutão \r • Resistance (Elec): \rVent + Benetnasch + Vie + Précis + Plutão \rVent + Benetnasch + Précis + Netuno + Plutão \r • Resistance (Lumiere): \rVent + Benetnasch + Vie + Def + Polaris \rVent + Benetnasch + Vie + Précis + Polaris
+366	• Résistance (Terre): \rVent + Elec + Vie + Def + Précis \rVent + Elec + Vie + Esquive + Dégât \r • Résistance (Eau): \rVent + Elec + Vie + Def + Esquive \rVent + Elec + Def + Précis + Esquive \r • Résistance (Feu): \rVent + Elec + Vie + Def + Dégât \rVent + Elec + Def + Précis + Dégât \r • Résistance (Vent): \rVent + Elec + Vie + Précis + Esquive \rVent + Elec + Def + Esquive + Dégât \r • MRésistance (Elec): \rVent + Elec + Vie + Précis + Dégât \rVent + Elec + Précis + Esquive + Dégât
+367	• Résistance (Terre): \rEau + Vent + Vie + Def + Précis \rEau + Vent + Vie + Esquive + Dégât \r • Résistance (Eau): \rEau + Vent + Vie + Def + Esquive \rEau + Vent + Def + Précis + Esquive \r • Résistance (Feu): \rEau + Vent + Vie + Def + Dégât \rEau + Vent + Def + Précis + Dégât \r • Résistance (Vent): \rEau + Vent + Vie + Précis + Esquive \rEau + Vent + Def + Esquive + Dégât \r • Résistance (Elec): \rEau + Vent + Vie + Précis + Dégât \rEau + Vent + Précis + Esquive + Dégât
+368	• Résistance (Terre): \rTerre + Eau + Vie + Def + Précis \rTerre + Eau + Vie + Esquive + Dégât \r • Résistance (Eau): \r Terre + Eau + Vie + Def + Esquive \rTerre + Eau + Def + Précis + Esquive \r • Résistance (Feu): \rSatur + Eau + Vie + Def + Dégât \rTerre + Eau + Def + Précis + Dégât \r • Résistance (Vent): \rTerre + Eau + Vie + Précis + Esquive \rTerre + Eau + Def + Esquive + Dégât \r • Résistance (Elec): \rTerre + Eau + Vie + Précis + Dégât \rTerre + Eau + Précis + Esquive + Dégât
+369	• Résistance (Terre): \rElec + Feu + Vie + Def + Précis \rElec + Feu + Vie + Esquive + Dégât \r • Résistance (Eau): \rElec + Feu + Vie + Def + Esquive \rElec + Feu + Def + Précis + Esquive \r • Résistance (Feu): \rElec + Feu + Vie + Def + Dégât \rElec + Feu + Def + Précis + Dégât \r • Résistance (Vent): \rElec + Feu + Vie + Précis + Esquive \rElec + Feu + Def + Esquive + Dégât \r • Résistance (Elec): \rElec + Feu + Vie + Précis + Dégât \rElec + Feu + Précis + Esquive + Dégât
+370	• Résistance (Terre): \rFeu + Terre + Vie + Def + Précis \rFeu + Terre + Vie + Esquive + Dégât \r • Résistance (Eau): \rFeu + Terre + Vie + Def + Esquive \rFeu + Terre + Def + Précis + Esquive \r • Résistance (Feu): \rMarta + Terre + Vie + Def + Dégât \rFeu + Terre + Def + Précis + Dégât \r • Résistance (Vent): \rFeu + Terre + Vie + Précis + Esquive \rFeu + Terre + Def + Esquive + Dégât \r • Résistance (Elec) \rFeu + Terre + Vie + Précis + Dégât \rFeu + Terre + Précis + Esquive + Dégât
+371	• Résistance (Terre): \rEau + Elec + Vie + Def + Précis \rEau + Elec + Vie + Esquive + Dégât \r • Résistance (Eau): \rEau + Elec + Vie + Def + Esquive \rEau + Elec + Def + Précis + Esquive \r • Résistance (Feu): \rEau + Elec + Vie + Def + Dégât \rEau + Elec + Def + Précis + Dégât \r • Résistance (Vent): \rEau + Elec + Vie + Précis + Esquive \rEau + Elec + Def + Esquive + Dégât \r • Résistance (Elec): \rEau + Elec + Vie + Précis + Dégât \rEau + Elec + Précis + Esquive + Dégât
+372	• Résistance (Terre): \rTerre + Feu + Vie + Def + Précis \rTerre + Feu + Vie + Esquive + Dégât \r • Résistance (Eau): \rTerre + Feu + Vie + Def + Esquive \rTerre + Feu + Def + Précis + Esquive \r • Résistance (Feu): \rTerre + Feu + Vie + Def + Dégât \rTerre + Feu + Def + Précis + Dégât \r • Résistance (Vent): \rTerre + Feu + Vie + Précis + Esquive \rTerre + Feu + Def + Esquive + Dégât \r • Résistance (Elec): \rTerre + Feu + Vie + Précis + Dégât \rTerre + Feu + Précis + Esquive + Dégât
+373	• Résistance (Terre): \rBenetnasch + Vent + Vie + Def + Précis \rBenetnasch + Vent + Vie + Esquive + Dégât \r • Résistance (Eau): \rBenetnasch + Vent + Vie + Def + Esquive \rBenetnasch + Vent + Def + Précis + Esquive \r • Résistance (Feu): \rBenetnasch + Vent + Vie + Def + Dégât \rBenetnasch + Vent + Def + Précis + Dégât \r • Résistance (Vent): \rBenetnasch + Vent + Vie + Précis + Esquive \rBenetnasch + Vent + Def + Esquive + Dégât \r • Résistance (Elec): \rBenetnasch + Vent + Vie + Précis + Dégât \rBenetnasch + Vent + Précis + Esquive + Dégât \r • Résistance (Lumiere): \rBenetnasch + Vent + Vie + Def + Polaris \rBenetnasch + Vent + Vie + Précis + Polaris
+374	• Résistance (Terre): \rVent + Benetnasch + Vie + Def + Précis \rVent + Benetnasch + Vie + Netuno + Plutão \r • Résistance (Eau): \rVent + Benetnasch + Vie + Def + Netuno \rVent + Benetnasch + Def + Précis + Netuno \r • Résistance (Feu): \rVent + Benetnasch + Vie + Def + Plutão \rVent + Benetnasch + Def + Précis + Plutão \r • Résistance (Vent): \rVent + Benetnasch + Vie + Précis + Netuno \rVent + Benetnasch + Def + Netuno + Plutão \r • Résistance (Elec): \rVent + Benetnasch + Vie + Précis + Plutão \rVent + Benetnasch + Précis + Netuno + Plutão \r • Résistance (Lumiere): \rVent + Benetnasch + Vie + Def + Polaris \rVent + Benetnasch + Vie + Précis + Polaris
 375	Perso
 376	Sac
 377	Skill
@@ -546,8 +546,8 @@
 545	Hors Ligne
 546	EXP: %.0f / %.0f
 547	EXP+: %.0f / %.0f
-548	Accumule EXP: %I64d
-549	EXP+ Accumulated: %I64d
+548	EXP Accumulé: %I64d
+549	EXP+ Accumulé: %I64d
 550	『%s』
 551	『%s + %d』
 552	%d
@@ -555,7 +555,7 @@
 554	Niv HM:
 555	Zero
 556	EXP
-557	EXP
+557	EXP+
 558	%s ...
 559	Greece
 560	Siberia
@@ -790,7 +790,7 @@
 789	The application to recruit the student has already been sent, please wait for the answer.
 790	You received the blessing of Athena! Click on the button to receive. Remaining time: %d seconds
 791	You received the blessing of Athena! Click on the button to receive. Remaining time: %d minutes %d seconds
-792	The screenshot has been saved in the screenshots folder.
+792	L'imprime écran a été enregistré dans le dossier screenshot
 793	You will not be able to attack and move within the next 10 seconds, then it will teleport to the nearest rebirth point (can not be used again in 2 minutes)
 794	The current battlefield does not allow the use of the 'freeze' function of the character, if you really stay frozen, please click on inform BUG
 795	New discovered area: %s
@@ -1760,7 +1760,7 @@
 1759	Mysterious Spectrum
 1760	Mysterious Marina
 1761	^9400D3Aldebaran
-1762	Golden Knight who protects the House of Taureau, known as "Golden Taureau". In spite of its giant physical bearing and its strong defense, its agility is not affected, being good also in dodging. In addition to fighting like a ferocious bull, he still has his famous deadly blow, the Big Horn - whose posture, normally, is to put both hands on his chest and quickly release both arms, forming electro-shock waves and doubling his power. This technique of struggle is also similar to the sword of "Iaido". \rThe personality of Aldebaran is that of an uninhibited, honest and big-hearted person, who is not limited to outward appearance and great principles, relying only on his own determination. While the battle of the Twelve Houses, he intentionally facilitated for Seiya and the others to pass safely, resulting in one of his horns cut off. In the battle in which the Wraith invaded the Sanctuaire, Aldebaran resisted bravely against Niobe, the Earth Star of Darkness, and heroically sacrificed himself. Before dying, however, he completely destroyed the body of his adversary.
+1762	Golden Knight who protects the House of Taureau, known as "Golden Taureau". In spite of its giant physical bearing and its strong defense, its agility is not affected, being good also in dodging. In addition to fighting like a ferocious bull, he still has his famous deadly blow, the Big Horn - whose posture, normally, is to put both hands on his chest and quickly release both arms, forming electro-shock waves and doubling his power. This technique of struggle is also similar to the sword of "Iaido". \rThe personality of Aldebaran is that of an uninhibited, honest and big-hearted person, who is not limited to outward appearance and great principles, relying only on his own determination. While the battle of the Twelve Houses, he intentionally facilitated for Seiya and the others to pass safely, resulting in one of his horns cut off. In the battle in which the Wraith invaded the Sanctuaire, Aldebaran Résisted bravely against Niobe, the Earth Star of Darkness, and heroically sacrificed himself. Before dying, however, he completely destroyed the body of his adversary.
 1763	^00BFFFOrfeo
 1764	When young, Orpheus and Euridice fell in love - but, unexpectedly, Euridice ends up dying. Suffering, seeking to revive his beloved, he goes to the Royaume des Enfers to ask Hades to revive her. The beautiful music of Orpheus ends up convincing Hades, who revives her; However, at the exit des Enfers, Pandora tricks him with Pharaoh to turn Euridice into stone, so that Orpheus can continue stuck there. When Seiya and the others come, Orpheus helps them, but ends up not participating in the Holy War immediately. In the end, because of Seiya and Shun, Orpheus discovers that the trap that Pharaoh had planned is the one that transformed Euridice into stone. That has made Orpheus understand the reason of life and face Pharaoh. At the moment when Orpheus leads Seiya and Shun to kill Hades, he is surprised by Rhadamanthe attack, being seriously wounded. Later, the biggest blow Orpheus makes is, in reality, an illusion of Hades, causing his movement to fail. Orpheus dies in battle at the Temple of Hades. Following his beloved who had also left, Orpheus becomes stardust and, in heaven, plays his love song.
 1765	^00BFFFDragon Black
@@ -1788,7 +1788,7 @@
 1787	^00BFFFShiryu
 1788	Dragon Bronze Knight. He was under the care of Dohko of Balance to train in the Cinq Pics, in China. While his training, he has managed to reverse the flow of the Great Cascade of Rozan and, thus, deserved to win his Armor. \rDe frank personality, gives much value to friendship and believes in the power that it has, always ready to die for his friends; He is the one who sacrifices his own life for others. Shiryu participated in many fights in which he was close to death, since, generally, he needed not to hesitate to exploit his Cosmo and, in the end, to defeat an enemy that had no chance to win.
 1789	^9400D3Aiolia
-1790	Golden Knight who protects Lion's House, is also called "Lion Dorado". He is known for his firmness and bravery, he is extremely fair and brave. He ardently wishes to cleanse the stigma of his older brother, Aiorios de Sagitario, who was killed for being considered a traitor to the Sanctuaire. In a fight in the Royaume des Enfers, he resisted only the six Wraiths, using his Lightning Plasma to defeat the Earth Star of Concealment, Laimi. In the end, due to the enchantment des Enfers that was weakening him, he was defeated by one of the Three Judges - The Celestial Star of Fury, Rhadamanthe. In the Royaume des Enfers, in order to overthrow the Wailing Wall, it is also sacrificed in devotion to Athena.
+1790	Golden Knight who protects Lion's House, is also called "Lion Dorado". He is known for his firmness and bravery, he is extremely fair and brave. He ardently wishes to cleanse the stigma of his older brother, Aiorios de Sagitario, who was killed for being considered a traitor to the Sanctuaire. In a fight in the Royaume des Enfers, he Résisted only the six Wraiths, using his Lightning Plasma to defeat the Earth Star of Concealment, Laimi. In the end, due to the enchantment des Enfers that was weakening him, he was defeated by one of the Three Judges - The Celestial Star of Fury, Rhadamanthe. In the Royaume des Enfers, in order to overthrow the Wailing Wall, it is also sacrificed in devotion to Athena.
 1791	^00BFFFEsmeralda
 1792	Gentle young man of pure beauty, obstinate as fresh flowers that bloom in the middle of Hell. Inhabitant of the Island of the Queen Death, he met Ikki while training, and gave him comfort and care. In Ikki's fight to obtain the Phoenix Armor, she ends up accidentally receiving Guilty's blow and dies. Thus, ikki incarnates in hate, awakens his Cosmo, kills his master and obtains the Armor.
 1793	^00BFFFCisne Black
@@ -1901,7 +1901,7 @@
 1900	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNeed to Own the Cassiopaean Armor \r ^ffffffSearch for Altai in the Argent City \rRequired Items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
 1901	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Snake Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
 1902	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Dolphin Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
-1903	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own Raven Armor \r ^ffffffSearch for Altai in Argent City \rRequired Items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
+1903	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own Corbeau Armor \r ^ffffffSearch for Altai in Argent City \rRequired Items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
 1904	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV75 \rNecessary to possess the Compass Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rFragment of Argent × 200 \rAuthorization of Armor [Argent] × 3
 1905	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Whale Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment of Argent × 200 \rAuthorization of Armor [Argent] × 3
 1906	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Reticle Armor \r ^ffffffFind Altai in the Argent City \rNecessary items: \rFragment of Argent × 120

@@ -321,7 +321,7 @@
 320	Stone Pillar 2
 321	Stone Pillar 2 Combination Monster
 322	Approval Monster Activation Test
-323	Chevalier des Gemeaux [G1]
+323	Chevalier des Gemeaux
 324	Fall Mode Test Monster 1
 325	Monster of Mode of Fall Mode 2
 326	Monster of Mode Test Dropping Money 1
@@ -480,7 +480,7 @@
 479	Sea Witch Marine Scales
 480	scales of Marina de Sirene
 481	Mermaid Marine Scales
-482	Emperor of the Seas Poseidon
+482	Empereur des Mers Poseidon
 483	Young Pandora grabbing Hades
 484	Pandora taking the Trident
 485	Pandora with empty hands
@@ -490,13 +490,13 @@
 489	Lion Test Strong Man Teste
 490	Test of Lion Thin Man
 491	Belier Armored Helmet by Mr. Mu
-492	Crow Argent Knight
-493	Argent Knight of Centaur
-494	Argent Knight of Cepheus
-495	Argent Knight of Orpheus
+492	Crow Chevalier d'Argent
+493	Chevalier d'Argent of Centaur
+494	Chevalier d'Argent of Cepheus
+495	Chevalier d'Argent of Orpheus
 496	Aigle Argent Argent Amazona
-497	Argent Knight of Perseus
-498	Argent Knight of Sagitta
+497	Chevalier d'Argent of Perseus
+498	Chevalier d'Argent of Sagitta
 499	Argent Whale Knight
 500	Argent Lizard Knight
 501	Cygne Cygne Armor
@@ -797,7 +797,7 @@
 796	Furious des Enfers
 797	Greedy des Enfers
 798	Created of Jiamian
-799	Raven
+799	Corbeau
 800	Infiltrate
 801	Infiltrate
 802	Sebastian
@@ -831,7 +831,7 @@
 830	Apprenti
 831	Girl without memory
 832	Jamian
-833	Raven
+833	Corbeau
 834	Leader of the Specters
 835	Alex
 836	Apprenti
@@ -888,7 +888,7 @@
 887	Avant-garde des Enfers
 888	Capitaine des Enfers
 889	Created by Jiamian
-890	Raven
+890	Corbeau
 891	Pandora
 892	Alex
 893	Royaume des Enfers Warrior
@@ -956,7 +956,7 @@
 955	Eudora
 956	Apprenti
 957	Jamian
-958	Raven
+958	Corbeau
 959	Eudora
 960	Apprenti
 961	Aiolia
@@ -968,7 +968,7 @@
 967	Shaka
 968	Vierge
 969	Jamian
-970	Raven
+970	Corbeau
 971	Royaume des Enfers Killer
 972	Soldat [Lieu Saint]
 973	Soldat [Lieu Saint]
@@ -1070,9 +1070,9 @@
 1069	Soldat [Lieu Saint]
 1070	Moses
 1071	Whale
-1072	Raven
+1072	Corbeau
 1073	Jamian
-1074	Raven
+1074	Corbeau
 1075	Executor [Lieu Saint]
 1076	Captain [Sanctuaire]
 1077	Useless
@@ -1118,7 +1118,7 @@
 1117	Ikki
 1118	Phoenix
 1119	Jamian
-1120	Raven
+1120	Corbeau
 1121	Dionysus
 1122	Fantastic Dream
 1123	Musk
@@ -1301,7 +1301,7 @@
 1300	Immortal Resentful Spirit
 1301	Reborn Knight
 1302	Soul of the Yomotsu Hill
-1303	Blood Raven
+1303	Blood Corbeau
 1304	Mask of Death
 1305	Cancer
 1306	Shiryu
@@ -1386,7 +1386,7 @@
 1385	Spirit [Rozan]
 1386	Monkey
 1387	Spirit of the Bronze Armor
-1388	Blood Raven
+1388	Blood Corbeau
 1389	Zombi of Sekishiki
 1390	Lei-Hu
 1391	Lei-Hu
@@ -1514,7 +1514,7 @@
 1513	Pavlik
 1514	Darkness of the Ocean
 1515	Jamian
-1516	Raven
+1516	Corbeau
 1517	Roi of the Walkers
 1518	Gisela
 1519	Leader of the Forsaken Bandits
@@ -1550,7 +1550,7 @@
 1549	Thetis
 1550	Mu
 1551	Belier
-1552	Raven
+1552	Corbeau
 1553	Serpent of the Valley
 1554	Salatiel
 1555	Alienated from the Royaume des Enfers
@@ -1979,7 +1979,7 @@
 1978	Marine Sentinel
 1979	Emperor's Guard
 1980	Navy Operator
-1981	Captain of the Guard of the Emperor of the Seas
+1981	Captain of the Guard of the Empereur des Mers
 1982	Golden Gun
 1983	Marina Fervoroso
 1984	Dynamite barrel
@@ -2073,9 +2073,9 @@
 2072	Guardian of the Siren
 2073	Marina singing Hymn of War
 2074	Marina singing Hymn of War
-2075	Battle flag of the Emperor of the Seas
+2075	Battle flag of the Empereur des Mers
 2076	Battle flag of Athena
-2077	Tactics of the Secondary Line 20 Invisible Monster Battle Flag of the Emperor of the Seas
+2077	Tactics of the Secondary Line 20 Invisible Monster Battle Flag of the Empereur des Mers
 2078	Secondary Line Tactics 21 Sanctuaire Body Monster Sanctuaire
 2079	Sirena
 2080	Carrey
@@ -2137,7 +2137,7 @@
 2136	Scorpion
 2137	Aiolia
 2138	Lion
-2139	Raven of the passing of Dead
+2139	Corbeau of the passing of Dead
 2140	Julián
 2141	Julián
 2142	Julian
@@ -2281,7 +2281,7 @@
 2280	Influenced Person
 2281	Person of the restored city
 2282	Puppy dog ​​for experiment
-2283	Raven
+2283	Corbeau
 2284	Spirit des Enfers
 2285	Kassel
 2286	Star Aña Blanca Golem
@@ -2321,7 +2321,7 @@
 2320	Guard of the First Division
 2321	Successful
 2322	Shadow of the Demon Star
-2323	Blood Raven
+2323	Blood Corbeau
 2324	Forward Sekishiki
 2325	Daidaros
 2326	Resuscitated Cepheus
@@ -2340,7 +2340,7 @@
 2339	Andromede Noir
 2340	Black Knight Reborn
 2341	Argol
-2342	Argent Knight Reborn
+2342	Chevalier d'Argent Reborn
 2343	Queen
 2344	Spectre · Aldebaran
 2345	Gordon
@@ -2786,7 +2786,7 @@
 2785	Alma [Holy Land]
 2786	Mask of Death
 2787	Cancer
-2788	Raven
+2788	Corbeau
 2789	Desert Wolf
 2790	Pirate Captain
 2791	Sacrée Two 05 Camino del Olvido
@@ -3355,7 +3355,7 @@
 3354	Light of Sobriety
 3355	Magic Grass
 3356	Campo Florido
-3357	Demon Flower
+3357	Fleurs Demoniaque
 3358	Falling soul
 3359	Kagaho
 3360	Bennu
@@ -3562,7 +3562,7 @@
 3561	Perseus
 3562	Ophiuchus
 3563	Lizard
-3564	Raven
+3564	Corbeau
 3565	Respond to life
 3566	Soldat of the marine world
 3567	Soldat [Lieu Saint]
@@ -3887,9 +3887,9 @@
 3886	Hyoga
 3887	Cygne
 3888	Poseidon
-3889	Emperor of the Seas
+3889	Empereur des Mers
 3890	Poseidon
-3891	Emperor of the Seas
+3891	Empereur des Mers
 3892	Divinity of Poseidon
 3893	Pillar of Life
 3894	Shun
@@ -4174,62 +4174,62 @@
 4173	Garde Elite d'Athéna
 4174	Garde Elite d'Athéna
 4175	Garde Elite d'Athéna
-4176	Chevalier du Belier [G1]
+4176	Chevalier du Belier
 4177	Garde Elite d'Athéna
 4178	Garde Elite d'Athéna
 4179	Garde Elite d'Athéna
 4180	Garde Elite d'Athéna
-4181	Chevalier du Taureau [G1]
+4181	Chevalier du Taureau
 4182	Garde Elite d'Athéna
 4183	Garde Elite d'Athéna
 4184	Garde Elite d'Athéna
 4185	Garde Elite d'Athéna
-4186	Chevalier des Gemeaux [G1]
+4186	Chevalier des Gemeaux
 4187	Garde Elite d'Athéna
 4188	Garde Elite d'Athéna
 4189	Garde Elite d'Athéna
 4190	Garde Elite d'Athéna
-4191	Chevalier du Cancer [G1]
+4191	Chevalier du Cancer
 4192	Garde Elite d'Athéna
 4193	Garde Elite d'Athéna
 4194	Garde Elite d'Athéna
 4195	Garde Elite d'Athéna
-4196	Chevalier du Lion [G1]
+4196	Chevalier du Lion
 4197	Garde Elite d'Athéna
 4198	Garde Elite d'Athéna
 4199	Garde Elite d'Athéna
 4200	Garde Elite d'Athéna
-4201	Chevalier de la Vierge [G1]
+4201	Chevalier de la Vierge
 4202	Garde Elite d'Athéna
 4203	Garde Elite d'Athéna
 4204	Garde Elite d'Athéna
 4205	Garde Elite d'Athéna
-4206	Chevalier de la Balance [G1]
+4206	Chevalier de la Balance
 4207	Garde Elite d'Athéna
 4208	Garde Elite d'Athéna
 4209	Garde Elite d'Athéna
 4210	Garde Elite d'Athéna
-4211	Chevalier du Scorpion [G1]
+4211	Chevalier du Scorpion
 4212	Garde Elite d'Athéna
 4213	Garde Elite d'Athéna
 4214	Garde Elite d'Athéna
 4215	Garde Elite d'Athéna
-4216	Chevalier du Sagittaire [G1]
+4216	Chevalier du Sagittaire
 4217	Garde Elite d'Athéna
 4218	Garde Elite d'Athéna
 4219	Garde Elite d'Athéna
 4220	Garde Elite d'Athéna
-4221	Chevalier du Capricorne [G1]
+4221	Chevalier du Capricorne
 4222	Garde Elite d'Athéna
 4223	Garde Elite d'Athéna
 4224	Garde Elite d'Athéna
 4225	Garde Elite d'Athéna
-4226	Chevalier du Verseau [G1]
+4226	Chevalier du Verseau
 4227	Garde Elite d'Athéna
 4228	Garde Elite d'Athéna
 4229	Garde Elite d'Athéna
 4230	Garde Elite d'Athéna
-4231	Chevalier du Poisson [G1]
+4231	Chevalier du Poisson
 4232	Garde Elite d'Athéna
 4233	Garde Elite d'Athéna
 4234	Garde Elite d'Athéna
@@ -4384,7 +4384,7 @@
 4383	Chef Garde Elite du Cancer
 4384	Chef Garde Elite du Cancer
 4385	Jamian
-4386	Raven
+4386	Corbeau
 4387	Chef Garde Elite du Cancer
 4388	Chef Garde Elite du Cancer
 4389	Chef Garde Elite du Cancer
@@ -5898,7 +5898,7 @@
 5897	Soldat [Lieu Saint]
 5898	Soldat [Lieu Saint]
 5899	Soldat [Lieu Saint]
-5900	Soldat of the resistant Sanctuaire
+5900	Soldat of the Résistant Sanctuaire
 5901	Tremi
 5902	Sagita
 5903	Ichi
@@ -6000,7 +6000,7 @@
 5999	Sonic
 6000	Sonic
 6001	Great Défenseur [Taureau]
-6002	Resistant Sanctuaire Soldat
+6002	Résistant Sanctuaire Soldat
 6003	Tree
 6004	Rolling Stone
 6005	Shun
@@ -6028,7 +6028,7 @@
 6027	Thunder
 6028	Goodness of the Gemeaux
 6029	Gemeaux evil
-6030	Raven
+6030	Corbeau
 6031	Shining ball of evil
 6032	Bright ball of good
 6033	Bright ball of good
@@ -6669,7 +6669,7 @@
 6668	Queen des Enfers
 6669	Queen des Enfers
 6670	Ghost
-6671	Demon Flower
+6671	Fleurs Demoniaque
 6672	Shiryu
 6673	Ikki
 6674	Phoenix
@@ -7080,7 +7080,7 @@
 7079	Hell
 7080	The ghost of the baby
 7081	Resentful Soul
-7082	Argent Knight
+7082	Chevalier d'Argent
 7083	Black leader
 7084	Black Satin Soldat
 7085	Sailor Soldat [Lieu Saint]
@@ -7149,7 +7149,7 @@
 7148	Oneros
 7149	God of the Dream
 7150	Poseidon
-7151	Emperor of the Seas
+7151	Empereur des Mers
 7152	Persephone
 7153	Empress des Enfers
 7154	Command Monster
@@ -7162,7 +7162,7 @@
 7161	Capricorne
 7162	NPC_Monstruo
 7163	Chrysaor
-7164	Emperor of the Seas
+7164	Empereur des Mers
 7165	Clothing of the Tang Dynasty
 7166	Bloody Mantle
 7167	Lightning
@@ -7336,7 +7336,7 @@
 7335	<Protect>
 7336	Dead Summoner Summoner Monster
 7337	Chrysaor
-7338	Emperor of the Seas
+7338	Empereur des Mers
 7339	Kanon
 7340	General of the Marine Dragon
 7341	Isaac
@@ -7402,7 +7402,7 @@
 7401	Fire ghost
 7402	Eye of Rozan
 7403	Place of the road
-7404	Raven
+7404	Corbeau
 7405	Final place
 7406	Nightmare
 7407	Nightmare (eclipse)
@@ -7800,8 +7800,8 @@
 7799	Lira of Orpheus
 7800	Lira of Orpheus
 7801	Lyre of Orpheus
-7802	Squire -Jamian Attack of the Raven
-7803	Squire - Jamian Defense of the Raven
+7802	Squire -Jamian Attack of the Corbeau
+7803	Squire - Jamian Defense of the Corbeau
 7804	Relic-Ativação de Chicote de Troll
 7805	Relic-Attack of Troll's Chicote Attack
 7806	Relic-Chicote de Troll Attacked by Attack
@@ -7963,7 +7963,7 @@
 7962	Spectre
 7963	Spirit of the Altar
 7964	invisible monster
-7965	Monster Summoned by the Emperor of the Seas
+7965	Monster Summoned by the Empereur des Mers
 7966	Monster Summoned by Sirene
 7967	Monster Summoned by Kraken
 7968	Damage reduction
@@ -8637,7 +8637,7 @@
 8636	Envahisseur
 8637	Dragon des Enfers
 8638	Envahisseur
-8639	Raven
+8639	Corbeau
 8640	Light of the Star
 8641	Recrue
 8642	Birthplace
@@ -9216,7 +9216,7 @@
 9215	Niobe
 9216	Deep
 9217	Rhadamanthe
-9218	Etoile de la Férocité  [G1]
+9218	Etoile de la Férocité 
 9219	Minos
 9220	Faucet
 9221	Éaque
@@ -9267,7 +9267,7 @@
 9266	Aphrodite
 9267	Poisson
 9268	Poisson
-9269	Demon Flower
+9269	Fleurs Demoniaque
 9270	Saga
 9271	Gemeaux
 9272	Boss 02
@@ -9675,8 +9675,8 @@
 9674	Slave Superintendent
 9675	Black Guard
 9676	Shaka_Nephro Guard Using Tactics
-9677	Raven
-9678	Mu_Constellation Raven Use of Tactics
+9677	Corbeau
+9678	Mu_Constellation Corbeau Use of Tactics
 9679	Killer Sanctuaire
 9680	Mu_ Apprenti of Rozan 3 Use of tactics
 9681	Mu_Kiki Using tactics
@@ -9743,7 +9743,7 @@
 9742	Dragon Negro_Joven Cojo 3 Use of tactics
 9743	Black Dragon_Joven Cojo 4 Tactical use
 9744	Old Man Black
-9745	Raven
+9745	Corbeau
 9746	Black Knight
 9747	Black Swan_ Black Knight Use of Tactics
 9748	White Day Event
@@ -9792,7 +9792,7 @@
 9791	Transparent Monster
 9792	Torii Town
 9793	Stonehenge of the spirits
-9794	Raven
+9794	Corbeau
 9795	Beibei
 9796	huanhuan
 9797	Lele
@@ -9916,10 +9916,10 @@
 9915	Illusion. Crystal Wall
 9916	Illusion.Anterest of Belier
 9917	Renegade
-9918	Illusion. Demonic Flower
+9918	Illusion. Fleurs Demoniaque
 9919	Illusion.Demony Flower
-9920	Illusion. Demonic Flower
-9921	Illusion. Demonic Flower
+9920	Illusion. Fleurs Demoniaque
+9921	Illusion. Fleurs Demoniaque
 9922	Illusion.Previous generation of the Celestial Star Demoniac
 9923	spectrum
 9924	Rhadamanthe
@@ -9983,8 +9983,8 @@
 9982	spectrum
 9983	Illusion. Celestial Star of the Fury
 9984	spectrum
-9985	Illusion. Demonic Flower
-9986	Illusion. Demonic Flower
+9985	Illusion. Fleurs Demoniaque
+9986	Illusion. Fleurs Demoniaque
 9987	Illusion. Previous Generation of the God of Sleep
 9988	spectrum
 9989	Rhadamanthe
@@ -10009,8 +10009,8 @@
 10008	Illusion. Crystal Wall
 10009	Illusion.Previous generation of Belier
 10010	Golden Knight des Enfers
-10011	Illusion. Demonic Flower
-10012	Illusion. Demonic Flower
+10011	Illusion. Fleurs Demoniaque
+10012	Illusion. Fleurs Demoniaque
 10013	Illusion.Demony Flower
 10014	Illusion.Demony Flower
 10015	Illusion.Previous generation of the Celestial Star Demoniac
@@ -10145,7 +10145,7 @@
 10144	Commander of the Marines
 10145	Strange
 10146	Poseidon
-10147	Emperor of the Seas
+10147	Empereur des Mers
 10148	Teddy Bear
 10149	Invisible Monster passing phase
 10150	Invisible General Control Monster
@@ -10404,7 +10404,7 @@
 10403	Scales of the General of the Seas
 10404	Dragon of the Sea
 10405	General of the seas
-10406	​​Emperor of the Seas
+10406	​​Empereur des Mers
 10407	Scales of the General of the Seas
 10408	Sirena
 10409	Scales of the General of the Seas
@@ -10800,13 +10800,13 @@
 10799	Gardien du Sanctuaire
 10800	npc_Place of resurrection
 10801	Hussey
-10802	Whale Argent Knight
+10802	Whale Chevalier d'Argent
 10803	Orpheus
-10804	Lira Argent Knight
+10804	Lira Chevalier d'Argent
 10805	Rowing
-10806	Argent Knight of Centaur
+10806	Chevalier d'Argent of Centaur
 10807	Bristol
-10808	Argent Knight of Perseus
+10808	Chevalier d'Argent of Perseus
 10809	Dohko
 10810	Golden Balance of the Knight
 10811	Klose
@@ -10858,12 +10858,12 @@
 10857	Stage Pass Monster
 10858	Siren des Enfers
 10859	Aigle Carnivore
-10860	The Abissales
+10860	Démon Abyssale
 10861	Garde Elite des Enfers
 10862	Garde Elite des Enfers
-10863	Reborn
-10864	Poisonous toad
-10865	Guard of the God of Death
+10863	Revenant
+10864	Crapaud Vénéneux
+10865	Garde des Enfers
 10866	Bloodthirsty bat
 10867	Ivan
 10868	Celestial Star of Defeat
@@ -10873,18 +10873,18 @@
 10872	5_ Hidden monitoring monster
 10873	Garde Elite des Enfers
 10874	Garde Elite des Enfers
-10875	Reborn
+10875	Revenant
 10876	soul devouring beast
 10877	6_Invisible Control Monster
 10878	Garde Elite des Enfers
 10879	Garde Elite des Enfers
-10880	Reborn
+10880	Revenant
 10881	Papillon des Enfers
 10882	7_Invisible Control Monster
 10883	Garde Elite des Enfers
 10884	Garde Elite des Enfers
-10885	Reborn
-10886	Raven
+10885	Revenant
+10886	Corbeau
 10887	8_Invisible Control Monster
 10888	Weathered sorcerer
 10889	Fairies
@@ -11009,15 +11009,15 @@
 11008	Pioneer Guard of the Roi des Enfers
 11009	Imperial Guard Roi des Enfers
 11010	Tartarus Megacariocyte
-11011	Lira Argent Knight [G1]
-11012	Damaged Unicorn [G1]
+11011	Lira Chevalier d'Argent
+11012	Damaged Unicorn
 11013	June of Chameleon
 11014	Cemetery-Vanguardaq of the Ice Monstrio de Ability
 11015	Statue
 11016	Cosmo Energy of the Roi des Enfers Cemetery
 11017	Papillon from the Royaume des Enfers of the Cemetery
 11018	Monster from the birthplace of the Cemetery
-11019	Chevalier du Scorpion [G1]
+11019	Chevalier du Scorpion
 11020	Discarded
 11021	Discarded
 11022	Cemetery Guard
@@ -11094,7 +11094,7 @@
 11093	Pandora
 11094	Excalibur sword
 11095	Excalibur sword
-11096	Chevalier du Capricorne [G1]
+11096	Chevalier du Capricorne
 11097	Chevalier d'Or
 11098	Soldat des Enfers
 11099	Soldat des Enfers
@@ -11108,7 +11108,7 @@
 11107	Ice Coffin
 11108	Arena-Camus-Cristal
 11109	Arena-Camus- = Transparent monster next to the mineral extraction field
-11110	Chevalier du Verseau [G1]
+11110	Chevalier du Verseau
 11111	Chevalier d'Or
 11112	generation prior to Shion Belier
 11113	Golden Knight des Enfers
@@ -11134,17 +11134,17 @@
 11133	Perplexed Witch
 11134	queen
 11135	Shadow Warrior. Celestial Star of Evil
-11136	Demon Flower
-11137	Demon Flower
-11138	Demon Flower
-11139	Demonic Flower
-11140	Etoile Demoniaque [G1]
+11136	Fleurs Demoniaque
+11137	Fleurs Demoniaque
+11138	Fleurs Demoniaque
+11139	Fleurs Demoniaque
+11140	Etoile Demoniaque
 11141	Poseidon
-11142	Emperor of the Seas
+11142	Empereur des Mers
 11143	Arena-Monster General control
 11144	Arena-baía- invisible monster
 11145	Essence of the Wind
-11146	Etoile de la Férocité [G1]
+11146	Etoile de la Férocité
 11147	Rhadamanthe
 11148	buff Regional Monster
 11149	Pillar of the Dragon
@@ -11157,16 +11157,16 @@
 11156	blue
 11157	Dohko
 11158	Chevalier d'or de la Balance
-11159	Chevalier de la Balance [G1]
+11159	Chevalier de la Balance
 11160	Chevalier d'Or
 11161	Treasure Chest of the Arena
 11162	Dohko
 11163	Judge of the Arena
 11164	Divine Fire
 11165	Flame
-11166	Etoile de la Violence [G1]
+11166	Etoile de la Violence
 11167	Shiki
-11168	Chevalier du Cancer [G1]
+11168	Chevalier du Cancer
 11169	Chevalier d'Or
 11170	Athena
 11171	Sand Gate-Discard
@@ -11192,7 +11192,7 @@
 11191	Garden area_View of 50 meters
 11192	death beetle
 11193	giant des Enfers
-11194	The Abissales
+11194	Démon Abyssale
 11195	Private Soldat of the spectra
 11196	Strange
 11197	Arch 1 of Lushan Monster Control
@@ -11208,7 +11208,7 @@
 11207	Frost spectrum
 11208	death beetle
 11209	death beetle
-11210	The Abissales
+11210	Démon Abyssale
 11211	Sirens
 11212	Monster forced 1 white box monster
 11213	Forced movement 2 White box monster
@@ -11281,8 +11281,8 @@
 11280	Driade seed
 11281	death beetle
 11282	Discard
-11283	The Abissales
-11284	The Abissales
+11283	Démon Abyssale
+11284	Démon Abyssale
 11285	Street vendor
 11286	Street vendor 2
 11287	Street vendor 3
@@ -11290,7 +11290,7 @@
 11289	Sirens
 11290	Frost spectrum
 11291	death beetle
-11292	The Abissales
+11292	Démon Abyssale
 11293	Satin Soldat of the spectra
 11294	Birthplace
 11295	ridicule
@@ -11351,7 +11351,7 @@
 11350	Giant Bloodthirsty Murcielago
 11351	Giant bloodthirsty Ophiuchus
 11352	Small Ophiuchus
-11353	Raven Sanguinareo Gigante
+11353	Corbeau Sanglant Géant
 11354	Place of resurrection 2
 11355	Ánfora-Siete del Pacífico Sur-lobo goalkeeper
 11356	Polar Bear
@@ -11390,9 +11390,9 @@
 11389	Illusion of Mermaid
 11390	SLEEPED PERSON
 11391	Illusion
-11392	MEdusa of the abyss
+11392	Méduse des Abysses
 11393	Temple of Poseidon
-11394	Emperor of the Seas
+11394	Empereur des Mers
 11395	amphora
 11396	Goddess Athena
 11397	Amphora-Temple Square-Place of birth
@@ -11401,7 +11401,7 @@
 11400	Minions of evil
 11401	Restless Dudu
 11402	Poseidon
-11403	Emperor of the Seas
+11403	Empereur des Mers
 11404	Petrified
 11405	Petrified
 11406	Petrified
@@ -11429,7 +11429,7 @@
 11428	Dudu test
 11429	Satin Soldat
 11430	Jamian
-11431	Raven
+11431	Corbeau
 11432	Daidaros
 11433	Cepheus
 11434	Sextans
@@ -11486,11 +11486,11 @@
 11485	Satin Soldat
 11486	Sailor Soldat
 11487	Poseidon
-11488	Emperor of the Seas
+11488	Empereur des Mers
 11489	Rhadamanthe
 11490	Celestial Star of Fury
 11491	Chrysaor
-11492	Emperor of the Seas
+11492	Empereur des Mers
 11493	Sorento
 11494	Sirena
 11495	Lava slime
@@ -11631,7 +11631,7 @@
 11630	Clyde
 11631	Captain of the guard
 11632	Jamian
-11633	Raven
+11633	Corbeau
 11634	Tremi
 11635	Sagita
 11636	Argol
@@ -11642,15 +11642,15 @@
 11641	NPC_Speaker
 11642	Saori
 11643	Saori
-11644	Raven
-11645	Raven
-11646	Raven
-11647	Raven
-11648	Raven
+11644	Corbeau
+11645	Corbeau
+11646	Corbeau
+11647	Corbeau
+11648	Corbeau
 11649	Strange
-11650	Raven
+11650	Corbeau
 11651	Strange
-11652	Raven
+11652	Corbeau
 11653	Strange
 11654	Shadow of the Dream
 11655	Strange
@@ -11684,10 +11684,10 @@
 11683	Enter NPC
 11684	Flash target
 11685	Invisible General Control Monster
-11686	Demonic flower of the nightmare
-11687	Demonic Flower of RMB
+11686	Fleurs Demoniaque of the nightmare
+11687	Fleurs Demoniaque of RMB
 11688	Jamian
-11689	Raven
+11689	Corbeau
 11690	Zelos
 11691	Earth Star of Strangeness
 11692	Tremi
@@ -11696,15 +11696,15 @@
 11695	Sirena
 11696	NPC_Speaker
 11697	Saori
-11698	Raven
-11699	Raven
-11700	Raven
-11701	Raven
-11702	Raven
+11698	Corbeau
+11699	Corbeau
+11700	Corbeau
+11701	Corbeau
+11702	Corbeau
 11703	Strange
-11704	Raven
+11704	Corbeau
 11705	Strange
-11706	Raven
+11706	Corbeau
 11707	Strange
 11708	Shadow of the Dream
 11709	Strange
@@ -11827,7 +11827,7 @@
 11826	Arch 2_Convoke_Suicide Monster_True
 11827	Slime
 11828	death beetle
-11829	The Abissales
+11829	Démon Abyssale
 11830	Little Mermaid
 11831	Enter NPC
 11832	Sirens
@@ -11901,7 +11901,7 @@
 11900	"Dispute Flag" Mode Buff Défenseur Monster
 11901	Mode "dispute flag" attacker Buff Monster
 11902	Bandeira of glorious battle
-11903	Multi-server arena of monster resistance resistance equipment
+11903	Multi-server arena of monster Résistance Résistance equipment
 11904	Random monster in competition mode
 11905	Random monster model
 11906	Monster player overkill
@@ -11935,7 +11935,7 @@
 11934	Loki
 11935	God of Evil
 11936	Poseidon
-11937	Emperor of the Seas
+11937	Empereur des Mers
 11938	Hypnos
 11939	God of the Dream
 11940	Protection Flag Level 1
@@ -11964,7 +11964,7 @@
 11963	Chrysaor
 11964	Krishna
 11965	Poseidon
-11966	Emperor of the Seas
+11966	Empereur des Mers
 11967	Poseidon
 11968	Empereur des Mers
 11969	Baian
@@ -11993,7 +11993,7 @@
 11992	Violent Armor
 11993	Soul of Knight
 11994	Polar Bear
-11995	Raven
+11995	Corbeau
 11996	Triangular dimension_Cycle
 11997	Dimension triangular_tirar cielo
 11998	Tornado
@@ -12243,17 +12243,17 @@
 12242	<Demi-Dieu>
 12243	Earth Star of Darkness Niobe
 12244	<Assassin des Dieux>
-12245	Shion Belier [G1]
+12245	Shion Belier
 12246	<Chevalier>
-12247	Shion Belier [G1]
+12247	Shion Belier
 12248	<Chosen>
-12249	Shion Belier [G1]
+12249	Shion Belier
 12250	<Dios Guerrero>
-12251	Shion Belier [G1]
+12251	Shion Belier
 12252	<Soldat divin>
-12253	Shion Belier [G1]
+12253	Shion Belier
 12254	<Demi-Dieu>
-12255	Shion Belier [G1]
+12255	Shion Belier
 12256	<Assassin des Dieux>
 12257	NPC_Invasion Animation des Enfers
 12258	NPC_Hyoga's box
@@ -12286,7 +12286,7 @@
 12285	Nix in love
 12286	Shadow of Gemeaux
 12287	Verseau NPC_Camus
-12288	Statue of the Emperor of the Seas
+12288	Statue of the Empereur des Mers
 12289	NPC_Protective shell of the prison gate
 12290	NPC_Shion of Belier
 12291	Shion of Belier
@@ -12554,7 +12554,7 @@
 12553	Alrune_Discard
 12554	Discard
 12555	queen
-12556	Demon Flower of the Celestial Star of the Magician
+12556	Fleurs Demoniaque of the Celestial Star of the Magician
 12557	Valentine
 12558	Harpies of the Celestial Star of Lament
 12559	Zelos
@@ -12902,9 +12902,9 @@
 12901	Cancer - Blue Fire
 12902	Cancer - Invisible Monster - Summon Fire
 12903	Hell Waves
-12904	Cancer - Demonic Flower 01
-12905	Cancer - Demonic Flower 02
-12906	Cancer - Demonic Flower 03
+12904	Cancer - Fleurs Demoniaque 01
+12905	Cancer - Fleurs Demoniaque 02
+12906	Cancer - Fleurs Demoniaque 03
 12907	Sekishiki of Evil
 12908	PSoul of Buddha
 12909	Control Total 00 Câncer
@@ -13923,9 +13923,9 @@
 13922	Minos
 13923	Guide npc_Rey des Enfers
 13924	npc_Santuario Guide
-13925	Guide npc_ Emperor of the Seas
+13925	Guide npc_ Empereur des Mers
 13926	Grand Pope
-13927	Emperor of the Seas
+13927	Empereur des Mers
 13928	Baian
 13929	Immortal Fenix
 13930	Immortal Determination
