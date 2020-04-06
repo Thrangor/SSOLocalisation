@@ -3206,7 +3206,7 @@
 3205	Gift of Libra (Supreme)
 3206	Gift of Libra II (Supreme)
 3207	Gift of Libra (Supreme)
-3208	Gift of Pound (Excellent)
+3208	Gift of Libra (Excellent)
 3209	Gift of Libra II (Excellent)
 3210	Gift of Libra (Sublime)
 3211	Libra Relic

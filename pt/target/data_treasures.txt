@@ -780,71 +780,75 @@
 779	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
 780	Luz da Determinação de Métis
 781	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-782	Pacote de presente de devolução dos pontos de Leão
+782	Bênção da Deusa☆Libra
 783	...
-784	Presente de Leão (Sublime)
+784	Bênção da Deusa☆Áries(II)
 785	...
-786	Presente de Leão (Supremo)
+786	Pacote de presente de devolução dos pontos de Libra
 787	...
-788	Pacote de presente de devolução dos pontos de Leão
-789	
-790	Presente de Leão (Sublime)
+788	Presente de Libra (Sublime)
+789	...
+790	Presente de Libra (Supremo)
 791	...
-792	Presente de Leão (Supremo)
-793	...
-794	Memento de Anima*1
-795	Quando usado no  Protoss, aprimora a experiência intensificada.
-796	Memento de Anima*20
-797	Quando usado no  Protoss, aprimora a experiência intensificada.
-798	Meteorito Condensado*1
-799	Procure consumíveis necessários para estrelas.
-800	Autorização de Armadura[Bronze]
-801	Em troca do certificado do colete de bronze de ordem superior.
-802	Meteorito Condensado*20
+792	Pacote de presente de devolução dos pontos de Libra
+793	
+794	Presente de Libra (Sublime)
+795	...
+796	Presente de Libra (Supremo)
+797	...
+798	Memento de Anima*1
+799	Quando usado no  Protoss, aprimora a experiência intensificada.
+800	Memento de Anima*20
+801	Quando usado no  Protoss, aprimora a experiência intensificada.
+802	Meteorito Condensado*1
 803	Procure consumíveis necessários para estrelas.
-804	Sussurro de Jápeto
-805	Redefine o valor do despertar astral após o uso.
-806	Memento de Anima*1
-807	Quando usado no  Protoss, aprimora a experiência intensificada.
-808	Memento de Anima*20
-809	Quando usado no  Protoss, aprimora a experiência intensificada.
-810	Meteorito Condensado*1
-811	Procure consumíveis necessários para estrelas.
-812	Meteorito Condensado*20
-813	Procure consumíveis necessários para estrelas.
-814	Sussurro de Jápeto
-815	Redefine o valor do despertar astral após o uso.
-816	Emblema do Sacerdote
-817	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
-818	Emblema do Ursinho
-819	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
-820	Emblema do Rei Pirata
-821	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
-822	Papel para Votação
-823	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
-824	Bandeira do Grande Mestre
-825	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
-826	Autorização de Armadura[Prata]
-827	Em troca do vale de um colete de prata de ordem superior.
-828	Selo Sagrado do Silêncio
-829	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
-830	Disfarce de Hermes
-831	pode ser usado para alternar entre diferentes ocupações.
-832	Troca de Gênero
-833	Alterne entre os sexos após o uso.
+804	Autorização de Armadura[Bronze]
+805	Em troca do certificado do colete de bronze de ordem superior.
+806	Meteorito Condensado*20
+807	Procure consumíveis necessários para estrelas.
+808	Sussurro de Jápeto
+809	Redefine o valor do despertar astral após o uso.
+810	Memento de Anima*1
+811	Quando usado no  Protoss, aprimora a experiência intensificada.
+812	Memento de Anima*20
+813	Quando usado no  Protoss, aprimora a experiência intensificada.
+814	Meteorito Condensado*1
+815	Procure consumíveis necessários para estrelas.
+816	Meteorito Condensado*20
+817	Procure consumíveis necessários para estrelas.
+818	Sussurro de Jápeto
+819	Redefine o valor do despertar astral após o uso.
+820	Emblema do Sacerdote
+821	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo padre da rainha.
+822	Emblema do Ursinho
+823	O guardião ao lado da bandeira do Regimento Geral é substituído por um ursinho de pelúcia sanguinário.
+824	Emblema do Rei Pirata
+825	O guardião ao lado da bandeira do Regimento Geral foi substituído pelo violento rei pirata.
+826	Papel para Votação
+827	Eleger as necessidades do Papa e apresentá-las ao candidato em quem você mais confia.
+828	Bandeira do Grande Mestre
+829	Uma bandeira que só pode ser usada pelo Papa e pelo Papa em exercício para ativar as atividades relacionadas ao Papa.
+830	Autorização de Armadura[Prata]
+831	Em troca do vale de um colete de prata de ordem superior.
+832	Selo Sagrado do Silêncio
+833	Somente o papa pode usá-lo, baniu o santuário e andou com as palavrões dos comentários sinistros.
 834	Disfarce de Hermes
 835	pode ser usado para alternar entre diferentes ocupações.
 836	Troca de Gênero
 837	Alterne entre os sexos após o uso.
-838	Espírito de Batalha de Leão
-839	O  atualiza os suportes high-end para o must-have para os high-end.
-840	Flor de Lótus
-841	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-842	Flor de Lótus
-843	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
-844	Pessoa Misteriosa
-845	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
-846	Pessoa Misteriosa
-847	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+838	Disfarce de Hermes
+839	pode ser usado para alternar entre diferentes ocupações.
+840	Troca de Gênero
+841	Alterne entre os sexos após o uso.
+842	Espírito de Batalha de Leão
+843	O  atualiza os suportes high-end para o must-have para os high-end.
+844	Flor de Lótus
+845	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
+846	Flor de Lótus
+847	Com este e os tops da moda, você pode resgatar um conjunto de modas de gênero correspondentes.
 848	Pessoa Misteriosa
 849	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+850	Pessoa Misteriosa
+851	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.
+852	Pessoa Misteriosa
+853	Obtenha 30 minutos de efeito homem misterioso após o uso, você não saberá quem é.

@@ -780,71 +780,75 @@
 779	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
 780	Luz de Determinación de Metis
 781	La voluntad de la diosa inteligente te permite volver a aprender habilidades de combate.
-782	Paquete de regalo de devolución de los puntos de Leo
+782	Ben.Diosa☆Libra
 783	...
-784	Regalo de Leo (Excelente)
+784	Ben.Diosa☆Aries(II)
 785	...
-786	Regalo de Leo (Supremo)
+786	Paquete de regalo de devolución de los puntos de Libra
 787	...
-788	Paquete de regalo de devolución de los puntos de Leo
-789	
-790	Regalo de Leo (Excelente)
+788	Regalo de Libra (Excelente)
+789	...
+790	Regalo de Libra (Supremo)
 791	...
-792	Regalo de Leo (Supremo)
-793	...
-794	Memento de Anima*1
-795	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-796	Memento de Anima*20
-797	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-798	Meteorito Condensado*1
-799	Busca los consumibles necesarios para las estrellas.
-800	Autorización de Armadura[Bronce]
-801	A cambio del certificado obtendras  la armadura sagrada de bronce de grado superior.
-802	Meteorito Condensado*20
+792	Paquete de regalo de devolución de los puntos de Libra
+793	
+794	Regalo de Libra (Excelente)
+795	...
+796	Regalo de Libra (Supremo)
+797	...
+798	Memento de Anima*1
+799	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+800	Memento de Anima*20
+801	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+802	Meteorito Condensado*1
 803	Busca los consumibles necesarios para las estrellas.
-804	Susurro de Jápeto
-805	Restablece el valor del despertar astral después de su uso.
-806	Memento de Anima*1
-807	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-808	Memento de Anima*20
-809	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
-810	Meteorito Condensado*1
-811	Busca los consumibles necesarios para las estrellas.
-812	Meteorito Condensado*20
-813	Busca los consumibles necesarios para las estrellas.
-814	Susurro de Jápeto
-815	Restablece el valor del despertar astral después de su uso.
-816	Emblema del Sacerdote
-817	El tutor junto a la porera del Regimiento del General fue reemplazado por el sacerdote de la Reina.
-818	Emblema del Osito
-819	El guardián junto a la porera del Regimiento del General es reemplazado por un oso de peluche sanguinario.
-820	Emblema del Rey Pirata
-821	El guardián junto a la porera del Regimiento del General fue reemplazado por el violento rey pirata.
-822	Papel para Votación
-823	Elija las necesidades del Papa y entrégueselas al cyidato en el que más confía.
-824	Bandera del Grande Maestro
-825	Una porera que solo el Papa y él en sus funciones pueden usar para activar las actividades relacionadas con el mismo.
-826	Autorización de Armadura[Plata]
-827	A cambio del certificado obtendras  la armadura sagrada de plata de grado superior.
-828	Sello Sagrado del Silencio
-829	Solo el Papa puede usarlo, prohibió el santuario y caminó las juradas palabras de los siniestros comentarios.
-830	Disfraz de Hermes
-831	Se puede usar para cambiar entre diferentes ocupaciones.
-832	Cambio de Género
-833	Puede cambiar de género después de su uso.
+804	Autorización de Armadura[Bronce]
+805	A cambio del certificado obtendras  la armadura sagrada de bronce de grado superior.
+806	Meteorito Condensado*20
+807	Busca los consumibles necesarios para las estrellas.
+808	Susurro de Jápeto
+809	Restablece el valor del despertar astral después de su uso.
+810	Memento de Anima*1
+811	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+812	Memento de Anima*20
+813	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.
+814	Meteorito Condensado*1
+815	Busca los consumibles necesarios para las estrellas.
+816	Meteorito Condensado*20
+817	Busca los consumibles necesarios para las estrellas.
+818	Susurro de Jápeto
+819	Restablece el valor del despertar astral después de su uso.
+820	Emblema del Sacerdote
+821	El tutor junto a la porera del Regimiento del General fue reemplazado por el sacerdote de la Reina.
+822	Emblema del Osito
+823	El guardián junto a la porera del Regimiento del General es reemplazado por un oso de peluche sanguinario.
+824	Emblema del Rey Pirata
+825	El guardián junto a la porera del Regimiento del General fue reemplazado por el violento rey pirata.
+826	Papel para Votación
+827	Elija las necesidades del Papa y entrégueselas al cyidato en el que más confía.
+828	Bandera del Grande Maestro
+829	Una porera que solo el Papa y él en sus funciones pueden usar para activar las actividades relacionadas con el mismo.
+830	Autorización de Armadura[Plata]
+831	A cambio del certificado obtendras  la armadura sagrada de plata de grado superior.
+832	Sello Sagrado del Silencio
+833	Solo el Papa puede usarlo, prohibió el santuario y caminó las juradas palabras de los siniestros comentarios.
 834	Disfraz de Hermes
 835	Se puede usar para cambiar entre diferentes ocupaciones.
 836	Cambio de Género
 837	Puede cambiar de género después de su uso.
-838	Espíritu de Batalla de Leo
-839	Actualiza las monturas de leones de alta gama a las imprescindibles para las monturas de alta gama.
-840	Flor de Loto
-841	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
-842	Flor de Loto
-843	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
-844	Persona Misteriosa
-845	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
-846	Persona Misteriosa
-847	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+838	Disfraz de Hermes
+839	Se puede usar para cambiar entre diferentes ocupaciones.
+840	Cambio de Género
+841	Puede cambiar de género después de su uso.
+842	Espíritu de Batalla de Leo
+843	Actualiza las monturas de leones de alta gama a las imprescindibles para las monturas de alta gama.
+844	Flor de Loto
+845	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
+846	Flor de Loto
+847	Con este y los tops de moda, puedes canjear un conjunto de modas de género correspondientes.
 848	Persona Misteriosa
 849	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+850	Persona Misteriosa
+851	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
+852	Persona Misteriosa
+853	Obtenga 30 minutos de efecto de hombre misterioso después de su uso, no sabrá quién es bajo este efecto.
