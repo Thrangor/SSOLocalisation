@@ -784,17 +784,17 @@
 783	...
 784	女神的恩赐☆白羊版(Ⅱ)
 785	...
-786	Libra Bonus Pack
+786	Scorpion Bonus Pack
 787	...
-788	Libra Gift (Top)
+788	Scorpio Gift II (Top)
 789	...
-790	Libra Gift (EX)
+790	Scorpio Gift II (EX)
 791	...
-792	Libra Bonus Pack
+792	Scorpion Bonus Pack
 793	
-794	Libra Gift (Top)
+794	Scorpio Gift II (Top)
 795	...
-796	Libra Gift (EX)
+796	Scorpio Gift II (EX)
 797	...
 798	Protoss keepsake*1
 799	星灵强化时使用，可提升强化经验倍率。

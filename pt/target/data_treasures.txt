@@ -784,17 +784,17 @@
 783	...
 784	Bênção da Deusa☆Áries(II)
 785	...
-786	Pacote de presente de devolução dos pontos de Libra
+786	Pacote de presente de devolução dos pontos de Escorpião
 787	...
-788	Presente de Libra (Sublime)
+788	Presente de Escor. II (Sublime)
 789	...
-790	Presente de Libra (Supremo)
+790	Presente de Escor. II (Supremo)
 791	...
-792	Pacote de presente de devolução dos pontos de Libra
+792	Pacote de presente de devolução dos pontos de Escorpião
 793	
-794	Presente de Libra (Sublime)
+794	Presente de Escor. II (Sublime)
 795	...
-796	Presente de Libra (Supremo)
+796	Presente de Escor. II (Supremo)
 797	...
 798	Memento de Anima*1
 799	Quando usado no  Protoss, aprimora a experiência intensificada.

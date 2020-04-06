@@ -784,17 +784,17 @@
 783	...
 784	Ben.Diosa☆Aries(II)
 785	...
-786	Paquete de regalo de devolución de los puntos de Libra
+786	Paquete de regalo de devoluciíon de los puntos de Escorpio
 787	...
-788	Regalo de Libra (Excelente)
+788	Regalo de Escorpio II (Excelente)
 789	...
-790	Regalo de Libra (Supremo)
+790	Regalo de Escorpio II (Supremo)
 791	...
-792	Paquete de regalo de devolución de los puntos de Libra
+792	Paquete de regalo de devoluciíon de los puntos de Escorpio
 793	
-794	Regalo de Libra (Excelente)
+794	Regalo de Escorpio II (Excelente)
 795	...
-796	Regalo de Libra (Supremo)
+796	Regalo de Escorpio II (Supremo)
 797	...
 798	Memento de Anima*1
 799	Utilizalo en mejorar alma, mejora la tasa de experiencia intensificada.

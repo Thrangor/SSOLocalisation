@@ -784,17 +784,17 @@
 783	...
 784	Goddess' Gift ☆ Aries (II)
 785	...
-786	Libra Gift Pack
+786	Scorpio Gift Pack
 787	...
-788	Gift of Libra (Excellent)
+788	Gift of Scorpio II (Excellent)
 789	...
-790	Gift of Libra (Supreme)
+790	Gift of Scorpio II (Supreme)
 791	...
-792	Libra Gift Pack
+792	Scorpio Gift Pack
 793	
-794	Gift of Libra (Excellent)
+794	Gift of Scorpio II (Excellent)
 795	...
-796	Gift of Libra (Supreme)
+796	Gift of Scorpio II (Supreme)
 797	...
 798	Memento of Anima*1
 799	When used in Anima, it enhances the intensified experience.
