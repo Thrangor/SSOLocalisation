@@ -7760,7 +7760,7 @@
 7759	^c0c0ffDragon's Armor, the star casting level reaches 32, get ^A2FFFF
 7760	Galaxy Falls overhangs
 7761	Target 5m target around the target\rAdditional Dégât: %d\rAdditional attribute Dégât: %d\rcauses %d%% damage\rThe more targets in this range, the greater the damage, the most damage Enlarge 2 times\rfighting soul exclusive guardian constellation: ^00FF00%s Dragon ^FFFF00
-7762 	^c0c0ff Aurora's Sacrée Armor star level reaches level 16 when you get ^A2FFFF
+7762		^c0c0ff Aurora's Sacrée Armor star level reaches level 16 when you get ^A2FFFF
 7763	Sprint
 7764	Need to double-click the arrow keys to release\rBattle stamina cost per second: 50\rNon-battle outside Stamina cost per second: 15
 7765	Can enter the Sprint state\rMovement speed increased by 140%%
@@ -9534,7 +9534,7 @@
 9533	^fff962 Or Advanced Effect Skills: ^c0c0ffum additional physical responses being hit aggressor aggressed will be reduced.
 9534	Immediate retake of fighting five statuses for 15 seconds, every 3 seconds, during the auto-responder respond that combat strength 07:00 per second attack, the attacker hit significantly lower for 5 seconds, 15 seconds this effect can only be triggered once.
 9535	So you can get more Fighting Spirit and stamina
-9536 	^fff962Aquarius Advent
+9536		^fff962Aquarius Advent
 9537	^fff962Golden Verseau Skill
 9538	Additional Damage: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rDamage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Frozen Explosive^FFFF00\rIncreases Frost Bomb damage by 100%% for 10s\r\t^00FF00Aquarius Advanced^FFFF00\rEnters ^c0c0ff[Or Explosion]^FFFF00 effect\rThis status can only be activated once every 30s.\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Frozen Ground]^FFFF00 becomes ^c0c0ff[^fff962Bottle of Light]^FFFF00\r^c0c0ff[Crystal Arc]^FFFF00 becomes ^c0c0ff[^fff962Fury of Aurora]^FFFF00\r^c0c0ff[Aurora Protection]^FFFF00 becomes ^c0c0ff[^fff962Aurora Barrier]^FFFF00
 9539	Additional Damage: %d\rBonus Dégât Eau: %d\rDamage: %d%%\r\t^00FF00Frozen Explosive^FFFF00\rIncreases Frost Bomb damage by 100%% for 10s\r\t^00FF00Aquarius Advanced^FFFF00\rEnters ^c0c0ff[Or Explosion]^FFFF00 effect\rThis status can only be activated once every 30s.\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Frozen Ground]^FFFF00 becomes ^c0c0ff[^fff962Bottle of Light]^FFFF00\r^c0c0ff[Crystal Arc]^FFFF00 becomes ^c0c0ff[^fff962Fury of Aurora]^FFFF00\r^c0c0ff[Aurora Protection]^FFFF00 becomes ^c0c0ff[^fff962Aurora Barrier]^FFFF00
@@ -13059,7 +13059,7 @@
 13058	^O021 Instant _ talent _ treatment 7_ hit the generated state triggers teammates to return blood
 13059	^O021 Lava Summon Mineral Bar BUFF
 13060	^O021Parkour_Starting buff
-13061 	^O021Parking _ way point buff
+13061		^O021Parking _ way point buff
 13062	^O021^ffff00 Fair Ring\r^O009^ffffff All Saints in the Lava Battlefield will compete fairly
 13063	^O021^ffff00 coma\r^O009^ffffff the unit fell into a coma
 13064	^O021^ffff00加隆_Take the flower of goodness
