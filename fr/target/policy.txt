@@ -304,7 +304,7 @@
 303	Unfortunate person! To die under my blow is an honor of yours!
 304	Black Wing Tornado!
 305	Ignorant, entered into the conspiracy without knowing hahaha, Let's observe how it will be destroyed!
-306	Presumptuous Bronze Knight! I'm going to show you the difference between you and a Argent Knight!
+306	Presumptuous Bronze Knight! I'm going to show you the difference between you and a Chevalier d'Argent!
 307	Gorgon Demoniac!
 308	Shield of the Medusa!
 309	Ha ha ha! Presumed Bronze Knight! You will regret!
@@ -424,7 +424,7 @@
 423	$spec questportrait_548
 424	$spec questportrait_547
 425	$spec questportrait_546
-426	See if you can resist that!
+426	See if you can Résist that!
 427	Wings of Destruction!
 428	Fire Foil
 429	$spec questportrait_544
@@ -777,7 +777,7 @@
 776	4905
 777	4905
 778	Bronze Knight, I, great, will teach you how to punch!
-779	Raven's Fist!
+779	Corbeau's Fist!
 780	Do not blame me, restart!
 781	Shun, did you think that your chains could protect you from all my attacks?
 782	This time my crows are even more crazy! Feast for Crows!!!
@@ -794,7 +794,7 @@
 793	I think maybe you can answer my questions.
 794	When will you learn to avoid the edge, when your force will evolve?
 795	Defense! Defending! Let me see if your chain is able to protect against the fury of Gemeaux!
-796	Defense, continue defending! Tell me you have not accidentally resisted the punishment of ferocity.
+796	Defense, continue defending! Tell me you have not accidentally Résisted the punishment of ferocity.
 797	I, of course, want to take humanity to the light, the infinite light!
 798	Only by destroying the old one can the new one be generated! I am the savior of this world!
 799	Hit me, kill me, maybe my death is the only salvation.
@@ -1538,7 +1538,7 @@
 1537	I heard what you trained in Greece, the cradle of the Knights, but I do not think it's true!
 1538	Incr ... incredible ...
 1539	Hunf, talkative boy, watch while I hit you!
-1540	$noname$UImidUse the skill "Diamond Dust", it will give you resistance and disperse the poison!
+1540	$noname$UImidUse the skill "Diamond Dust", it will give you Résistance and disperse the poison!
 1541	Seasoned Poison!
 1542	$noname$UImidQuick, use the Cygne Flying Kick to counterattack!
 1543	Cobra Voladora!
@@ -1570,8 +1570,8 @@
 1569	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the second round is already released. Knights above level 30 can receive it!
 1570	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the first round is already released, Knights above level 30 can receive it!
 1571	$noname$UImid ^e12500The Warriors struggled in the Universe Competition and won. The prize of the second round is already released. Knights above level 30 can receive it!
-1572	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
-1573	$noname$UImid ^e12500The Soul of the Emperor of the Seas with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Emperor of the Seas and start the fight, so, you will get my blessing! ^N
+1572	$noname$UImid ^e12500The Soul of the Empereur des Mers with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Empereur des Mers and start the fight, so, you will get my blessing! ^N
+1573	$noname$UImid ^e12500The Soul of the Empereur des Mers with resentment: Athena! His protection caused people to forget the glory of the gods! Flood, obey my invocation and cleanse this world! ^ffff00Athena: Knights, defeat the Empereur des Mers and start the fight, so, you will get my blessing! ^N
 1574	Insects, how dare they hurt me!
 1575	The power of lightning is also in my fist!
 1576	Distance is not a problem for me, it dies!
@@ -1598,12 +1598,12 @@
 1597	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
 1598	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
 1599	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
-1600	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
-1601	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
-1602	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
-1603	$noname$UImidThe Soul of the Emperor of the Seas with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
-1604	$noname$UImidThe Soul of the Emperor of the Seas with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
-1605	$noname$UImidThe Soul of the Emperor of the Seas with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
+1600	$noname$UImidThe Soul of the Empereur des Mers with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
+1601	$noname$UImidThe Soul of the Empereur des Mers with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
+1602	$noname$UImidThe Soul of the Empereur des Mers with resentment tried to invade the Sanctuaire and was imprisoned by Athena. After ejecting it, the server will enter the Argent Age.
+1603	$noname$UImidThe Soul of the Empereur des Mers with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
+1604	$noname$UImidThe Soul of the Empereur des Mers with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
+1605	$noname$UImidThe Soul of the Empereur des Mers with resentment was expelled. The server entered the Argent Age, releasing level 79 and the Submarine World Episode.
 1606	$noname$UImidThe 108 Malignant Stars have already awakened and the God of the Dream is in the Sanctuaire. Knights defeat Hypnos and protect Athena!
 1607	$noname$UImidThe 108 Malignant Stars have already awakened and the God of the Dream is in the Sanctuaire. Knights defeat Hypnos and protect Athena!
 1608	$noname$UImidThe 108 Malignant Stars have already awakened and the God of the Dream is in the Sanctuaire. Knights defeat Hypnos and protect Athena!
@@ -2624,7 +2624,7 @@
 2623	$UImid$noname I look: Good job !!! They really proved that they are qualified Knights !!!
 2624	Do not relax, watch how you handle that Scorpion blow, transformation of Scorpion !!!
 2625	I will show you the power of a god !!!
-2626	Stupid people, they are really trying to resist the gods in vain !!
+2626	Stupid people, they are really trying to Résist the gods in vain !!
 2627	Try this hit!
 2628	Try this hit!
 2629	I did not believe that they would really go to destroy the territory of Thanatos, all die in front of me !!!
@@ -3265,10 +3265,10 @@
 3264	Splash! Flower of blood
 3265	Renounce your soul!
 3266	Cut! Everything lives
-3267	Demon flower of hell, let me absorb its power!
+3267	Fleurs Demoniaque of hell, let me absorb its power!
 3268	Open flowers, how do they not wither ...?
 3269	Open flowers, how do they not wither ...?
-3270	Demon flower of hell, let me absorb its power!
+3270	Fleurs Demoniaque of hell, let me absorb its power!
 3271	$spec questportrait_632
 3272	They attracted the demon's fire ... come ...
 3273	Do not fight unnecessarily ......
@@ -3469,9 +3469,9 @@
 3468	Splash! Flower of blood
 3469	Renounce your soul!
 3470	Cut! Everything lives
-3471	Demon flower of hell, let me absorb your power!
+3471	Fleurs Demoniaque of hell, let me absorb your power!
 3472	Open flowers, how do they not wither ...?
-3473	Demon flower of hell, let me absorb your power!
+3473	Fleurs Demoniaque of hell, let me absorb your power!
 3474	Open flowers, how do they not wither ...?
 3475	They attracted the fire of the devil ... come ...
 3476	$spec questportrait_632
@@ -3517,10 +3517,10 @@
 3516	Splash! Flower of blood
 3517	Renounce your soul!
 3518	Cut! Everything lives
-3519	Demon flower of hell, let me absorb its power!
+3519	Fleurs Demoniaque of hell, let me absorb its power!
 3520	Flowers open, how do they not wither ...?
 3521	Flowers open, how do they not wither ...?
-3522	Demon flower of hell, let me absorb its power!
+3522	Fleurs Demoniaque of hell, let me absorb its power!
 3523	$spec questportrait_611
 3524	$spec questportrait_631
 3525	$spec questportrait_631
@@ -4272,8 +4272,8 @@
 4271	Let me open the doors of death!
 4272	The Shadow of the God of Death is furious!
 4273	$spec sound_7000
-4274	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
-4275	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+4274	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
+4275	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
 4276	$spec animation_2040
 4277	Even if they kill all the boatmen, I will not back down!
 4278	$spec animation_2041
@@ -4327,8 +4327,8 @@
 4326	The shadow of the God of Death is furious, use the light source that is on the altar to contain it!
 4327	$spec sound_7000
 4328	$noname$UImidThe terrifying status of the God of Death was already purified by the shield of the altar!
-4329	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
-4330	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+4329	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
+4330	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
 4331	$noname$UImidQuick, look for a mechanism to leave the Illusion of the God of Death and get out of here.
 4332	$noname$UImidMysterious Voice: Welcome to the Illusion of the God of Death. If they do not find a way out, they will die here, hahahaha!
 4333	$spec animation_2025
@@ -4349,7 +4349,7 @@
 4348	$spec questportrait_326
 4349	$UImid$nonameMudra Spectrum will attack in 10 seconds
 4350	$UImid$nonameMudra's Spectrum began to attack
-4351	$UImid$noname! Careful, the Magic Circle was initiated, you have invoked the Lira Argent Knight of the previous generation!
+4351	$UImid$noname! Careful, the Magic Circle was initiated, you have invoked the Lira Chevalier d'Argent of the previous generation!
 4352	$UImid$noname! Careful, the Magic Circle was initiated, you have invoked the Golden Knight of Scorpion of the previous generation!
 4353	$spec animation_2035
 4354	Experience the taste of being swallowed by souls!
@@ -4438,9 +4438,9 @@
 4437	How is this? Real Impact of the shadows!
 4438	Bloodthirsty of Darkness!
 4439	Life is beautiful like a flower ......
-4440	Demon flower of hell, let me absorb your power!
-4441	Demon flower of hell, let me absorb your power!
-4442	Demon flower of hell, let me absorb its power!
+4440	Fleurs Demoniaque of hell, let me absorb your power!
+4441	Fleurs Demoniaque of hell, let me absorb your power!
+4442	Fleurs Demoniaque of hell, let me absorb its power!
 4443	Flowers open, how do they not wither ...?
 4444	Next time, I'll make them a compost for my flowers.
 4445.	I defeated the group of you or the group of you that was defeated by me?
@@ -4569,7 +4569,7 @@
 4568	Come, let me taste your blood!
 4569	Children love their taste, they can not escape anymore!
 4570	It's decided, I'll start with you!
-4571	Will they continue to resist for how long?
+4571	Will they continue to Résist for how long?
 4572	Children! Go out and have fun with them!
 4573	Look at the ferocity of a wolf
 4574	Damn Knight! They will die here!
@@ -5006,13 +5006,13 @@
 5005	$UImidThe event Seeking the Flower of Happiness was released!
 5006	Now released, after killing the candy spreader near the Banquet Zone, use the candy key to release the randomly dispersed wedding cakes, and receive a generous prize! Attention: after killing the fool who sends the sweets, he will invoke the candy spreader again!
 5007	$UImidThe Happy Couple Event Distributing Wedding Cakes was already released !!!
-5008	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 40 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-5009	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-5010	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas, will appear in 20 minutes
-5011	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-5012	$noname$UImid ^ffdf00Poseidon, the Emperor of the Seas, will appear in 5 minutes
-5013	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 2 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-5014	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas will appear in 2 minutes
+5008	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 40 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+5009	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+5010	$noname$UImid ^ffdf00Poseidón, the Empereur des Mers, will appear in 20 minutes
+5011	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+5012	$noname$UImid ^ffdf00Poseidon, the Empereur des Mers, will appear in 5 minutes
+5013	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 2 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+5014	$noname$UImid ^ffdf00Poseidón, the Empereur des Mers will appear in 2 minutes
 5015	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 40 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
 5016	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
 5017	$noname$UImid ^ffdf00Hypnos, the God of the Dream, will appear in 20 minutes
@@ -5034,8 +5034,8 @@
 5033	$noname$UImid ^ffdf00Loki, the God of Evil, will appear in 5 minutes
 5034	$noname$UImid ^ffdf00EL Multi-server BOSS, Loki, the God of Evil, will appear in the Multiserver Zone after 2 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
 5035	$noname$UImid ^ffdf00Loki, the God of Evil, will appear in 2 minutes
-5036	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas, will appear after 10 minutes; The Teleportation Emissary appeared in the center of the city
-5037	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas, will appear after 1 minute
+5036	$noname$UImid ^ffdf00Poseidón, the Empereur des Mers, will appear after 10 minutes; The Teleportation Emissary appeared in the center of the city
+5037	$noname$UImid ^ffdf00Poseidón, the Empereur des Mers, will appear after 1 minute
 5038	$noname$UImid ^ffdf00Hypnos, the God of the Dream, will appear after 10 minutes; The Teleportation Emissary appeared in the center of the city
 5039	$noname$UImid ^ffdf00Hypnos, the God of the Dream, will appear after 1 minute
 5040	$noname$UImid ^ffdf00The Valkyries, will appear after 10 minutes; The Teleportation Emissary appeared in the center of the city
@@ -6692,8 +6692,8 @@
 6691	The shadow of the God of Death is furious, use the light source that is on the altar to contain it!
 6692	$spec sound_7000
 6693	$noname$UImidThe terrifying status of the God of Death was already purified by the shield of the altar!
-6694	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
-6695	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+6694	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
+6695	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
 6696	$noname$UImidQuick, look for a mechanism to leave the Illusion of the God of Death and get out of here.
 6697	$spec animation_2025
 6698	Explosion des Enfers!
@@ -7067,7 +7067,7 @@
 7066	Let me open the doors of death!
 7067	The Shadow of the God of Death is furious!
 7068	$spec sound_7000
-7069	Using the seeds of Mokurenji to resist the forces of Hades, how could they achieve so easily?
+7069	Using the seeds of Mokurenji to Résist the forces of Hades, how could they achieve so easily?
 7070	​​$UImid$noname A horde of mutants is approaching. Prepare yourselves companions of the corresponding Kingdom.
 7071	$UImid$noname Saga will appear in the Garden of Trees Twin Room very soon, Members, get ready.
 7072	$UImid$noname Saga: not even Shaka will stop me from continuing. Prepare to die!
@@ -7078,7 +7078,7 @@
 7077	$UImid$noname A large number of mutants from the Kingdom of the Hungry Ghosts will appear near Gemeaux Trees Rooms !!!
 7078	Will you still be afraid after death, will you still be afraid?
 7079	Bronze Knight, I, great, will teach you how to punch!
-7080	Raven's Fist!
+7080	Corbeau's Fist!
 7081	Do not blame me, restart!
 7082	Shun, did you think that your chains could protect you from all my attacks?
 7083	This time my crows are even more crazy! Feast for Crows!!!
@@ -7086,7 +7086,7 @@
 7085	Fist of another dimension!
 7086	I think maybe you can answer my questions.
 7087	Defense! Defending! Let me see if your chain is able to protect against the fury of Gemeaux!
-7088	Defense, continue defending! Tell me you have not accidentally resisted the punishment of ferocity.
+7088	Defense, continue defending! Tell me you have not accidentally Résisted the punishment of ferocity.
 7089	Separation
 7090	$UImid$noname Athena: Hades accepted your challenge, my Knights and I are surely going to expel you from this land !!!
 7091	$spec questportrait_423
@@ -7235,10 +7235,10 @@
 7234	Me, Loki! I am an invincible god !!!
 7235	In the world of dreams I am invincible!
 7236	$noname Hypnos has been defeated, then players who will participate in the BOSS competition can search for Thalia to receive a trumpet piece!
-7237	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-7238	$noname$UImid ^ffdf00Poseidón, the Emperor of the Seas, will appear in 20 minutes
-7239	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Emperor of the Seas, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
-7240	$noname$UImid ^ffdf00Poseidon, the Emperor of the Seas, will appear in 5 minutes
+7237	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7238	$noname$UImid ^ffdf00Poseidón, the Empereur des Mers, will appear in 20 minutes
+7239	$noname$UImid ^ffdf00EL Multi-server BOSS, Poseidon, the Empereur des Mers, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the Competition Zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
+7240	$noname$UImid ^ffdf00Poseidon, the Empereur des Mers, will appear in 5 minutes
 7241	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 20 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
 7242	$noname$UImid ^ffdf00Hypnos, the God of the Dream, will appear in 20 minutes
 7243	$noname$UImid ^ffdf00EL Multi-server BOSS, Hypnos, God of Dream, will appear in the Multiserver Zone after 5 minutes. Players who have the qualification to compete on the server, enter the competition zone in advance! Location of the Teleportation Emissary, Brummel 【Commercial Area (-195.27)】
@@ -7331,7 +7331,7 @@
 7330	A quiet death, Waltz of the Nightmare!
 7331	Is a calm and eternal dream in the ocean not, ultimately, your best destiny?
 7332	Become food for the living beings of this beautiful ocean!
-7333	Demon flower of hell, let me absorb its power!
+7333	Fleurs Demoniaque of hell, let me absorb its power!
 7334	Flowers open, how do they not wither ...?
 7335	There is a group of challengers who came to the Grand Coliseum!
 7336	They will challenge some reborn warriors! Let's wait to see! Who will be the first opponent they will face?

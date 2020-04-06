@@ -168,17 +168,17 @@
 167	Phoenix
 168	DDM
 169	Wyvern
-170	Lira
-171	Tornado
-172	Pegase - Class Description
-173	Cygne - Class Description
-174	Dragon - Class Description
-175	Andromede - Class Description
-176	Phoenix - Class Description
-177	DDM - Class Description
-178	Wyvern - Description of Sign
-179	Lira - Class Description
-180	Descrição do Tornado Sign
+170	Lyre
+171	Bélier
+172	Pegase - Description
+173	Cygne - Description
+174	Dragon - Description
+175	Andromede - Description
+176	Phoenix - Description
+177	DDM - Description
+178	Wyvern - Description
+179	Lyre - Description
+180	Bélier - Description
 181	1
 182	2
 183	3

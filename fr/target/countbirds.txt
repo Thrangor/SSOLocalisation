@@ -1,4 +1,4 @@
 0	You made it!
 1	It was not this time!
-2	Birds
+2	 Oiseaux
 3	Do not you want to participate in the activities now?

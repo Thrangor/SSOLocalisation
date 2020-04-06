@@ -2374,7 +2374,7 @@
 2373	Sapato Camomiose (M)
 2374	Shanghai Boots
 2375	Explosive Clogs
-2376	Resistant clog
+2376	Résistant clog
 2377	Botas do Dragão (M)
 2378	Botas do Dragão Negro (M)
 2379	Blue Dragão Boots (M)

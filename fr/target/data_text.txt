@@ -136,13 +136,13 @@
 135	From this day until 09/12, when the Degree of Activity of the top players of level 20 complete 100, you can remove here, with me, rich cakes from the pumpkin moon. After using them, they will have the opportunity to obtain 100 Sang d'Enchantements, 100 Space-Time Keys, Limited Fashion (3 hours) and Heart of Gratitude. Accumulating separately 1, 3 and 6 Hearts of Gratitude, you can change, in a single time, for the gift package of the heart of gratitude. After opening it, there is a huge amount of EXP and generous prizes!
 136	You do not need to talk so much; I beat myself first after talking again.
 137	Players above level 20 can, weekly, receive a free double period.
-138	The demonic flower of Queen, Celestial Star of Magic, is corroding the roses of the House of Poisson
+138	The Fleurs Demoniaque of Queen, Celestial Star of Magic, is corroding the roses of the House of Poisson
 139	Do not ask me my real name, I'm just the materialization of this idea of ​​Vierge that exists in its lies. I, definitely, I am not that Knight you met.
 140	I finally dressed the Pegase Armor!
 141	Daily, you can use Or and Argent Coin natalina to try to get the prize 3 times, try your luck.
 142	Lightning attack +450
 143	Lightning Strike +488
-144	Attack +309 HP +4378 Deviation + 315 Attack of all properties +237 Resistance to all properties +6 Probability of Resist Crit + 3 %Defense + 3%
+144	Attack +309 HP +4378 Deviation + 315 Attack of all properties +237 Résistance to all properties +6 Probability of Résist Crit + 3 %Defense + 3%
 145	HP +822
 146	Attack +531
 147	Dégât Eau +1240
@@ -173,7 +173,7 @@
 172	The enemy is preparing to attack in the direction of Sibérie, we could not let them occupy that place in any way.
 173	Lightning Attack +542
 174	Lightning Attack +559
-175	Attack +348 HP + 5073 Deviation +374 Attacks of all properties +267 Resistance to all properties +7 Probability of resistance to critical + 3 %Defense + 3%
+175	Attack +348 HP + 5073 Deviation +374 Attacks of all properties +267 Résistance to all properties +7 Probability of Résistance to critical + 3 %Defense + 3%
 176	HP +978
 177	Attack +554
 178	Dégât Eau +1247
@@ -216,7 +216,7 @@
 215	The whole universe is composed of atoms, and the foundation of destruction is to separate these atoms.
 216	Dégât Elec +490
 217	Dégât Elec +404
-218	Attack +379 HP5655 Deviation +424 Attacks of all properties +291 Resistance to all properties +7 Probability of Resist Crit + 3 %Defense + 3%
+218	Attack +379 HP5655 Deviation +424 Attacks of all properties +291 Résistance to all properties +7 Probability of Résist Crit + 3 %Defense + 3%
 219	Critique +2029
 220	Attack +593
 221	Dégât Eau +1345
@@ -313,7 +313,7 @@
 312	With the invitation for the first Multiserver Competition, you can enter, here, with me, on the Multiserver!
 313	We may not have the opportunity to stay together in this life. May we both be happy; Do not forget the good times. By preparing the "Divorce Order", you can resolve the divorce proceedings here, with me, but are you sure that is what you really want? I hope you think about that again.
 314	My brothers, you fall into various trials; They believe that they are all a joy.
-315	The dead Marines and the Argent Knight joined the Celestial Star of Fury, Rhadamanthe, to defend the Royaume des Enfers. Heroic knights, invade the Royaume des Enfers and face the Argent Knight and the Marines controlled by the will of Hades, because only by defeating is it possible to penetrate the Royaume des Enfers and defeat Hades. You can only participate once a day.) ^E12500 This event supports the "Tutelary Troop Mode" ^N The Captain can form the troop. Requirements to be a member of the troop: 1. 3-6 players above level 90; 2. 0-6 level players between 25-89. In the Troop Inheritance Mode, if the number of players below 89 is equal to or greater than 3, players with a level above 90 may obtain the highest value inheritance prize. "
+315	The dead Marines and the Chevalier d'Argent joined the Celestial Star of Fury, Rhadamanthe, to defend the Royaume des Enfers. Heroic knights, invade the Royaume des Enfers and face the Chevalier d'Argent and the Marines controlled by the will of Hades, because only by defeating is it possible to penetrate the Royaume des Enfers and defeat Hades. You can only participate once a day.) ^E12500 This event supports the "Tutelary Troop Mode" ^N The Captain can form the troop. Requirements to be a member of the troop: 1. 3-6 players above level 90; 2. 0-6 level players between 25-89. In the Troop Inheritance Mode, if the number of players below 89 is equal to or greater than 3, players with a level above 90 may obtain the highest value inheritance prize. "
 316	How dare you speak disrespectful things to the young lady! Even if he is one of those with the rare wings, I, Tatsumi, will teach him a lesson.
 317	Every month, when the celestial bodies are replaced, a great number of hidden treasures are produced in the universe, awaiting the person who is destined to open them; during daily events, look for a way to open such treasures. Knights of the Goddess! Let us come and start a new adventure.
 318	In the Sanctuaire Announcement Mural, the names of the two strongest apprentices in the Armor competition are already written!
@@ -341,7 +341,7 @@
 340	It's another beautiful day in the golden field - but why in this dream are the white flowers red with blood?
 341	This man is responsible for the passenger door and does not let anyone pass!
 342	Thanks for the help, Knights of Athena!
-343	The nucleus of Oricalco, a Divine Artifact that imprisons the Power of the Emperor of the Seas ......
+343	The nucleus of Oricalco, a Divine Artifact that imprisons the Power of the Empereur des Mers ......
 344	You defeated the most powerful of the Marines, Krishna of Crhysaor. But the time is short and Athena is still in danger. Afterwards, there are still more challenging struggles waiting for you.
 345	I, who am I, life and death still matter, come with me, I can promise you a freedom beyond life and death!
 346	Due to that mission that the Chief of the Army received, 1 million Or will be consumed. You can obtain a special tool to declare war of the Miracle of the Army, with effect of 7 days. The war declaration tool can be used against the Army Miracle of any base (including this base). After using it, the Miracle will go into mode of declaration of war and may be attacked. The duration is of the war is 1 hour; After this time is over, the miracle will be restored to the status where it can not be attacked. The mission will be defined every Tuesday, at 00h00. Please, prepare well to continue with the declaration of war!
@@ -466,7 +466,7 @@
 465	They are only foreigners, they are not worth any effort.
 466	Lightning Attack +677
 467	Lightning Attack +377
-468	Attack +313 HP +4452 Defense +76 Attacks of all properties +241 Resistance to all properties +6 Chance of resistance to critical + 3 %Attack + 3%
+468	Attack +313 HP +4452 Defense +76 Attacks of all properties +241 Résistance to all properties +6 Chance of Résistance to critical + 3 %Attack + 3%
 469	Critique +2334
 470	Dégât Feu +1240
 471	The great Hades is the true master of this world!
@@ -509,7 +509,7 @@
 508	^e12500This event supports the "Disciple Mode". ^N \r (You can only participate once a day) \rThe leader can create raide. \r Requirements to be a member of the raide: \r1. 3-6 players higher than level 90; \r2. 0-6 level players between 60-89. \rIn the Disciple Mode, if the number of players below 89 is equal to or greater than 3, players higher than 90 may obtain a higher value of Favor Points. \r \r-The Grand Coliseum depends on the powerful telekinesis of Mu de Belier to create the Field of Practice. In this Coliseum, you will face the challenges of the Golden Knights of the previous generation and the Specters; only the Knight with the true strength can go through the challenge.
 509	Lightning Strike +816
 510	Lightning Attack +447
-511	Attack +3522 HP +5154 Defense +80 Attacks of all properties +271 Resistance to all properties +7 Probability of Resist Crit + 3 %attack + 3%
+511	Attack +3522 HP +5154 Defense +80 Attacks of all properties +271 Résistance to all properties +7 Probability of Résist Crit + 3 %attack + 3%
 512	Critique +2405
 513	Dégât Feu +1247
 514	If the Land of Dreams were true ......
@@ -541,7 +541,7 @@
 540	In the Grand Coliseum, the rules are rigorous; If the victor survives, the loser will be imprisoned in the cage!
 541	Lightning Attack +715
 542	Lightning Attack +460
-543	Attack +384 HP +5741 Defense +927 Attacks of all properties +295 Resistance to all properties +7 Probability of Resist Crit + 3 %attack + 3%
+543	Attack +384 HP +5741 Defense +927 Attacks of all properties +295 Résistance to all properties +7 Probability of Résist Crit + 3 %attack + 3%
 544	Critique +2474
 545	Dégât Feu +1345
 546	It seems that Mom revived ...... if everything that happened in the dream come true, it will be very good;
@@ -585,7 +585,7 @@
 584	There is no rule saying that foreigners can not become Knights. It is necessary to have a lot of boldness to say that.
 585	Lightning Attack +760
 586	Lightning Attack +495
-587	Attack +280 HP +3876 Deviation +273 Attacks of all properties +215 Resistance to all properties +5 Chance of critic + 3 %Defense + 3%
+587	Attack +280 HP +3876 Deviation +273 Attacks of all properties +215 Résistance to all properties +5 Chance of critic + 3 %Defense + 3%
 588	Critique +2512
 589	Dégât Feu +1442
 590	Do not let Hades hurt Athena in any way!
@@ -615,7 +615,7 @@
 614	You must have seen Lion's fury, and Lion's tolerance, have you seen them yet?
 615	Lightning Strike +917
 616	Lightning Attack +533
-617	Attack +330 HP +4757 Deviation +347 Attacks of all properties +254 Resistance to all properties +6 Chance of critic + 3 %Defense + 3%
+617	Attack +330 HP +4757 Deviation +347 Attacks of all properties +254 Résistance to all properties +6 Chance of critic + 3 %Defense + 3%
 618	Critique +2622
 619	Dégât Feu +1541
 620	Worrying, you are scaring all the fairies.
@@ -658,7 +658,7 @@
 657	He's going to save them fast!
 658	Lightning Attack +797
 659	Lightning Attack +574
-660	Attack +361 HP +4757 Diversion +395 Attacks of all properties +277 Resistance to all properties +7 Chance of critic + 3 %Defense + 3%
+660	Attack +361 HP +4757 Diversion +395 Attacks of all properties +277 Résistance to all properties +7 Chance of critic + 3 %Defense + 3%
 661	Critique +2835
 662	Dégât Feu +972
 663	As they say, a trapped animal will do something desperate; This look of one who is not afraid of death among the Knights is really irritating.
@@ -671,7 +671,7 @@
 670	As a scientist, the truth is what I am looking for.
 671	Princess, I have no more to protect her, you must take the scepter of the country; This is the hope of the Land of Ice.
 672	The long history and respectable reputation of the Gulf People; we are the generation after Cepheus.
-673	Among all the Armor, the Golden Armor is the most resistant; by having it, she will provide a lot of Power of Struggle.
+673	Among all the Armor, the Golden Armor is the most Résistant; by having it, she will provide a lot of Power of Struggle.
 674	Apprentices from the Island of Andromede! Join forces! Defend our house!
 675	These servants des Enfers do not satisfy me, it would be better to kill and go directly to the Royaume des Enfers, maybe I still managed to kill to be worth!
 676	Attacking the nervous system is an effective tactic.
@@ -694,7 +694,7 @@
 693	Shhh! Who told you that the revealing Treasure Box is not a good Treasure Box? Here you can see «MAX! Infinite Black Hole Battle Without Limits (multiplayer) «You can get the prize in the first 11 rounds. Great, go receive it now!
 694	In truth, we, orphans from here, should commemorate today's reunion, but it is a pity that I have come specially to put an end to them.
 695	That is going to be the place where you are going to be terrified!
-696	On behalf of a few Bronze Knights, the Grand Pope summoned us, Argent Knights, that is to drown in a glass of water!
+696	On behalf of a few Bronze Knights, the Grand Pope summoned us, Chevalier d'Argent, that is to drown in a glass of water!
 697	I, Aiolia de Lion, will not disappoint the expectations of the Grand Pope in any way!
 698	Ahh ...... So, is this the divine oppressive force? ......
 699	I really like this great site ... he is bathed in the glory characteristics of the epic.
@@ -740,7 +740,7 @@
 739	An old friend told me that life is a pleasant surprise.
 740	Wolves ...... many wolves ......
 741	Every day is a new day, life always has a new hope; let me guess your luck today!
-742	Hehe, Your Majesty, the Emperor of the Seas, will wake up soon, the time has come ......
+742	Hehe, Your Majesty, the Empereur des Mers, will wake up soon, the time has come ......
 743	On the battlefield, care must be taken with the style of the adversary; Protect yourself and then a fatal blow to the enemy!
 744	To be under the warm promise of sunshine, I'm not going to give up in any way.
 745	I know, I'll see it again.
@@ -832,7 +832,7 @@
 831	Attack +20 HP +200
 832	Lightning Strike +1132
 833	Lightning Strike +836
-834	Lightning Resistance +
+834	Lightning Résistance +
 835	Crit damage +6477
 836	lightning attack +1227
 837	There is no more stupid than human beings, so they will be imprisoned after they die, and they will suffer the ravages!
@@ -876,7 +876,7 @@
 875	Defense +50 HP +600
 876	Lightning Attack +397
 877	Lightning Attack +866
-878	Lightning Resistance +28
+878	Lightning Résistance +28
 879	Critique +7285
 880	Lightning Strike +1240
 881	Suddenly, Hades' eyes became as beautiful as the deepest and most serene waters ......
@@ -906,7 +906,7 @@
 905	Dégât Vent +20 Diversion +10
 906	Lightning Attack +359
 907	Lightning Strike +933
-908	Lightning Resistance +29
+908	Lightning Résistance +29
 909	Critique +8117
 910	Lightning Strike +1247
 911	The great massacre is happening!
@@ -948,7 +948,7 @@
 947	Defense + 70 \rHP +900
 948	Dégât Elec +372
 949	Dégât Elec +1102
-950	Resistance Elec +30
+950	Résistance Elec +30
 951	Great Attack +329
 952	Lightning Attack +1345
 953	It is already equal to a God!
@@ -978,7 +978,7 @@
 977	Attack +70 HP +900
 978	Lightning Attack +395
 979	Lightning Attack +960
-980	Lightning Resistance +32
+980	Lightning Résistance +32
 981	Great Attack + 511
 982	Lightning Attack +1442
 983	No longer has a minimum limit!
@@ -1021,7 +1021,7 @@
 1020	Hit + 20 Detour + 20
 1021	Lightning Strike +265
 1022	Lightning attack +1033
-1023	Lightning resistance +33
+1023	Lightning Résistance +33
 1024	Grand Attack +531
 1025	Lightning Attack +1541
 1026	Why do I have to stay in this place?
@@ -1051,7 +1051,7 @@
 1050	Defense +90 HP +1200
 1051	Lightning Strike +437
 1052	Lightning Strike +327
-1053	Lightning resistance +36
+1053	Lightning Résistance +36
 1054	Grand Attack +629
 1055	Lightning Attack +972
 1056	Who are you? \r Good or Bad? God or Demon? \r Who are you? Who are you?! WHO ARE YOU?!
@@ -1093,7 +1093,7 @@
 1092	Attack +90 HP +1200
 1093	Lightning Strike +311
 1094	Lightning Attack +435
-1095	Decrease in lightning resistance +29
+1095	Decrease in lightning Résistance +29
 1096	Great Attack +637
 1097	Hit +1048
 1098	Will this be an announcement that the next Holy War is about to begin?
@@ -1233,7 +1233,7 @@
 1232	There is no vile knight in the world of confidence!
 1233	I would change the probability of looking 500 times for my past lives for a brief encounter in this life.
 1234	(Although the owner of this Armor is already dead, you can still feel a fast, fierce and powerful type of Cosmo on its surface.)
-1235	Now, you do not have to resist.
+1235	Now, you do not have to Résist.
 1236	Oh, in my heart, there is a stirring impulse, wanting to go out .....
 1237	Welcome to the Multi-Server Dispute. Please, attention to the calendar of the dispute in the official site, 5 minutes before the dispute to begin, you can come here, with the ticket to enter the field of the dispute.
 1238	The floating island above is the field of practice of the King des Enfers, are you ready to challenge it?
@@ -1250,7 +1250,7 @@
 1249	%s is doing a great slaughter!
 1250	...... Mate ......
 1251	The conflagration of the war is going to spread once again, gods of Asgard, never forget the teachings of the ancestors.
-1252	According to records, the power of the Emperor of the Seas, Poseidon, is extremely great, if he wakes up completely, the Sanctuaire will be in danger.
+1252	According to records, the power of the Empereur des Mers, Poseidon, is extremely great, if he wakes up completely, the Sanctuaire will be in danger.
 1253	The Acropolis is almost a small construction; located at the highest point of the Sanctuaire, it is the place where Greece approaches the heavens. This is a forbidden place of the Sanctuaire, only the Grand Pope can enter; Inside, keep the materials, books and records of each Holy War. Whenever each Holy War approaches, the Grand Pope will observe the firmament here; according to the movement of the stars, it will decide if there will be a new generation of Knights and where they will be born. Afterwards, he will seek to train them to prevent the terrible attack of the King des Enfers.
 1254	As a court officer, alive or dead, I must be loyal to the sovereign.
 1255	Only now I understand, I have many deficiencies. I will strive, Huahahaha
@@ -1320,7 +1320,7 @@
 1319	Dégât Terre +1137
 1320	Hit +584
 1321	Phoenix Negro hid in this strange forest, a little carelessness and you can fall in his illusion.
-1322	Due to a partial system failure on December 18, 2015, the Knights' resistance was disabled and the effects of the medications disappeared. The army of the Sanctuaire will return the resistance and lost medicines.
+1322	Due to a partial system failure on December 18, 2015, the Knights' Résistance was disabled and the effects of the medications disappeared. The army of the Sanctuaire will return the Résistance and lost medicines.
 1323	We are the Greeks, the Greeks have a long history and culture ..
 1324	Where is it complete? ~
 1325	%s I no longer have a minimum limit!
@@ -1351,7 +1351,7 @@
 1350	Dégât Terre +1141
 1351	Hit +592
 1352	Each place has a person like me, who has a sense of responsibility and justice, which attracts more courageous people to protect the tranquility of the place.
-1353	^e12500 Counted along with the 'Protect Athena' event ^N. \rMr. Saori is in great danger now, there are many Argent Knights wanting to catch her, she needs your protection!
+1353	^e12500 Counted along with the 'Protect Athena' event ^N. \rMr. Saori is in great danger now, there are many Chevalier d'Argent wanting to catch her, she needs your protection!
 1354	I felt like a princess who enters an old castle and falls asleep, only to wake up again after a millennium of sleep. That feeling is great!
 1355	Let's solve this in the Ten Wind Caves!
 1356	What seems to be that the Master's concern has a motive.
@@ -1462,7 +1462,7 @@
 1461	%s squeezed 2 right away until death!
 1462	Even if in the Royaume des Enfers everything is black, my flower of music blooms for you ...
 1463	Dusk is approaching, this is the Ragnarok, but it is your judgment day! ^811f0c Note: ^811f0c Going through the difficult challenge of the King des Enfers will get even better prizes ^811f0c Level 2 and above dropa a ^ff0000 Or suit ^811f0c Level 3 and above dropa a ^ff0000 pink suit plate ^811f0c Level 4 and above you can drop two ^ff0000 pink suit plates
-1464	Probability of Resist Crit + 1%
+1464	Probability of Résist Crit + 1%
 1465	Lightning Attack +678
 1466	Lightning Attack +660
 1467	HP +1599
@@ -1492,7 +1492,7 @@
 1491	%s is already flawed in killing!
 1492	We must guarantee the progress of the construction of the statue of the Goddess!
 1493	The Temple of Thanatos, God of Death, is ahead!
-1494	All property resistors +1
+1494	All property Résistors +1
 1495	Lightning Strike +777
 1496	Lightning attack +716
 1497	HP +1617
@@ -1536,7 +1536,7 @@
 1535	Please, someone is going to kill %s soon!
 1536	(Majestosa statue of Athena, seems to emit a soft pure and Sacrée glow.)
 1537	My fighting spirit is already like a burning flame!
-1538	All property resistances +2
+1538	All property Résistances +2
 1539	Lightning Strike +709
 1540	Lightning Strike +833
 1541	HP +189
@@ -1547,7 +1547,7 @@
 1546	The appreciated landscape is an island covered with pine.
 1547	If you want to obtain Bronze Armor, you must pass rigorous tests.
 1548	Gods of Asgard will never be defeated!
-1549	We do not have much time, we have to go immediately to the Temple of the Emperor of the Seas.
+1549	We do not have much time, we have to go immediately to the Temple of the Empereur des Mers.
 1550	I was an excellent bounty hunter, until I met Hoffman.
 1551	How can it be so easy to see the Pope? I think things are not so simple.
 1552	Au au au!
@@ -1565,7 +1565,7 @@
 1564	%s unexpectedly, he managed to kill 3, and shows thumbs to bass to the other party
 1565	Tremble! Deadly
 1566	For the Goddess, for this world!
-1567	All property resistances +3
+1567	All property Résistances +3
 1568	Lightning attack +890
 1569	Lightning Attack +747
 1570	HP +1897
@@ -1597,7 +1597,7 @@
 1596	I feel good now, really. Before I sewed all day, my eyes are almost blind.
 1597	The power of the Great Teacher is still very great, you must help Ikki and Shun.
 1598	I let that fish escape ...
-1599	(In the Golden Armor of Taureau, it seems that the resistant and loyal Cosmo of Aldebaran still lurks)
+1599	(In the Golden Armor of Taureau, it seems that the Résistant and loyal Cosmo of Aldebaran still lurks)
 1600	Cold environments leave me alone!
 1601	Statue of the King of the Seas!
 1602	The betrayal of Saga, Camus and Shura certainly has some hidden secret. The tracking of the Specters shows that Hades has already been reborn. We must go as quickly as possible to the temple of the Goddess, protect Athena. Or at any price, prevent the plans of Hades.
@@ -1609,7 +1609,7 @@
 1608	My hometown is running an entertainment competition, would you like to participate?
 1609	Tremble, a miserable one who only has 5 wrestling power!
 1610	We are here to help the other Knights. Seiya and his brother must have arrived at the Thanatos Temple!
-1611	All property resistors +4
+1611	All property Résistors +4
 1612	Lightning Strike +803
 1613	Lightning Strike +811
 1614	HP +1956
@@ -1628,7 +1628,7 @@
 1627	Knight of justice? I only know people who propagate evil in the name of justice!
 1628	...... (There should not be anyone in the House of Gemeaux, but in reality the Gemeaux Armor is protecting it!) Saga, Camus and Shura fell into the Gemeaux Illusion temporarily can not be let go. of Gemeaux, in the end Who is in control ?!)
 1629	1. Secondary ticket; Army members who meet the requirements of the competition, can here with me, receive Entry Ticket I of the corresponding line. 2. Main ticket; With title "Multi-Server PK Competition • Army Chief" and "Red Team Entry (Blue) I ticket (line 1)" of the Head of the Army, you can receive here with me, 42 "Red Team ticket (Blue) II (line 1) ", ticket ticket II can be negotiated.
-1630	Shiryu, you must resist, we will immediately send the Armor to you ...
+1630	Shiryu, you must Résist, we will immediately send the Armor to you ...
 1631	We fake treason to protect the Goddess. But Athena, to protect humanity, was alone in the Royaume des Enfers. If that is the decision of the Goddess, as Knights we also have to abandon everything to protect it until the end. Now is not the time to be depressed, the blood of the Goddess can reborn our Armor and gain the strength to advance to the Royaume des Enfers. Let's go to the Royaume des Enfers to defeat Hades!
 1632	Members of the competition who meet the requirements, can here with me, receive the Entry Ticket. (line 5)
 1633	Here is very special ... The Fire Cemetery is very special ...
@@ -1638,7 +1638,7 @@
 1637	The sand becomes Or, the Or becomes sand. \rTo every 10 rewards you give me, I will improve your skills. \rAbilities 2, 3 and 4 can be upgraded to level 4. Combat attribute can be upgraded to level 3.
 1638	You are following the path of ruin!
 1639	Let the enemy feel the austerity as well as the cold!
-1640	All property resistances +5
+1640	All property Résistances +5
 1641	Lightning strike +800
 1642	Lightning Attack +944
 1643	HP +2010
@@ -1696,7 +1696,7 @@
 1695	The last Holy War occurred 243 years ago, 108 demonic stars are about to awaken. And the dreaming God - Hypnos, one of the Twin Gods, is already projected in the vicinity of the Sanctuaire. Knights, who will support the determination of Athena, repelling the God of Dream? Its projection strength did not reach one percent of its peak. Five days later, Athena will recover from the weakening of the battle against the King of the Seas, at which point, she will fight.
 1696	My mission is to watch every step of the Sirens.
 1697	... (Saori's breathing is very weakened, but I can still feel the warm Cosmo on her body.)
-1698	For an ordinary person to resist the influences of the God of Dream charm, it is necessary that he pay a high price. But I will not give up easily.
+1698	For an ordinary person to Résist the influences of the God of Dream charm, it is necessary that he pay a high price. But I will not give up easily.
 1699	Brother, he will be fine, he was so worried about Miss Green ......
 1700	Although the people here are strong, even if they need comfort and help
 1701	... (Camus is in a trance, it seems he fell into illusions)
@@ -1779,7 +1779,7 @@
 1778	Members of the competition who meet the requirements, can here with me, receive the Entry Ticket. (line 9)
 1779	The Knight was annihilated! LOL!
 1780	(Although the owner of this Armor is already dead, you can still feel a kind of fiery and powerful Cosmo on its surface.)
-1781	My Cosmo will not be able to resist for long here. I give you everything!
+1781	My Cosmo will not be able to Résist for long here. I give you everything!
 1782	(Smile smile smile smile.)
 1783	Do not be surprised, I am a divine thought coming from that Magic Staff.
 1784	Through the Castle of Hades, go to the Royaume des Enfers, in order to save the Goddess Athena!
@@ -2152,7 +2152,7 @@
 2151	Young Knights, you must prevent the plan of Hades. You can only from ^00fff 【Prayer of Love】 【Brave fight of justice】 ^N, choose to receive one within those two missions. If he receives the ^00ffff 【Prayer of Love】 ^N after ^ff0000 he will not be able to desist ^N Only Knights with Power of Strife that exceeds ^ff0000 350,000 ^N They can advance to the Champs Elysees and fight a mortal battle against the God of the Death and the God of sleep!
 2152	You should ask: Who am I? Hahaha ...
 2153	Knight, I will take you near the King of the Seas, he may appear in the ^ff0000 Diffuse Black Haze ^N. ^ff0000 The light area of ​​the teleportation destination is a security zone, PK is not allowed. When leaving the Security Area, follow the arrows on the floor to reach the BOSS update point.
-2154	Resistance to all properties +1 and hit +20
+2154	Résistance to all properties +1 and hit +20
 2155	Lightning Attack +469
 2156	Lightning Attack +415
 2157	HP +2550
@@ -2171,7 +2171,7 @@
 2170	The road to the Cave of the Ten Winds is intricate and complex, you have to be very careful!
 2171	Eventually, life will disappear, but faith lasts forever.
 2172	Saori, no matter what your desire, it will help you achieve it.
-2173	I have failed, the Raven saw through disguise.
+2173	I have failed, the Corbeau saw through disguise.
 2174	Rozan is a beautiful place.
 2175	My dream is to travel the world.
 2176	In the Tianchi Lake of Rozan, there are many medicinal herbs.
@@ -2263,7 +2263,7 @@
 2262	Is this the first sign of the Holy War? I am ready!
 2263	To the rebels, the way of death!
 2264	The power of the flame is intense, our protection must be as intense as it is!
-2265	in the vicinity of the Seulo Mansion in the Mediterranean Sea, there is a natural Cape, where the Temple of the Emperor of the Seas is located, eternally contemplating the ocean dressed. Close to the Cape, there is a cave of natural formation, secret torrents, where men do not arrive. Legend has it that here is the prison of God, who commits crimes and blasphemies, will spend the eternity locked here. They also say that a long time ago there was a man who was arrested for his treason to the goddess, but there is no nobody to find out.
+2265	in the vicinity of the Seulo Mansion in the Mediterranean Sea, there is a natural Cape, where the Temple of the Empereur des Mers is located, eternally contemplating the ocean dressed. Close to the Cape, there is a cave of natural formation, secret torrents, where men do not arrive. Legend has it that here is the prison of God, who commits crimes and blasphemies, will spend the eternity locked here. They also say that a long time ago there was a man who was arrested for his treason to the goddess, but there is no nobody to find out.
 2266	It really is an adventure! It is exactly because of those unexpected experiences that I wanted to travel the world, to investigate vestiges of ancient times everywhere!
 2267	The Aurora guides my way. The people of the Ice Field manage to foresee the destiny. From the changes of the Aurora. Like you, of the Shrine, they do the same with astrology. Follow the directions of Aurora, you will get to enter the Temple of the Seal.
 2268	Brother ... I'm still not the same as you ...
@@ -2493,7 +2493,7 @@
 2492	The gods assembled the feast in the temple of Mount Olympus, drinking the divine wine of 涅塔尔. Hebe, daughter of Zeus and Hera, were responsible for serving the wine. The beautiful Hebe was not famous, but being of marriageable age, she married the son of Zeus, Heracles. As wine could no longer serve, Zeus was behind a substitute. One day, when Zeus descended into the world, he found a beautiful young man caring for the sheep and transformed him into an Aigle to capture him. The young man then changed his name to Genímades and became the pasture of the gods. Zeus gave him eternal youth, but that would have to serve wine all his life. Ganymede saw him very honored, he always worked hard. Zeus was deeply moved and formed Verseau
 2493	Legend of Capricorne - Pan, son of Hermes is a demigod Although a demigod is less than a god, they are far superior to the human race. Pan was very ugly, even his mother was untying him. Bread had ears and bode horns, the upper part of his body was human and hairy, although the bottom was bode. His favorite music, often played on his flute, composed by himself One day, while several Gods were on the banks of the Nile River, preparing a party, a monster suddenly emerged All the gods were intimidated and to escape they entered the river, transforming themselves in different ways Pan jumped in the water in a hurry to hide, but being very scared, and unable to complete, he became a fish ...
 2494	Legend of Sagittaire - There was a group of centaurs, the upper part of the body is human, the lower one a wild horse race. However, in that brutal group of centaurs, there was the son of Chronos, Quiron, who was a wise saucer. He hardly knew music, he prophesied, but he was also a teacher of Héracles. One day, Héracles came into conflict with the members of the group, to take refuge from the persecution he fled towards the house of Quíron. Heracles, angry, threw several arrows at them, but he did not know that his master, Quíron, was also there and hit him on the foot. The Arrow was stained with immortal blood, therefore, it could not get rid of suffering. The giant God promised to free the immortal body, so that he could die in peace, thus becoming the sign of Sagittaire.
-2495	Legend of Scorpion - In ancient Greece, Orion, son of the Emperor of the Seas, Poseidon, was a famous warrior. He was not just a beautiful man, he also had a robust physique, that's why a lot was very appreciated by women. He was very proud of himself, he pronounced himself boasting to the whole world: On Earth there is no stronger man than me! After hearing that, the Goddess Hera became very angry, and sent a fierce venomous scorpion to catch Orion and drive him back to his original position. The scorpion discreetly went to the side of Orion untied and injected the poison into his heel. Orion did not have time to react and gave his last breath. Due to that feat, Scorpion was placed in the heavens, even though until today when Scorpion rises to the east, Orion (Orion Constellation) quickly sets on the horizon to the west .
+2495	Legend of Scorpion - In ancient Greece, Orion, son of the Empereur des Mers, Poseidon, was a famous warrior. He was not just a beautiful man, he also had a robust physique, that's why a lot was very appreciated by women. He was very proud of himself, he pronounced himself boasting to the whole world: On Earth there is no stronger man than me! After hearing that, the Goddess Hera became very angry, and sent a fierce venomous scorpion to catch Orion and drive him back to his original position. The scorpion discreetly went to the side of Orion untied and injected the poison into his heel. Orion did not have time to react and gave his last breath. Due to that feat, Scorpion was placed in the heavens, even though until today when Scorpion rises to the east, Orion (Orion Constellation) quickly sets on the horizon to the west .
 2496	Legend of Balance - Long ago Gods and men coexisted in harmony on Earth. Even though the Gods had eternal life, human life was limited, that's why the lonely Gods had to continuously raise humanity. The goddess of Justice, Astrea, created a balance of judging good and evil for the human being. She holds the scales in one hand and in the other, there is a sword to eliminate the evil. By looking for the right thing, her eyes were covered. But the men of that time were prone to war, the evil was dispersed, many Gods were disappointed with humans and returned to heaven. As soon as the Goddess Astrea did not want to leave and remained on Earth, to teach goodness. of that, the human race continued to degenerate, wars arose. Finally, even the Goddess Astrea gave up on humans and returned to the heavens. And hanging high in the sky is Balance of peace and justice.
 2497	(This girl is already in a coma.)
 2498	This sealed road, while this sealed road is open, and the earth is warm and peaceful, will be our ...
@@ -2552,7 +2552,7 @@
 2551	...
 2552	Quick, if Shina returns she will be all lost! I really do not want to hit her.
 2553	If the disaster of Rozan is the justice of the Sanctuaire, then defeating all of the Sanctuaire will be our justice.
-2554	Training venue next to the Sanctuaire, the Argent Knights will be their teachers to guide them to become young Saint cadets. In each Holy War, groups and groups of great Knights are born in the constellations, to fight for hope and for humanity. For that reason, I have called it Earth of the Stars, and it is known as lar of all the Knights.
+2554	Training venue next to the Sanctuaire, the Chevalier d'Argent will be their teachers to guide them to become young Saint cadets. In each Holy War, groups and groups of great Knights are born in the constellations, to fight for hope and for humanity. For that reason, I have called it Earth of the Stars, and it is known as lar of all the Knights.
 2555	I can not control my body ... There are actions that go beyond my own strength ...
 2556	I should think well about the meaning of the Knight.
 2557	Look, that's the miracle caused by Seiya

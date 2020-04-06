@@ -282,7 +282,7 @@
 281	Deliver Letter to Lily
 282	Heart of the Ocean
 283	Heart of the Ocean
-284	Stone of the Emperor of the Seas
+284	Stone of the Empereur des Mers
 285	Cube Cosmique
 286	Natural Elements
 287	Book of Divination
@@ -333,8 +333,8 @@
 332	Hero Card of the King des Enfers
 333	Sanctuaire transformation card
 334	Sanctuaire Hero Card
-335	Transformation card of the Emperor of the Seas
-336	Hero Card of the Emperor of the Seas
+335	Transformation card of the Empereur des Mers
+336	Hero Card of the Empereur des Mers
 337	Certificate of chaotic hero
 338	Law of the black hole
 339	Argent stellar sand of cloudy shine
@@ -1534,7 +1534,7 @@
 1533	Research
 1534	Fashion change of Psychokinesis
 1535	Start Psychokinesis
-1536	Resistance Pill
+1536	Résistance Pill
 1537	Edible
 1538	Scepter of Oath
 1539	Oath
@@ -2418,7 +2418,7 @@
 2417	Utiliser
 2418	Amulet
 2419	Psychokinesis
-2420	Stone of the Emperor of the Seas
+2420	Stone of the Empereur des Mers
 2421	Read
 2422	Cube Cosmique
 2423	Enchantment to open
@@ -10456,9 +10456,9 @@
 10455	Saori Q Version
 10456	Saori Holy Version Q
 10457	Mini Test
-10458	Emperor of the Seas Version Q
+10458	Empereur des Mers Version Q
 10459	Mini Krishna
-10460	Emperor of the Seas Version Q
+10460	Empereur des Mers Version Q
 10461	Mini Sorento
 10462	Mini Kanon
 10463	QPandora
@@ -10889,26 +10889,26 @@
 10888	Medicinal Herb
 10889	Decoction
 10890	Key of Time
-10891	Potion of Resistance 10
-10892	Potion of Resistance 1
-10893	Potion of Resistance 2
-10894	Potion of Resistance 3
-10895	Potion of Resistance 4
-10896	Potion of Resistance 5
-10897	Potion of Resistance 6
-10898	Potion of Resistance 7
-10899	Potion of Resistance 8
-10900	Potion of Resistance 9
-10901	Potion of Resistance Debuff 10
-10902	Potion of Resistance Debuff 1
-10903	Potion of Resistance Debuff 2
-10904	Potion of Resistance Debuff 3
-10905	Potion of Resistance Debuff 4
-10906	Potion of Resistance Debuff 5
-10907	Potion of Resistance Debuff 6
-10908	Potion of Resistance Debuff 7
-10909	Potion of Resistance Debuff 8
-10910	Potion of Resistance Debuff 9
+10891	Potion of Résistance 10
+10892	Potion of Résistance 1
+10893	Potion of Résistance 2
+10894	Potion of Résistance 3
+10895	Potion of Résistance 4
+10896	Potion of Résistance 5
+10897	Potion of Résistance 6
+10898	Potion of Résistance 7
+10899	Potion of Résistance 8
+10900	Potion of Résistance 9
+10901	Potion of Résistance Debuff 10
+10902	Potion of Résistance Debuff 1
+10903	Potion of Résistance Debuff 2
+10904	Potion of Résistance Debuff 3
+10905	Potion of Résistance Debuff 4
+10906	Potion of Résistance Debuff 5
+10907	Potion of Résistance Debuff 6
+10908	Potion of Résistance Debuff 7
+10909	Potion of Résistance Debuff 8
+10910	Potion of Résistance Debuff 9
 10911	Declare Miraculous War
 10912	Mark of the Red Team Ice Tower
 10913	Brand of Red Flames Tower Team
@@ -11069,10 +11069,10 @@
 11068	Filling Cosmo
 11069	Filling Cosmo
 11070	Stone of the Sages (strength)
-11071	Stone of the Sages (decrease resistance)
+11071	Stone of the Sages (decrease Résistance)
 11072	Magic wand slow and fast
 11073	Statue of the God of War
-11074	Stone of the Wise (resistance)
+11074	Stone of the Wise (Résistance)
 11075	Stone of the Wise (attack and defense)
 11076	Employees of Life
 11077	Stone of the Wise (precision)
@@ -11080,7 +11080,7 @@
 11079	Promise not old - come on, come on, Winnie
 11080	Not Old Promise - Happy Dream
 11081	Not Old Promise - The 0o King o0
-11082	Emperor of the Seas Poseidon
+11082	Empereur des Mers Poseidon
 11083	Accumulation of explosive ball of the Cosmo
 11084	Nuclear Freeze
 11085	Dizziness Chain
@@ -11287,7 +11287,7 @@
 11286	Mu personification
 11287	Personification of Aldebaran
 11288	Expansion of the Or processing card
-11289	Raven Killer
+11289	Corbeau Tueur
 11290	Bamboo
 11291	Bamboo
 11292	Bamboo
@@ -11602,7 +11602,7 @@
 11601	Imperial
 11602	Soul Sagr.
 11603	Sagrada
-11604	Soul Puls.
+11604	Ign Résist
 11605	Pulsante
 11606	Soul Alada
 11607	Wing
@@ -11610,17 +11610,17 @@
 11609	Remarkable
 11610	Soul Noble
 11611	Noble
-11612	Soul Vigo.
+11612	Résist Crit
 11613	Vigorosa
-11614	Soul Ins.
+11614	Taux Crit
 11615	Insana
 11616	Soul Erran.
 11617	Wanderer
 11618	Soul Libre
 11619	Free
-11620	Soul Gue.
+11620	Dégât
 11621	Guerrera
-11622	Soul Vacía
+11622	Résist Dégât
 11623	Empty
 11624	Soul Inten.
 11625	Intense
@@ -11633,7 +11633,7 @@
 11632	Cygne
 11633	Soul Sagr.
 11634	Sagrada
-11635	Soul Puls.
+11635	Ign Résist
 11636	Pulsante
 11637	Soul Alada
 11638	Alada
@@ -11647,7 +11647,7 @@
 11646	Enchanted
 11647	Soul Sagr.
 11648	Sagrada
-11649	Soul Puls.
+11649	Ign Résist
 11650	Pulsante
 11651	Soul Alada
 11652	Alada
@@ -11659,19 +11659,19 @@
 11658	Isolated
 11659	Soul Encan.
 11660	Enchanted
-11661	Soul Gue.
+11661	Dégât
 11662	Guerrera
 11663	Empty Soul
 11664	Empty
 11665	Soul Sagr.
 11666	Sacrée
-11667	Soul Puls.
+11667	Ign Résist
 11668	Pulsante
 11669	Soul Alada
 11670	Alada
-11671	Soul Vigo.
+11671	Résist Crit
 11672	Vigorosa
-11673	Soul Ins.
+11673	Taux Crit
 11674	Insana
 11675	Soul Erran.
 11676	Wanderer
@@ -11789,23 +11789,23 @@
 11788	Soul Virtuosa [Wind II]
 11789	Soul Virtuosa [Wind]
 11790	Soul Imper.
-11791	Soul Puls.
+11791	Ign Résist
 11792	Soul Alada
-11793	Soul Vigo.
-11794	Soul Ins.
+11793	Résist Crit
+11794	Taux Crit
 11795	Soul Erran.
 11796	Soul Libre
-11797	Soul Gue.
+11797	Dégât
 11798	Empty Soul
 11799	Soul Aisla.
 11800	Soul Encan.
-11801	Soul Puls.
+11801	Ign Résist
 11802	Soul Alada
 11803	Soul Erran.
 11804	Soul Libre
 11805	Soul Aisla.
 11806	Soul Encan.
-11807	Soul Puls.
+11807	Ign Résist
 11808	Soul Alada
 11809	Soul Erran.
 11810	Soul Libre
@@ -11840,7 +11840,7 @@
 11839	Destination Data
 11840	Red Flag
 11841	Blue flag
-11842	Battle Flag of the Emperor of the Seas
+11842	Battle Flag of the Empereur des Mers
 11843	Manuscript: Upper Masterpiece
 11844	Manuscript: Fact greater
 11845	Magic Seed
@@ -12068,7 +12068,7 @@
 12067	Morality Medal
 12068	Aldebaran Challenge Coupon
 12069	Sceptre d'Athena
-12070	Page of the Divine Sacrifice Book
+12070	Tissu de Cape
 12071	Fragments of the Relic of Capricorne
 12072	Fragments of the most valuable treasure of Capricorne
 12073	Blessing of Venus
@@ -14504,7 +14504,7 @@
 14503	Amulet of vigor
 14504	Advanced strength amulet
 14505	Mysterious Amulet of Vigor
-14506	Resistant Amulet
+14506	Résistant Amulet
 14507	Stunning Advanced Amulet
 14508	Amulet M.
 14509	Engraving of the Aigle Protection
@@ -14522,7 +14522,7 @@
 14521	strengthen mysterious painting of vigor
 14522	Strengthen Sturdy Paint
 14523	Strengthen Sturdy Advanced Paint
-14524	Stress resistant mysterious painting
+14524	Stress Résistant mysterious painting
 14525	Strengthening Divine Painting
 14526	Strengthen the Almighty's Divine Amulet
 14527	Strengthen battle amulet
@@ -14704,7 +14704,7 @@
 14703	Formula: Sturdy advanced paint
 14704	Formula: Advanced battle painting
 14705	Formula: Mysterious painting of vigor
-14706	Formula: Resistant Mysterious Painting
+14706	Formula: Résistant Mysterious Painting
 14707	Formula: Mysterious battle painting
 14708	Formula: Book of the Emperor
 14709	Formula: Apprentice Teaching Book

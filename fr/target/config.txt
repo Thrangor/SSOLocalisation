@@ -32,22 +32,22 @@
 31	Dégât Feu +%d
 32	Adjust the fixed value of the properties of the Dégât Vents
 33	Dégât Vent +%d
-34	Adjust the fixed value of the earth resistance properties
-35	Resist Terre +%d
-36	Adjust the fixed value of Resist Eau properties
-37	Resist Eau +%d
-38	Adjust the fixed value of Resist Feu properties
-39	Resist Feu +%d
-40	Adjust the fixed value of the air resistance properties
-41	Resist Vent +%d
-42	Adjust the fixed value of reduction of the property of Resistance Terre
-43	Reduc Resist Terre +%d
-44	Adjust fixed value of Resist Eau property reduction
-45	Reduct Resist Eau +%d
-46	Adjust the fixed value of reduced Resist Feu property
-47	Reduc Resist Feu +%d
-48	Adjust the fixed value for reduction of the air resistance property
-49	Reduc Resist Vent +%d
+34	Adjust the fixed value of the earth Résistance properties
+35	Résist Terre +%d
+36	Adjust the fixed value of Résist Eau properties
+37	Résist Eau +%d
+38	Adjust the fixed value of Résist Feu properties
+39	Résist Feu +%d
+40	Adjust the fixed value of the air Résistance properties
+41	Résist Vent +%d
+42	Adjust the fixed value of reduction of the property of Résistance Terre
+43	Ignore Résist Terre +%d
+44	Adjust fixed value of Résist Eau property reduction
+45	Ignore Résist Eau +%d
+46	Adjust the fixed value of reduced Résist Feu property
+47	Ignore Résist Feu +%d
+48	Adjust the fixed value for reduction of the air Résistance property
+49	Ignore Résist Vent +%d
 50	Adjust damage frequency of ground properties
 51	Dégât Terre +%.0f%%
 52	Adjust frequency of damage of water properties
@@ -87,38 +87,38 @@
 86	Crit Chance +%.1f%%
 87	Setting the fixed value of additional critical attack damage
 88	Dégât Critique +%d
-89	Setting the fixed value of the critical attack resistance probability
-90	Resist Crit +%.1f%%
-91	Adjustment of the fixed value of the extra probability of resistance to critical attack
-92	Reduc Crit +%d
+89	Setting the fixed value of the critical attack Résistance probability
+90	Résist Crit +%.1f%%
+91	Adjustment of the fixed value of the extra probability of Résistance to critical attack
+92	Résist Crit +%d
 93	Adjustment of the fixed value of the Lucky Attack rate
 94	Chance +%1f %%
 95	Adjust the fixed value of the direct attack rate
 96	Taux de soins +%.0f%%
-97	Adjust the fixed resistance value of physical damage
-98	Resist Dégat +%.0f%%
-99	Adjust the fixed value of resistance to magic
-100	Resist Etats Anormaux +%.0f%%
-101	Adjust the fixed value of poison resistance
-102	Resist Poison +%d
-103	Adjust the fixed value of resistance to confusion
-104	Resist Confusion +%d
-105	Adjust the fixed value of resistance to weakness
-106	Resist Etourdis +%d
-107	Adjust the fixed value of silence resistance
-108	Resist Silence +%d
-109	Adjust the fixed value of the speed reduction resistance
-110	Resistance to Speed ​​Reduction +%d
-111	Adjust the fixed value to ignore the resistance to poisoning
-112	Ignore Resistance to Poisoning +%d
-113	Adjust the fixed value to ignore resistance to confusion
-114	Ignore Resistance to Confusion +%d
-115	Adjust the fixed value to ignore resistance to weakness
-116	Ignore Resistance to Weakness +%d
-117	Adjust the fixed value to ignore sleep resistance
-118	Ignoring Sleep Resistance +%d
-119	Adjust the fixed value to ignore the Resist Reduc Vitesse
-120	Ign Resist Reduc Vitesse +%d
+97	Adjust the fixed Résistance value of physical damage
+98	Résist Dégat +%.0f%%
+99	Adjust the fixed value of Résistance to magic
+100	Résist Etats Anormaux +%.0f%%
+101	Adjust the fixed value of poison Résistance
+102	Résist Poison +%d
+103	Adjust the fixed value of Résistance to confusion
+104	Résist Confusion +%d
+105	Adjust the fixed value of Résistance to weakness
+106	Résist Etourdis +%d
+107	Adjust the fixed value of silence Résistance
+108	Résist Silence +%d
+109	Adjust the fixed value of the speed reduction Résistance
+110	Résist Speed +%d
+111	Adjust the fixed value to ignore the Résistance to poisoning
+112	Ignore Résist Poison +%d
+113	Adjust the fixed value to ignore Résistance to confusion
+114	Ignore Résist Confusion +%d
+115	Adjust the fixed value to ignore Résistance to weakness
+116	Ignore Résist Etourdis +%d
+117	Adjust the fixed value to ignore sleep Résistance
+118	Ignore Résis Sleept +%d
+119	Adjust the fixed value to ignore the Résist Reduc Vitesse
+120	Ign Résist Reduc Vitesse +%d
 121	Adjust the fixed value of the medicinal treatment effect
 122	Soin +%.0f%%
 123	Adjust the percentage of the HP value
@@ -178,27 +178,27 @@
 177	Adjust percentage of additional damage of the critical attack
 178	Critical Attack +%.1f%%
 179	Adjust the percentage of additional damage reduction critical attack
-180	Reduc Critique +%.1f%%
-181	Adjust the percentage of resistance to poisoning
-182	Resist Poison +%.0f%%
-183	Adjust the percentage of resistance to confusion
-184	Resist Confusion +%.0f%%
-185	Adjust the percentage of resistance to weakness
-186	Resist Etourdis +%.0f%%
-187	Adjust the resistance percentage to silence
-188	Resist Silence +%.0f%%
-189	Adjust the percentage of Resist Reduc Vitesse
-190	Resist Reduc Vitesse +%.0f%%
-191	Adjust to ignore the percentage of resistance to poisoning
-192	Ignore Resist Poison +%.0f%%
-193	Adjust to ignore the percentage of resistance to confusion
-194	Ignore Resist Confusion +%.0f%%
-195	Adjust to ignore the percentage of resistance to weakness
-196	Ignore Resist Etourdis +%.0f%%
-197	Adjust to ignore the percentage of resistance to silence
-198	Ignore Resist Silence +%.0f%%
-199	Adjust to ignore the percentage of Resist Reduc Vitesse
-200	Ign Resist Reduc Vitesse +%.0f%%
+180	Résist Critique +%.1f%%
+181	Adjust the percentage of Résistance to poisoning
+182	Résist Poison +%.0f%%
+183	Adjust the percentage of Résistance to confusion
+184	Résist Confusion +%.0f%%
+185	Adjust the percentage of Résistance to weakness
+186	Résist Etourdis +%.0f%%
+187	Adjust the Résistance percentage to silence
+188	Résist Silence +%.0f%%
+189	Adjust the percentage of Résist Reduc Vitesse
+190	Résist Reduc Vitesse +%.0f%%
+191	Adjust to ignore the percentage of Résistance to poisoning
+192	Ignore Résist Poison +%.0f%%
+193	Adjust to ignore the percentage of Résistance to confusion
+194	Ignore Résist Confusion +%.0f%%
+195	Adjust to ignore the percentage of Résistance to weakness
+196	Ignore Résist Etourdis +%.0f%%
+197	Adjust to ignore the percentage of Résistance to silence
+198	Ignore Résist Silence +%.0f%%
+199	Adjust to ignore the percentage of Résist Reduc Vitesse
+200	Ign Résist Reduc Vitesse +%.0f%%
 201	Adjust the percentage of the medicinal treatment effect
 202	Soin +%.1f%%
 203	Adjust the attack percentage
@@ -214,8 +214,8 @@
 213	Expérience en tuant des monstres +%.0f%%
 214	Adjust fixed attack value
 215	Dégât +%d
-216	Adjust fixed value of damage resistance properties
-217	Resistance Dégât +%.0f%%
+216	Adjust fixed value of damage Résistance properties
+217	Résistance Dégât +%.0f%%
 218	Adjust fixed value of the Onslaught
 219	Onslaught +%.0f%%
 220	Adjust fixed protection value
@@ -226,32 +226,32 @@
 225	Destruction +%.2f%%
 226	Adjust fixed value of properties of electricity attacks
 227	Dégât Elec +%d
-228	Adjust fixed value of electricity resistance properties
-229	Resist Elec +%d
-230	Adjust the fixed value of reduction of properties of resistance to electricity
-231	Penet Resist Elec +%d
+228	Adjust fixed value of electricity Résistance properties
+229	Résist Elec +%d
+230	Adjust the fixed value of reduction of properties of Résistance to electricity
+231	Penet Résist Elec +%d
 232	Adjust damage frequency of electricity properties
 233	Dégât Elec +%d
-234	Adjust fixed value of bleeding resistance
-235	Resist Saignement +%d
-236	Adjust fixed value of burn resistance properties
-237	Resist Brulure +%d
-238	Adjust fixed value of fall resistance properties
-239	Resist Renversement +%d
-240	Adjust fixed value of freeze resistance
-241	Resistance Gel +%d
-242	Adjust fixed value of petrification resistance
-243	Resist Petrification +%d
-244	Adjust the fixed value for reducing the resistance to bleeding
-245	Penet resist Saignement +%d
-246	Adjust the fixed value of burn resistance reduction
-247	Penet resist Brulure +%d
-248	Adjust the fixed value of resistance reduction to fall
-249	Penet resist Renversement +%d
-250	Adjust the fixed value of reduction of Resistance Gel
-251	Penet resist Gel +%d
-252	Adjust the fixed value of reduction of the petrification resistance
-253	Penet resist Petrification +%d
+234	Adjust fixed value of bleeding Résistance
+235	Résist Saignement +%d
+236	Adjust fixed value of burn Résistance properties
+237	Résist Brulure +%d
+238	Adjust fixed value of fall Résistance properties
+239	Résist Renversement +%d
+240	Adjust fixed value of freeze Résistance
+241	Résistance Gel +%d
+242	Adjust fixed value of petrification Résistance
+243	Résist Petrification +%d
+244	Adjust the fixed value for reducing the Résistance to bleeding
+245	Penet Résist Saignement +%d
+246	Adjust the fixed value of burn Résistance reduction
+247	Penet Résist Brulure +%d
+248	Adjust the fixed value of Résistance reduction to fall
+249	Penet Résist Renversement +%d
+250	Adjust the fixed value of reduction of Résistance Gel
+251	Penet Résist Gel +%d
+252	Adjust the fixed value of reduction of the petrification Résistance
+253	Penet Résist Petrification +%d
 254	Adjust percentage of properties of electricity attacks
 255	Dégât Elec +%.1f%%
 256	Adjust percentage of properties of bleeding attacks
@@ -264,49 +264,49 @@
 263	Gel +%.0f%%
 264	Adjust percentage of properties of petrification attacks
 265	Petrification +%.0f%%
-266	Adjust the percentage of reduction in resistance to bleeding
-267	Penet resist Saignement +%.0f%%
-268	Adjust the reduction percentage of the burn resistance
-269	​​Penet Resist Brulure +%.0f%%
-270	Adjust the reduction percentage of the drop resistance
-271	Penet Resist Renversement +%.0f%%
-272	Adjust the percent reduction in Resistance Gel
-273	Penet Resist Gel +%.0f%%
-274	Adjust percentage of reduction of petrification resistance
-275	Penet resist petrification +%.0f%%
+266	Adjust the percentage of reduction in Résistance to bleeding
+267	Penet Résist Saignement +%.0f%%
+268	Adjust the reduction percentage of the burn Résistance
+269	​​Penet Résist Brulure +%.0f%%
+270	Adjust the reduction percentage of the drop Résistance
+271	Penet Résist Renversement +%.0f%%
+272	Adjust the percent reduction in Résistance Gel
+273	Penet Résist Gel +%.0f%%
+274	Adjust percentage of reduction of petrification Résistance
+275	Penet Résist petrification +%.0f%%
 276	Adjust the fixed values ​​of attack properties
 277	Dégât Element +%d
-278	Adjust the fixed values ​​of resistance properties
-279	Resistance aux elements +%.1f
-280	Adjust the reduction of the fixed values ​​of resistance properties
-281	Penetration against resistance to all elements +%.1f
+278	Adjust the fixed values ​​of Résistance properties
+279	Résistance aux elements +%.1f
+280	Adjust the reduction of the fixed values ​​of Résistance properties
+281	Penetration against Résistance to all elements +%.1f
 282	Adjusts the fixed damage values ​​of all the elements
 283	Dégât Element +%.0f%%
 284	Adjusts the attack rate of all the elements
 285	Dégât Element +%.1f%%
 286	Increase the skill level of the corresponding sign
-287	Adjusts the fixed values ​​of resistance against abnormal status
-288	Resistance Etat +%d
-289	Adjusts fixed penetration values ​​against resistance to abnormal status
-290	Penet. resist Etat +%d
+287	Adjusts the fixed values ​​of Résistance against abnormal status
+288	Résistance Etat +%d
+289	Adjusts fixed penetration values ​​against Résistance to abnormal status
+290	Penet. Résist Etat +%d
 291	Adjusts the fixed value of Realm transforms level
 292	Darkness +%d
 293	Adjust fixed value of Dégât Lumiere properties
 294	Dégât Lumiere +%d
-295	Adjust fixed value of light resistance properties
-296	Resist Lumiere +%d
-297	Adjust fixed value of properties of reduction of Resist Lumiere
-298	Penet Resist Lumiere +%d
+295	Adjust fixed value of light Résistance properties
+296	Résist Lumiere +%d
+297	Adjust fixed value of properties of reduction of Résist Lumiere
+298	Penet Résist Lumiere +%d
 299	Adjust Dégât Lumiere frequency properties
 300	Dégât Lumiere +%.0f%%
 301	Adjust percentage of Dégât Lumiere properties
 302	Dégât Lumiere +%.1f%%
 303	Adjust the fixed value of main attack properties
 304	Main element attack +%d
-305	Adjust the fixed value of main resistance properties
-306	Resist element +%d
+305	Adjust the fixed value of main Résistance properties
+306	Résist element +%d
 307	Adjust the fixed value of the main strength reduction properties
-308	Penet. resist element +%d
+308	Penet. Résist element +%d
 309	Adjust frequency of damage of main properties
 310	Dégât element +%.0f%%
 311	Adjust percentage of main attack properties
@@ -318,7 +318,7 @@
 317	Adjust PVP_increase the damage percentage
 318	PVP damage rate +%1f %%
 319	Adjust PVP_Discrease the damage percentage
-320	Resistance Dégât PVP +%.1f%%
+320	Résistance Dégât PVP +%.1f%%
 321	Ter Etoilée 1
 322	Ter Etoilée 2
 323	Ter Etoilée 3
@@ -690,7 +690,7 @@
 689	At the time of the collapse of the Trojan horse's suspicious transformation within the game, please delete the directory of the executable folders before entering the game, it is recommended to use the antivirus software to check.
 690	^fff600 The first Galaxy competition, when the time of entry is over, you can enter the corresponding field with the ticket of the game. When you hold the ticket for the game, you can enter the stadium to watch the game. The ticket is in the 6W world BOSS treasure chest. Randomly dropped \r each party up to 18 people to participate in the battle, each game can accommodate up to 80 people to watch the battle, after full staff can not enter
 691	Taux Critique +%.0f%%
-692	Resist Crit +%.0f%%
+692	Résist Crit +%.0f%%
 693	Chance +%.0f%%
 694	HP +%.0f%%
 695	Dégât Terre +%.0f%%
@@ -701,11 +701,11 @@
 700	Puiss attaque Max +%.0f%%
 701	Defense +%.0f%%
 702	Dégât Critique +%.0f%%
-703	Resist Crit +%.0f%%
+703	Résist Crit +%.0f%%
 704	Dégât +%.0f%%
 705	Blocage +%.0f%%
 706	Pénétration +%.0f%%
 707	Dégât Elec +%.0f%%
 708	Résistance +%d
-709	Réduc Résist +%d
+709	Ign Résist Elem +%d
 710	Dégât Element +%.0f%%

@@ -125,7 +125,7 @@
 124	$nobubble$noname$UImid${name(%s)} a montré sa puissance en tuant le world BOSS ${npc(%d)}!
 125	Oh, show up, my servants! These insignificants who dare to go against my will. I grant you the right to kill them!
 126	Cursed, how dare you kill my servants? Prepare to endure the wrath of the God of Sleep!
-127	Emperor of the Seas- Poseidon
+127	Empereur des Mers- Poseidon
 128	$nobubble${lev(70-200)}$noname$UImid ${npc(%d)} apparait à ${line (8, %d)} ( %d, %d), braves guerriers, allez-y et acceptez le défi!
 129	$nobubble$noname$UImid %s ont prouvé leur puissance en tuant le world BOSS ${npc(%d)}!
 130	$nobubble$noname$UImid${name(%s)} a montré sa puissance en tuant le world BOSS ${npc(%d)}!
@@ -237,7 +237,7 @@
 236	$noname$UImid! La compétition Durera 1 heure
 237	$noname$UImid Who kills the leader of the opposing team first, located within the base, can win the competition.
 238	Do I hear that beautiful song of death?
-239	They will resist this symphony of death ~
+239	They will Résist this symphony of death ~
 240	Infernal Melody!
 241	Create Birth Timer 1 second
 242	Time has run out
@@ -354,8 +354,8 @@
 353	I'm going to make them die in the fragrance of roses!
 354	$noname$UImidThe first Knight of level 30 has already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
 355	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
-356	$noname$UImidThe Soul of the resentful Emperor of the Seas tried to invade the Sanctuaire and was imprisoned by Athena. After expelling it, the servant will enter the Argent Age.
-357	$noname$UImidThe Soul of the resentful Emperor of the Seas was expelled. The servant entered the Argent Age, releasing level 79 and the Episode of the Underwater World.
+356	$noname$UImidThe Soul of the resentful Empereur des Mers tried to invade the Sanctuaire and was imprisoned by Athena. After expelling it, the servant will enter the Argent Age.
+357	$noname$UImidThe Soul of the resentful Empereur des Mers was expelled. The servant entered the Argent Age, releasing level 79 and the Episode of the Underwater World.
 358	$noname$UImid108 The Malignant Stars have already awakened and the God of the Dream is in the Sanctuaire. Knights defeat Hypnos and protect Athena!
 359	$noname$UImidThe first attack des Enfers was prevented.The server entered the Golden Age, releasing level 89 and the Episode of Hades (previous chapter).
 360	$noname$UImidWhen the legendary Great Eclipse arises, the world will be covered by darkness forever. Knights, open the Portal des Enfers! Only after a long night will it dawn.
@@ -690,7 +690,7 @@
 689	Feeling that your vision is blurred? ~~ Zelos is terrible, is not it?
 690	Hades is calling me back to the Royaume des Enfers, but killing them first will not take long!
 691	Hades is calling me, we will face each other in the Royaume des Enfers!
-692	I thought I was going to resist a little more. Knights are weaker than I thought.
+692	I thought I was going to Résist a little more. Knights are weaker than I thought.
 693	$UImid${name(%s)}, Traitor! He searched for Athena's refuge! I'll finish with you today!
 694	By Athena!
 695	The promise to protect the Goddess until death ~~ I have fulfilled ~~

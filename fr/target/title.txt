@@ -120,19 +120,19 @@
 119	Conclude the Main Quest "Saga of Hades: Hell", Cap Elysees, "End of the Paradise Chapter! Return to the hopeful world! "To obtain the title
 120	^009933Power of Understanding
 121	He understood some of the world's stories.
-122	^ffff00Penetration against resistance to all elements +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+122	^ffff00Penetration against Résistance to all elements +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 123	Collect 40 Points of Illustration to obtain the title
 124	^009933Super Power of Understanding
 125	He understood many stories of the world.
-126	^ffff00Penetration against resistance to all elements +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+126	^ffff00Penetration against Résistance to all elements +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 127	Collect 100 Points of Illustration to obtain the title
 128	^0099ccMega Power of Understanding
 129	He understood many world stories.
-130	^ffff00Penetration against resistance to all elements +3 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+130	^ffff00Penetration against Résistance to all elements +3 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 131	Collect 400 Points of Illustration to obtain the title
 132	^0099ccSr. Smarty
 133	You know everything!
-134	^ffff00Penetration against resistance to all elements +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+134	^ffff00Penetration against Résistance to all elements +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 135	Collect 1000 Points of Illustration to obtain the title
 136	^009933Name in the Stories
 137	Your conquests will be told as a story.
@@ -264,115 +264,115 @@
 263	Reach Level Reputation Estimated with Ikki to obtain the title
 264	^009933 Marine Friend
 265	He became Marine friend over the long time they fought together.
-266	^ffff00Defense +200 \rResistance +1 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+266	^ffff00Defense +200 \rRésistance +1 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 267	Reach Friend Level Reputation with Marine to obtain the title
 268	^0099ccCompany of Marine
 269	​​He gained Marine trust over the long time they fought together.
-270	^ffff00Defense +400 \rResistance +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+270	^ffff00Defense +400 \rRésistance +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 271	Reach Level Reputation Estimated with Marine to obtain the title
 272	^009933 Friend of Shina
 273	He became friends with Shina over the long time they fought together.
-274	^ffff00Attack +150 \rResistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+274	^ffff00Attack +150 \rRésistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 275	Shina's Reputation reached Friend Level
 276	^0099ccCompany of Shina
 277	She gained Shina's trust over the long time they fought together.
-278	^ffff00Attack +300 \rResistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+278	^ffff00Attack +300 \rRésistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 279	Reach Level Reputation Estimated with Shina to obtain the title
 280	^009933 Friend of Mu
 281	He became a friend of Mu throughout the time they fought together.
-282	^ffff00Resistance against all abnormal statuses +1 \rHealing effect + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+282	^ffff00Résistance against all abnormal statuses +1 \rHealing effect + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 283	Reach Friend Level Reputation with Mu to get the title
 284	^0099ccCompany of Mu
 285	Won Mu's trust over the long time they fought together.
-286	^ffff00Resistance against all abnormal status +2 \rHealing effect + 5% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+286	^ffff00Résistance against all abnormal status +2 \rHealing effect + 5% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 287	Reach Level Reputation Estimated with Mu to obtain the title
 288	^009933 Friend of Aldebaran
 289	He became a friend of Aldebaran throughout the time they fought together.
-290	^ffff00Resistance against all abnormal statuses +1 \rDefense + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+290	^ffff00Résistance against all abnormal statuses +1 \rDefense + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 291	Scope Reputation Level Estima with Aldebaran to obtain the title
 292	^0099ccCompany of Aldebaran
 293	He gained Aldebaran's trust throughout the time they fought together.
-294	^ffff00Resistance against all abnormal status +2 \rDefense + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+294	^ffff00Résistance against all abnormal status +2 \rDefense + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 295	Reach Level Reputation Estimated with Aldebaran to obtain the title
 296	^009933 Friend of Saga
 297	He became a friend of Saga over the long time they fought together.
-298	^ffff00Ignora the resistance against all abnormal statuses +1 \rAttack + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+298	^ffff00Ignora the Résistance against all abnormal statuses +1 \rAttack + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 299	Reach Level Friend with Saga to get the title
 300	^0099ccCompany of Saga
 301	Saga's confidence won over the long time they fought together.
-302	^ffff00Ignora the resistance against all abnormal status +2 \rAttack + 2% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+302	^ffff00Ignora the Résistance against all abnormal status +2 \rAttack + 2% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 303	Reach Reputation Level Estimated with Saga to obtain the title
 304	^009933 Mask of Death Friend
 305	He became a friend of Mask of Death over the long time they fought together.
-306	^ffff00Ignora the resistance against all abnormal status +1 \rResistience to damage +5 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+306	^ffff00Ignora the Résistance against all abnormal status +1 \rRésistience to damage +5 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
 307	Reach Friend Level Reputation with Death Mask to get the title
 308	^0099ccCompany of Mask of Death
 309	Won the Mask of Death trust over the long time they fought together.
-310	^ffff00Ignora the resistance against all abnormal status +2 \rResistience to harm +10 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+310	^ffff00Ignora the Résistance against all abnormal status +2 \rRésistience to harm +10 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
 311	Scope Reputation Level Estima with Mask of Death to obtain the title
 312	^009933 Friend of Aiolia
 313	He became Aiolia's friend over the long time they fought together.
-314	^ffff00Resistance against all abnormal statuses +1 \rCritical Attack 1% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+314	^ffff00Résistance against all abnormal statuses +1 \rCritical Attack 1% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 315	Reach Level Friend Reputation with Aiolia to obtain the title
 316	^0099ccCompany of Aiolia
 317	Aiolia's confidence gained over the long time they fought together.
-318	^ffff00Resistance against all abnormal statuses +2 \rCritical Attack 2% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+318	^ffff00Résistance against all abnormal statuses +2 \rCritical Attack 2% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 319	Reach Level Reputation Estimated with Aiolia to obtain the title
 320	^009933 Shaka's Friend
 321	He became Shaka's friend over the long time they fought together.
-322	^ffff00Resistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+322	^ffff00Résistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 323	Reach Friend Level Reputation with Shaka to get the title
 324	^0099ccCompany of Shaka
 325	She gained Shaka's trust over the long time they fought together.
-326	^ffff00Resistance against all abnormal status +4 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+326	^ffff00Résistance against all abnormal status +4 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
 327	Reach Level Reputation Estimated with Shaka to obtain the title
 328	^009933 Friend of Milo
 329	He became Milo's friend over the long time they fought together.
-330	^ffff00Ignora the resistance against all abnormal statuses +1 \r Resistance to curse +5 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+330	^ffff00Ignora the Résistance against all abnormal statuses +1 \r Résistance to curse +5 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 331	Reach Friend Level Reputation with Milo to get the title
 332	^0099ccCompany of Milo
 333	He gained Milo's trust over the long time they fought together.
-334	^ffff00Ignora the resistance against all the abnormal status +2 \rResistance to curse +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+334	^ffff00Ignora the Résistance against all the abnormal status +2 \rRésistance to curse +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 335	Reach Level Reputation Estimated with Dohko to obtain the title
 336	^009933 Friend of Dohko
 337	He became Dohko's friend over the long time they fought together.
-338	^ffff00Resistance against all abnormal statuses +1 \rAssist to critical 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+338	^ffff00Résistance against all abnormal statuses +1 \rAssist to critical 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 339	Dohko's Reputation reached Friend Level
 340	^0099ccCompany of Dohko
 341	Gained Dohko's trust over the long time they fought together.
-342	^ffff00Resistance against all abnormal status +2 \rResisting to critical 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+342	^ffff00Résistance against all abnormal status +2 \rRésisting to critical 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 343	Reach Level Reputation Estimated with Dohko to obtain the title
 344	^009933 Friend of Aiolos
 345	He became Aioros' friend over the long time they fought together.
-346	^ffff00Resistance against all abnormal statuses +1 \rHP + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+346	^ffff00Résistance against all abnormal statuses +1 \rHP + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 347	Reach Level Friend Reputation with Aiolos to obtain the title
 348	^0099ccCompany of Aioros
 349	He gained the trust of Aioros over the long time they fought together.
-350	^ffff00Resistance against all abnormal status +2 \rHP + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+350	^ffff00Résistance against all abnormal status +2 \rHP + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 351	Reach Reputation Level Estimates with Aiolos to obtain the title
 352	^009933 Friend of Shura
 353	He became a friend of Shura throughout the time they fought together.
-354	^ffff00Ignora the resistance against all abnormal status +1 \rResistance against all abnormal status +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+354	^ffff00Ignora the Résistance against all abnormal status +1 \rRésistance against all abnormal status +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 355	Shura's Reputation reached Friend Level
 356	^0099ccCompany of Shura
 357	Won Shura's trust over the long time they fought together.
-358	^ffff00Ignora the resistance against all abnormal status +2 \rResistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+358	^ffff00Ignora the Résistance against all abnormal status +2 \rRésistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 359	Reach Level Reputation Estimated with Shura to obtain the title
 360	^009933 Camus Friend
 361	He became Camus' friend over the long time they fought together.
-362	^ffff00Ignora the resistance against all abnormal status +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+362	^ffff00Ignora the Résistance against all abnormal status +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 363	Reach Friend Level Reputation with Camus to get the title
 364	^0099ccCompany of Camus
 365	He gained Camus' trust over the long time they fought together.
-366	^ffff00Ignora the resistance against all abnormal status +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+366	^ffff00Ignora the Résistance against all abnormal status +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 367	Reach Level Reputation Estimated with Camus to obtain the title
 368	^009933Aphrodite's Friend
 369	He became Aphrodite's friend throughout the time they fought together.
-370	^ffff00Ignora the resistance against all abnormal statuses +1 \rResistance to bleeding +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+370	^ffff00Ignora the Résistance against all abnormal statuses +1 \rRésistance to bleeding +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 371	Reach Friend Level Reputation with Aphrodite to obtain the title
 372	^0099ccCompany of Aphrodite
 373	She gained Aphrodite's trust over the long time they fought together.
-374	^ffff00Ignora the resistance against all the abnormal statuses +2 \rResistance to bleeding +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+374	^ffff00Ignora the Résistance against all the abnormal statuses +2 \rRésistance to bleeding +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 375	Reach Level Reputation Estimated with Aphrodite to obtain the title
 376	^009933 I'm Flying Trapeze
 377	You will fly higher and farther!
@@ -603,23 +603,23 @@
 602	Exclusive honor title for VIP level 7
 603	^ffd700Dulce Fortuna
 604	With money in my pocket, I'm happy!
-605	^ffff00Defense +500 Resist Crit Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+605	^ffff00Defense +500 Résist Crit Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
 606	Exclusive honor title for VIP level 8
 607	^ffd700Fanatic Wealth
 608	Madness for money!
-609	^ffff00Defense +600 Resist Crit Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+609	^ffff00Defense +600 Résist Crit Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
 610	Exclusive honor title for VIP level 9
 611	^ffd700 Unceasing wealth
 612	For a happy life it is necessary to strive!
-613	^ffff00Defense +700 Resist Crit Index + 1% \r ^You will get the title, the attribute will have effect ^ffff00permanent ^N
+613	^ffff00Defense +700 Résist Crit Index + 1% \r ^You will get the title, the attribute will have effect ^ffff00permanent ^N
 614	Exclusive honor title for VIP level 10
 615	^ffd700Bright Magnate
 616	Shining, covered with little diamonds!
-617	^ffff00Defense +800 Resistance to Critical + 1% \rResistance to all Abnormal status +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+617	^ffff00Defense +800 Résistance to Critical + 1% \rRésistance to all Abnormal status +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
 618	Exclusive honor title for VIP Level 11
 619	^ffd700Monopoly Global
 620	Who would be the rival of the richest person in the world?
-621	^ffff00Defense +900 Resist Crit Index + 1% \rResistance to all Abnormal statuses +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+621	^ffff00Defense +900 Résist Crit Index + 1% \rRésistance to all Abnormal statuses +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
 622	Exclusive honor title for VIP level 12
 623	^0099ccRadiante
 624	Supreme honor of the Parfait World!
@@ -673,7 +673,7 @@
 672	^ffff00Attack +80 \rDefense +80 \rCritical attack + 3% \r ^If you get the title, the attribute will have effect ^ffff00permanente ^N
 673	Prize for the participation of the "Collect Armors, raise your Power" Event.
 674	^0099cc Attack Knight
-675	^ffff00Critical index + 2％ \rReduction of total property resistance +1 \r ^If you obtain the title, the attribute will have effect ^ffff00permanent ^N
+675	^ffff00Critical index + 2％ \rReduction of total property Résistance +1 \r ^If you obtain the title, the attribute will have effect ^ffff00permanent ^N
 676	Prize for the participation of the "Rewards for the Conquests" Event.
 677	^0099cc Or Legend
 678	^ffff00HP +1000 \rPressure +100 \rEsquive +100 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
@@ -978,15 +978,15 @@
 977	^ff7800${spouse}'s wife
 978	^ff7800Don Divine
 979	Exclusive DIY special effects title
-980	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \rEsquive +50 \rCritique +50 Attack on all properties +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+980	^ffff00Attack +150 \rHP +2000 \rRésistance to all elements +5 \rPressure +50 \rEsquive +50 \rCritique +50 Attack on all properties +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 981	^a800ff Royaume des Enfers rule: Naraku
-982	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \rStage +50 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+982	^ffff00Attack +150 \rHP +2000 \rRésistance to all elements +5 \rPressure +50 \rStage +50 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 983	^0099ccWarrior That Terrifies the Gods
 984	11-100 of the Ranking of cumulative recharge points
-985	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+985	^ffff00Attack +150 \rHP +2000 \rRésistance to all elements +5 \rPressure +50 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 986	^009933 Wizard
 987	101-500 of the Ranking of cumulative recharge points
-988	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+988	^ffff00Attack +150 \rHP +2000 \rRésistance to all elements +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 989	^5acbcc Increase the critical attack to wish me happiness
 990	Cumulative recharge to meet user conditions
 991	^a800ff Argent Associate Knight
@@ -1409,29 +1409,29 @@
 1408	Recharge rank third class title
 1409	^a800ff Balance's power
 1410	The gift of the goddess Athena
-1411	^ffff00 ground attribute resistance +3\r^N permanent effective
+1411	^ffff00 ground attribute Résistance +3\r^N permanent effective
 1412	Activity Award
 1413	^a800ff Or Balance Force
-1414	^ffff00 ground attribute resistance +6\r^N permanent effective
+1414	^ffff00 ground attribute Résistance +6\r^N permanent effective
 1415	Precious event rewards
 1416	^a800ff water bottle force
-1417	^ffff00 water attribute resistance +3\r^N permanent effective
+1417	^ffff00 water attribute Résistance +3\r^N permanent effective
 1418	^a800ff Or water bottle force
-1419	^ffff00 water attribute resistance +6\r^N permanent effective
+1419	^ffff00 water attribute Résistance +6\r^N permanent effective
 1420	^a800ffThe power of the lion
-1421	^ffff00 fire attribute resistance +3\r^N permanent effective
+1421	^ffff00 fire attribute Résistance +3\r^N permanent effective
 1422	^a800ff Golden Lion Power
-1423	^ffff00 fire attribute resistance +6\r^N permanent effective
+1423	^ffff00 fire attribute Résistance +6\r^N permanent effective
 1424	^a800ff The power of the shooter
-1425	^ffff00 wind attribute resistance +3\r^N permanent effective
+1425	^ffff00 wind attribute Résistance +3\r^N permanent effective
 1426	^a800ff Or shooter power
-1427	^ffff00 wind attribute resistance +6\r^N permanent effective
+1427	^ffff00 wind attribute Résistance +6\r^N permanent effective
 1428	^a800ffvirginal power
-1429	^ffff00 Ray attribute resistance +3\r^N permanent effect
+1429	^ffff00 Ray attribute Résistance +3\r^N permanent effect
 1430	^a800ff Or virgin power
-1431	^ffff00 Ray attribute resistance +6\r^N permanent effect
+1431	^ffff00 Ray attribute Résistance +6\r^N permanent effect
 1432	^a800ff Argent versatile power
-1433	^ffff00 full attribute resistance +3\r^N permanent effective
+1433	^ffff00 full attribute Résistance +3\r^N permanent effective
 1434	^a800ff violent force
 1435	^ffff00 Critical Strike Rate +1%\r^N Permanently Effective
 1436	^a800ff Or violent force
@@ -1703,7 +1703,7 @@
 1702	^9763ee female mysterious relationship
 1703	September 2017 meeting meeting title
 1704	^ff0000 Master of things
-1705	^ffff00 all abnormally ignored +10\r all abnormal resistance +10\r^N after obtaining the title, the attribute ^ffff00 is permanently valid
+1705	^ffff00 all abnormally ignored +10\r all abnormal Résistance +10\r^N after obtaining the title, the attribute ^ffff00 is permanently valid
 1706	^ff0000 staring ~ Luo ~ guardian
 1707	The first exclusive custom title in the 2017 2017 top-up list
 1708	^ff0000 one flower and one world

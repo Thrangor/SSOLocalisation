@@ -237,14 +237,14 @@
 236	Unable to find player information
 237	Level 40 is not enough, you can not challenge
 238	Failed to define skills!
-239	You failed in the %d round!
-240	Congratulations on your victory in the %d round!
-241	Duel Arena in progress! First phase!
-242	Duel Arena in progress! Eighths of finals!
-243	Duel Arena in progress! Fourth finals!
-244	Duel Arena in progress! Semifinals!
-245	Duel Arena in progress! Final!
-246	Duel Arena closed!
+239	Vous avez perdu le %d round!
+240	Félicitations pour votre victoire au %d round!
+241	Duel VS en cours ! 1ère phase !
+242	Duel VS en cours ! Huitièmes de finale !
+243	Duel VS en cours ! Quart de finale !
+244	Duel VS en cours ! Demi finale !
+245	Duel VS en cours ! Finale !
+246	Duel VS Fermé !
 247	Papier
 248	Ciseaux
 249	Pierre
@@ -252,15 +252,15 @@
 251	^00FF00Habiliter: Ciseaux
 252	^00FF00Habiliter: Pierre
 253	You can not participate after the knockout phase. \rAttentive hit the next time!
-254	(You are not eligible to participate in the Duel Arena, continue training)
+254	(Vous ne pouvez pas participer au Duel VS, continuez l'entraînement)
 255	Excuse me; You can not enter the top 16, please continue to work hard. Welcome to the reception of the follow-up event.
 256	Excuse me; can not enter the top 8, please continue to work hard. Welcome to the reception of the follow-up event.
 257	Excuse me; He has not been able to enter the semifinals, please continue to work hard. Welcome to the reception of the follow-up event.
 258	Excuse me; has not been able to enter the finals, please continue to work hard. Welcome to the reception of the follow-up event.
 259	^00FF00Report of today's duels.
 260	^00FF00Report of yesterday's duels.
-261	V: %d / D: %d. nul %d Zénis et %d points de Duel.
-262	%d Zénis bonus et %d points de Duel
+261	V: %d / D: %d. nul %d Zénis et %d points de VS.
+262	%d Zénis bonus et %d points de VS
 263	You won %d Zénis and %d Duel Points in the Duel Arena. \rPlease withdraw your reward before tomorrow.
 264	You reached the %d rank in the Duel Arena. You received %d Zénis and %d Duel Points.
 265	You can not receive reward.
