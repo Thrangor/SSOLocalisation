@@ -211,7 +211,7 @@
 210	Hero of the Ten Wind Cave
 211	Hero of the Heart of Sagittaire
 212	Hero of the Castle of the Grand Blue
-213	Hero of the City of Hades
+213	[Hero] Hades
 214	The End of Hades
 215	The Epic Stars
 216	Requiem of the Well of the Dead
