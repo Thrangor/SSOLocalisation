@@ -195,12 +195,12 @@
 194	Summon the Knights of the Dragon
 195	Congratulations, you picked up the four dragons! Maybe in the near future you can satisfy your desire.
 196	Complete the Challenge of the Instance
-197	Go to the ${npc(212333)} to complete the "Black Meteor" dungeon
-198	Go to the ${npc(212333)} to complete the dungeon "Huracán de las Tinieblas"
-199	Go to the ${npc(212333)} to complete the "Galactic Explosion" dungeon.
-200	Go to the ${npc(212333)} to complete the "Final Symphony" dungeon
-201	Go to the ${npc(212333)} to complete the "Destr. Máxima" dungeon
-202	Go to the ${npc(212333)} to complete the "Black Hole" dungeon
+197	Go to the ${npc(212333)} to complete the "Black Meteor" Donjon
+198	Go to the ${npc(212333)} to complete the Donjon "Huracán de las Tinieblas"
+199	Go to the ${npc(212333)} to complete the "Galactic Explosion" Donjon.
+200	Go to the ${npc(212333)} to complete the "Final Symphony" Donjon
+201	Go to the ${npc(212333)} to complete the "Destr. Máxima" Donjon
+202	Go to the ${npc(212333)} to complete the "Black Hole" Donjon
 203	Apprentice Certificate
 204	Reach the Lv. 10
 205	Novato Certificate
@@ -404,21 +404,21 @@
 403	Crimson! Shadow of Another World!
 404	In ${npc(212687)} complete Transcendental Shadow.
 405	Legend of the Coliseum Grand
-406	Complete 30 secondary quests in this region
+406	Complete 30 secondary Quêtes in this region
 407	Legend of Rozan
-408	Complete 30 secondary quests in this region
+408	Complete 30 secondary Quêtes in this region
 409	Legend of the Forgotten Path
-410	Complete 30 secondary quests in this region
+410	Complete 30 secondary Quêtes in this region
 411	Legend of the Island of the Queen Death
-412	Complete 30 secondary quests in this region
+412	Complete 30 secondary Quêtes in this region
 413	Legend of Sibérie
-414	Complete 30 secondary quests in this region
+414	Complete 30 secondary Quêtes in this region
 415	Legend of Atlantis
-416	Complete 30 secondary quests in this region
+416	Complete 30 secondary Quêtes in this region
 417	Legend of the Island of Andromede
-418	Complete 30 secondary quests in this region
+418	Complete 30 secondary Quêtes in this region
 419	Legend of Hades Castle
-420	Complete 30 secondary quests in this region
+420	Complete 30 secondary Quêtes in this region
 421	Little Mathematician
 422	Complete "Twelve Houses" and "Hero of Destiny"
 423	Bardo
@@ -485,28 +485,28 @@
 484	Conclude "Countercurrent! Challenge Lion "
 485	Tsunami in Atlantis
 486	Complete this event Quest
-487	Conflict of the Twelve Houses
+487	Conflit des 12 Maisons
 488	Complete this event Quest
 489	Memories of the Holy War
-490	Complete this dungeon
+490	Complete this Donjon
 491	Ten Caves
-492	Complete this dungeon
+492	Complete this Donjon
 493	Heart of Sagittaire
-494	Complete this dungeon
+494	Complete this Donjon
 495	Twelve Houses I
-496	Complete this dungeon
+496	Complete this Donjon
 497	Twelve Houses II
-498	Complete this dungeon
+498	Complete this Donjon
 499	Twelve Houses III
-500	Complete this dungeon
+500	Complete this Donjon
 501	Twelve Houses IV
-502	Complete this dungeon
+502	Complete this Donjon
 503	Ice Sanctuaire
-504	Complete this dungeon
+504	Complete this Donjon
 505	Seven Pillars I
-506	Complete this dungeon
+506	Complete this Donjon
 507	Seven Pillars II
-508	Complete this dungeon
+508	Complete this Donjon
 509	Elegy of the Goddess I
 510	Complete this heroic Quest
 511	Elegy of the Goddess II
@@ -755,32 +755,32 @@
 754	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Lu.Di.
 755	Divine Worshiper · Harpy
 756	Defeat Harpy in [[Hero] Ca. Hades] Dif. Lu.Di.
-757	Divine Warrior · Frog
-758	Defeat Frog in [[Hero] Cas. Hades] Dif. Lu.Di.
+757	Divine Warrior · Crapeau
+758	Defeat Crapeau in [[Hero] Cas. Hades] Dif. Lu.Di.
 759	Divine Worshiper · Wyvern
 760	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Lu.Di.
 761	Divine Soldat · Aldebaran
 762	Defeat Alrau. in [[Hero] Cas. Hades] Dif. So.Di.
 763	Divine Soldat · Harpy
 764	Defeat Harpy in [[Hero] Ca. Hades] Dif. So.Di.
-765	Divine Soldat · Frog
-766	Defeat Frog in [[Hero] Cas. Hades] Dif. So.Di.
+765	Divine Soldat · Crapeau
+766	Defeat Crapeau in [[Hero] Cas. Hades] Dif. So.Di.
 767	Divine Soldat · Wyvern
 768	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Lu.So.
 769	Demigods · Aldebaran
 770	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Semi.
 771	Demigods · Harpy
 772	Defeat Harpy in [[Hero] Ca. Hades] Dif. Semi.
-773	Demigods · Frog
-774	Defeat Frog in [[Hero] Cas. Hades] Dif. Semi.
+773	Demigods · Crapeau
+774	Defeat Crapeau in [[Hero] Cas. Hades] Dif. Semi.
 775	Demigods · Wyvern
 776	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Semi.
 777	Killer of the Gods · Aldebaran
 778	Defeat Alrau. in [[Hero] Cas. Hades] Dif. As.Di.
 779	Killer of the Gods · Harpy
 780	Defeat Harpy in [[Hero] Cas. Hades] Dif. As.Di.
-781	Assassin of the Gods · Frog
-782	Defeat Frog in [[Hero] Cas. Hades] Dif. As.Di.
+781	Assassin of the Gods · Crapeau
+782	Defeat Crapeau in [[Hero] Cas. Hades] Dif. As.Di.
 783	Killer of the Gods · Wyvern
 784	Defeat Wyv. in [[Hero] Cas. Hades] Dif. As.Di.
 785	Dream Short Life!
@@ -834,21 +834,21 @@
 833	Killer of the Gods · Hades
 834	Defeat Hades in [[Epo.] End Hades] Dif. As.Di.
 835	Black Star
-836	Complete the dungeon "[Event] MAX Black Meteor!"
+836	Complete the Donjon "[Event] MAX Black Meteor!"
 837	Argent Nebula
-838	Complete the dungeon "MAX Hurricane of Darkness"
+838	Complete the Donjon "MAX Hurricane of Darkness"
 839	Or Galaxy
-840	Complete the dungeon "MAX Galactic Explosion!"
+840	Complete the Donjon "MAX Galactic Explosion!"
 841	Marine Star
-842	Complete the dungeon "MAX Final Symphony!"
+842	Complete the Donjon "MAX Final Symphony!"
 843	Hole of Earthworm of Hades
-844	Complete the dungeon "MAX Maximum Destruction!"
+844	Complete the Donjon "MAX Maximum Destruction!"
 845	Holy War! Prisoners in the star!
 846	Go to ${npc(200359)} and conclude the Holy War! Earth Star Prisoner! Get and view 3 green level equipment
 847	Holy War! For the star of evil!
 848	Go to ${npc(200438)} and end the Holy War! Celestial Star of Evil! Get and view four green level equipment
 849	Young and Dangerous
-850	Complete the dungeon "MAX Black Hole!"
+850	Complete the Donjon "MAX Black Hole!"
 851	Divine Fighter · Divine Belier
 852	Defeat Ar.Di. in [[Hero] 12Ca.Di. (I)] Dif. Lu.Di.
 853	Divine Fighter · Divine Taureau
@@ -943,11 +943,11 @@
 942	Chaotic Battlefield Test
 943	Beat 1x Battlefield Battle Test
 944	Immediate Victory
-945	Win 1x on the Lava Battlefield
+945	Win 1x on the Guerre au Volcan
 946	A Little Success
-947	Win 25x on the Lava Battlefield
+947	Win 25x on the Guerre au Volcan
 948	Master of Battles
-949	Win 50x on the Lava Battlefield
+949	Win 50x on the Guerre au Volcan
 950	Guard of the Sky
 951	Win 1x on the Battlefield of Heaven
 952	Journey on the Horizon
@@ -978,7 +978,7 @@
 977	Argent
 978	Golden
 979	Myth
-980	Individual
+980	Individuel
 981	EXP+
 982	Cosmo
 983	Armor
@@ -990,12 +990,12 @@
 989	Knights of God
 990	Destiny Challenge
 991	Knight's Limit
-992	Dungeon
+992	Donjon
 993	Event
 994	Challenge
 995	Star Epic
 996	Adventure
-997	Community
+997	Communauté
 998	Relationship
 999	Guild
 1000	Ruins of Attica
@@ -1058,7 +1058,7 @@
 1057	Xinghun first precipitation
 1058	First star - Fusion of the soul
 1059	For riding skills for the first time
-1060	First activate the role of the community
+1060	First activate the role of the Communauté
 1061	The first team to use the voice
 1062	First add friends
 1063	First team
@@ -1156,7 +1156,7 @@
 1155	Fame
 1156	0
 1157	
-1158	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Noble Ghost Dictionary.
+1158	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Questionnaire de Kiki.
 1159	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Assembly! The zodiac crisis
 1160	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Atlantis! Storm
 1161	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Ten Winds Cave

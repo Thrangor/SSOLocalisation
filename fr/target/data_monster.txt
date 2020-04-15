@@ -525,7 +525,7 @@
 524	Store of ornaments Level 2
 525	Store of Ornaments Level 3
 526	Watch Instance Zone Statue of Athena
-527	Statue of Athena
+527	Statue d'Athena
 528	Bronze Knight Ikki
 529	Bronze Horseman Hyoga
 530	Special Version Mortal Movement of the Bronze Horseman Hyoga
@@ -1216,7 +1216,7 @@
 1215	Front of flames
 1216	Black Tornado
 1217	Katherin
-1218	Ice Frog
+1218	Ice Crapeau
 1219	Katherin
 1220	Offerings
 1221	Malignant Guard
@@ -2111,13 +2111,13 @@
 2110	Kanon
 2111	Gemeaux
 2112	Zelos
-2113	Frog
+2113	Crapeau
 2114	Zelos
-2115	Frog
-2116	Guardian des Enfers
-2117	Guardian des Enfers
-2118	Guardian des Enfers
-2119	Guardian des Enfers
+2115	Crapeau
+2116	Gardien des Enfers
+2117	Gardien des Enfers
+2118	Gardien des Enfers
+2119	Gardien des Enfers
 2120	Saga
 2121	Gemeaux
 2122	Saga
@@ -2152,11 +2152,11 @@
 2151	Basilisk Guard
 2152	Basilisk Guard
 2153	Zelos
-2154	Frog
+2154	Crapeau
 2155	Rhadamanthe
 2156	Wyvern
 2157	Zelos
-2158	Frog
+2158	Crapeau
 2159	Shun
 2160	Andromede
 2161	Seiya
@@ -2196,7 +2196,7 @@
 2195	Hyoga
 2196	Cygne
 2197	Zelos
-2198	Frog
+2198	Crapeau
 2199	Seiya
 2200	Pegase
 2201	Rhadamanthe
@@ -2467,7 +2467,7 @@
 2466	Tornado Ophiucos
 2467	Titan Guard
 2468	Ice Hunter
-2469	Guardian des Enfers
+2469	Gardien des Enfers
 2470	Shiryu
 2471	Dragon
 2472	Hyoga
@@ -3290,7 +3290,7 @@
 3289	Gods Twins C
 3290	Porte des Enfers
 3291	Zelos
-3292	Frog
+3292	Crapeau
 3293	Luned
 3294	Balrog
 3295	Charon
@@ -3302,7 +3302,7 @@
 3301	Water Flow
 3302	Guard of Silence
 3303	Zelos
-3304	Frog
+3304	Crapeau
 3305	Army Instance Zone 1 Space Monster
 3306	Star of Life
 3307	Death Star
@@ -3529,7 +3529,7 @@
 3528	Appearance of the battle of the Gods
 3529	Poisson
 3530	Status of Deaths
-3531	Frog
+3531	Crapeau
 3532	Cyclops
 3533	Resuscitation of the battle of the Gods
 3534	Minotaur
@@ -7330,7 +7330,7 @@
 7329	Transmission_King of the seas
 7330	Statue of Hades
 7331	<Protect>
-7332	Statue of Athena
+7332	Statue d'Athena
 7333	<Protect>
 7334	Statue of Poseidon
 7335	<Protect>
@@ -8110,7 +8110,7 @@
 8109	Cyclops
 8110	Terrestrial Star of Evil
 8111	Zelos
-8112	Frog
+8112	Crapeau
 8113	Gerald
 8114	Earth Star Prisoner
 8115	Laimi
@@ -8705,7 +8705,7 @@
 8704	Soldat des Enfers
 8705	God of the Dream
 8706	Zelos
-8707	Frog
+8707	Crapeau
 8708	Demonic Insects des Enfers
 8709	Mucus
 8710	Action Monster NPC
@@ -8874,7 +8874,7 @@
 8873	Attack Mode
 8874	Jango
 8875	Attack Mode
-8876	Frog
+8876	Crapeau
 8877	Powerful Mode
 8878	Mini Titan
 8879	Defense Mode
@@ -9208,7 +9208,7 @@
 9207	Shura
 9208	Capricorne
 9209	Zelos
-9210	Frog
+9210	Crapeau
 9211	Camus
 9212	Verseau
 9213	Aphrodite
@@ -9509,7 +9509,7 @@
 9508	Discard
 9509	God of the Dream
 9510	Illusion
-9511	Frog
+9511	Crapeau
 9512	Person without Faith
 9513	Discard
 9514	Birthplace
@@ -9533,7 +9533,7 @@
 9532	Kiki
 9533	Kiki
 9534	Kiki
-9535	Monthly Aries_ Enter the Instance Zone NPC Body Monster
+9535	Monthly Belier_ Enter the Instance Zone NPC Body Monster
 9536	Stage Pass Monster
 9537	Speed ​​Ball
 9538	Belier
@@ -9992,7 +9992,7 @@
 9991	Land of Fantasia Giant Poisonous Dams
 9992	Illusion of Fenix
 9993	Illusion. Crystal Wall
-9994	Total control of the multiplier_Agujero Negro Individual
+9994	Total control of the multiplier_Agujero Negro Individuel
 9995	Attraction of Illusion
 9996	<Illusion Method of separation from the fighting spirit>
 9997	Monster control 20 layers more
@@ -10383,13 +10383,13 @@
 10382	Vientto ice cream blowing
 10383	Golden Gun
 10384	Golden Flute
-10385	Soldat des Océans
+10385	Soldat des Mers
 10386	Brave Risen Knight
-10387	Bloodthirsty bat
+10387	Chauve-Souris des Enfers
 10388	Sirens
 10389	Leader of the Black Knights
 10390	Elite of the Black Knights
-10391	Brave Soldat des Océans
+10391	Brave Soldat des Mers
 10392	Élite des Océans
 10393	Sorcerer of the Tides
 10394	Crab of the Tides
@@ -10441,18 +10441,18 @@
 10440	Control Monster 5_1
 10441	Control Monster 5_2
 10442	Control Monster 5_3
-10443	Brave Soldat des Océans
-10444	Soldat des Océans
+10443	Brave Soldat des Mers
+10444	Soldat des Mers
 10445	Marina Elite
 10446	Chevalier Mystérieux
 10447	Clone of the Sea Monster
 10448	Elite of the Black Knights
 10449	Risen Knight
-10450	Brave Soldat des Océans
+10450	Brave Soldat des Mers
 10451	Risen Knight
 10452	Élite des Océans
 10453	Malignant Sorcerer
-10454	Brave Soldat des Océans
+10454	Brave Soldat des Mers
 10455	Little Pirates
 10456	Sorcerer of the Tides
 10457	Sorcerer of the Tides
@@ -10507,7 +10507,7 @@
 10506	Roi demon Papillon
 10507	Thetis
 10508	Sirena
-10509	Brave Soldat des Océans
+10509	Brave Soldat des Mers
 10510	Strange
 10511	Élite des Océans
 10512	Strange
@@ -10515,11 +10515,11 @@
 10514	Strange
 10515	Elite Black Knights
 10516	Strange
-10517	Brave Soldat des Océans
+10517	Brave Soldat des Mers
 10518	Strange
 10519	Élite des Océans
 10520	Strange
-10521	Brave Soldat des Océans
+10521	Brave Soldat des Mers
 10522	Strange
 10523	Sorcerer of the Tides
 10524	Strange
@@ -10864,7 +10864,7 @@
 10863	Revenant
 10864	Crapaud Vénéneux
 10865	Garde des Enfers
-10866	Bloodthirsty bat
+10866	Chauve-Souris des Enfers
 10867	Ivan
 10868	Celestial Star of Defeat
 10869	Frost spectrum
@@ -10898,7 +10898,7 @@
 10897	Fairies
 10898	Fairies
 10899	Fairy Gift
-10900	Hell Ophiuchus des Enfers
+10900	Serpent des Enfers
 10901	Big Angel
 10902	Kyle
 10903	Survivor
@@ -10945,7 +10945,7 @@
 10944	Papillon king des Enfers
 10945	Fantasia Animation of the Dreaming God_Suspending Monster
 10946	Wyvern
-10947	Bloodthirsty Bat
+10947	Chauve-Souris des Enfers
 10948	Diablotin
 10949	Earth Star of Wealth
 10950	Charon
@@ -10969,7 +10969,7 @@
 10968	Explosive barrel
 10969	Datura cannibal
 10970	Traveling Star Seller
-10971	Bloodthirsty bat
+10971	Chauve-Souris des Enfers
 10972	Goalkeeper Gun Driver
 10973	Strange
 10974	Dynamite Barrel
@@ -11223,7 +11223,7 @@
 11222	Glossy lotus ball of the defeated monster
 11223	Giant Bloodthirsty Murcielago
 11224	Bloodthirsty Papillon des Enfers
-11225	Bloodthirsty Bat
+11225	Chauve-Souris des Enfers
 11226	Used by Ícelo
 11227	Discard
 11228	Resurrection of the monster 1
@@ -11720,9 +11720,9 @@
 11719	Soldat [Lieu Saint]
 11720	Soldat [Lieu Saint]
 11721	Strange
-11722	Soldat des Océans
-11723	Soldat des Océans
-11724	Soldat des Océans
+11722	Soldat des Mers
+11723	Soldat des Mers
+11724	Soldat des Mers
 11725	Strange
 11726	Vase
 11727	brosa
@@ -12520,7 +12520,7 @@
 12519	<Assassin des Dieux>
 12520	Clone of Zelos
 12521	area of ​​poison
-12522	Sapuris of the frog
+12522	Sapuris of the Crapeau
 12523	jefe3_Invocar Sapúris de Rana
 12524	Rhadamanthe
 12525	<Chevalier>
@@ -12558,7 +12558,7 @@
 12557	Valentine
 12558	Harpies of the Celestial Star of Lament
 12559	Zelos
-12560	Frog of the Earth Star of Strangeness
+12560	Crapeau of the Earth Star of Strangeness
 12561	Sylphid
 12562	Cocatrix of the Celestial Star of Skill
 12563	Commander
@@ -12698,11 +12698,11 @@
 12697	NPC_Phase Phase 03
 12698	NPC_Track of Phase 04
 12699	NPC_Track of Phase 05
-12700	Guardian des Enfers
-12701	Guardian des Enfers
-12702	Guardian des Enfers
-12703	Guardian des Enfers
-12704	Guardian des Enfers
+12700	Gardien des Enfers
+12701	Gardien des Enfers
+12702	Gardien des Enfers
+12703	Gardien des Enfers
+12704	Gardien des Enfers
 12705	Stone Pillar
 12706	Stone Pillar
 12707	Stone Pillar

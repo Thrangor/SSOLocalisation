@@ -436,7 +436,7 @@
 435	Elder Black
 436	Murderer! It's your fault that Shinadekuro and Fukuryu became Black Knights and they died. I will never forgive you!
 437	Two disciples who, at last, betrayed me. If you had obeyed my orders, maybe I would have become the owner of the Island of La Reina Muerte.
-438	I feel the Cosmo of Ichi in the direction of the Aokigahara Forest ... I'm going to ask Ban about that.
+438	I feel the Cosmo of Ichi in the direction of the Forêt d'Aokigahara ... I'm going to ask Ban about that.
 439	Help! Somebody help me!
 440	Damn, it's Ichi's voice, but there are monsters everywhere! I need to help him!
 441	It seems that Ichi just came through here, there's something there on the ground.
@@ -2343,7 +2343,7 @@
 2342	Me me ...... Who am I? Who am I? I was guarding the goddess Athena Holy Or Gemeaux, Yes, I am the guardian of the goddess Athena Gemeaux.
 2343	No, no, I was the savior of mankind, instead of God became stronger Sacrée warriors, who you are! ? He fell into the endless extradimensional space of it!
 2344	Sorry, I'll take you to another dimension to this space, you want to get out of that dimensional space, you can only rely on your own Cosmo that I hit the other.
-2345	This is extradimensional space, Gemeaux is my idea of ​​the strength of its own dimensional entry space, where different from the human community, but also different circles of hell, can be said to be a boundless black hole.
+2345	This is extradimensional space, Gemeaux is my idea of ​​the strength of its own dimensional entry space, where different from the human Communauté, but also different circles of hell, can be said to be a boundless black hole.
 2346	This is the good of the garments, garments can be obtained by touching this light of justice, in order to suppress the evil twin of hostility.
 2347	This is the cloth of evil, cloth can be obtained by touching this power of the devil in order to expose the hypocrisy of the light of the good twin.
 2348	Here Listen to me carefully!
@@ -2466,7 +2466,7 @@
 2465	For me to correct them.
 2466	I finally caught you traitor! Just annoyed with that!
 2467	Ao Lufei! ! You Mingdou Shi done!
-2468	There are individuals pushing the stone ...... ask him to see if there is intelligence of him.
+2468	There are Individuels pushing the stone ...... ask him to see if there is intelligence of him.
 2469	Stop! I was the day tips star Locke, will die, St. ......
 2470	Locke
 2471	Rozan Thang Long Pa!
@@ -2606,7 +2606,7 @@
 2605	So many guards were defeated Seiya and Zi, the Scorpion Or guard Saint Seiya exactly as strong presence as ah!
 2606	What is the monster? Looks like a Scorpion!
 2607	These lethal Scorpion can be easily paralyzed me, so Miro lethal Scorpion will be like kind of power?
-2608	Stop, Saint Bronze! I look unlicensed, I Centaurus Babel can send you to the path of your lives!
+2608	Stop, Saint Bronze! I look unlicensed, I CenTaureau Babel can send you to the path of your lives!
 2609	Babel
 2610	Get out of here! I do not have time to play with you!
 2611	Good strong Diamond Dust ...... But I look lethal adults will allow you to inadvertently pass away ......
@@ -2865,7 +2865,7 @@
 2864	Saint Humble, confess your crimes now! Get out, the fate of the monument!
 2865	Rooney
 2866	Ah ...... really missed these adults Are Hades humble ...... ...... I have power to do ......
-2867	I stare double: run over style frog!
+2867	I stare double: run over style Crapeau!
 2868	Zelos
 2869	Let me enlighten you to read the terrible force that ......
 2870	Babi long
@@ -2945,7 +2945,7 @@
 2944	Dasha Rabbit
 2945	Happy Mid-Autumn Festival! Remember family reunion Oh!
 2946	cute bunny
-2947	Shion! He really wore the Surplice!
+2947	Shion! He really wore the Surplis!
 2948	I will show you the strength of a Golden Knight!
 2949	All right, Knights! The rest I have been entrusted to me!
 2950	Holy warrior members, except Hades to catch up, efforts to collect star Yao-hui ah!
@@ -3264,7 +3264,7 @@
 3263	If ​​Ikki had not called me, your life would be over!
 3264	Black Andromede!
 3265	The one who deceived the Grand Pope, Marine, must die!
-3266	There really is still a Bronze Horseman. Let me, Babel of Centaurus, end your life.
+3266	There really is still a Bronze Horseman. Let me, Babel of CenTaureau, end your life.
 3267	Centaur
 3268	How is it possible? He's just a Bronze Horseman ...
 3269	Phoenix? You'd better go. I, Argol of Perseus, I only want the life of Saori.
@@ -3510,7 +3510,7 @@
 3509	Prize of Base (lottery)
 3510	^00ff00search through the issuance of lottery form, The right shows the lottery base reward
 3511	You will get:
-3512	Select one of the awards below:
+3512	Select one of the Gains below:
 3513	Random Award
 3514	Please select a prize
 3515	We recommend that you view the ${jump(18)} or ${jump(56)} to level up quickly
@@ -3548,14 +3548,14 @@
 3547	Abandon this Quest
 3548	This quest can not be abandoned
 3549	Are you sure you want to quit the quest " %s"?
-3550	The quests library has already been updated %d times
+3550	The Quêtes library has already been updated %d times
 3551	Refresh Consume %d Or
 3552	Refresh Consume %d Zénis
 3553	To update, " %s" %dun is required.
 3554	Are you sure you want to upgrade your quest library?
 3555	Failed to update
 3556	EXP: %d
-3557	Quests completed today: %d / %d
+3557	Quêtes completed today: %d / %d
 3558	Refresh ( %dx)
 3559	Change character story
 3560	The number of daily history updates ran out
@@ -3604,8 +3604,8 @@
 3603	Vouchers did not hit %d, unable to draw
 3604	We did not have %s, unable to draw
 3605	No configuration items related to the lottery can not draw
-3606	New attempt ( %dx)
-3607	You have %s %dun. \r
+3606	Relancer (x%d)
+3607	You have %s %dun.\r
 3608	The limit for updating is %d times \rYou can update %d times
 3609	Click to receive %d seconds
 3610	Inheritance! Or trial
@@ -3852,13 +3852,13 @@
 3851	task unknown error
 3852	Not a root task
 3853	This quest is already active
-3854	The Quests list is full
-3855	Already reached the limit of Quests accepted
+3854	The Quêtes list is full
+3855	Already reached the limit of Quêtes accepted
 3856	Can not be used / finished again
 3857	Insufficient level
 3858	Level exceeded
 3859	You do not have the necessary articles
-3860	Your individual reputation does not meet the requirements
+3860	Your Individuel reputation does not meet the requirements
 3861	The company does not meet the requirements
 3862	Sex does not meet the requirements
 3863	The Sign does not meet the requirements
@@ -3972,7 +3972,7 @@
 3971	%s: %s
 3972	The players did not complete the steps of the corresponding Quest
 3973	The limit to complete the weekly Quest has already been reached. It is not possible to do such Quest.
-3974	You have a low-level missions in the week limit has not been completed, it is recommended to give up low-level tasks and quests limit week access and the current level of competition.
+3974	You have a low-level missions in the week limit has not been completed, it is recommended to give up low-level tasks and Quêtes limit week access and the current level of competition.
 3975	Required items: wire invitation.
 3976	Does not meet the requirements for registration
 3977	Guild Raw Material Insufficient
@@ -4028,7 +4028,7 @@
 4027	You halfway joined the "great counterattack! Ice United Cthulhu"
 4028	The number of days for the test series or against Or copies is exhausted.
 4029	Received taken or completed the dream of God's mission trick
-4030	You have reached the current level of the maximum number of beneficiaries of benefits, please update efforts
+4030	You have reached the current level of the maximum number of beneficiBelier of benefits, please update efforts
 4031	Reputation duplicate your system more than 84 points, you can not receive
 4032	You already have God of War points more than 30 points, we can not continue to use the Fight God card
 4033	You use this week God of War card 10 times, can not continue to use

@@ -48,7 +48,7 @@
 47	When using the platform to form the team, when there is registration of 6 players in the group, what will happen?
 48	Ignore restriction of Sign and teleports
 49	It is necessary to fill out the restrictions. of Sign
-50	Does not line up, needs individual registration
+50	Does not line up, needs Individuel registration
 51	The system will organize the groups
 52	When your character is stuck, what to do?
 53	In Options, use the "Char Prison" function

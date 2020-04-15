@@ -25,9 +25,9 @@
 24	Galan
 25	Quest Test
 26	Quest Test
-27	Individual copies of service trial version 3
-28	Individual copies of service trial version 4
-29	Individual copies of service trial version 5
+27	Individuel copies of service trial version 3
+28	Individuel copies of service trial version 4
+29	Individuel copies of service trial version 5
 30	Learning Competencies
 31	Weekly test of copy services
 32	Proof of copy service according to the situation
@@ -2331,9 +2331,9 @@
 2330	Kanon
 2331	Gemeaux
 2332	Zelos
-2333	Frog
+2333	Crapeau
 2334	Zelos
-2335	Frog
+2335	Crapeau
 2336	Lennox
 2337	Sentinel
 2338	Saga
@@ -2396,9 +2396,9 @@
 2395	Crazy Spectrum
 2396	Prisoner Guard
 2397	Zelos
-2398	Frog
+2398	Crapeau
 2399	Zelos
-2400	Frog
+2400	Crapeau
 2401	Rhadamanthe
 2402	Wyvern
 2403	Shun
@@ -2467,7 +2467,7 @@
 2466	Dohko
 2467	Balance
 2468	Zelos
-2469	Frog
+2469	Crapeau
 2470	Saga
 2471	Cufflinks
 2472	Camus
@@ -2485,7 +2485,7 @@
 2484	Gordon
 2485	Minotaur
 2486	Saga
-2487	Twins
+2487	Gemeaux
 2488	Sleeping Villager
 2489	Villager Waking up
 2490	Count Heinstein
@@ -2576,7 +2576,7 @@
 2575	Shun
 2576	Andromede
 2577	Kanon
-2578	Twins
+2578	Gemeaux
 2579	Euridice
 2580	Orpheus
 2581	Lira
@@ -2905,7 +2905,7 @@
 2904	Poisson
 2905	Guard of Giudecca
 2906	Alma de Saga
-2907	Twins
+2907	Gemeaux
 2908	Jacob
 2909	Alma
 2910	Juan
@@ -2931,13 +2931,13 @@
 2930	Judas
 2931	Alma
 2932	Alma de Saga
-2933	Twins
+2933	Gemeaux
 2934	Resentful soul
 2935	Resentful soul
 2936	Souls that preserve their will
 2937	Souls without salvation
 2938	Dead Knight
-2939	11 Royaume des Enfers
+2939	11 des Enfers
 2940	Ikki
 2941	Phoenix
 2942	Shun
@@ -3345,14 +3345,14 @@
 3344	Battle Officer
 3345	Sherlock
 3346	Change of battlefield prizes
-3347	Statue of Athena
+3347	Statue d'Athena
 3348	Battlefield Teleportation
 3349	Battlefield Guard
 3350	Battlefield Guard
 3351	Merchant of battlefield protection equipment
 3352	Catarina
 3353	Battlefield Guidance
-3354	Statue of Athena
+3354	Statue d'Athena
 3355	Battlefield Teleportation
 3356	Battlefield guard
 3357	Battlefield guard
@@ -3544,7 +3544,7 @@
 3543	Dohko
 3544	Balance
 3545	Kanon
-3546	Twins
+3546	Gemeaux
 3547	Orpheus
 3548	Lira
 3549	Kanon
@@ -3805,31 +3805,31 @@
 3804	Pantheon (Living room)
 3805	Red team
 3806	Level 9
-3807	Statue of Athena (miracle)
+3807	Statue d'Athena (miracle)
 3808	Red team
 3809	Level 1
-3810	Statue of Athena (miracle)
+3810	Statue d'Athena (miracle)
 3811	Red team
 3812	Level 2
-3813	Statue of Athena (miracle)
+3813	Statue d'Athena (miracle)
 3814	Red team
 3815	Level 3
-3816	Statue of Athena (miracle)
+3816	Statue d'Athena (miracle)
 3817	Red team
 3818	Level 4
-3819	Statue of Athena (miracle)
+3819	Statue d'Athena (miracle)
 3820	Red team
 3821	Level 5
-3822	Statue of Athena (miracle)
+3822	Statue d'Athena (miracle)
 3823	Red team
 3824	Level 6
-3825	Statue of Athena (miracle)
+3825	Statue d'Athena (miracle)
 3826	Red team
 3827	Level 7
-3828	Statue of Athena (miracle)
+3828	Statue d'Athena (miracle)
 3829	Red team
 3830	Level 8
-3831	Statue of Athena (miracle)
+3831	Statue d'Athena (miracle)
 3832	Red team
 3833	Level 9
 3834	Ares Altar (Altar)
@@ -4075,31 +4075,31 @@
 4074	Pantheon (Living room)
 4075	Blue team
 4076	Level 9
-4077	Statue of Athena (miracle)
+4077	Statue d'Athena (miracle)
 4078	Blue team
 4079	Level 1
-4080	Statue of Athena (miracle)
+4080	Statue d'Athena (miracle)
 4081	Blue team
 4082	Level 2
-4083	Statue of Athena (miracle)
+4083	Statue d'Athena (miracle)
 4084	Blue team
 4085	Level 3
-4086	Statue of Athena (miracle)
+4086	Statue d'Athena (miracle)
 4087	Blue team
 4088	Level 4
-4089	Statue of Athena (miracle)
+4089	Statue d'Athena (miracle)
 4090	Blue team
 4091	Level 5
-4092	Statue of Athena (miracle)
+4092	Statue d'Athena (miracle)
 4093	Blue team
 4094	Level 6
-4095	Statue of Athena (miracle)
+4095	Statue d'Athena (miracle)
 4096	Blue team
 4097	Level 7
 4098	Athena statue (miracle)
 4099	Blue team
 4100	Level 8
-4101	Statue of Athena (miracle)
+4101	Statue d'Athena (miracle)
 4102	Blue team
 4103	Level 9
 4104	Ares Altar (Altar)
@@ -4359,7 +4359,7 @@
 4358	Acquiring knowledge
 4359	Tyranosaurus Rex
 4360	Acquiring knowledge
-4361	Statue of Athena
+4361	Statue d'Athena
 4362	Kiki
 4363	Star Test
 4364	Coyes
@@ -5800,7 +5800,7 @@
 5799	Soldat d'Elite
 5800	<Invasion>
 5801	Cornelius
-5802	Emissaries of events
+5802	EmissBelier of events
 5803	Shunrei
 5804	Shiryu
 5805	Athena
@@ -6003,7 +6003,7 @@
 6002	<Awakening! Cycle of six existences>
 6003	Shaka
 6004	Vierge
-6005	Shaka (Individual)
+6005	Shaka (Individuel)
 6006	Vierge
 6007	Shaka
 6008	<Vierge! Six populations of Shaka>
@@ -6938,12 +6938,12 @@
 6937	Illusion. Crystal Wall
 6938	Fantasy Stone
 6939	<Prize Release>
-6940	<Awards>
+6940	<Gains>
 6941	MAX! Young and dangerous
 6942	Seductive sound!
 6943	<Illusion! method of separation from fighting spirit>
 6944	Illusion. Crystal Wall
-6945	<See Awards>
+6945	<See Gains>
 6946	MAX! Infinite black hole
 6947	Pandora
 6948	MAX! Battle without limits
@@ -6956,7 +6956,7 @@
 6955	<Illusion! Rope node method of registration>
 6956	Teleportation sound!
 6957	<Illusion! Distortion teleportation method>
-6958	Statue of Athena
+6958	Statue d'Athena
 6959	Michel
 6960	Or Test
 6961	Aline
@@ -6979,12 +6979,12 @@
 6978	Unfortunate tourism merchants
 6979	Unfortunate tourism merchants
 6980	Unfortunate tourism merchants
-6981	Statue of Athena
+6981	Statue d'Athena
 6982	Fat prisoner
 6983	Fat prisoner
 6984	Aiolia
 6985	Cab. Golden
-6986	Statue of Athena
+6986	Statue d'Athena
 6987	Tidis
 6988	Siren
 6989	Second arc _ forced movement NPC
@@ -7007,15 +7007,15 @@
 7006	Statue d'Athena
 7007	Quitter Donjon
 7008	Shina
-7009	Chevalier d'Argent
+7009	Chevalier Argent
 7010	Shina
-7011	Chevalier d'Argent
+7011	Chevalier Argent
 7012	Shina
-7013	Chevalier d'Argent
+7013	Chevalier Argent
 7014	Shina
-7015	Chevalier d'Argent
+7015	Chevalier Argent
 7016	Shina
-7017	Chevalier d'Argent
+7017	Chevalier Argent
 7018	Captain of the guard Sirius
 7019	Crisis 12 Houses
 7020	Merchant of the Sanctuaire
@@ -7027,13 +7027,13 @@
 7026	Watchmaker of the Sanctuaire
 7027	Ediacaran
 7028	Watchmaker of the Sanctuaire
-7029	Statue of Athena
+7029	Statue d'Athena
 7030	Ambassador of Résistance
 7031	Traveler Merchant
 7032	Royaume des Enfers
 7033	Nest of the Mariposa of the Royaume des Enfers_ leave NPC
-7034	Butterflies Infr.
-7035	Celina
+7034	Donjon Papillon
+7035	Celine
 7036	Butterflies Infr.
 7037	Bristol
 7038	Argent Whale Knight
@@ -7088,7 +7088,7 @@
 7087	Angel
 7088	Quitter Donjon
 7089	Angel
-7090	Infernal Sonata
+7090	Donjon Enfers
 7091	Oracle Angela
 7092	Apoc. Demonic
 7093	Oracle Angela
@@ -7265,7 +7265,7 @@
 7264	Elderly test
 7265	Elderly test
 7266	Training! Path of the gods
-7267	Awards Emissary
+7267	Gains Emissary
 7268	Birthday celebration
 7269	Tatsumi Tokumaru
 7270	Birthday celebration
@@ -7350,7 +7350,7 @@
 7349	Benefit
 7350	Researcher [Foundation]
 7351	Rec War San.
-7352	Statue of Athena
+7352	Statue d'Athena
 7353	Output
 7354	Weapons shed of the Sanctuaire
 7355	Traveler Trader
@@ -7371,8 +7371,8 @@
 7370	<Or Challenge>
 7371	Rebecca
 7372	<Or Challenge>
-7373	Leader of the Sirius Guard
-7374	Confl. 12 Houses
+7373	Chef de la garde Sirius
+7374	Donjon 12 Maison
 7375	Seven Pillars
 7376	Thetis
 7377	Seven Pillars
@@ -7433,7 +7433,7 @@
 7432	Sorrento de Sirena
 7433	Joey
 7434	Master came from the dawn
-7435	Statue of Athena
+7435	Statue d'Athena
 7436	Pietra
 7437	Ice Sanctuaire
 7438	Oracle
@@ -7475,7 +7475,7 @@
 7474	Teleportation of Athena
 7475	Shun
 7476	Andromede
-7477	Statue of Athena
+7477	Statue d'Athena
 7478	Shun
 7479	Andromede
 7480	The house of Pisces_First door
@@ -7483,7 +7483,7 @@
 7482	Ikki
 7483	Phoenix
 7484	Vierge's house - side door
-7485	Statue of Athena
+7485	Statue d'Athena
 7486	Or Armor of Vierge
 7487	House of Virgo_hability_Rest of treasures
 7488	Stone Lotus Gate
@@ -7623,7 +7623,7 @@
 7622	Valentine
 7623	Harpy
 7624	Zelos
-7625	Frog
+7625	Crapeau
 7626	Rhadamanthe
 7627	Wyvern
 7628	Seiya
@@ -8661,7 +8661,7 @@
 8660	Friendly
 8661	Respect
 8662	Estima
-8663	Sale of common Surplices
+8663	Sale of common Surplis
 8664	Common
 8665	Medium
 8666	Sale of Elixir
@@ -8678,7 +8678,7 @@
 8677	Materials
 8678	Elixir
 8679	Divorce
-8680	Divorce Requests
+8680	Divorce ReQuêtes
 8681	Store of predestined love
 8682	Point of predestined love
 8683	Marriage _ sale of articles for the celebration
@@ -8737,9 +8737,9 @@
 8736	[Guild] Vehicle Chimera of Thor!
 8737	Memories of Ikki
 8738	The seven official pillars of the ocean
-8739	Individual challenge instance zone
+8739	Individuel challenge instance zone
 8740	Lunar harvest festival! Deadly kick of the spectra
-8741	Festival of the Lunar harvest! Deadly kick of the specters - individual
+8741	Festival of the Lunar harvest! Deadly kick of the specters - Individuel
 8742	History Intermediate Level - The Twelve Houses
 8743	Weekly Guild 01 Royaume des Enfers 1
 8744	Weekly Guild 02 Royaume des Enfers 2
@@ -8832,7 +8832,7 @@
 8831	Holiday event_Navidad 2014
 8832	Celebration Event - Thanksgiving Day 2014
 8833	Festivity event_Tanabata
-8834	Festividade_Tanabata event (individual)
+8834	Festividade_Tanabata event (Individuel)
 8835	Holiday event_Fiesta junina_oración for the blessing of Saori
 8836	Holiday event_Fiesta Junina _oration for Saori's blessing - advanced level
 8837	Athena's holiday_rescue event on the National Day
@@ -9014,13 +9014,13 @@
 9013	Deliver NPC4 resources at the Guild base
 9014	Change of military resources NPC to Guild base
 9015	Conquest scale to receive NPC award to the Guild base
-9016	Scale of conquests to receive NPC accessories to the base of the Guild increase 1
-9017	Scale of conquests to receive NPC accessories to the base of the Guild increase 2
-9018	Scale of conquests to receive NPC accessories to the base of the Guild increase 3
+9016	Scale of conQuêtes to receive NPC accessories to the base of the Guild increase 1
+9017	Scale of conQuêtes to receive NPC accessories to the base of the Guild increase 2
+9018	Scale of conQuêtes to receive NPC accessories to the base of the Guild increase 3
 9019	Conquest scale to receive NPC accessories to the base of the Guild increase 4
 9020	Conquest scale to receive NPC accessories to the base of the Guild increase 5
-9021	Scale of conquests to receive NPC accessories to the base of the Guild increase 6
-9022	Scale of conquests to receive NPC accessories to the base of the Guild increase 7
+9021	Scale of conQuêtes to receive NPC accessories to the base of the Guild increase 6
+9022	Scale of conQuêtes to receive NPC accessories to the base of the Guild increase 7
 9023	Conquest scale to receive NPC accessories to the base of the Guild increase 8
 9024	Base update activities Corps and strange NPC missions
 9025	Guild Base Administrator
@@ -10087,10 +10087,10 @@
 10086	Twelve Houses 07-09_instance zone submission once only
 10087	Twelve Houses 10-12_instance zone submission once only
 10088	Gemeaux House Accept teleport mission from the instance zone
-10089	Casa de aries_Mu opens the illusion of Jamir
-10090	House of Aries_Mu crosses the phase
-10091	House of Aries_Armor nude
-10092	House of Aries_Kiki and the division of phases
+10089	Casa de Belier_Mu opens the illusion of Jamir
+10090	House of Belier_Mu crosses the phase
+10091	House of Belier_Armor nude
+10092	House of Belier_Kiki and the division of phases
 10093	Torre del Reloj_animation of the person in black
 10094	Zodiac_Peixes [Boss]
 10095	Zodiac_Capricórnio [Boss]
@@ -10125,7 +10125,7 @@
 10124	Elegy of the goddess_BOSS_The Earth star of darkness Niobe
 10125	Elegy of the Goddess_BOSS_Shion of Belier
 10126	Elegy of the Goddess_Kanon
-10127	Elegy of the goddess_Geminis_Geminis house
+10127	Elegy of the goddess_Gemeauxs_Gemeauxs house
 10128	Elegy of the Goddess_Saga
 10129	Elegy of the goddess_Hiperdimensión_Shura
 10130	Elegy of the Goddess_Hiperdimensión_Hyoga
@@ -10171,8 +10171,8 @@
 10170	Enter the NPC Instance Zone
 10171	Enter arc 3 against flow mission concession
 10172	Area of ​​the city 01 Sanctuaire 01 delegate [Sanctuaire]
-10173	Quests by Areas
-10174	Area of ​​the city 01 Galactic Tournament award of prestigious awards
+10173	Quêtes by Areas
+10174	Area of ​​the city 01 Galactic Tournament award of prestigious Gains
 10175	House of Balance cause fight
 10176	Point of return to the city Royaume des Enfers - Portal of Hell
 10177	Point of return to the city Royaume des Enfers - Hall of Antenora
@@ -10333,23 +10333,23 @@
 10332	Life_Studious
 10333	Vida_cantante traveling band
 10334	Change Or plate NPC grant mission
-10335	Individual Level ground 100-110 mission 05_capitan
-10336	Individual Level ground 100-110 mission 10_capitan
-10337	Individual Level ground 40-60 mission 11_capitan
-10338	Individual Ground level 40-60 mission 12_capitan
-10339	Individual Ground level 40-60 mission 21_capitan
-10340	Individual Ground level 40-60 mission 22_capitan
-10341	Individual Ground level 40-60 mission 31_capitan
+10335	Individuel Level ground 100-110 mission 05_capitan
+10336	Individuel Level ground 100-110 mission 10_capitan
+10337	Individuel Level ground 40-60 mission 11_capitan
+10338	Individuel Ground level 40-60 mission 12_capitan
+10339	Individuel Ground level 40-60 mission 21_capitan
+10340	Individuel Ground level 40-60 mission 22_capitan
+10341	Individuel Ground level 40-60 mission 31_capitan
 10342	Single Level ground 40-60 mission 32_capitan
-10343	Individual Level ground 40-60 mission 41_capitan
-10344	Individual Level ground 40-60 mission 42_capitan
-10345	Individual Level ground 60-100 mission 05
-10346	Individual Level ground 60-100 mission 10
-10347	Individual Level ground 60-100 mission 15
+10343	Individuel Level ground 40-60 mission 41_capitan
+10344	Individuel Level ground 40-60 mission 42_capitan
+10345	Individuel Level ground 60-100 mission 05
+10346	Individuel Level ground 60-100 mission 10
+10347	Individuel Level ground 60-100 mission 15
 10348	Single Level ground 60-100 mission 20
-10349	Individual Ground level 60-100 mission 25
-10350	Individual Ground level 60-100 mission 30
-10351	Individual Ground level 60-100 mission 35
+10349	Individuel Ground level 60-100 mission 25
+10350	Individuel Ground level 60-100 mission 30
+10351	Individuel Ground level 60-100 mission 35
 10352	Single Level ground 60-100 mission 40
 10353	Way of the Saints
 10354	The test of destiny
@@ -10366,7 +10366,7 @@
 10365	Elevated Sign - Mu de Belier
 10366	Elevated Sign - Mu de Belier 2
 10367	Elevated Sign - Mu de Belier 3
-10368	Sublimation of the constellation_Geminis de Oro of the first generation
+10368	Sublimation of the constellation_Gemeauxs de Oro of the first generation
 10369	Sublimation of the constellation_Piscis de Oro of the first generation
 10370	Sublimation of the constellation_Virgo de Oro of the first generation
 10371	Sublimation of the constellation_Libra de Oro of the first generation
@@ -10376,7 +10376,7 @@
 10375	Sublimation of the constellation_Capricornio de Oro of the first generation
 10376	Sublimation of the constellation_Aquario de Oro of the first generation
 10377	Sublimation of the constellation_Leo de Oro of the first generation
-10378	Sublimation of the constellation_Aries of Or of the first generation
+10378	Sublimation of the constellation_Belier of Or of the first generation
 10379	Sublimation of the Golden Age constellation of the first generation
 10380	Sublimation of the constellation_ obelisk test
 10381	Sublimation of the constellation_test of the obelisk 10
@@ -10479,7 +10479,7 @@
 10478	Galactic War_02 City of Argent in front of the doctor's cabin
 10479	Galactic War_06 City of Argent - hut - prophet waking up
 10480	Galactic War_07 Forest of Aokigahara prophet
-10481	Galactic War_08 Aokigahara forest villager
+10481	Galactic War_08 Forêt d'Aokigahara villager
 10482	Galactic War_09 Village de Campana villager
 10483	Galactic War_10 Village of Campana prophet
 10484	Guera Galatica_11 Ciudad de la Plata - after the doctor gathers medication
@@ -10957,8 +10957,8 @@
 10956	Fun_21 Viticulturist of the divine drop Sign 3 wine production4
 10957	Fun_22 Viticulturist of the divine drop Sign 3 wine production5
 10958	Fun_23 The disobedient knight panda Apprenti
-10959	Random individual recreation of the gourmand Saori distributed
-10960	Individual random recreation of distributed fun bet
+10959	Random Individuel recreation of the gourmand Saori distributed
+10960	Individuel random recreation of distributed fun bet
 10961	Fun Betting - Distributed Referee
 10962	Fun Betting - Distributed Prize
 10963	Bet betting fun on Ikki
@@ -10990,7 +10990,7 @@
 10989	Prize
 10990	Exchange of Articles
 10991	Exchange of Articles
-10992	Heritage Awards
+10992	Heritage Gains
 10993	Benefit
 10994	Reload Big Gift File 4 Change
 10995	Exchange of Articles
@@ -11004,8 +11004,8 @@
 11003	Article Exchange
 11004	Exchange of Articles
 11005	Article Exchange
-11006	Surplices and tools
-11007	Surplice and related
+11006	Surplis and tools
+11007	Surplis and related
 11008	Starlight
 11009	Fragments
 11010	Twelve Houses 1
@@ -11065,7 +11065,7 @@
 11064	Belier
 11065	Award Exchange
 11066	Change
-11067	Honor Awards
+11067	Honor Gains
 11068	Honor
 11069	Exchange of Articles
 11070	Article Exchange
@@ -11130,7 +11130,7 @@
 11129	Rel. Legendary
 11130	Relic 2
 11131	Divine Jade Troca 2
-11132	Galactic Tournament Awards
+11132	Galactic Tournament Gains
 11133	Flag of Glory
 11134	Galactic Arena
 11135	Article Exchange
@@ -11239,7 +11239,7 @@
 11238	Arc 3 Or Training
 11239	Test 1
 11240	Training! Path of the gods
-11241	Training! Path of the gods individual test
+11241	Training! Path of the gods Individuel test
 11242	Portable personal sand change
 11243	Test
 11244	Echange d'Articles
@@ -11405,22 +11405,22 @@
 11404	Invasion of the Advanced Royaume des Enfers - Sunday conclusion of the mission
 11405	Invasion of the snowman - Main events
 11406	Arc 3 Service of the abyss to complete mission.
-11407	Individual mission Level 100-110 only Dialogue 1
-11408	Individual mission Level 100-110 only Dialogue 2
-11409	Individual mission Level 60-100 only Dialogue 1
-11410	Individual mission Level 60-100 only Dialog 2
-11411	Individual Mission Only level 60-100 Dialogue 3
-11412	Individual Mission Only level 60-100 Dialogue 4
-11413	Individual Mission Only level 60-100 Dialogue 5
-11414	Individual Mission Only level 60-100 Dialogue 6
-11415	Individual Mission Only level 60-100 Dialogue 7
-11416	Individual Mission Only level 60-100 Dialogue 8
-11417	Individual Warehouse Mission Dialogue 1
-11418	Individual Warehouse Mission Dialogue 2
-11419	Individual Warehouse Mission Dialogue 3
-11420	Individual Warehouse Mission Dialogue 4
-11421	Individual Warehouse Mission Dialogue 5
-11422	Individual Warehouse Mission Dialogue 6
+11407	Individuel mission Level 100-110 only Dialogue 1
+11408	Individuel mission Level 100-110 only Dialogue 2
+11409	Individuel mission Level 60-100 only Dialogue 1
+11410	Individuel mission Level 60-100 only Dialog 2
+11411	Individuel Mission Only level 60-100 Dialogue 3
+11412	Individuel Mission Only level 60-100 Dialogue 4
+11413	Individuel Mission Only level 60-100 Dialogue 5
+11414	Individuel Mission Only level 60-100 Dialogue 6
+11415	Individuel Mission Only level 60-100 Dialogue 7
+11416	Individuel Mission Only level 60-100 Dialogue 8
+11417	Individuel Warehouse Mission Dialogue 1
+11418	Individuel Warehouse Mission Dialogue 2
+11419	Individuel Warehouse Mission Dialogue 3
+11420	Individuel Warehouse Mission Dialogue 4
+11421	Individuel Warehouse Mission Dialogue 5
+11422	Individuel Warehouse Mission Dialogue 6
 11423	Guild Foundation Summon Monsters NPC
 11424	Deliver NPC1 resources in the barracks
 11425	Deliver NPC2 resources in the barracks
@@ -12521,7 +12521,7 @@
 12520	Twelve Houses 04-06_mission of one time instance zone
 12521	Twelve Houses 07-09_instance zone submission once only
 12522	Twelve Houses 10-12_instance zone submission once only
-12523	House of Aries_Armor nude
+12523	House of Belier_Armor nude
 12524	Cave of the Wind - entangling mission - Kiki
 12525	Cave of the Wind_Guide of Instance Zone
 12526	City of Hedes_interior zone of mission instance completed
@@ -12692,7 +12692,7 @@
 12691	Life_Studious
 12692	Vida_cantante traveling band
 12693	Send Armor_Shipped of Golden Armor change benefit
-12694	Individual test of mission
+12694	Individuel test of mission
 12695	Global mission library
 12696	Legendary mission_Mu completed
 12697	Star Monument Preparation
@@ -12702,7 +12702,7 @@
 12701	Activity of the Grand Master_Receive in full double
 12702	Activity of the Grand Master_Capataz of the low level of complete Sanctuaire
 12703	Activity of the Grand Master_Capataz of the advanced level of the complete Sanctuaire
-12704	Sublimation of the constellation_Geminis de Oro of the first generation
+12704	Sublimation of the constellation_Gemeauxs de Oro of the first generation
 12705	Sublimation of the constellation_Piscis de Oro of the first generation
 12706	Sublimation of the constellation_Virgo de Oro of the first generation
 12707	Sublimation of the constellation_Libra de Oro of the first generation
@@ -12712,7 +12712,7 @@
 12711	Sublimation of the constellation_Capricornio de Oro of the first generation
 12712	Sublimation of the constellation_Aquario de Oro of the first generation
 12713	Sublimation of the constellation_Leo de Oro of the first generation
-12714	Sublimation of the constellation_Aries of Or of the first generation
+12714	Sublimation of the constellation_Belier of Or of the first generation
 12715	Sublimation of the constellation_Tauro de Oro of the first generation
 12716	Sublimation of the constellation_ obelisk test
 12717	Sublimation of the Constellation_Santuario de Athena
@@ -12809,7 +12809,7 @@
 12808	Galactic War_05 Ciudad de la Plata in front of the doctor's cabin
 12809	Galactic War_06 City of Argent - hut - prophet waking up
 12810	Galactic War_07 Forest of Aokigahara prophet
-12811	Galactic War_08 Aokigahara forest villager
+12811	Galactic War_08 Forêt d'Aokigahara villager
 12812	Galactic War_09 Village de Campana villager
 12813	Galactic War_10 Village de Campana prophet
 12814	Galactic War_11 Galactic War after the doctor picks up medication
@@ -13122,7 +13122,7 @@
 13121	Aphrodite _04 Frozen guard of the house of Poisson
 13122	complete military popularity mission
 13123	Holy war_complete Battle Camp check mission
-13124	Holy war_complete chaos battlefield mission
+13124	Holy war_complete Guerre des Cristaux mission
 13125	Complete Holy War Change Mission
 13126	Multi-server competition 10 complete mission in Realm
 13127	Multi-server competition 10 Full Realm entry

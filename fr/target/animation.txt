@@ -32,9 +32,9 @@
 31	Sanctuaire - Get the Prometheus hammer
 32	Sanctuaire - The fire clock ignites its flames
 33	Sanctuaire - The fire clock goes off
-34	Sanctuaire - The fire of the clock goes off_Aries
+34	Sanctuaire - The fire of the clock goes off_Belier
 35	Sanctuaire - The fire of the clock goes out_Tauro
-36	Sanctuaire - The fire of the clock goes out_Geminis
+36	Sanctuaire - The fire of the clock goes out_Gemeauxs
 37	Sanctuaire - The fire of the clock goes out_Cancer
 38	Sanctuaire - The fire of the clock goes out_Leo
 39	Sanctuaire - The fire of the clock goes off_Virgo
@@ -58,8 +58,8 @@
 57	Coliseum Grand - Saori's captivity
 58	Grand Coliseum - Mu saves everyone
 59	Coliseo Grand - Saori al campo
-60	Regional Exhibition - Grand Coliseum - Aokigahara Forest_Enter
-61	Regional Exhibition - Grand Coliseum - Aokigahara Forest_Exit
+60	Regional Exhibition - Grand Coliseum - Forêt d'Aokigahara_Enter
+61	Regional Exhibition - Grand Coliseum - Forêt d'Aokigahara_Exit
 62	Coliseum Grand - Saori burns its Cosmo
 63	Coliseum Grand - Memories of Hades
 64	Coliseum Grand - Seiya wears the armor
@@ -208,7 +208,7 @@
 207	Countercurrent - Appearance of Kiew
 208	Contracorriente - Appearance of Zelos
 209	Countercurrent - Emergence of Niobi
-210	The twelve Or houses - Casa de Aries_Mu arranges the armors
+210	The twelve Or houses - Casa de Belier_Mu arranges the armors
 211	The twelve Or houses - Saori hit by the arrow
 212	The twelve Or houses - Taureau _ The beginning of the battle
 213	The twelve Or houses - The titanic supernova of the Taureau knight

@@ -129,7 +129,7 @@
 128	^f2f3f2Dégât +500\rDefense +1000
 129	Insufficient Cosmo Energy 
 130	You don't have required amount of Cosmo Energy.
-131	Insufficient Rage, skill can not be used.
+131	Rage insuffisante, la compétence ne peut être utilisée.
 132	Lack of skill requirements, skill can not be used.
 133	Under control status. Skill can not be used
 134	This ability can not be used in the current transformation status.
@@ -153,7 +153,7 @@
 152	Can not be activated in combat.
 153	Even in combat, it can not be used
 154	Insufficient Diamond Dust
-155	Insufficient Rage
+155	Rage insuffisante
 156	Inadequate strength
 157	^O009Marcher / Courir
 158	^O009Cherche Cible
@@ -178,7 +178,7 @@
 177	^O009Meditation
 178	^O009When you use, you enter Prayer status.\rGANacia of EXP every 10 seconds.\rDon seconds you retrieve 60 HP and 20 Energy points.\rThe automatic movement will be interrupted
 179	^O009Chant of Glory
-180	^O009Necessary: ​​LV 20+\rAl enter the Glory Bath.\rCan 5 minutes receive EXP Reserve\rThe EXP gain varies according to the Power\rLimit of use of 8 hours per day.
+180	^O009Necessary: ​​LV 20+\rAl enter the Glory Bath.\rCan 5 minutes receive EXP Reserve\rThe EXP gain vBelier according to the Power\rLimit of use of 8 hours per day.
 181	^O009Monture volante
 182	^O009Necessary: ​​Flying Mount
 183	^O009Hide Players
@@ -188,7 +188,7 @@
 187	Items used canceled.
 188	Insufficient items
 189	Insufficient power, the item can not be used.
-190	Insufficient Rage, the item can not be used.
+190	Rage insuffisante, l'item ne peut être utilisé.
 191	Lack of necessary items, the item can not be used.
 192	Low control status. The item can not be used.
 193	The item can not be used during the transformation.
@@ -315,7 +315,7 @@
 314	Unavailable
 315	Weapon error
 316	Insufficient Stamina Index
-317	Insufficient Rage
+317	Rage insuffisante
 318	Insufficient rancor rating
 319	Energy 1 Insufficient
 320	Energy 2 Insufficient
@@ -653,8 +653,8 @@
 652	^O021^ffff00 punishment of the dawn goddess\r^O009^ffffff Set fixed attack value
 653	^O021^ffff00 Dance of the Rose\r^O009^ffffff Damage Absorption Cover
 654	^O021^ffff00 transformation\r^O009^ffffff blessing of the goddess
-655	^O021^ffff00Defender\r^O009 ^ffffffReduce the damage received by 80%
-656	^O021^ffff00Defender
+655	^O021^ffff00Defense\r^O009 ^ffffffReduce the damage received by 80%
+656	^O021^ffff00Defense
 657	^O021^ffff00 deflect\r^O009^ffffff dodge all attacks
 658	^O021^ffff00 to divert
 659	If interrupted successfully, 2.5 additional seconds will be dropped
@@ -796,7 +796,7 @@
 795	^O021 Completed task completion status
 796	^O021 Divert the completion status of the job
 797	^O021 Explosion
-798	^O021^ffff00 Source of Demon Blood ^f00ff ^ffffff feel fountain gushing blood from terrible, sustained life recovery recovery from magical energy. Toggle scenes effect disappears.
+798	^O021^ffff00 Source of Sang d'Enchant ^f00ff ^ffffff feel fountain gushing blood from terrible, sustained life recovery recovery from magical energy. Toggle scenes effect disappears.
 799	^O021^ffff00 Origin of Sang d'enchant
 800	How much luck out of luck? Really do not fall from the sky ...
 801	^O021^ffff00 Curse of the Box
@@ -847,24 +847,24 @@
 846	^O021^ffff00Gardien du Taureau ★★★★☆
 847	^O021^ffff00Gardien du Taureau ★★★★★\r^O009 ^ffffffWhen obtaining Taureau Protection, increase 10% attack
 848	^O021^ffff00Gardien du Taureau ★★★★★
-849	^O021^ffff00Gemini Guardian ★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 2% attack
-850	^O021^ffff00Gemini Guardian ★
-851	^O021^ffff00Gemini Guardian ★☆\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 3% attack
-852	^O021^ffff00Gemini Guardian ★☆
-853	^O021^ffff00Gemini Guardian ★★\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 4% attack
-854	^O021^ffff00Gemini Guardian ★★
-855	^O021^ffff00Gemini Guardian ★★☆\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 5% attack
-856	^O021^ffff00Gemini Guardian ★★☆
-857	^O021^ffff00Gemini Guardian ★★★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 6% attack
-858	^O021^ffff00Gemini Guardian ★★★
-859	^O021^ffff00Gemini Guardian ★★★☆\r^O009 ^ffffffWhen you get Gemeaux Protection, it increases 7% attack
-860	^O021^ffff00Gemini Guardian ★★★☆
-861	^O021^ffff00Gemini Guardian ★★★★\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 8% attack
-862	^O021^ffff00Gemini Guardian ★★★★
-863	^O021^ffff00Gemini Guardian ★★★★☆\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 9% attack
-864	^O021^ffff00Gemini Guardian ★★★★☆
-865	^O021^ffff00Gemini Guardian ★★★★★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 10% attack
-866	^O021^ffff00Gemini Guardian ★★★★★
+849	^O021^ffff00Gemeaux Guardian ★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 2% attack
+850	^O021^ffff00Gemeaux Guardian ★
+851	^O021^ffff00Gemeaux Guardian ★☆\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 3% attack
+852	^O021^ffff00Gemeaux Guardian ★☆
+853	^O021^ffff00Gemeaux Guardian ★★\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 4% attack
+854	^O021^ffff00Gemeaux Guardian ★★
+855	^O021^ffff00Gemeaux Guardian ★★☆\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 5% attack
+856	^O021^ffff00Gemeaux Guardian ★★☆
+857	^O021^ffff00Gemeaux Guardian ★★★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 6% attack
+858	^O021^ffff00Gemeaux Guardian ★★★
+859	^O021^ffff00Gemeaux Guardian ★★★☆\r^O009 ^ffffffWhen you get Gemeaux Protection, it increases 7% attack
+860	^O021^ffff00Gemeaux Guardian ★★★☆
+861	^O021^ffff00Gemeaux Guardian ★★★★\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 8% attack
+862	^O021^ffff00Gemeaux Guardian ★★★★
+863	^O021^ffff00Gemeaux Guardian ★★★★☆\r^O009 ^ffffffWhen Gemeaux Protection is obtained, it increases 9% attack
+864	^O021^ffff00Gemeaux Guardian ★★★★☆
+865	^O021^ffff00Gemeaux Guardian ★★★★★\r^O009 ^ffffffWhen obtaining Gemeaux Protection, it increases 10% attack
+866	^O021^ffff00Gemeaux Guardian ★★★★★
 867	^O021^ffff00Gardien du Cancer ★\r^O009 ^ffffffWhen you get Cancer Protection, it increases 2% attack
 868	^O021^ffff00Gardien du Cancer ★
 869	^O021^ffff00Gardien du Cancer ★☆\r^O009 ^ffffffWhen you get Cancer Protection, it increases 3% attack
@@ -1034,16 +1034,16 @@
 1033	^O021^ffff00 increase attack
 1034	^O021^ffff00 recover\r^O009^ffffff recover HP aos poucos
 1035	^O021Diafio da constelação solo 4
-1036	^O021desafio da constelação individual 5
+1036	^O021desafio da constelação Individuel 5
 1037	^O021^ffff00 duro\r^O009^ffffff increase in defense
-1038	^O021Diafio da constelação individual 7
-1039	^O021desafio da constelação individual 8
-1040	^O021^ffff00 challenge of individual constellation 10
-1041	^O021^ffff00 challenge of individual constellation 11
-1042	^O021^ffff00 challenge of individual constellation 12
-1043	^O021^ffff00 challenge of individual constellation 13
-1044	^O021^ffff00 challenge of individual constellation 14
-1045	^O021^ffff00 challenge of individual constellation 15
+1038	^O021Diafio da constelação Individuel 7
+1039	^O021desafio da constelação Individuel 8
+1040	^O021^ffff00 challenge of Individuel constellation 10
+1041	^O021^ffff00 challenge of Individuel constellation 11
+1042	^O021^ffff00 challenge of Individuel constellation 12
+1043	^O021^ffff00 challenge of Individuel constellation 13
+1044	^O021^ffff00 challenge of Individuel constellation 14
+1045	^O021^ffff00 challenge of Individuel constellation 15
 1046	^O021^ffff00 main line Mask da Morte buff
 1047	^O021^ffff00 Linha main protect Dohko
 1048	^O021^ffff00 cosmo de ouro\r^O009^ffffff fenced by a magic força
@@ -1062,7 +1062,7 @@
 1061	^O021 Ming almost lost - call after strange breathed
 1062	In this case, the current can not be used by the current.
 1063	^O021^ffff00 immobilized, silence
-1064	^O021^ffff00 individual constellation challenge 9 treatment effect
+1064	^O021^ffff00 Individuel constellation challenge 9 treatment effect
 1065	^O021 Diary of Saori
 1066	^O021^ffff00 Coliseum Grand qte little black snake
 1067	^O021^ffff00 Grand Coliseum divided by the ice coffin
@@ -2011,7 +2011,7 @@
 2010	Thunderbolt Throw-Throwing Thunder-Thunder, sustained severe DOT, DOT effect after 90% disappearance of its blood exceeding
 2011	^O021^ffff00 Thunder bite-pole
 2012	^O021^ffff00 violent thunder\r^O009^ffffff damages in 15%
-2013	^O021 graveyard turned Argent-special individual damage skills
+2013	^O021 graveyard turned Argent-special Individuel damage skills
 2014	^O021 cemetery disperse transfiguration
 2015	^O021^ffff00 strengthen
 2016	^O021^ffff00 intoxication\r^O009^ffffff damage sustained
@@ -2744,7 +2744,7 @@
 2743	^O021^ffff00 skill test items specified area\r^O009^ffffff been hit!
 2744	^O021^ffff00 items designated area skill test
 2745	^O021 territorial war count Siege offensive
-2746	^O021 vehicles territorial siege battle defender count
+2746	^O021 vehicles territorial siege battle Defense count
 2747	^O021^ffff00 fell\r^O009^ffffff coma ......
 2748	^O021 Tanabata_luster bonus
 2749	^O021 Tanabata - disperse pendant chandelier
@@ -3258,7 +3258,7 @@
 3257	^O021^ffff00 flake\r^O009^ffffff have enough snow, snow elves will be able to upgrade
 3258	^O021 Christmas_disperse logo update
 3259	^O021^ffff00 instantaneous - 2 crafting talent STATUS
-3260	^O021^ffff00 Aioros partner\r^O009^ffffff collect 30 floors Cosmic energy companions can find the sniper attendants receive awards, the team of only one person.Adolescent, efforts to collect Cosmo it!
+3260	^O021^ffff00 Aioros partner\r^O009^ffffff collect 30 floors Cosmic energy companions can find the sniper attendants receive Gains, the team of only one person.Adolescent, efforts to collect Cosmo it!
 3261	^O021^ffff00 partners Aioros
 3262	^O021 League of Extraordinary Knights_Save Physical
 3263	^O021 hidden chandelier shrine
@@ -3284,7 +3284,7 @@
 3283	^O021^ffff00 bright
 3284	The seal can not be sealed.
 3285	^O021^ffff00 overturned\r^O009^ffffff
-3286	^O021^ffff00 camp summon creatures_Aries Mu
+3286	^O021^ffff00 camp summon creatures_Belier Mu
 3287	^O021^ffff00 monster camp summon Haimabaian
 3288	^O021^ffff00 monster camp summon_Tiangui
 3289	^O021^ffff00 per day fierce star power of the shock chamber, reduced speed of motion.
@@ -3335,9 +3335,9 @@
 3334	^O021^ffff00GT landing reward\r^O009^ffffff life 1% increase in Dégât increased by 1%.
 3335	^O021^ffff00GT landing reward
 3336	^O021 attacking capture the side the flag
-3337	^O021 defender Capture the Flag
+3337	^O021 Defense Capture the Flag
 3338	^O021 Scatter Capture the Flag Chandelier
-3339	^O021^ffff00 Happy New Year\r^O009^ffffff surrounded by flowers, for the first time to obtain this status can be obtained awards oh ^_ ^
+3339	^O021^ffff00 Happy New Year\r^O009^ffffff surrounded by flowers, for the first time to obtain this status can be obtained Gains oh ^_ ^
 3340	^O021^ffff00 Happy New Year
 3341	^O0212014 beat you get a red envelope status
 3342	^O021 Chinese New Year_disperse transfiguration
@@ -3377,7 +3377,7 @@
 3376	^O021^ffff00 deceleration ^^O009 ffffff pump reached by the frost, the sharp rate of decline.
 3377	^O021 ^O009 ^ffff00 freezing ^ffffff bomb hit by frost, temporarily in a frozen. Your status can get rid of crushed ice by teammates.
 3378	^O021^ffff00 Disperse Freeze
-3379	^O021^ffff00 scam essence\r^O009^ffffff collected 20 essence trick stories can find a bottle of water attendants receive awards, the staff of only one person. Available^ffff00 deceive the true meaning of collection of crystals ^ffffff^ffffff^ffff00 ice frozen by rescue companions.
+3379	^O021^ffff00 scam essence\r^O009^ffffff collected 20 essence trick stories can find a bottle of water attendants receive Gains, the staff of only one person. Available^ffff00 deceive the true meaning of collection of crystals ^ffffff^ffffff^ffff00 ice frozen by rescue companions.
 3380	^O021^ffff00 essence trick
 3381	^O021^ffff00 absolute zero\r^O009^ffffff was Camus attack stroke, temporarily unable to move.
 3382	^O021^ffff00 rose roses\r^O009^ffffff accumulated roses, the greater the attack.
@@ -3867,12 +3867,12 @@
 3866	^O021^ffff00 slow flight
 3867	^O021^ffff00 flight deceleration\r^O009^ffffff your flight speed is reduced.
 3868	^O021 opera house _0 common trigger skills
-3869	^O021 Monthly Gemini_summon Pegase
-3870	^O021 Monthly Gemini_call Cygne
-3871	^O021 Monthly Gemini_call Denon
+3869	^O021 Monthly Gemeaux_summon Pegase
+3870	^O021 Monthly Gemeaux_call Cygne
+3871	^O021 Monthly Gemeaux_call Denon
 3872	^O021 Monthly Gemeaux - Summon Fairies
-3873	^O021 Monthly Gemini_call Phoenix
-3874	^O021 Monthly Gemini_draw Dragon
+3873	^O021 Monthly Gemeaux_call Phoenix
+3874	^O021 Monthly Gemeaux_draw Dragon
 3875	^O021^ffff00 light type\r^O009^ffffff dissipate good light barely obtained
 3876	^O021^ffff00 good light
 3877	^O021^ffff00 Gemeaux\r^O009^ffffff The power of the accumulated twin force, the greater the attack.
@@ -3936,7 +3936,7 @@
 3935	^O021^ffff00 Frozen man
 3936	^O021^ffff00 Steel man ^Iron ^Iron ^love him, and armed with steel from his body.
 3937	^O021^ffff00 Iron Man
-3938	^O021^ffff00 Dark Man\r^O009^ffffff who loves darkness, and darkness obscured by his adversaries.
+3938	^O021^ffff00 Dark Man\r^O009^ffffff who loves darkness, and darkness obscured by his adversBelier.
 3939	^O021^ffff00 Dark Man
 3940	^O021^ffff00 Man loads\r^O009^ffffff he can charge, and the cargo can help her with the companions.
 3941	^O021^ffff00 accused man
@@ -4239,7 +4239,7 @@
 4238	When the server reaches a more advanced process, Miracle Guild will receive a corresponding reinforcement
 4239	When the server reaches a more advanced process, Miracle Guild will receive a corresponding enhancement
 4240	^O021^ffff00 of dioxins 2 stealth skills
-4241	^O021^ffff00 Individual display test effect disadvantages
+4241	^O021^ffff00 Individuel display test effect disadvantages
 4242	^O021^ffff00 collected cold\r^O009^ffffff short period of time can not be frozen.
 4243	^O021^ffff00 collected cold
 4244	^O021^ffff00 not afraid of cold weather\r^O009^ffffff, without fear of the cold.
@@ -4390,7 +4390,7 @@
 4389	^O021^ffff00 with this chandelier can more dead more powerful\r^O009^ffffff With this chandelier can be more dead to more serious
 4390	^O021^ffff00 with this chandelier can be more powerful than the dead
 4391	^O021^ffff00 Yuecuoyueyong prizes\r^O009^ffffff Ares guidelines, the more times you hit your death will become the
-4392	^O021^ffff00 Yuecuoyueyong awards
+4392	^O021^ffff00 Yuecuoyueyong Gains
 4393	^O021^ffff00 despite\r^O009^ffffff successfully kill its Yuecuoyueyong reduction stack
 4394	^O021^ffff00 to vent their anger
 4395	^O021^ffff00Bendition of the Goddess ^O009 ^ffffffThe blessing of the goddess strengthens you.
@@ -4782,7 +4782,7 @@
 4781	^O021 wisdom Five ^O009 has the probability of calling the domain of art and the sea raise the abnormal status of immunity, to restore a little life.
 4782	^O021^ffff00 Sea Prince scales passive traces strange clothes _
 4783	^O021^ffff002014 Christmas Save a copy of the strange blood deceleration
-4784	^O0212014 Christmas Save a copy of the defender's blood
+4784	^O0212014 Christmas Save a copy of the Defense's blood
 4785	^O021^ffff00 Sea Prince scales clothes_strange abilities repelled by blood
 4786	^O021^ffff00 wisdom Five\r^O009^ffffff less damage with
 4787	^O0212014 Christmas Save a copy of the attacking team Cape strange blood
@@ -6354,7 +6354,7 @@
 6353	^O021^ffff00 Wind Sheet
 6354	^O021^ffff00 Wind Awakening Increases Wind Elemental Attack
 6355	^O021^ffff00 Wake of the Wind
-6356	^O021^ffff00Aries\r^O009 ^ffffffAffield of increased damage
+6356	^O021^ffff00Belier\r^O009 ^ffffffAffield of increased damage
 6357	^O021^ffff00Justice of Belier
 6358	^O021Tornado has dispersion of abilities
 6359	^O021Turning skills second time around
@@ -7231,7 +7231,7 @@
 7230	transfiguration Or
 7231	Or Turned - Skill 1
 7232	Or turned - Skills 2
-7233	Defender
+7233	Defense
 7234	Stamina cost per second under block condition: 30
 7235	We need to continue to press the Q key or the right mouse button to launch the point under the skills abilities expressed shortcut keys can change the system settings
 7236	Enter Status to reduce damage block 80 %%
@@ -7459,7 +7459,7 @@
 7458	Requires at least 25%% Offensive Nature.\rConsumes all the Offensive Nature.
 7459	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Dégât Elec: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 7460	Additional Damage: %d\rBonus Dégât Elec: %d\rDamage: %d %%
-7461	Attacks the target violently with the chains.\rThe damage of the ability varies according to the Offensive Nature stored in the bar and reaches 300%% when the bar is complete. Under these conditions, Andromede will be temporarily immune to control effects.\rSkill animation changes according to the shape of the target.
+7461	Attacks the target violently with the chains.\rThe damage of the ability vBelier according to the Offensive Nature stored in the bar and reaches 300%% when the bar is complete. Under these conditions, Andromede will be temporarily immune to control effects.\rSkill animation changes according to the shape of the target.
 7462	Increases damage caused by 20 %%.
 7463	When Offensive Nature is above 80%%, the action can be switched to a chain attack, which can immediately cause the main target to float.
 7464	10%% chance to activate Fiery Chain status: your next skill does not cost Offensive Nature. Offensive nature skills acts as there is full Offensive Nature.
@@ -7866,7 +7866,7 @@
 7865	Black Andromede Chain
 7866	Black Nebula Storm
 7867	Impact of Gemeaux
-7868	Kanon's General Individual Attack
+7868	Kanon's General Individuel Attack
 7869	Another Handle
 7870	Kanon's attack ability can cause large damage in a circular area.
 7871	Declaration of Death
@@ -7913,7 +7913,7 @@
 7912	The freezing time of ^c0c0ff[%s]^FFFF00 increases by 3s and its cooldown is reduced by 15s. * Exclusive sign's ability: ^00FF00 %s Cygne ^FFFF00
 7913	^c0c0ff Required Reticle Armature LV.3 ^A2FFFF
 7914	Frost Cycle
-7915	After using the ^c0c0ff[%s]^FFFF00, the following ability has its Diamond Dust cost reduced by 50%% over the next 8s. * Exclusive sign ability: ^00FF00 %s Cygne ^FFFF00
+7915	Après utilisation the ^c0c0ff[%s]^FFFF00, the following ability has its Diamond Dust cost reduced by 50%% over the next 8s. * Exclusive sign ability: ^00FF00 %s Cygne ^FFFF00
 7916	^c0c0ff Needed Cygne Armor LV.16 ^A2FFFF
 7917	Cold Wall
 7918	Whenever you use the invocation ability, a Cold Wall is created around it, defending it from the next damage. The barrier has a duration of 60s after its creation, and can not surpass it.\rThe exclusive ability of the Sign of: ^00FF00 %s Cygne ^FFFF00
@@ -8914,7 +8914,7 @@
 8913	judgment of the dawn
 8914	Long range attacks verified radius 3 meters from the area, causing additional damage attack: %d Bonus Dégât Eau: %ddos %d%% damage caused by the exclusive Fighting Spirit Guardian Constellation: ^00FF00 %s Cygne ^FFFF00
 8915	dancing
-8916	After using the dance start
+8916	Après utilisation the dance start
 8917	%d%% damage caused by the target deceleration of 4 m/s for 6 seconds.
 8918	Plenty of damage on target
 8919	Damage incurred per second damage %d%% under each enemy once again suffer damage, damage increased 8 %%, stacks up the release stack 10 immune system control skills and reduce damage by 50 %%
@@ -9010,7 +9010,7 @@
 9009	\t ^c0c0ff [piano blessing] ^FFFF00 AOLU Fei harp falls so its owner damage increased by 60%% to 10 sec ^c0c0ff [Guardian piano] ^FFFF00 AOLU Fei harp region next generation of a radius of 6 meters , the owner of the region and his teammates injured reduce 80%% value effect \t artifact trigger probability associated with the divine.
 9010	Achieve harp blessings AOLU Fei after use, the fight provoked probability ^c0c0ff [piano blessing] ^A2FFFF or ^c0c0ff [piano Guardian] ^A2FFFF effect
 9011	\t ^c0c0ff [Shield blessing] ^FFFF00 Medusa Shield will succeed his master attacks ignore defense for 10 s ^c0c0ff [Guardian Shield] ^FFFF00 Medusa Shield comes to allow an attacker's target was the owner of the Petrifaction, reducing 80%% wounded , attacked five times after the disappearance of the status, with the effect of deregulation (being ruled by the number of attacks will consume) trigger \t effect artifact probability trigger value associated with the divine.
-9012	After using the blessings obtained Medusa's shield, the probability trigger battle ^c0c0ff [Blessing Shield] ^A2FFFF or ^c0c0ff [Guardian Shield] ^A2FFFF effect
+9012	Après utilisation the blessings obtained Medusa's shield, the probability trigger battle ^c0c0ff [Blessing Shield] ^A2FFFF or ^c0c0ff [Guardian Shield] ^A2FFFF effect
 9013	Sting
 9014	powerful blow, can make people immediately fatal.
 9015	Dark Blaster Warning
@@ -9066,43 +9066,43 @@
 9065	^c0c0ff Needs Survival LV.16 of Harpy ^A2FFFF
 9066	Renovation
 9067	Whenever a player dies by the ability ^c0c0ff[%s]^FFFF00 their cooldown is cleared. When Pegase uses that ability, he is immune to control. The signature's exclusive ability: ^00FF00 %s Pegase ^FFFF00
-9068	^c0c0ffNeedary Harp Surplice LV.24 ^A2FFFF
+9068	^c0c0ffNeedary Harp Surplis LV.24 ^A2FFFF
 9069	Golden Frost
 9070	When using ^c0c0ff[%s]^FFFF00the next target attacks will be amplified\r^00FF00Number of attacks: 5 ^FFFF00\rIncrease damage: 30%%\rDuration: 6s \rThe signature's exclusive ability: %s Cygne ^FFFF00
 9071	^c0c0ffNo.10 Surrogate Balrog ^A2FFFF
 9072	Aurora Explosion
 9073	When the current HP is 40%% or less, the abilities ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 will have their cooldown is cleared ^FFFF00cooldown: 30s Sign of: ^00FF00 %s Cygne ^FFFF00
-9074	^c0c0ff Needed LV.24 of Balrog Surplice ^A2FFFF
+9074	^c0c0ff Needed LV.24 of Balrog Surplis ^A2FFFF
 9075	Debilitating Air
 9076	Using ^c0c0ff[%s]^FFFF00y freezing the enemy, it can not be cured or healed. * Exclusive sign ability: ^00FF00 %s Cygne ^FFFF00
-9077	^c0c0ff Needed LV.16 of Balrog Surplice ^A2FFFF
+9077	^c0c0ff Needed LV.16 of Balrog Surplis ^A2FFFF
 9078	Damocles
 9079	When the current HP of the target is less than 50 %%, it will be more time knocked down by ^c0c0ff[%s]^FFFF00 The lower the life, the greater the time taken down in the ground\rExtra maximum time: 3s \rof the Sign of: ^00FF00 %s Dragon ^FFFF00
-9080	^c0c0ffNeedon Surplice LV.24 ^A2FFFF
+9080	^c0c0ffNeedon Surplis LV.24 ^A2FFFF
 9081	Dragon Zone
 9082	^FFFF00In the skill ^c0c0ff[%s]^FFFF00 Dragon and his nearby allies have their anomalous Status Résistances increased by 20 points [%s] ^FFFF00 has its cooldown reduced by 30s Sign of: ^00FF00 %s Dragon ^FFFF00
 9083	^c0c0ffNequisite Survice LV.16 of Acheron ^A2FFFF
 9084	Affliction
 9085	^c0c0ff[%s]^FFFF00 prevents cure. This effect also occurs when ^c0c0ff[%s]^FFFF00 is used during the ability ^c0c0ff [Alma Flame. of the Dragon]\r^FFFF00 Sign exclusive ability: ^00FF00 %s Dragon ^FFFF00
-9086	^c0c0ffNumber 10 of Acheron Surplice ^A2FFFF
+9086	^c0c0ffNumber 10 of Acheron Surplis ^A2FFFF
 9087	Holy Lotus
 9088	If the target of ^c0c0ff[%s]^FFFF00 is with HP less than 50%% you will receive 30%% damage reduction Exclusive Signability: ^00FF00 %s Andromede ^FFFF00
 9089	^c0c0ffNeed Survice LV.10 of Aldebaran ^A2FFFF
 9090	Chaotic Wind
 9091	If the Domain bar is at 80%% ^c0c0ff[%s]^FFFF00 will remove the target from the ground, preventing him from using abilities, even if the skill animation has altered\rThe Exclusive Sign of: ^00FF00 %s Andromede ^FFFF00
-9092	^c0c0ffNeedario LV.24 de Surplice de Aldebaran ^A2FFFF
+9092	^c0c0ffNeedario LV.24 de Surplis de Aldebaran ^A2FFFF
 9093	Divine Fury
 9094	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 Increase the value of the Shenwei field by 80%% per time. Soul exclusive guardian constellation: ^00FF00%s Andromede ^FFFF00
 9095	^c0c0ff Needs Survival LV.16 of Aldebaran ^A2FFFF
 9096	Sovereignty
 9097	^c0c0ff[%s]^FFFF00 activates Fury status in Phoenix \t ^00FF00Fury ^FFFF00\r^c0c0ff[%s]^FFFF00 has damage increased by 150%% and its cooldown reduced by 3s\rHability Sign exclusive of: ^00FF00 %s Phoenix ^FFFF00
-9098	^c0c0ffNo.16 Needles of Basilisk Surplice ^A2FFFF
+9098	^c0c0ffNo.16 Needles of Basilisk Surplis ^A2FFFF
 9099	Black Hole
 9100	The cooldown of ^c0c0ff[%s]^FFFF00 becomes 30s and the Black Hole status is applied to the target \t ^00FF00 Black Hole ^FFFF00 \rBlack Hole affected enemies will suffer adsorption\rDuration: 6sHow Sign exclusive of: ^00FF00 %s Phoenix ^FFFF00
 9101	^c0c0ffNonetary Basil Grote LV.24 ^A2FFFF
 9102	Infernal Phoenix
 9103	^c0c0ff[%s]^FFFF00 causes Phoenix ​​and its Allies to recover 5%% of their maximum HP instantly and over 1%% every second. If the target is less than 50%% of its maximum HP, the recovery is increased by 50%%\rDuration: 20s\rExclusive Sign Enhancement of: ^00FF00 %s Phoenix ^FFFF00
-9104	^c0c0ffNo.10 Basilisk Surplice ^A2FFFF
+9104	^c0c0ffNo.10 Basilisk Surplis ^A2FFFF
 9105	You can temporarily increase the speed of movement
 9106	stars come together
 9107	Temporarily provisionally approved Aioros force, the Cosmo of energy to the side of the traction stack need to accumulate 10 small sniper cosmic energy to use.
@@ -9177,7 +9177,7 @@
 9176	released
 9177	Come on, Shura sword
 9178	\t ^c0c0ff [Blade Sword] ^FFFF00 sword comes, the owner of the target attacks launched attacks against targets and around six meters radius many damage, while his companion within 6 m of the owner and the surrounding damage increase of 50%% damage %d%% ^c0c0ff [Seiken bless] ^FFFF00 master of the sword comes so hurt by 80%% for 12 seconds, deregulation trigger incidental probability value effect \t artifact trigger effect associated with the divine.
-9179	Get after using sword blessing, fighting probability trigger ^c0c0ff [Blade Sword] ^A2FFFF or ^c0c0ff [Blessing Seiken] ^A2FFFF effect
+9179	Get Après utilisation sword blessing, fighting probability trigger ^c0c0ff [Blade Sword] ^A2FFFF or ^c0c0ff [Blessing Seiken] ^A2FFFF effect
 9180	Come on! Verseau Camus
 9181	\t ^c0c0ff [Discipline of Aurora] ^FFFF00Aquarius Advent, the attack on the target host to launch attacks on targets and around six meters radius caused a lot of damage, so that the target is frozen for 4 seconds At the same time around the enemy target will have cold diffusion effect, the enemy with cold diffusion effect in or near each other near the main target is frozen, will be overlaid cold status, which will be frozen when overlapped on the 5th floor. caused by cold diffusion for 10 seconds dano %d%% ^c0c0ff [goddess dawn blesses] ^FFFF00 bottle will attack the owner of the goal is frozen four seconds, while the owner reduced by 80%% wounded, attacked 10 times, when the disappearance of status for up to 12 seconds, with the effect of deregulation (being governed by the number of attacks will consume) trigger probability value \t artifact trigger effect associated with the divine.
 9182	Get the blessings of the dawn goddess after use, the fight provoked probability ^c0c0ff [Discipline of Aurora] ^A2FFFF or ^c0c0ff [goddess dawn blesses] ^A2FFFF effect
@@ -9321,7 +9321,7 @@
 9320	Dragon des Mers Katha
 9321	Come on! Golden Arrow
 9322	\t ^c0c0ff [goddess damage] ^FFFF00Aioros Archer crashed, the host attack target attack on the target and around 6 m radius caused a lot of damage, the target is shot after being repelled 5 yards while wonderful products physical changes, can not move, this period can not be life skills responses to 4 seconds. Damage %d%% ^c0c0ff [Bless arrow] ^FFFF00Aioros Archers will attack the owner of the target hit in flight and dropped two seconds while the owner reduced by 80%% wounded, attacked 10 times, when the status disappears for up to 12 seconds , with the effect of deregulation (being squalor by the number of attacks will consume) \t effect artifact trigger value trigger trigger associated with the divine.
-9323	After using bows and arrows to get the blessing of the Aioros, fighting probability trigger ^c0c0ff [goddess damage] ^A2FFFF or ^c0c0ff [Arrow blessing] ^A2FFFF effect
+9323	Après utilisation bows and arrows to get the blessing of the Aioros, fighting probability trigger ^c0c0ff [goddess damage] ^A2FFFF or ^c0c0ff [Arrow blessing] ^A2FFFF effect
 9324	Hate
 9325	Gradually moves the pointer in the direction of the Demon's Personality.\rCharging the skill shifts the pointer immediately to the end of the bar, this effect can only be used once every 30s.\rThe charged attack can knock down the enemy, but each enemy only will be knocked down once every 10s.
 9326	Applies the status ^c0c0ff [Extract Life] ^FFFF00 that you can accumulate up to 5x. Each accumulation causes %d of damage per second, during 6s\rAdditional Dégât: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rMinimum damage: {^FFABFC %d%% ^FFFF00}\rIf the attack is charged for 1s, damage increases by 50 %%
@@ -9339,10 +9339,10 @@
 9338	There is %s extra probability of increasing a <Good Explosion> / <Evil Explosion>
 9339	Tsunami Nebula
 9340	The effect of the ability changes according to the current Personality. This ability consumes all of the Demon Personality points.
-9341	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00 ^FFFF00 HP recovery: {^FFABFC %d ^FFFF00}\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases {^FFABFC %d ^FFFF00} Precision\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemini Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemini Advanced ^FFFF00\rIncreases damage by 10 %%
-9342	Additional Damage: %d\rBonus Dégât Eau: %d\rMinimum Damage: %d%%\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: %d\rBonus Dégât Eau: %d\rDamage: %d%%\r\t ^00FF00 ^FFFF00 HP recovery: %d\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases %d Precision\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemini Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemini Advanced ^FFFF00\rIncreases damage by 10 %%
+9341	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00 ^FFFF00 HP recovery: {^FFABFC %d ^FFFF00}\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases {^FFABFC %d ^FFFF00} Precision\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemeaux Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemeaux Advanced ^FFFF00\rIncreases damage by 10 %%
+9342	Additional Damage: %d\rBonus Dégât Eau: %d\rMinimum Damage: %d%%\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: %d\rBonus Dégât Eau: %d\rDamage: %d%%\r\t ^00FF00 ^FFFF00 HP recovery: %d\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases %d Precision\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemeaux Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemeaux Advanced ^FFFF00\rIncreases damage by 10 %%
 9343	Causes damage to target and enemies around\r^00FF00 Demon personality ^A2FFFF\rThe damage increases according to the pointer position\rEach of the first three points increases the damage by 20%%\rThe fourth point increases damage in 40%% Area Two Evil Explosions Near Target\rCrea An Explosion of Good Near Each Other\r^00FF00Good state^A2FFFF\rSummon 2 crystals of goodness around yourself\rSummons a Crystal of Evil at the target location\rWhen the Crystal of Evil explodes, it will deal damage to enemies within 5 meters. ^c0c0ff [Star Fury] ^A2FFFF for 15s * Explosions of Good heal allies within a 15m radius and cure increases by 25%% for each point in Personality of Santo.
-9344	Petrificate the target. The time varies according to the position of the pointer in the Demon Personality. Each Demon Personality point equals 0.75s. Limit of 3s of petrification. This effect occurs once every 30s.
+9344	Petrificate the target. The time vBelier according to the position of the pointer in the Demon Personality. Each Demon Personality point equals 0.75s. Limit of 3s of petrification. This effect occurs once every 30s.
 9345	Reduces cooldown time by 2s.
 9346	Star Explosion
 9347	Gradually consume two points of Demon Personality.
@@ -9367,7 +9367,7 @@
 9366	Attacks the target violently.\rThe damage increased by 20%% for 20s\rAll clones created by Distortion will aid in the attack and disappear immediately. Clones created with Distortion in Demon Personality will cause Extra damage. Clones created with Distortion in Holy Personality will trap the enemy for 5s. The points in Demon Personality will influence damage.\rEach of the first three points increases 20%% of damage.\rThe fourth point increases damage by 40 %%.
 9367	Probability of 35%% invoking a clone that assists in the ability (causes 50%% damage) and then disappears.
 9368	Fist of Illusion
-9369	Consumes all Holy or Demon Personality points. The effect of the skill varies according to the current Personality.
+9369	Consumes all Holy or Demon Personality points. The effect of the skill vBelier according to the current Personality.
 9370	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r^c0c0ffAttack, push or confuse enemies in straight line. The effect changes according to the current Personality\r\t ^c0c0ff\r[Or Explosion] ^FFFF00 becomes ^fff962 [Dimensional Fist] ^FFFF00
 9371	Additional Damage: %d\rBonus Dégât Eau: %d\rDamage: %d%%\r^c0c0ffAttack, push or confuse enemies in a straight line. The effect changes according to the current Personality\r\t ^c0c0ff\r[Or Explosion] ^FFFF00 becomes ^fff962 [Dimensional Fist] ^FFFF00
 9372	Attacks the target violently\r^00FF00Evil State ^A2FFFF\rThe damage increases according to the points of Personality\rEach of the first three points increases the damage by 20%%\rThe fourth point increases the damage by 40%%\rRepeal the target by 8 meters\r^00FF00Good State ^A2FFFF\rThe target will be confused for 4s
@@ -9454,7 +9454,7 @@
 9453	^c0c0ff Required Armor of P. Sword ^A2FFFF
 9454	Predominance
 9455	The cooldown of ^c0c0ff[%s]^FFFF00 is reduced by 8s\rExclusive Signability of: ^00FF00 %s Dragon des Mers ^FFFF00
-9456	^c0c0ffNeedsario LV. 10 of Sphinx Surplice ^A2FFFF
+9456	^c0c0ffNeedsario LV. 10 of Sphinx Surplis ^A2FFFF
 9457	Universe
 9458	Reduces cooldown of ^c0c0ff[%s]^FFFF00 in 2s Exclusive Signability of: ^00FF00 %s Dragon of the Sea ^FFFF00
 9459	^c0c0ff Required Armor of P. Sword ^A2FFFF
@@ -9486,7 +9486,7 @@
 9485	^c0c0ffNumber of Armor of P. Sword ^A2FFFF
 9486	Bulk
 9487	^c0c0ff[%s]^FFFF00 invokes an exclusive clone of the Sign of: ^00FF00 %s Dragon of the Sea ^FFFF00
-9488	^c0c0ffNeedsario LV. 16 of Sphinx Surplice ^A2FFFF
+9488	^c0c0ffNeedsario LV. 16 of Sphinx Surplis ^A2FFFF
 9489	Master Shield
 9490	Reduces damage taken by 80 %%, can be used on allies\rDuration: 6s\rExclusive Sign-off ability: ^00FF00 %s Dragon of the Sea ^FFFF00
 9491	^c0c0ffNeedsario LV. 24 of Atrium Armor ^A2FFFF
@@ -9498,13 +9498,13 @@
 9497	^c0c0ffNature of Ghost Armor LV.16 ^A2FFFF
 9498	Sovereign Sea
 9499	If the HP is less than 50%% the status ^00FF00Mar Sovereign ^FFFF00 is activated, increasing the damage done by 20%% Exclusive Sign ability: ^00FF00 %s Dragon of the Sea ^FFFF00
-9500	^c0c0ffNeedsario LV. 24 of the Sphinx Surplice ^A2FFFF
+9500	^c0c0ffNeedsario LV. 24 of the Sphinx Surplis ^A2FFFF
 9501	Petrifaction
 9502	^c0c0ff[%s]^FFFF00 causes petrification and its duration changes according to the number of layers of ^00FF00Drenar Life ^FFFF00\rPrestige minimum: 1s\rPetrification: 4s \cooldown: 30s\rCan not be used with the Holy Personality of the Sign of: ^00FF00 %s Dragon of the Sea ^FFFF00
 9503	^c0c0ffNeeds Ghost Armor LV.10 ^A2FFFF
 9504	Voracious Soul
-9505	The Blast of Evil will add to the enemy the effect ^00FF00Drenar Vida ^FFFF00. It can accumulate up to 5x accumulation year: {^FFABFC %d ^FFFF00}\rDuration: 6s\rThe damage of the skill varies according to Power and attack\rThe exclusive ability of the sign: ^00FF00 %s Dragon des Mers ^FFFF00
-9506	The Evil Explosion will add to the enemy the effect ^00FF00Drenar Vida ^FFFF00. It can accumulate up to 5x accumulation year: %d\rDuration: 6s\rThe ability damage varies according to power and attack\rThe exclusive ability of the sign: ^00FF00 %s Dragon of the Sea ^FFFF00
+9505	The Blast of Evil will add to the enemy the effect ^00FF00Drenar Vida ^FFFF00. It can accumulate up to 5x accumulation year: {^FFABFC %d ^FFFF00}\rDuration: 6s\rThe damage of the skill vBelier according to Power and attack\rThe exclusive ability of the sign: ^00FF00 %s Dragon des Mers ^FFFF00
+9506	The Evil Explosion will add to the enemy the effect ^00FF00Drenar Vida ^FFFF00. It can accumulate up to 5x accumulation year: %d\rDuration: 6s\rThe ability damage vBelier according to power and attack\rThe exclusive ability of the sign: ^00FF00 %s Dragon of the Sea ^FFFF00
 9507	^c0c0ffNeedings of Ecaille of the Sea ^A2FFFF
 9508	Pressure
 9509	The Blast of Evil will add to the enemy the effect ^00FF00Impediment of the Dragon des Mers ^FFFF00. It can overlap up to 4 stacks, each stack reduces velocity by 0.5 m/s and damage reduction by 4%% for 10s * Exclusive ability of the sign: ^00FF00 %s Dragon of the Sea ^FFFF00
@@ -9594,8 +9594,8 @@
 9593	So less than 15 meters of his companions respond immediately to a large number of lives, and to obtain an optical effect of recovery slowly regenerate health
 9594	^fff962Aiolia Aid
 9595	^fff962Leo Advanced
-9596	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Fire Age: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Aiolia Protection ^FFFF00\rIncrease damage reduction by 40%%\rInstant Stamina recovery: %d\rDuration: 5s\rYou can also use it when you are: stunned, knocked down, floating and silenced.\r\t ^00FF00Leo Advanced ^FFFF00\rAfter being released, it enters the status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s after using that status, it can not be used again. ^00FF00Gold Explosion ^FFFF00\r^c0c0ff [Phoenix Illusion ]^FFFF00 to be ^c0c0ff [^fff962 Caught by Lion] ^FFFF00\r^c0c0ff [Phoenix Fury] ^FFFF00 to be ^c0c0ff [^fff962 Fury of Lion] ^FFFF00\r^c0c0ff [Shadow Strike]^FFFF00 to be ^c0c0ff [^fff962 Shadow of Lion] ^FFFF00
-9597	Additional Damage: %d\rAdditional Fire Age: %d\r Minimum Damage: %d%%\r\t ^00FF00Aiolia Protection ^FFFF00\rIncreases damage reduction by 40%%\rInstant Stamina recovery: %d\rDuration: 5s\rYou can also use it when you are: stunned, knocked down, floating and silenced.\r\t ^00FF00Leo Advanced ^FFFF00\rAfter being freed, enter the status of ^c0c0ff [Or Explosion]^FFFF00\rIn 30s after using that status, it can not be used again. ^00FF00 Or Explosion ^FFFF00\r^c0c0ff [Phoenix Illusion] ^FFFF00s to be ^c0c0ff [^fff962 Lion Chase] ^FFFF00\rFFFF00 to be ^c0c0ff [^fff962 Fury of Lion] ^FFFF00\r^c0c0ff [Shadow Strike] ^FFFF00 to be ^c0c0ff [^fff962 Shadow of Lion] ^FFFF00
+9596	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Fire Age: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Aiolia Protection ^FFFF00\rIncrease damage reduction by 40%%\rInstant Stamina recovery: %d\rDuration: 5s\rYou can also use it when you are: stunned, knocked down, floating and silenced.\r\t ^00FF00Leo Advanced ^FFFF00\rAfter being released, it enters the status of ^c0c0ff [Or Explosion] ^FFFF00\rIn 30s Après utilisation that status, it can not be used again. ^00FF00Gold Explosion ^FFFF00\r^c0c0ff [Phoenix Illusion ]^FFFF00 to be ^c0c0ff [^fff962 Caught by Lion] ^FFFF00\r^c0c0ff [Phoenix Fury] ^FFFF00 to be ^c0c0ff [^fff962 Fury of Lion] ^FFFF00\r^c0c0ff [Shadow Strike]^FFFF00 to be ^c0c0ff [^fff962 Shadow of Lion] ^FFFF00
+9597	Additional Damage: %d\rAdditional Fire Age: %d\r Minimum Damage: %d%%\r\t ^00FF00Aiolia Protection ^FFFF00\rIncreases damage reduction by 40%%\rInstant Stamina recovery: %d\rDuration: 5s\rYou can also use it when you are: stunned, knocked down, floating and silenced.\r\t ^00FF00Leo Advanced ^FFFF00\rAfter being freed, enter the status of ^c0c0ff [Or Explosion]^FFFF00\rIn 30s Après utilisation that status, it can not be used again. ^00FF00 Or Explosion ^FFFF00\r^c0c0ff [Phoenix Illusion] ^FFFF00s to be ^c0c0ff [^fff962 Lion Chase] ^FFFF00\rFFFF00 to be ^c0c0ff [^fff962 Fury of Lion] ^FFFF00\r^c0c0ff [Shadow Strike] ^FFFF00 to be ^c0c0ff [^fff962 Shadow of Lion] ^FFFF00
 9598	Activates Aiolia Protection status, perfecting Phoenix's basic skills.
 9599	The protection of Aiolia recovers as extra, 30 points of Stamina.
 9600	^fff962 Might of Lion
@@ -9748,12 +9748,12 @@
 9747	Free Control Invincible
 9748	After opening the invincible control switch free skills
 9749	Off the war
-9750	After using the Clean Hate Monster immediately clear from his hatred to complete required six seconds out of the war.
+9750	Après utilisation the Clean Hate Monster immediately clear from his hatred to complete required six seconds out of the war.
 9751	Hades anger Hyun dance dance
 9752	After use began to dance, suitable for any shape
 9753	Comes! The good and the evil dominant
 9754	\t ^c0c0ff [malicious decision] ^FFFF00 saga masked masks, attack the target host attack, three random targets enemies to 6 meters radius around a lot of damage, and make it into chaos, confusion status can not be moved, the most lasting 10 seconds, four seconds can be a nightmare monster is attacking its prey.Coos after the prey end. Damage %d%% ^c0c0ff [goodwill decision] ^FFFF00 saga of the master mask falls so hurt with 80 %%, was attacked 10 times after the disappearance of the status for up to 12 seconds, with the effect of trigger deregulation (being the attacks Stars of the guard will consume times), giving the owner and close colleagues additional protective effect of the goodwill and its life response, goodwill shield can withstand some damage. Restores Life: %d against damage: %d \t value of probability trigger effect artifact associated with the divine.
-9755	After using the mask to obtain the blessing of good and evil, the trigger probability battle ^c0c0ff [goodwill decision] ^A2FFFF or ^c0c0ff [malicious decision] ^A2FFFF effect
+9755	Après utilisation the mask to obtain the blessing of good and evil, the trigger probability battle ^c0c0ff [goodwill decision] ^A2FFFF or ^c0c0ff [malicious decision] ^A2FFFF effect
 9756	Stealth skill test 10 minutes
 9757	Spongebob Death Effect Test Facility 10 Minutes
 9758	Test the stealth skills one minute
@@ -9827,7 +9827,7 @@
 9826	Covered with blood, can Résist the human species is purified over a period of time
 9827	Come on! Clamp Cancer
 9828	\t ^c0c0ff [Cancer pliers kill] ^FFFF00Crack Cancer's coming attack on the target host to launch attacks on targets and around three meters radius caused a lot of damage, (horses, dragon, fairy) call the cancerous pull Target for him, (Cygne, Phoenix, Dragon) will call the targets Cancer repelled, pulled / repel the target can not launch within 4 seconds. All enemies within 3 meters wide and DOT will continue to slow down three meters, causing damage of at least 1%% of the maximum health of the target per second. Target blood lowest, highest damage, damage up to 3%% maximum health. Damage %d%% ^c0c0ff [Gardien du Cancer] ^FFFF00Crack Cancer's coming attack so that the target is to become the owner of the crab 6 seconds, while the owner reduced by 80%% wounded, attacked 10 times after the disappearance of the status for up to 12 seconds, with the effect of releasing the trigger control (to be squudero attacks will consume times) effect artifact trigger probability value \t associated with the divine.
-9829	After using pliers to obtain the blessing of Cancer, the fight provoked probability ^c0c0ff [Cancer pliers kill] ^A2FFFF or ^c0c0ff [Cancer blessing] ^A2FFFF effect
+9829	Après utilisation pliers to obtain the blessing of Cancer, the fight provoked probability ^c0c0ff [Cancer pliers kill] ^A2FFFF or ^c0c0ff [Cancer blessing] ^A2FFFF effect
 9830	shooting
 9831	To the enemy fire.
 9832	radar
@@ -9920,7 +9920,7 @@
 9919	Consume %d of Rage\rAdditional Dégât: %d\rBonus Dégât Terre: %d\rDamage: %d%%\rRecovering HP in: %d\r\t ^00FF00Cooling Star of Ferocity Technique ^FFFF00 Extra HP recovery by 10 %%.
 9920	Causes damage to the target. Recover HP
 9921	10 lowest cost rage
-9922	After using the rate increase of 20%% crit for 8 s
+9922	Après utilisation the rate increase of 20%% crit for 8 s
 9923	Recovers up to 50%% HP.
 9924	Wings of Death
 9925	You can only use in the form of dragon\rUse wings to rush
@@ -10045,13 +10045,13 @@
 10044	^c0c0ffNumber of Fly Armor LV.3 ^A2FFFF
 10045	Brutal Attack
 10046	Reduces recharging time of ^c0c0ff[%s]^FFFF00 in 5s and reduces Rage consumption by 10 * Signal exclusive ability: ^00ff00 %s Wyvern ^ffff00
-10047	^c0c0ff Needs 10 Minotaur Surplice ^A2FFFF
+10047	^c0c0ff Needs 10 Minotaur Surplis ^A2FFFF
 10048	Mental Download
 10049	^c0c0ff[%s]^FFFF00 leaves the target unconscious for 4s Exclusive sign's ability: ^00ff00 %s Wyvern ^ffff00
-10050	^c0c0ffNeedings LV.16 of Minotaur Surplice ^A2FFFF
+10050	^c0c0ffNeedings LV.16 of Minotaur Surplis ^A2FFFF
 10051	Nest of Fire
 10052	All that are struck by ^c0c0ff[%s]^FFFF00 can receive 100%% extra magma damage of the skill ^c0c0ff [Lava Blast] ^FFFF00\rExclusive Signal ability: ^00ff00 %s Wyvern ^ffff00
-10053	^c0c0ff Needs N.24 of Minotaur Surplice ^A2FFFF
+10053	^c0c0ff Needs N.24 of Minotaur Surplis ^A2FFFF
 10054	Dark Shield
 10055	Using ^c0c0ff[%s]^FFFF00 increases damage reduction by 20%% for 8s Exclusive Sign ability: ^00ff00 %s Wyvern ^ffff00
 10056	^c0c0ff Required Wyvern Armor No. A2FFFF
@@ -10094,13 +10094,13 @@
 10093	^c0c0ffNeedular Armor LV.24 ^A2FFFF
 10094	Shadow Fury
 10095	Dragon form: Make your ^c0c0ff[%s]^FFFF00 add two layers of shadow possession, each layer of shadow possesses 15%%^c0c0ff[%s]^FFFF00 damage\r normal form: make your ^c0c0ff [%s]^FFFF00 dispels up to five layers of shadow possession, each layer increases by 10%%. This skill damage\r Fighting soul exclusive guardian constellation: ^00FF00%s Wyvern^FFFF00
-10096	^c0c0ff Needs 10 Papillon Surplice ^A2FFFF
+10096	^c0c0ff Needs 10 Papillon Surplis ^A2FFFF
 10097	Dragon Feroz
 10098	Wyvern form: ^c0c0ff[%s]^FFFF00 has the cooldown reduced by 5s\rHuman Form: ^c0c0ff[%s]^FFFF00 has Reduces cooldown by 10s\rExclusive ability of Sign: ^00FF00 %s Wyvern ^FFFF00
-10099	^c0c0ffNeissario LV.16 of Surplice de Papillon ^A2FFFF
+10099	^c0c0ffNeissario LV.16 of Surplis de Papillon ^A2FFFF
 10100	Strong Dragon
 10101	Use ^c0c0ff[%s]^FFFF00 increases by 30%% max HP and restores HP Human Form: ^c0c0ff[%s]^FFFF00 adds 10 Rage points Exclusive Sign Attribute: ^00FF00 %s Wyvern ^FFFF00
-10102	^c0c0ffNeissario LV.24 de Surplice de Papillon ^A2FFFF
+10102	^c0c0ffNeissario LV.24 de Surplis de Papillon ^A2FFFF
 10103	Ao Lufei moves, causing general damage of the magic flower.
 10104	Termination of Strings
 10105	Ao Lufei moves, causing huge damage to the magic flower.
@@ -10223,41 +10223,41 @@
 10222	^c0c0ff Needs Surveillance No. 24 of E. Prison ^A2FFFF
 10223	Delirium
 10224	Using ^c0c0ff[%s]^FFFF00 causes a 30%% chance of invoking the four great black knights\rThe exclusive ability of the Sign of: ^00FF00 %s Phoenix ^FFFF00
-10225	^c0c0ffNeed Gorgon Surplice LV.10 ^A2FFFF
+10225	^c0c0ffNeed Gorgon Surplis LV.10 ^A2FFFF
 10226	Feathers of Fire
 10227	Use ^c0c0ff[%s]^FFFF00 applies 5 stacks of Blazing Flames to enemies to cross\rThe exclusive ability of the Sign of: ^00FF00 %s Phoenix ^FFFF00
 10228	^c0c0ffNegular Survival LV.16 of Gorgon ^A2FFFF
 10229	Third Shadow
 10230	Using ^c0c0ff[%s]^FFFF00 causes a 50%% chance of invoking a Phoenix Noir H Exclusive Sign-ability: ^00FF00 %s Phoenix ^FFFF00
-10231	^c0c0ffNeq.24 of Gorgon Surplice ^A2FFFF
+10231	^c0c0ffNeq.24 of Gorgon Surplis ^A2FFFF
 10232	Dilemma
 10233	^c0c0ff[%s]^FFFF00 increases Résistance to target damage by 20 %%, but silences it by 1.5s Exclusive Signability of: ^00FF00 %s Andromede ^FFFF00
-10234	^c0c0ffSuprema Surplice LV.10 ^A2FFFF
+10234	^c0c0ffSuprema Surplis LV.10 ^A2FFFF
 10235	Burning Ties
 10236	^c0c0ff[%s]^FFFF00 has 10%% of activating ^00FF00 Burning Ties ^FFFF00, generating 25%% of Offensive nature and the next use of ^c0c0ff[%s]^FFFF00 consumes 25%% Offensive nature , but it is used as if the bar were full\rThe Signal exclusive of: ^00FF00 %s Andromede ^FFFF00
 10237	^c0c0ffNeedular Survice LV.16 of Dullahan ^A2FFFF
 10238	Divine Shield
 10239	If the HP of Andromede is less than 40 %%, the ^00FF00 Divine Shield ^FFFF00 is activated, rendering it immune to control effects and absorbing damage equal to 80%% of its maximum life\rAndrommeda can not use abilities for 6s\rE effect only occurs once every 90s Signal exclusive ability: ^00FF00 %s Andromede ^FFFF00
-10240	^c0c0ff Needed LV.24 from Dullahan Surplice ^A2FFFF
+10240	^c0c0ff Needed LV.24 from Dullahan Surplis ^A2FFFF
 10241	Powerful Circle
 10242	^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 cause deceleration to the enemy within a radius of 2m. If the enemy escapes, the dragon will bring it back and spend 60 points of energy. The exclusive Sign of: ^00FF00 %s Dragon ^FFFF00
-10243	^c0c0ffNequirement Cyclope Surplice LV.10 ^A2FFFF
+10243	^c0c0ffNequirement Cyclope Surplis LV.10 ^A2FFFF
 10244	Fury of the Soul
 10245	When using ^c0c0ff[%s]^FFFF00 lenses the target in 3m/s for 5s\rEach hit restores 5 points of energy\rThe exclusive ability of the Sign: ^00FF00 %s Dragon ^FFFF00
 10246	^c0c0ffNeed Code Survice LV.16 of Copepe ^A2FFFF
 10247	Explosive Chaos
 10248	When ^c0c0ff[%s]^FFFF00 breaks, it causes overwhelming damage to enemies within the area of ​​6m\rAdditional Dégât: {^FFABFC %d ^FFFF00}\rBonus Dégât Eau: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rExclusive skill of: ^00FF00%s Dragon ^FFFF00
 10249	When ^c0c0ff[%s]^FFFF00 breaks, it causes overwhelming damage on enemies within the area of ​​6m\rAdditional Dégât: %d\rBonus Dégât Eau: %d\rDamage: %d%%\r Exclusive skill of: ^00FF00%s Dragon ^FFFF00
-10250	^c0c0ff Needs LV.24 of Cyclops Surplice ^A2FFFF
+10250	^c0c0ff Needs LV.24 of Cyclops Surplis ^A2FFFF
 10251	Agressive Cloud
 10252	Use ^c0c0ff[%s]^FFFF00 on a frozen enemy increases damage by 50%% (only takes effect on frozen targets that are only frozen)\rExclusive Sign Enhancement: ^00FF00 %s Cygne ^FFFF00
-10253	^c0c0ffNeurosis LV.10 from Deep Surplice ^A2FFFF
+10253	^c0c0ffNeurosis LV.10 from Deep Surplis ^A2FFFF
 10254	Frost Shield
 10255	Reduces critical hit by 15%% Exclusive Signal ability: ^00FF00 %s Cygne ^FFFF00
-10256	^c0c0ff Needles LV.16 of Deep Surplice ^A2FFFF
+10256	^c0c0ff Needles LV.16 of Deep Surplis ^A2FFFF
 10257	Cold Dance
 10258	When you use ^c0c0ff[%s]^FFFF00 on the target, you will lose 50 Energy points. * Exclusive sign's ability: ^00FF00 %s Cygne ^FFFF00
-10259	^c0c0ff Needs # 24 of Deep Surplice ^A2FFFF
+10259	^c0c0ff Needs # 24 of Deep Surplis ^A2FFFF
 10260	Perseverance
 10261	When your current HP is less than 40%% the ^00FF00Perseverance ^FFFF00 is activated. The next 8 hits suffered within 30s, recover 5%% of your maximum HP. This effect can be used once every 90s. Exclusive sign ability: ^00FF00 %s Pegase ^FFFF00
 10262	^c0c0ff Needs Survival LV.10 Hate ^A2FFFF
@@ -10735,7 +10735,7 @@
 10734	Hurry in front of you, to give you a relentless look!
 10735	family attack
 10736	Stabbing
-10737	frog jump
+10737	Crapeau jump
 10738	Hard
 10739	high waves
 10740	Additional Attack: %d %d%% Damage Caused by Deceleration Time: 8 seconds
@@ -10989,13 +10989,13 @@
 10988	^c0c0ff Required Mensa Armor LV.16 ^A2FFFF
 10989	Infernal Bell
 10990	^c0c0ff[%s]^FFFF00 has increased damage by 20%% Exclusive Signal ability: ^00FF00 %s Lira ^FFFF00
-10991	^c0c0ffNequisite LV.10 of Lycaon Surplice ^A2FFFF
+10991	^c0c0ffNequisite LV.10 of Lycaon Surplis ^A2FFFF
 10992	March of Struggle
 10993	^c0c0ff[%s]^FFFF00 has 10%% of the Critical Chance increased and its duration of effect extended by 5s Exclusive sign ability: ^00FF00 %s Lira ^FFFF00
-10994	^c0c0ff Nequisite LV.16 of Lycaon Surplice ^A2FFFF
+10994	^c0c0ff Nequisite LV.16 of Lycaon Surplis ^A2FFFF
 10995	Explosive Song
 10996	^c0c0ff[%s]^FFFF00 Retrieves twice as much Energy and acceleration duration is extended by 5s Exclusive sign ability: ^00FF00 %s Lira ^FFFF00
-10997	^c0c0ffNequisite LV.24 of Lycaon Surplice ^A2FFFF
+10997	^c0c0ffNequisite LV.24 of Lycaon Surplis ^A2FFFF
 10998	Composition
 10999	When the rhythm bar is full, it increases the Critical Chance by 20%%\rWhen the music finishes, it immediately restores 20 rhythm points.\rThe exclusive ability of the Sign: ^00FF00 %s Lira ^FFFF00
 11000	^c0c0ffNeed Survice No. 10 of E.Silences for ^A2FFFF
@@ -11117,7 +11117,7 @@
 11116	God punished the light
 11117	Eudemons sea: psychedelic helmet Home
 11118	\t ^c0c0ff [Cry psychedelic] ^FFFF00Casa psychedelic magic helmet toward the goal of its release, target and nearby enemies, causing huge damage, and the effect of confusing the enemy for 5 seconds, reducing 25%% damage reduction . Spoiled %d %%. ^c0c0ff [spiritual fear] ^FFFF00Casa psychedelic helmet to create an illusion, constantly making enemies within 8 meters around speed damage rate and reduced movement, reducing each enemy damage rate and 10%% movement speed of 1 m/s, you can stack up to five stacks, the longer the longer the stacks overlap; and reduce owner 80%% damage, was attacked 10 times after the disappearance of the status for up to 12 seconds.At the drop trigger comes with control effects (Squire was also attacked consumption frequency) \t artifact value of probability trigger effect associated with the divine.
-11119	After using the sea to obtain the blessing of Eudemons, fighting trigger probability ^c0c0ff [Cry psychedelic] ^A2FFFF or ^c0c0ff [spiritual fear] ^A2FFFF
+11119	Après utilisation the sea to obtain the blessing of Eudemons, fighting trigger probability ^c0c0ff [Cry psychedelic] ^A2FFFF or ^c0c0ff [spiritual fear] ^A2FFFF
 11120	sheet blade
 11121	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground reduced damage 50%% ^00FF00 paralysis ^FFFF00reduced flying speed of 3 m/s, 4 sec
 11122	Additional attack: %d %d%% causes damage to ground targets reduced by 50%% ^00FF00 paralysis ^FFFF00Reduced flying speed of 3 m/s, 4 sec
@@ -11208,15 +11208,15 @@
 11207	Additional attack: %d damage to %d%% damage land targets reduced by 50%% ^00FF00 water ^FFFF00based flight and speed of movement reduced from 3 m/s to 4 seconds
 11208	Spit water polo target, the probability of the target for water ^00FF00 tied status ^A2FFFF
 11209	spout
-11210	Frog spit strong spouts, in which the enemy's target in front causing huge damage
+11210	Crapeau spit strong spouts, in which the enemy's target in front causing huge damage
 11211	Wind chaos escape
 11212	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the damage reduced damage 50%% ^00FF00 wind tie ^FFFF00 body setting for 4 seconds.
 11213	Additional Attack: %d causes damage %d%% damage to land targets reduced by 50%% ^00FF00 wind tie ^FFFF00Body set for 4 seconds
-11214	Frog to motivate ambient air by triggering waves from enemy target segment segment damage, and to wind ^00FF00 tie status ^A2FFFF
+11214	Crapeau to motivate ambient air by triggering waves from enemy target segment segment damage, and to wind ^00FF00 tie status ^A2FFFF
 11215	Spa operation
 11216	^00FF00 spa operation ^FFFF00 cure second {^FFABFC %d ^FFFF00}, for 5 seconds.
 11217	^00FF00 spa operation ^FFFF00 Reply second life %d, for 5 seconds.
-11218	Frog to motivate the power of water, the release of operation spa continued life Reply
+11218	Crapeau to motivate the power of water, the release of operation spa continued life Reply
 11219	60 degree radius in front of its own 10 meter damage area fan-shaped
 11220	Ban space
 11221	Strength to motivate space, damage to target
@@ -11507,7 +11507,7 @@
 11506	Increase power mine Dégât: %d + 50 * Star
 11507	Devil Rays: Al deep cold Zack
 11508	\t^c0c0ff[Ruthless cold]^FFFF00\r Alzak's deep cold rushes to the target attack, causing a lot of damage to the target and its enemies, and reduces the target's 50%% crit rate reduction and crit Damage reduction, while reducing the movement speed of 2 m/sec and freezing the surrounding units. \r caused damage %d%%. \r^c0c0ff[Arctic Ocean whirlwind]^FFFF00\r Alzark's deep cold creates a very cold whirlwind, constantly reducing the enemy's damage Résistance and movement speed within 8 meters, reducing enemy damage Résistance by 5% per layer. % and the moving speed of 1 m/sec, the target is frozen when superimposed on the fourth floor; and the damage suffered by the owner is reduced by 80%%, and the state disappears after being attacked for 10 times, for up to 12 seconds. Trigger with de-control effect (the number of times the attack by the Guardian Star is also consumed)\t artifact effect trigger probability is related to the power value
-11509	Al obtained after using Zach blessing, fighting probability trigger ^c0c0ff [in the cold wife] ^A2FFFF or ^c0c0ff [Arctic cyclone] ^A2FFFF
+11509	Al obtained Après utilisation Zach blessing, fighting probability trigger ^c0c0ff [in the cold wife] ^A2FFFF or ^c0c0ff [Arctic cyclone] ^A2FFFF
 11510	light Aiolia
 11511	Increase the optical element of ATK 1%% Additional exclusive 50 combat abilities Guardian Constellation: ^00FF00 %s Lira ^FFFF00
 11512	Dragon of the Sea: Gal of Wildness
@@ -12062,12 +12062,12 @@
 12061	<Technique Awakening> prolongs the immunity to control in 1s and gives an extra increase of 10%% Taux Critique
 12062	Vierge Technique
 12063	^fff962Dios · Vierge Technique
-12064	^00FF00Treatment of Technique ^FFFF00\rams the probability of Résist Crit against the target of an ally by 60 %%, and recovers 15%% of the HP index, lasting %ds, within 4 minutes, you can obtain the Effect 1x\r^00FF00Compression of the Technique ^FFFF00\rThe refueling time of ^c0c0ff [Chain of Hell] ^FFFF00 It is from 30s to 25s\rAfter using the [Starlight of Liberty] ^FFFF00 decreases 5s from cooldown of the\r^c0c0ff [Determination of Hades]\r^c0c0ff [Destination Chain] ^FFFF00increases damage by 30 %%
+12064	^00FF00Treatment of Technique ^FFFF00\rams the probability of Résist Crit against the target of an ally by 60 %%, and recovers 15%% of the HP index, lasting %ds, within 4 minutes, you can obtain the Effect 1x\r^00FF00Compression of the Technique ^FFFF00\rThe refueling time of ^c0c0ff [Chain of Hell] ^FFFF00 It is from 30s to 25s\rAprès utilisation the [Starlight of Liberty] ^FFFF00 decreases 5s from cooldown of the\r^c0c0ff [Determination of Hades]\r^c0c0ff [Destination Chain] ^FFFF00increases damage by 30 %%
 12065	God · Vierge technique strengthens itself; obtains the active skill ^A2FFFF from the awakening of the technique ^00FF00, as well as the passive effect ^A2FFFF understanding the technique ^00FF00
 12066	<Awakening of the Technique> prolongs the duration in 1s
 12067	Lion Technique
 12068	^fff962Dios · Lion Technique
-12069	^00FF00Treatment of the Technique ^FFFF00\rrequires immediately 10%% of HP within 15s, each time it suffers an attack, recovers 1%% of HP, in addition to increasing the damage rate by 1 %%. The increase of the damage index can be accumulated, at most, 15x. The duration is 6s; the activation interval is 1s\r^00FF00Compression of the technique ^FFFF00\r^c0c0ff [Phoenix Rush] ^FFFF00increases damages by 10%% After using\r^c0c0ff [Impact Flame] ^FFFF00the damage index increases by 10%%, with a duration of 5s. The cooldown of\r^c0c0ff [Disappearing wings] ^FFFF00reduces from 90s to 60s. During use of that ability, damage reduction increases by 50%%
+12069	^00FF00Treatment of the Technique ^FFFF00\rrequires immediately 10%% of HP within 15s, each time it suffers an attack, recovers 1%% of HP, in addition to increasing the damage rate by 1 %%. The increase of the damage index can be accumulated, at most, 15x. The duration is 6s; the activation interval is 1s\r^00FF00Compression of the technique ^FFFF00\r^c0c0ff [Phoenix Rush] ^FFFF00increases damages by 10%% Après utilisation\r^c0c0ff [Impact Flame] ^FFFF00the damage index increases by 10%%, with a duration of 5s. The cooldown of\r^c0c0ff [Disappearing wings] ^FFFF00reduces from 90s to 60s. During use of that ability, damage reduction increases by 50%%
 12070	God · Lion technique strengthens itself; ^00FF00 possesses the active ability ^A2FFFF of the awakening of the technique ^00FF00asi as the passive effect ^A2FFFFde the understanding of the technique
 12071	<Technique Awakening> decreases 20s of cooldown
 12072	Gemeaux Technique
@@ -12367,14 +12367,14 @@
 12366	Additional Dégât: %d\rAdditional wind attribute Dégât: %d\r at least cause %d%% damage\r consume 40 points force\r have ^c0c0ff[control]^FFFF00 use consumes ^c0c0ff[ Control]^FFFF00 and make the target stun for 3 seconds\r have ^c0c0ff[神速]^FFFF00 when using ^c0c0ff[神速]^FFFF00, recover 30 yuan in 3 seconds\r have ^c0c0ff[destroy]^FFFF00 When used, it consumes ^c0c0ff[destroy]^FFFF00 and increases the blast damage by 100%%.
 12367	Invasion ability of long range, runs to the enemy causing much damage.
 12368	Increases Wind Blast damage by 20%% and also increases penetration to Résistances
-12369	Reduction of 30%% of damage received for 2 seconds after using Wind Blast
-12370	Get 3 seconds free of control effects after using Wind Burst
+12369	Reduction of 30%% of damage received for 2 seconds Après utilisation Wind Blast
+12370	Get 3 seconds free of control effects Après utilisation Wind Burst
 12371	Shield Storm
 12372	Summons the power of the Tornado to create a shield to protect itself
 12373	Load Time: 45 seconds \rnNumber of Load stacks: 3 stacks\rAbsorption: 10%% above the maximum HP\rDuration: 6 seconds\rRemoves any control effect when using
 12374	Reload ability, maximum of 3 charges, consume the number of charges to use the ability\rThe damage absorption is related to your HP amount
-12375	Gain a [Controller] stack after using Storm Shield
-12376	Win a stack of [Sprinter] after using Storm Shield
+12375	Gain a [Controller] stack Après utilisation Storm Shield
+12376	Win a stack of [Sprinter] Après utilisation Storm Shield
 12377	Storm Shield makes you immune to control effects for 4 seconds
 12378	Increases damage during Storm Shield by 15 %%
 12379	Shield of the Storm absorbs 100%% more damage
@@ -12396,8 +12396,8 @@
 12395	Forces the Stormy Revival by 20 %%
 12396	Explosive Air Flow
 12397	^fff962Gold Ability\rEffect: ^c0c0ff Adds a ragged chaotic air to tear the targets forward
-12398	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind Dwell: {^FFABFC %d ^FFFF00} \r {FFABFC %d%% ^FFFF00} chance of causing 2x, 3x, or even 4x damage\r\t ^00FF00Áries ^FFFF00\rAfter using it will enter the state of ^c0c0ff [Or Explosion] ^FFFF00\rThis state can not be activated again within 30 seconds after being ^FFFF00 becomes^FFFF00 ^FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shortage] ^FFFF00\r[Flurry Flow] ^FFFF00 becomes ^c0c0ff [^fff962 Hurricane Storm] FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [^fff962 Atmospheric Suppression] ^FFFF00
-12399	Additional Damage: %d\rBonus Dégât Vent: %d\rDamage %d%%\rRental Wind Restarture 50\rSave a small chance to cause 2x, 3x, or up to 4x damage\r\t ^00FF00Aries ^FFFF00\rAfter using it will enter the state of ^c0c0ff [Or Explosion] ^FFFF00\rThis state can not be activated again in the next 30 seconds after being consumed\r^00FF00 Or Explosion ^FFFF00\r^c0c0ff [Cyclonic Breeze]^FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shift] ^FFFF00\r^c0c0ff [Thunderous Flow] ^FFFF00 becomes ^c0c0ff [^fff962Surrounding] ^FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [ ^fff962 Atmospheric Suppression] ^FFFF00
+12398	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind Dwell: {^FFABFC %d ^FFFF00} \r {FFABFC %d%% ^FFFF00} chance of causing 2x, 3x, or even 4x damage\r\t ^00FF00Áries ^FFFF00\rAprès utilisation will enter the state of ^c0c0ff [Or Explosion] ^FFFF00\rThis state can not be activated again within 30 seconds after being ^FFFF00 becomes^FFFF00 ^FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shortage] ^FFFF00\r[Flurry Flow] ^FFFF00 becomes ^c0c0ff [^fff962 Hurricane Storm] FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [^fff962 Atmospheric Suppression] ^FFFF00
+12399	Additional Damage: %d\rBonus Dégât Vent: %d\rDamage %d%%\rRental Wind Restarture 50\rSave a small chance to cause 2x, 3x, or up to 4x damage\r\t ^00FF00Belier ^FFFF00\rAprès utilisation will enter the state of ^c0c0ff [Or Explosion] ^FFFF00\rThis state can not be activated again in the next 30 seconds after being consumed\r^00FF00 Or Explosion ^FFFF00\r^c0c0ff [Cyclonic Breeze]^FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shift] ^FFFF00\r^c0c0ff [Thunderous Flow] ^FFFF00 becomes ^c0c0ff [^fff962Surrounding] ^FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [ ^fff962 Atmospheric Suppression] ^FFFF00
 12400	Deals a large amount of damage on the forward target and receives 50 energy. There is a chance to deal 2x, 3x, or even 4x damage!\rRecharges the Wind Energy, Soul Magic, Speed ​​of Light and Vengeful Spirit abilities.
 12401	Increases Explosive Airflow damage by 20 %%
 12402	Justice of Belier
@@ -12512,7 +12512,7 @@
 12511	Increases Résistance to element Earth: %d * LV. Stellar
 12512	Destruction
 12513	Cause 260%% + 4%% * LV. Starter\rPrinting initial of 4 seconds (adds 1s for each Stellar LV)
-12514	Damages and petrifies the target\rThe effect of the ability and the increase of damage varies according to LV. Stealth of the Squire
+12514	Damages and petrifies the target\rThe effect of the ability and the increase of damage vBelier according to LV. Stealth of the Squire
 12515	Guardian of the Winds
 12516	Ice Claws
 12517	The Phantom Tiger fierces its claws fiercely at high speed, causing damage to the target and can slow down its speed
@@ -12598,10 +12598,10 @@
 12597	Reload ability, maximum of 2 charges, consume the number of charges to use the skill\rIncrease your damage rate, use the ability continuously for a short time to maximize effect
 12598	Cyclops: Artifact of Giganto
 12599	\t ^c0c0ff [Crimson Death Light] ^FFFF00\rShadow a red-blooded beam on the target, exploding the target and all around, reducing enemy damage for 5 seconds. Damage Reduction: 20%% %d%% damage\r^c0c0ff [Blood Ocilation] ^FFFF00\rThe Eye above your Elmo emits three blood-red ripples, causing great amount of damage on and around the target and slows its movement speed; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12600	After using it, you can get the Giganto blessing. There is a chance during the battle to activate ^c0c0ff [Crimson Light of Death] ^A2FFFF or ^c0c0ff [Blood Acting]
+12600	Après utilisation, you can get the Giganto blessing. There is a chance during the battle to activate ^c0c0ff [Crimson Light of Death] ^A2FFFF or ^c0c0ff [Blood Acting]
 12601	Garuda: Wings of Éaque
 12602	\t ^c0c0ff [Shock of Indra] ^FFFF00\rBlame the wings with extreme speed, repelling the enemies that are on the line\rCause %d%% damage\r^c0c0ff [Golden Wings] ^FFFF00\rKeep your wings and spins them at high speed, creating continuous explosions around them, causing a great deal of damage to the targets around, knocks down the enemy and slows their movement speed; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12603	After using it, you can get the blessing of Éaque. There is a chance during the battle to activate ^c0c0ff [Indra Shock] ^A2FFFF or ^c0c0ff [Golden Wings]
+12603	Après utilisation, you can get the blessing of Éaque. There is a chance during the battle to activate ^c0c0ff [Indra Shock] ^A2FFFF or ^c0c0ff [Golden Wings]
 12604	Memory forgotten
 12605	Increases Critical Ratio by 1%% and Wind Element Résistance rating by additional 5\r50 Power Exclusive Sign Character: ^00FF00 %sTornado ^FFFF00
 12606	Stunt in the Speed ​​of Light
@@ -12660,7 +12660,7 @@
 12659	Glory Seal increases flight speed and damage rate
 12660	Papillon: Myu's Helmet
 12661	\t ^c0c0ff [Pulsing Rays] ^FFFF00\rThe armor accumulates energy and then emits 3 beams of light on the target.\rRoubts the target and surrounding enemies for 6 seconds\rAuse %d%% damage\r^c0c0ff FFFF00\rRoubt a number of butterflies that self-destruct, causing the targets around them to suffer a lot of damage, repelling their enemies constantly and slowing their movement speeds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12662	After using it, you can get the blessing of Papillon. There is a chance during the battle to activate ^c0c0ff [Pulsing Rays] ^A2FFFF or ^c0c0ff [Papillon Flight]
+12662	Après utilisation, you can get the blessing of Papillon. There is a chance during the battle to activate ^c0c0ff [Pulsing Rays] ^A2FFFF or ^c0c0ff [Papillon Flight]
 12663	Maximum Pressure
 12664	Cause 260%% + 4%% * LV. Stellar\rStart 4 seconds (adds 1s for each Stellar Level)
 12665	​​Deals damage and stuns enemy\rThe effects and damage of abilities increase as LV. Stealth of the Squire
@@ -12709,10 +12709,10 @@
 12708	Wheel of Fire
 12709	God of Sleep: Wings of Hypnos
 12710	\t ^c0c0ff [Dream Impact] ^FFFF00 \r Black feathers are scattered and connected in the fan-shaped area\rSturn the target and enemies around for 6 seconds \rUse %d%% damage Black Feather Flow ^FFFF00 Black feathers spin at high speed, firing a large number on the target, reducing target speed and surrounding enemies by 15%%. It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12711	After using it, you can get the blessing of Hypnos. There is a chance during the battle to activate ^c0c0ff [Impact of the Dream Stream] ^A2FFFF or ^c0c0ff [Black Feather Flow] ^A2FFFF
+12711	Après utilisation, you can get the blessing of Hypnos. There is a chance during the battle to activate ^c0c0ff [Impact of the Dream Stream] ^A2FFFF or ^c0c0ff [Black Feather Flow] ^A2FFFF
 12712	Dohko: Balance Shield
 12713	\t ^c0c0ff [Instant Shock Current] ^FFFF00\rThe Golden Shield fires a golden lightning bolt at the target\rShadow the target and surrounding enemies for 6 seconds\rAuse %d%% damage\r^c0c0ff [ The Golden Shield spins at high speed, creating a tempestuous area in the area, causing hit enemies to fall to the ground, having a damage rate reduced by 20%% for 5 seconds. It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12714	After using it, you can get the blessing of Dohko. There is a chance during the battle to activate ^c0c0ff [Instant Shock Current] ^A2FFFF or ^c0c0ff [Thunder Mines] ^A2FFFF
+12714	Après utilisation, you can get the blessing of Dohko. There is a chance during the battle to activate ^c0c0ff [Instant Shock Current] ^A2FFFF or ^c0c0ff [Thunder Mines] ^A2FFFF
 12715	Burn
 12716	Additional Damage: {^FFABFC %d ^FFFF00}\rAffect {^FFABFC %d%% ^FFFF00} Damage\rThere is a 30%% chance to reduce Résistance against target damage by 20 %%, lasts 5s\rReduction of damage suffered by land targets by 50%%
 12717	Additional Damage: %d\rAuse %d%% damage\rThere is a 30%% chance of reducing Résistance against target damage by 20 %%, lasts 5s\rReduction of damage to land targets by 50 %%
@@ -12735,7 +12735,7 @@
 12734	Increases Résistance to element Earth: 2 * LV. Stellar
 12735	Taureau: Golden Elm
 12736	\t ^c0c0ff [Titanic Ray] ^FFFF00 \the Golden Horns cast a destructive Ray\rReduce damage reduction by 15%% of the target and nearby enemies, lasts 6s %d%% damage. ^c0c0ff [Brutal Horn] ^FFFF00\rThe Golden Horn invokes a Bull Brutal Collision, knocks enemies straight and slows movement for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12737	After using it, you can obtain the blessing of Aldebaran. There is a chance during the battle to activate ^c0c0ff [Titanic Radius] ^A2FFFF or ^c0c0ff [Brutal Horn] ^A2FFFF
+12737	Après utilisation, you can obtain the blessing of Aldebaran. There is a chance during the battle to activate ^c0c0ff [Titanic Radius] ^A2FFFF or ^c0c0ff [Brutal Horn] ^A2FFFF
 12738	Uncommon Force
 12739	Additional Damage: {^FFABFC %d ^FFFF00} \rFailure {^FFABFC %d%% ^FFFF00} Damage\rHave 30%% chance to reduce enemy damage rate by 20%% damage suffered by land targets by 50%%
 12740	Additional Damage: %d\rCause %d%% damage\rHave 30%% chance of reducing enemy damage rate by 20 %%, lasts 4s\rReduction of damage to land targets by 50 %%
@@ -12754,7 +12754,7 @@
 12753	Increases Critical Ratio: 1%% * LV. Stellar
 12754	Sagittaire: Golden Arrow
 12755	\t ^c0c0ff [Focus on the Heart] ^FFFF00 The Golden Arrow flies towards the target. The target and the enemies around it will have their damage reduction reduced by 15%% by 6s. %d%% of damage.\r^c0c0ff [Clear Sky] ^FFFF00\rThe Golden Arrow shoots several ghost arrows, reducing by reducing 3%% HP of the enemy (only valid for players), reduces the enemy's movement speed for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12756	After using it, you can get the blessing of Aioros. There is a chance during the battle to activate ^c0c0ff [Concentrate on the Heart] ^A2FFFF or ^c0c0ff [Clear Sky] ^A2FFFF
+12756	Après utilisation, you can get the blessing of Aioros. There is a chance during the battle to activate ^c0c0ff [Concentrate on the Heart] ^A2FFFF or ^c0c0ff [Clear Sky] ^A2FFFF
 12757	Surprise Gift
 12758	Additional Damage: {^FFABFC %d ^FFFF00} \rFailure {^FFABFC %d%% ^FFFF00} of damage\rHave 30%% chance to stun the target, lasts 4s\rReduced damage from land targets by 50 %%
 12759	Additional damage: %d\rAuse %d%% damage\rHave 30%% chance to stun the target, lasts 4s\rReduction of damage to land targets by 50 %%
@@ -12788,10 +12788,10 @@
 12787	Inflicts damage to target within range area, slowing it down.\rThe effect of skill and damage increases according to the stellar level of the Squire
 12788	Gemeaux: Gemeaux's Object
 12789	\t ^c0c0ff [Labyrinth of Illusions] ^FFFF00 \r A maze is created around the target\rThe target and enemies around it are stunned by damage %d%% damage.\r^c0c0ff [Galaxian Explosion ] ^FFFF00\rAcumulate a large amount of cosmo-energy around the target, reducing the Résistance against damage by 15%% and knocking it to the ground for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12790	After using it, you can get the blessing of Saga. There is a chance during the battle to activate ^c0c0ff [Labyrinth of Illusions] ^A2FFFF or ^c0c0ff [Galaxian Explosion] ^A2FFFF
+12790	Après utilisation, you can get the blessing of Saga. There is a chance during the battle to activate ^c0c0ff [Labyrinth of Illusions] ^A2FFFF or ^c0c0ff [Galaxian Explosion] ^A2FFFF
 12791	Shaka: Vierge Artifact
 12792	\t ^c0c0ff [Burning Hell] ^FFFF00\rLine the flames of hell toward the target, straight\rReduce the Résistance Dégât of the targets in a straight line by 15 %%, for 6s \raCause %d%% of damage.\r^c0c0ff [Pose of Lotus] ^FFFF00\rThe lotus flower slows down movement and knocks enemies for 5 seconds; It also decreases damage received by your user by 80 %%. After being attacked 10x, the status disappears; lasts at most 12s. When activated, it eliminates the control effect. (The Squire attacks also spend the incoming attack limiter.) \tThe probability of activating the Relic is related to the Divine Power Index.\rChains damage from %d %%.
-12793	After using it, you can get the blessing of Shaka. There is a chance during the battle to activate ^c0c0ff [Burning Hell] ^A2FFFF or ^c0c0ff [Lotus Pose] ^A2FFFF
+12793	Après utilisation, you can get the blessing of Shaka. There is a chance during the battle to activate ^c0c0ff [Burning Hell] ^A2FFFF or ^c0c0ff [Lotus Pose] ^A2FFFF
 12794	Attack of Dams
 12795	Additional Damage: {^FFABFC %d ^FFFF00} \rHavasion {^FFABFC %d%% ^FFFF00} Damage\rHave 30%% chance to reduce target speed, duration of 4 seconds\rReduction of 50%% of damage to Earth-type targets
 12796	Additional damage: %d\rAuse %d%% damage\rHave 30%% chance to reduce target speed, duration of 4 seconds\rReduction of 50%% damage on Earth-type targets
@@ -12816,10 +12816,10 @@
 12815	Increases Inspiration to Love and Restores Life Continuously
 12816	Carnivorous Rose
 12817	Damage caused by 260%%+4%%* star\r initial reduction of 5%% (an additional 5%% increase per star)\r Initially lasts 4 seconds (an additional 1 second per star)
-12818	Reduces Résistance to target damage.\rThe effect of ability and increased damage varies according to LV. Stealth of the Squire
+12818	Reduces Résistance to target damage.\rThe effect of ability and increased damage vBelier according to LV. Stealth of the Squire
 12819	Bloody Rose
 12820	Increases Attack on: 65 * LV. Stellar
-12821	Makes the target stunned.\rThe effect of ability and increased damage varies according to LV. Stealth of the Squire
+12821	Makes the target stunned.\rThe effect of ability and increased damage vBelier according to LV. Stealth of the Squire
 12822	Spiritual Storm
 12823	Increases Damage Reduction: 1 * LV. Stellar
 12824	Switch movement mode
@@ -12897,7 +12897,7 @@
 12896	Additional Dégât: %d\rBonus Dégât Elec: %d\rCauses %d%% damage\r50%% chance to enter the enhanced Dimension Corner Lock status\r\t^00FF00Enhanced Dimension Lock^FFFF00\rNext ^00FF00Dimension Corner Lock^FFFF00 damage increased by 50%%
 12897	Additional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Terre: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
 12898	Additional Dégât: %d\rBonus Dégât Elec: %d\rCauses %d%% damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
-12899	Use the chain to roll up the target, slam the ground and splash around\rDamage varies according to the Offensive Nature stored and reaches 300%% when full.\rSkill animation changes according to the shape of the target.
+12899	Use the chain to roll up the target, slam the ground and splash around\rDamage vBelier according to the Offensive Nature stored and reaches 300%% when full.\rSkill animation changes according to the shape of the target.
 12900	Duration: 6 seconds\t^00FF00Light of Freedom^FFFF00\rGrants immunity to negative control effects\rYou can use it when you are: stunned, knocked down, floating and silenced
 12901	^c0c0ffSerpent Holy Armor Star Casting 3 LV achieved^A2FFFF
 12902	^c0c0ffCrown Holy Armor Star Casting 3 LV achieved^A2FFFF
@@ -12958,8 +12958,8 @@
 12957	Attaches ^c0c0ff[Impediment of the Dragon des Mers]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
 12958	Attaches ^c0c0ff[Impediment of the Dragon des Mers]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional Dégât: %d\rBonus Dégât Eau: %d\rMinimum damage: %d%%\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
 12959	50%% chance to add an extra <Good State>/<Evil State>
-12960	Additional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Evil State^FFFF00\rAdditional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 2 layers and each layer boosts {^FFABFC%d^FFFF00} hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Or Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12961	Additional Dégât: %d\rBonus Dégât Eau: %d\rMinimum damage: %d%%\r\t^00FF00Evil State^FFFF00\rAdditional Dégât: %d\rBonus Dégât Eau: %d\rCauses %d%% damage\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 2 layers and each layer boosts %d hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Or Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12960	Additional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Evil State^FFFF00\rAdditional Dégât: {^FFABFC%d^FFFF00}\rBonus Dégât Eau: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 2 layers and each layer boosts {^FFABFC%d^FFFF00} hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemeaux Advanced^FFFF00\rActivates ^c0c0ff[Or Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12961	Additional Dégât: %d\rBonus Dégât Eau: %d\rMinimum damage: %d%%\r\t^00FF00Evil State^FFFF00\rAdditional Dégât: %d\rBonus Dégât Eau: %d\rCauses %d%% damage\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 2 layers and each layer boosts %d hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemeaux Advanced^FFFF00\rActivates ^c0c0ff[Or Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
 12962	Skill HP heal:  {^FFABFC%d^FFFF00}\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 3 layers and increasing 3%% Taux Critique per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
 12963	Skill HP heal: %d\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 3 layers and increasing 3%% Taux Critique per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
 12964	^00FF00Popular^FFFF00\rFlying speed increased by 3 m/s, Damage Reduction increased by 25%%, lasts 10 seconds
@@ -13060,7 +13060,7 @@
 13059	^O021 Lava Summon Mineral Bar BUFF
 13060	^O021Parkour_Starting buff
 13061		^O021Parking _ way point buff
-13062	^O021^ffff00 Fair Ring\r^O009^ffffff All Saints in the Lava Battlefield will compete fairly
+13062	^O021^ffff00 Fair Ring\r^O009^ffffff All Saints in the Guerre au Volcan will compete fairly
 13063	^O021^ffff00 coma\r^O009^ffffff the unit fell into a coma
 13064	^O021^ffff00加隆_Take the flower of goodness
 13065	^O021^ffff00 burning\r^O009^ffffff burning, continuous blood loss

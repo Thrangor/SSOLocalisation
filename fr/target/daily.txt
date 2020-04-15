@@ -9,7 +9,7 @@
 8	On the 12th level, you can get 110 points of activity to open on the same day. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional Essence.
 9	fourth-order active treasure chest
 10	On the 10th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional 2 Essence and 1 Divine Imprint I.
-11	[Events] Assembly! Zodiac crisis
+11	[Events] Crise du Zodiaque
 12	Sanctuaire
 13	level 35 or higher
 14	(3-6 people recommended full team)
@@ -18,16 +18,16 @@
 17	[Donjon] Critical! Yarn Guardian
 18	25 or above
 19	(1-6 people recommended full team)
-20	[Donjon] Critical! Goddess Guard
+20	[Donjon] Protéger Athéna ! HL
 21	[Donjon] Heritage! Or trial
 22	40-100 level (^fffd44 can only get 59 rewards ^N)
 23	[Donjon] Heritage! Or trials of evil spirits
 24	Level 60-89
-25	[Donjon] Storm! Atlantis
+25	[Donjon] Contre Attaque! Atlantis BL
 26	above 45
 27	[Donjon] Abyss! The end of the magic star
-28	[Solo] goddess of the holy warrior
-29	[Donjon] Trial of Destiny
+28	[Solo] Chevaliers d'Athéna
+29	[Donjon] Boss en Monde
 30	Arene Galactique
 31	[Solo] Saints's Road
 32	[Quête] Invasion des Enfers
@@ -39,11 +39,11 @@
 38	Guild Base
 39	[The Guild] God's Prank
 40	[Guilde] Guild welfare
-41	[Guilde] Time treasure box
-42	[Battleground] fight for treasure chest
+41	[Guilde] Sacs de Trésors
+42	[Terre PvP] Coffre aux trésors
 43	illusion
-44	[Battleground] marching into the illusion
-45	[Donjon] Heritage! Holy War memories
+44	[Terre PvP] Invasion des Spectres
+45	[Donjon] Heritage! (Souvenir) Guerre Sainte
 46	[Donjon] Ten Wind Cave
 47	Mount Fuji
 48	(2-6 people recommended full team)
@@ -60,7 +60,7 @@
 59	victory! The glory of the battlefield (abandoned)
 60	[Solo] Run! Little brother (lucky star)
 61	${npc(20091,1)}
-62	[Solo] Noble ghost dictionary
+62	[Solo] Questionnaire de Kiki
 63	${jump(54)}
 64	lucky stars
 65	Sirius Nazhi
@@ -124,16 +124,16 @@
 123	[Hero] Ten Wind Cave
 124	[Hero] Shooter's Heart
 125	[Donjon] break! The Avengers (God Wars)
-126	[PvP] Chaos Battlefield Test
+126	[PvP] Guerre des Cristaux Test
 127	[Donjon] Fighters return
 128	[Solo] Saints! The glory of the stars
 129	[Donjon] Fight! Lion's tooth decay
 130	${pos(-20,302,451,2,'Rodrio Village')}
 131	(3 or more people)
 132	[Donjon] Tanabata! Zilong and Chunli
-133	[PvP] Chaos Battlefield
+133	[PvP] Guerre des Cristaux
 134	above 100
-135	[PvP] Chaos Battlefield 3v3 Test
+135	[PvP] Guerre des Cristaux 3v3 Test
 136	[Solo] challenge! Saint's limit
 137	[Donjon] Halloween! Crazy pumpkin
 138	[Illusion] Illusion trial
@@ -143,7 +143,7 @@
 142	[Donjon] Day drop treasure chest
 143	[Donjon] Me and my friends
 144	[Event] Mid-Autumn Festival! Oyster of osmanthus wine
-145	[PvP] abandoned occupation! Chaos battlefield
+145	[PvP] abandoned occupation! Guerre des Cristaux
 146	close
 147	[Donjon] National Day! Dragon of the East
 148	[Donjon] "Happy National Day" collection
@@ -165,12 +165,12 @@
 164	[Solo] attack! Golden zodiac
 165	[Donjon] heavy snow! Defend the Christmas tree
 166	(4 or more people)
-167	[Donjon] Attaquez les Enfers !
+167	[Donjon] Attaque des Enfers !
 168	[Donjon] Tianbao treasure chest
 169	[Donjon] Ice and Snow Carnival
 170	[Donjon] Christmas tree fantasy
 171	[Donjon] Double "egg" surprise
-172	[Donjon] Oath of resurrection
+172	[Quête] Serment de résurrection
 173	Sanctuaire - Aeoria
 174	${npc(38380,9)}
 175	Sea King-Gallon
@@ -238,19 +238,19 @@
 237	level 12 or higher
 238	[PvP] Zoom out! juvenile
 239	[PvP] Zoom out! Junior 1V1 test
-240	[PvP] Lava Battlefield 3v3 Test
+240	[PvP] Guerre au Volcan 3v3 Test
 241	[PvP] flag is open! Victory
 242	victory! The Road to the King (Abandoned)
 243	[PvP] PvP Lave
 244	[PvP] Flight 1
 245	[Donjon] Labor Day! Goddess of gratitude
-246	[Donjon] Contre Attaque! Atlantis
+246	[Donjon] Contre Attaque! Atlantis HL
 247	[Donjon] Crise du Zodiaque
 248	[Donjon] Inheritance! Or trial countercurrent
 249	[Donjon] Labor glorious
 250	[Donjon] Laborer's reward
-251	[PvP] Sky Battlefield 3v3
-252	[PvP] PvP Volant
+251	[PvP] Guerre Aérienne 3v3
+252	[PvP] Guerre Aérienne
 253	Second Guild Corps pk 3v3
 254	second Guild pk 1v1
 255	[Donjon] anniversary celebration! medal
@@ -277,7 +277,7 @@
 276	[The Guild] at the end? Ice hell
 277	[Guilde] sniper! The Big Three
 278	[Guilde] Gemeaux! Death and sleep
-279	[Guilde] Counterattack on Royaume des Enfers 
+279	[Guilde] Contre Attaque des Enfers 
 280	Rehabilitated version of the coupon time (not shown)
 281	[Donjon] Rebirth Carnival - Event Celebration
 282	[Donjon] Rebirth Carnival - Mid-Autumn Night
@@ -421,7 +421,7 @@
 420	Carnival Treasure Chest
 421	Ghostly Nights · Double Head Dragon (10 days)
 422	Double Dragon Or Badge
-423	^e1250010 orange star soul
+423	^e1250010 Rune de Cosmos
 424	^e12500 Blood of the Demon (must be Parfait)
 425	^e12500 Or Saint Cloth Pack
 426	^e12500 Bunny
@@ -440,7 +440,7 @@
 439	Star Voucher
 440	Sang d'Athena
 441	Or Saint Cloth Shard
-442	Orange Star Soul
+442	Rune de Cosmos
 443	title: remember your warmth
 444	Thanksgiving Call Scroll*14
 445	New Year Summoner Scroll*14
@@ -457,7 +457,7 @@
 456	Critical! The woven Guardian can do it once a day. \r and the high-level event "critical! Goddess Guards" jointly counted. \r Critical! The level of monsters in the woven Guardian is the average level of the team members. It is recommended to have 6 people to participate. \r Background: The goddess's Cosmo is waking up. This is the darkest moment before dawn. The goddess needs you and needs your defense.
 457	Assembly! Zodiac crisis
 458	and the high-level event "Rebirth! The soul song of the Sanctuaire town" "incubation! The Papillon nest" jointly counted. \rOpen every day from 12:00-14:00 and 20:00-22:00. \r Assembly! In the zodiac crisis, the monster level is the average rank of the team members, and only one reward per day is available. It is recommended that the group be 6 people to participate. \r Background: The power of Hades is invading the Sanctuaire, and the holy warriors are going to defend the gates of the Sanctuaire!
-459	Holy War memories
+459	(Souvenir) Guerre Sainte
 460	Meteorological recalls 3 people can participate in the team, it is recommended to call some teammates. \r "The Guladu consortium used its superb technology and abundant financial resources to simulate the battle of the last holy war. The holy warriors can go back and experience the hard battles in the holy war."
 461	Saint Goddess of the Goddess
 462	The story of the various Saints is circulated in the world of Saints. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi. More than \r30 will receive time debris, which can be used to redeem rewards in the Guild Base.
@@ -495,7 +495,7 @@
 494	You can enter the bathing glory state by clicking the “Bathing Glory” skill in the basic skill bar. You will get a storage experience every 5 minutes. The storage experience is related to the combat power. \rYou can "bath glory" up to 8 hours a day, and you can get extra bonus bonus in the Guild base.
 495	Every Monday, Wednesday, Friday and Sunday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \r This event is only open in Sanctuaire 1 and is held every 4 minutes! \rEveryone to guess who is the first to run racing!
 496	Time Travel - Go and find the time and space ambassador to show you the young yarn weaving! \rIf today's lucky star is directed at gluttony yarn, then complete the gluttony yarn to get the extra bonus of Lucky Star!
-497	Lucky Stars - Lucky Star will guide you to the Super Run or Gui Gui Dictionary, and you can get a reward for the lucky star guide! Come and join!
+497	Lucky Stars - Lucky Star will guide you to the Course des Mini or Gui Gui Dictionary, and you can get a reward for the lucky star guide! Come and join!
 498	The lovely noble ghost has been working hard to complete his book, the Gui Gui Dictionary, and help him!
 499	Remember that you became the original intention of the Saints - killing evil! \r Saints's Road rewards the reputation of the area where the mission is located. When the player's reputation in the area reaches 50,000, 750,000, 100000 respectively, in order to appreciate their contribution to regional security, the security team's leaves will give players different rewards. Oh~\r Also, when all players complete a certain amount of tasks in the same area, they will randomly brush out the boss monsters on the map, and there will be rich rewards in defeating! You need to be aware that when the level reaches level 30 or above, the Saints Road will only be awarded a reputation award. Saints! Go guard your land!
 500	Open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Reborn! The monster level in the soul song of the Sanctuaire is the average level of the team members. Only one event can be taken every day. It is recommended that the group be 6 people to participate. \r Background: The Sacrée cemetery has changed on the eve of the holy war, and the Royaume des Enfers has sneaked into the cemetery, trying to turn it into a place to steal the power of the Sanctuaire and a bridgehead to attack the Sanctuaire...
@@ -508,8 +508,8 @@
 507	critical! The goddess guards can only finish once a day. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59. \r Critical! The monster level in the Goddess Guard is the average level of the team members. It is recommended that the group be 6 people to participate. \r Background: The goddess's Cosmo is waking up. This is the darkest moment before dawn. The goddess needs you and needs your defense.
 508	supports the “inheritance team mode”. In the inheritance team mode, the customs clearance rewards the players who pass the level of 60 or above according to the number of players below level 59. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \rAbyss! The monster level in the last days of the Magic Star is the average level of the team members. It can only be taken once a day. It is recommended that the group be 6 people to participate. \r Background: The holy war is about to break out, and the goddess is convening the holy warrior to Tartarus to obtain the fruit of the hibiscus that can make the Vierge beads.
 509	Dream God attempted to sneak into the Sanctuaire through the well of Huang Quan. Now it has appeared near the well of Huangquan with the minions des Enfers. Fortunately, the pope has already understood the whole conspiracy. The Taureau Or Saints has been ordered to go. Go Help Aldebaran! \r can only participate once a day, recommend team to participate!
-510	Every Tuesday, Thursday, Saturday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \rAs a goddess defender, do you want to go back to the past to understand the yarn of the girlhood through the tunnel of time and space? \r With the current energy, it can only be maintained for 10 minutes, and you will be sent back to reality. I hope that you can grab more snowballs and give them to the girlish yarn in a limited 10 minutes! \rFriendly Tip: Don't underestimate those snowmen. Only when the snowball on you is bigger than it can you hit it!
-511	Galaxy Gymnasium opens the venue on 13:00-15:00, 22:00-23:55 every Saturday and accepts registration. \rGray River Fighting Field provides a platform for Saints to show their strength. \rIn the opening time of the weekly venue, through the registration competition, and the powerful opponent 1v1 confrontation, continue to accumulate scores, and upgrade their ladder level, and fight against more powerful opponents. \r In addition to the rich rewards obtained in each game, you can get rich weekly awards according to the ladder level, and you can use the reward points to redeem premium items.
+510	Every Tuesday, Thursday, Saturday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \rAs a goddess Defense, do you want to go back to the past to understand the yarn of the girlhood through the tunnel of time and space? \r With the current energy, it can only be maintained for 10 minutes, and you will be sent back to reality. I hope that you can grab more snowballs and give them to the girlish yarn in a limited 10 minutes! \rFriendly Tip: Don't underestimate those snowmen. Only when the snowball on you is bigger than it can you hit it!
+511	Galaxy Gymnasium opens the venue on 13:00-15:00, 22:00-23:55 every Saturday and accepts registration. \rGray River Fighting Field provides a platform for Saints to show their strength. \rIn the opening time of the weekly venue, through the registration competition, and the powerful opponent 1v1 confrontation, continue to accumulate scores, and upgrade their ladder level, and fight against more powerful opponents. \r In addition to the rich rewards obtained in each game, you can get rich weekly Gains according to the ladder level, and you can use the reward points to redeem premium items.
 512	Event time: June 07-June 14, 2016. \r value on the occasion of the Dragon Boat Festival, many Saints gathered in Lushan. The tranquil Lushan Mountain is very lively at this moment. The village head also specially invites you to visit Lushan to attend their Dragon Boat Festival celebrations. What are you waiting for, go to the party! \rJune 14th at 6:00 am to end the event!
 513	Midsummer has arrived, but the Sanctuaire is very lively. It seems that the enthusiasm of the people in the Sanctuaire is even more hot than in the hot summer days. What is going on? Go and ask Sarna.
 514	The Terre Etoilée is an important spiritual practice in Greece, and it is also the mapping of Cancer on the earth. When the zodiac was run to the Cancer Palace, a large number of squadrons came to the stars to try to occupy it.
@@ -562,9 +562,9 @@
 561	The Royaume des Enfers forces are preparing to invade the Sanctuaire with the night, and the Saints who know the news immediately go to meet the Soldat des Enfers. When the Saints arrived, they were surprised to find that a familiar figure had been guarded there. The soul of the Capricorne Golden Saint Sebastian is still fighting for the bravery of defending the Sanctuaire...
 562	can only be completed once a week, and a group of 6 people can participate. \r Captain needs to carry items: the power of the city's yarn woven book, at the Tatsumi Kyuma, the team to take the task: the commission of the city's yarn weaving, and then can participate. \rNote: The power of attorney is mainly produced in the Guild, so joining an active Guild can make it easier to participate in this event.
 563	Event deadline: March 3, 2014. \rOnline online to get an activity of 20 points, you can receive a "Ma Nian Treasure Map Fragment" at the Year of the Horse New Year Ambassador Zilong. \r Collection 1, 7, 20, 30 can be exchanged for the Spring Festival. (After February 10th, the exchange will be started, and the exchange will not consume debris. After March 3, the "Yamao Treasure Map Debris" can be used directly).
-564	Event deadline: February 18, 2014. \r During the event, players above level 20 can get the items "new", "year", "fast", "le", "blessing" and "fu" through personal activities "super run", "snowman grabs the pro", "magic bell daily". "heart". \rCollect 7 words to receive the New Year blessing mission with the New Year Ambassador (limited to 1 time). \rCollect the "new", "year", "fast" and "le" four words to receive the Happy New Year mission with the New Year Ambassador (one time per day).
+564	Event deadline: February 18, 2014. \r During the event, players above level 20 can get the items "new", "year", "fast", "le", "blessing" and "fu" through personal activities "Course des Mini", "snowman grabs the pro", "magic bell daily". "heart". \rCollect 7 words to receive the New Year blessing mission with the New Year Ambassador (limited to 1 time). \rCollect the "new", "year", "fast" and "le" four words to receive the Happy New Year mission with the New Year Ambassador (one time per day).
 565	Event deadline: February 2, 2014. Players above level 20 can choose one of the two idioms in the "Immediately Money" and "Thinking" events with the New Year Ambassador. Two batches of lottery draws will be opened during the two redemption periods. Winning players get a big prize! Players who have not won and did not participate in the selection process will also receive a special reward!
-566	Event deadline: February 24, 2014. Players above level 20, during the event, can be in the "rebirth! Sanctuaire of the soul of the Sanctuaire" "assembly! The zodiac crisis" "incubation! The Papillon nest" "the abyss! the end of the magic star" "mourn! Hell Sonata" In the "Storm! Atlantis" copy, kill the copy of the final BOSS, you can drop the New Year special props Year of the Horse Commemorative Coin. Accumulate a certain number of Year of the Horse Commemorative Coins and exchange special awards with the New Year Ambassador Seiya.
+566	Event deadline: February 24, 2014. Players above level 20, during the event, can be in the "rebirth! Sanctuaire of the soul of the Sanctuaire" "assembly! The zodiac crisis" "incubation! The Papillon nest" "the abyss! the end of the magic star" "mourn! Hell Sonata" In the "Storm! Atlantis" copy, kill the copy of the final BOSS, you can drop the New Year special props Year of the Horse Commemorative Coin. Accumulate a certain number of Year of the Horse Commemorative Coins and exchange special Gains with the New Year Ambassador Seiya.
 567	Event time: February 11th - February 17th, 2014. \rEvery day, you can take the husband and wife team task "sweet and still" in the blink of an eye, and you can get 60 points of love reward after completion.
 568	Activity time: February 11th - February 24th, 2014. \rOnline players who have been offline for more than 7 days can get the cyan title "Zemao Pentium" and 14 items "New Year Summon Scroll" after going online. \rYou can get a lifetime mission with Seiya through the title "Ze Ma Pentium", rewarding 6 title packages "Running to Your Arms" and 7 "New Year Experience Powerful Volume", and 7 "Red Bags for You" props .
 569	The Spring Festival fell, and the Royaume des Enfers forces were rushing to attack the various Saints. The Athena learned of the news and sent 12 Or Saints and the Saints Guild to defend the base. \r Enter the Guild base, pick up the mission at Athena near the miracle, and Résist the Royaume des Enfers forces in the battlefield in the center of the base map. You can also wear the Or sacs around Athena and use the power of the Golden Saints to fight. \r The activity time is 9:00-22:30 on Mondays, Wednesdays, Fridays and Sundays.
@@ -582,9 +582,9 @@
 581	In the mysterious alien space, justice and evil are spreading. A brave and just boy, go to the alien space to help Gemeaux dispel the evil in your heart and let justice last forever!
 582	Shrinking the world is undergoing an entertainment competition, each participant will receive a reward, destroying the other's fortress will win the competition, the winner will receive additional rewards.
 583	This is a war that belongs to the ruler! Get the battlefield mission from the gentle big ugly, and then in the shrinking world into a ruling star to destroy the other's fortress to win the battlefield victory, and get extra reward! What are you waiting for? Come and fight one game!
-584	You can use the God of War to pick up the mission every day at the warrior Angelina: the flag is open! Win the new game and win in the [Lava Battlefield] [Sky Battlefield], and you can get a lot of rewards in the top 90%.
-585	You need to participate and win in the [Lava Battlefield] [Sky Battlefield], which can only be completed once a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
-586	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r lava battlefield can provide an absolutely fair competitive environment, here will be you Show the stage! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
+584	You can use the God of War to pick up the mission every day at the warrior Angelina: the flag is open! Win the new game and win in the [Guerre au Volcan] [Guerre Aérienne], and you can get a lot of rewards in the top 90%.
+585	You need to participate and win in the [Guerre au Volcan] [Guerre Aérienne], which can only be completed once a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
+586	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r Guerre au Volcan can provide an absolutely fair competitive environment, here will be you Show the stage! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
 587	Labor Day is approaching, for those Saints who have long worked hard to protect the Sanctuaire peace, the goddess Athena prepared a mysterious gift to thank them for their contributions.
 588	Event deadline: May 19, 2014. \r During the event, players above level 20 can get 4 characters of the item "Labor", "Move", "Light" and "Right" through personal activities. \r Collect 4 words to receive a surprise gift with the Labor Day Celebration Ambassador (1 time per day).
 589	In order to thank the Saints who has been working hard for the Sanctuaire, the goddess Athena is prepared to issue a thank-you award during the Labor Day, and a large amount of experience vouchers are waiting for you. \rEvent time: May 1st - May 3rd every day 20:00 - 23:59
@@ -600,7 +600,7 @@
 599	sniper! The Big Three
 600	Gemeaux! Death and sleep
 601	The holy warriors are following the Athena finger to introduce the military Royaume des Enfers! From 6:00 to 3:00 every day, the head of the Guild led the members to enter the Royaume des Enfers from the Guladu employees of the Arene Galactique. There are a total of 7 levels in the Royaume des Enfers, which require 12-36 Saints to complete together. First of all, you must pass the "Breakthrough! The Gate des Enfers", and then randomly open one of the 2nd to 7th levels at the Guild Base to complete the battle of these two stages to receive the victory fruit at the Guild Base.
-602	Dream God with a group of gladiators preparing to ambush in the sky battlefield sneak attack on the Saints is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saints, Saints They all became huge, and in addition, the rabbits also made some special candy, which is said to have a mysterious effect, ready to step on the flat warriors together!
+602	Dream God with a group of gladiators preparing to ambush in the Guerre Aérienne sneak attack on the Saints is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saints, Saints They all became huge, and in addition, the rabbits also made some special candy, which is said to have a mysterious effect, ready to step on the flat warriors together!
 603	Time to return to the moment when Shiang and the gladiators broke into the twelfth house, helping Tong Hu to fight against the former comrades--the challenge of Belier, the same powerful Belier as the teacher. \rProbability gets "Balance to treasure pieces" Oh!
 604	Hades Hades took the goddess Athena away as the Saints celebrated the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Hades, they found that Hades and the goddess Athena became another look.
 605	Sagittaire Ptolemy decided to play an archery match with Sagittaire Aioros. The two Saints decided to give their skills to other Saints. The other Saints judged who the archery skills were. .
@@ -723,7 +723,7 @@
 722	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89.
 723	Open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89. \r counterflow! In the zodiac crisis, the monster level is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The power of Hades is invading the Sanctuaire, and the holy warriors are going to defend the gates of the Sanctuaire!
 724	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89. \r counterflow! The level of monsters in Atlantis is the average rank of the team members. It can only be taken once a day. It is recommended to have 6 people to participate. \r Background: The tsunami is frequent and the disaster is heavy. People are praying for the glory of the goddess to shine on the earth. The Sanctuaire needs you to investigate the truth of the tsunami and calm it down.
-725	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r [sky battlefield] can be understood as a flight battlefield, not only to test here The ability to fight on the ground is also where you show your flight combat skills. \r can use God's battle point to pick up the mission at the Angel of the Angels: the flag opens! Win a new game and get a lot of rewards when you're done.
+725	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r [Guerre Aérienne] can be understood as a flight battlefield, not only to test here The ability to fight on the ground is also where you show your flight combat skills. \r can use God's battle point to pick up the mission at the Angel of the Angels: the flag opens! Win a new game and get a lot of rewards when you're done.
 726	During the 726th anniversary celebration, you will receive a medal for the anniversary celebration with a 20-point activity every day.
 727	During the anniversary celebration, you can receive a badge for the anniversary celebration at 20-22 o'clock every day.
 728	Nether Flying A (Permanent)
@@ -742,7 +742,7 @@
 741	Event time: From now until October 7th, the National Day clown will appear in the 15-line Sanctuaire from 12:00 to 13:00 and 21:22 to -22. The reward can only be opened 20 times. If you exceed the opening limit, please sell the store yourself.
 742	Event time: From October 28th to November 3rd, pick up or kill the zodiac crisis, rebirth, hatching, and copy of the clock tower after the final BOSS at 8:00-10pm. \r Accumulate 1, 3, 6, and 9 fruit can be exchanged for rich rewards at the pumpkin lanterns, and 9 special Halloween titles.
 743	Activity time: November 8th to November 14th, every day, you can find the son of the god of love to get the activity task.
-744	Event time: From November 10th to November 16th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. After using the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
+744	Event time: From November 10th to November 16th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. Après utilisation the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
 745	Epic team equipment copies, each BOSS only has 1 drop per week, and is separated from the "Hero" copy. The higher the difficulty of BOSS, the better the drop, so please ask the Saints to cherish their chances of falling. \r suggests 1 tank player, 3 treatment players, and 8 output players. \r Hero points can be participated when they reach 60 or more.
 746	can only be completed once a week. \r After taking the task, team up to participate in [Hero] Blue Ice Fort, [Hero] Cité d'Hades, [Epic] Hades and pass the victory, you can complete a lot of rewards!
 747	Time-limited fashion mount
@@ -767,7 +767,7 @@
 766	During the event period, within the set time range (20:00-21:00), players do not need any operation, just online, every 10 minutes, you can get rich online rewards. In addition to the fixed income, you can also get a variety of premium rewards at random!
 767	During the event, during the time frame (20:00-21:00), the player does not need any operation, only online, every 10 minutes, you can get rich online rewards. In addition to the fixed income, you can also get a variety of premium rewards at random!
 768	During the event period (February 10th - March 9th), Saints official WeChat will release the activation code of the package every day. Each micro-signal code can participate in the event once a day, and the activation code of the package can be used. NPC Zela (Sanctuaire: -241, -402), click the NPC-Zela dialogue and select the gift card option, enter the activation code of the obtained package, click on the confirmation, you can redeem the New Year happiness blessing bag (open to get happiness) One of the dumplings and the greeting cards of the New Year, together with 1, 3, 6, and 9 happy dumplings, can be exchanged for a premium prize at (April 19th - March 9th) to the Q version of Athena. . Use the New Year's greeting card to get a fixed bonus, up to 30 per player.
-769	On Valentine's Day, the system will record the world call (including the name of the person being blessed) and (the words or blessings that Valentine said to TA), each server will randomly select 10 pairs of lovers (ie send blessed characters and be blessed) Role), gifted with the special edition of the Valentine's Day 2015 special title: 2015. Note: The event winners will be announced on the official website after February 25th. The event awards will be issued within 5 working days after the winners are announced.
+769	On Valentine's Day, the system will record the world call (including the name of the person being blessed) and (the words or blessings that Valentine said to TA), each server will randomly select 10 pairs of lovers (ie send blessed characters and be blessed) Role), gifted with the special edition of the Valentine's Day 2015 special title: 2015. Note: The event winners will be announced on the official website after February 25th. The event Gains will be issued within 5 working days after the winners are announced.
 770	title: 2015
 771	The goddess was taken away again! Why do I say that...
 772	Event time: From March 17th to March 30th, you can get an extra double reward for the battlefield by completing two Attica battlefields or chaotic battlefield missions every day.
@@ -783,7 +783,7 @@
 782	Combat scale: 8-15 people / square \r100 level open \r cloud hegemony is the first tripartite battlefield, using the "death fight" game, the first to win 50 people to win! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
 783	In this illusory chaos, time is cut into line segments. The way to reset the time is as always, killing one round of enemies within ten minutes, and five rounds of illusion BOSS! Of course, this is also your chance to prove yourself! Come on, Saints! Grinding this suppresses your vain jokes, in this chaos, you only cover your hands!
 784	Do you still remember the days of fighting with your friends? The battle of blood, the cry of passion, the joy of victory and the mutual failure of failure, now these long-lost passion Or leagues are all given to you at the same time, the 30-level or above partners (30-79; 80-99; 100-level three) Participate in fast-paced 5v5 battles and high-value rewards that can't stop you completely, what are you waiting for? Come and join! ! !
-785	Activity time: From June 16th to June 22nd, complete the Attica Battlefield or Chaos Battlefield mission twice a day, you can get an additional double reward for the battlefield.
+785	Activity time: From June 16th to June 22nd, complete the Attica Battlefield or Guerre des Cristaux mission twice a day, you can get an additional double reward for the battlefield.
 786	Event time: June 16th - June 22nd, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive the mystery prize! Only 2 minutes of pick-up time per pop-up, please don't miss it!
 787	Event time: From now until April 27, when the daily activity reaches 20, you can receive one Or soul resurrection card at Aeoria. When you collect 1, 3, or 5, you can redeem the surprise reward at the gift ambassador.
 788	Event time: From now until April 27, during the event, every day, you will be able to get a copy of the zodiac, Atlantis, rebirth, abyss, hatching, mourning, counter-current, yarn weaving, etc.
@@ -802,7 +802,7 @@
 801	The Shadow of Hades is refreshing the world BOSS in Pole Pure Land 2 at 21:30 every night. There are a lot of Hades remnants guarding him. The last blow to kill these guards can get a good reward. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
 802	Activity time 12-22 to December 28\r Santa's gift, but it was destroyed by evil forces, and turned into a mad snow fairy to escape...
 803	Activity time: from January 26th to February 15th, 2016\r80 or above, the daily activity reaches 15 and 180 to open the activity treasure chest, respectively, you can get 1 guard badge exchange coupon\r set 30 coupons You can redeem a child of the god of love, each character is limited to 2 times\r exchange time: February 16 to February 22, 2016
-804	Event time: January 26th to February 15th, 2016\r The role of level 80 or above is open daily. 55,110,180 activity treasure chests can be obtained corresponding to ordinary, rare, precious monkey year red envelopes each one\r all Saints Killing the Big Map of Cité d'Hades: The Guardian des Enfers, the Papillon des Enfers, the Secret des Enfers, the Royaume des Enfers Tracker, the Royaume des Enfers Killer, the Graveyard, the Royaume des Enfers, the Flower of the Devil, the Reaper des Enfers, the girlfriend of Victor, Soldat des Enfers, bloodthirsty bats, type a blood bats, type b blood bats, ab blood bats, o type blood bats\r Royaume des Enfers hell: first prison town soul officer, second prison town soul officer, third prison town soul Officer, fourth prison town soul officer, fifth prison town soul officer, blood scorpion, violent judge, soul-soul flower, poison beetle, group snake guard, Titan guard, ice hunter, Royaume des Enfers guardian, ice guard , Soul Soul Travels\r Bliss Pure Land: Forest Fairy, Guarding Fairy, Guarding Fairy Monsters, Randomly Obtaining Monkey Year Red Packets
+804	Event time: January 26th to February 15th, 2016\r The role of level 80 or above is open daily. 55,110,180 activity treasure chests can be obtained corresponding to ordinary, rare, precious monkey year red envelopes each one\r all Saints Killing the Big Map of Cité d'Hades: The Gardien des Enfers, the Papillon des Enfers, the Secret des Enfers, the Royaume des Enfers Tracker, the Royaume des Enfers Killer, the Graveyard, the Royaume des Enfers, the Flower of the Devil, the Reaper des Enfers, the girlfriend of Victor, Soldat des Enfers, Chauve-Souris des Enferss, type a blood bats, type b blood bats, ab blood bats, o type blood bats\r Royaume des Enfers hell: first prison town soul officer, second prison town soul officer, third prison town soul Officer, fourth prison town soul officer, fifth prison town soul officer, blood scorpion, violent judge, soul-soul flower, poison beetle, group snake guard, Titan guard, ice hunter, Royaume des Enfers guardian, ice guard , Soul Soul Travels\r Bliss Pure Land: Forest Fairy, Guarding Fairy, Guarding Fairy Monsters, Randomly Obtaining Monkey Year Red Packets
 805	Activity time: January 26th to February 15th, 2016\r collect 100,300,500, 1000 monkey year Chinese New Year fragments plus corresponding Or coins can be exchanged for the New Year special gift\r100 convertible dance skills package, 300 Convertible Sagittaire Transformer Card (Permanent), 500 Convertible Destroy, Sun, Golden Power Mount, 1000 Convertible Roaring Bears Out of Print Mounts\r Redemption Time: February 16th to February 22nd, 2016
 806	Event time: February 4th to February 15th, 2016\r All Saints during the event, pay attention to the official micro-signal wanmeiseiya, reply to the "carousel" available activity QR code, long press the QR code to select "identify two-dimensional Code" can enter the activity carousel to participate in the lucky draw\r or log in to the official website activity page, scan the QR code to enter the activity carousel to participate in the lucky draw\r, get 2 lucky draws every day, directly extract for the first time, share the circle of friends and get another chance. View the winning record in the reward inquiry, you can redeem the reward in the game with the redemption code\r. Please pay attention to the official website\r exchange time deadline: February 29, 2016
 807	The outbreak of the red fog incident made the mythical crystals extremely scarce. Please collect 10 mythological crystals from the "one-stop" to the big pharmacist Hemier.
@@ -839,7 +839,7 @@
 838	On the 12th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments.
 839	[Donjon] Inheritance! Or Trial
 840	[Donjon] big counterattack! Ice Country Evil God (3rd Ring of God)
-841	[Donjon] Holy War memories
+841	[Donjon] (Souvenir) Guerre Sainte
 842	15 or above
 843	level 35 or above (^fffd44 drop 29-48 level equipment ^N)
 844	45 or above (^fffd44 drop 38-56 equipment ^N)
@@ -847,22 +847,22 @@
 846	level 70 or above (^fffd44 drop 68-81 level equipment ^N)
 847	80 or above (^fffd44 drop 78-89 equipment ^N)
 848	[PvP] Glory of the battlefield
-849	[Solo] Super run
+849	[Solo] Course des Mini
 850	30-100 level (^fffd44 can only get 59 rewards ^N)
 851	60 or above (^fffd44 drop 56-68 equipment ^N)
 852	level 68 or above (^fffd44 drop 60-75 level equipment ^N)
 853	90 or above (^fffd44 drop 89-99 equipment ^N)
-854	[Solo] super run
+854	[Solo] Course des Mini
 855	[Donjon] Doddess! Midsummer god pray
 856	[Donjon] Rebirth Carnival - Heavenly Treasure Chest
 857	[Donjon] Mid-Autumn Festival! Oyster of osmanthus wine
-858	[Donjon] Critical! Goddess of mind
+858	[Donjon] Protéger Athéna ! BL
 859	[Guilde] Invasion en Guilde !
 860	[Donjon] Guerre du Colisée
 861	[PvP] victory! The road to the king
-862	[Donjon] Countercurrent! Or Trial (God of War 3)
+862	[Donjon]& Rêve des Dieux Or
 863	(6 people)
-864	[Donjon] Rêve des Dieux !
+864	[Donjon]& Rêve des Dieux Surplis
 865	[Event] Eros Collection Order
 866	110 or above
 867	(6-12 people recommend the full team)
@@ -893,14 +893,14 @@
 892	can only be completed once a week, and a group of 6 people can participate. \rCaptain needs to carry items: the power of the city's yarn weaving power of attorney, at the Chen Yude pill to lead the team to take the task: the commission of the city's yarn weaving, and then can participate.
 893	Take part in the resurrection! The myth of the big battlefield needs to consume 2 times of the third ring of the Lushan Mountain. When the remaining number of the third ring of the Lushan Mountain is less than 2 times, it is impossible to participate! The big battlefield is a trial field that Mr. Mu used to create his mind. Only the really powerful Saints can pass the trial here.
 894	Shrinking the 6V6 battlefield in the world, players need to choose one of the many heroes to gain power, and use this power to defeat enemy players and eventually destroy the other's fortress. You can get rewards after receiving the task on Mondays, Wednesdays, Fridays and Sundays!
-895	Dream God with a group of gladiators preparing to ambush in the sky battlefield to attack the Saint Seiya is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saint Seiya, Saint Seiya They are all huge, ready to step on the flat warriors!
+895	Dream God with a group of gladiators preparing to ambush in the Guerre Aérienne to attack the Saint Seiya is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saint Seiya, Saint Seiya They are all huge, ready to step on the flat warriors!
 896	Time to return to the moment when Shi'an and the gladiators broke into the twelfth house, helping Tong Hu to fight against the former comrades--the challenge of Belier, the same powerful Belier as the teacher.
 897	A group of ice warriors occupy the Blue Ice Fort. Trying to confront Athena, let the earth ignite the war again. \r Loyal Saints, go to the blue ice castle, crush their attempts. \r Hero points can be participated when they reach 60 or above. You can participate in up to 5 times a week, and count with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
 898	Cité d'Hades is the position of the Gladiator on the ground and the entrance to the Royaume des Enfers. \rSaints rushed into Cité d'Hades and smashed Hades's minions to get through the path to save Athena in the Royaume des Enfers. \r Hero points can be participated when they reach 60 or above. You can participate in up to 5 times a week, and count with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
 899	All battles and three rings are counted together. This activity includes 3 copies of the serial challenge with sequential relationship: \r "Countercurrent! Poisson Trial" - "Countercurrent! Balance Trial" or "Countercurrent! Lion Trial"\r Participate in any copy count once a day Can participate in 6 times in total, participate in "countercurrent! Poisson trial" need to consume 1 point of war, participate in "countercurrent! Balance trial" or "countercurrent! Lion trial" need to consume 2 points of war. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89.
 900	All battles and three rings are counted together. This activity includes 3 copies of the serial challenge with sequential relationship: \r "Dream! Summer bugs" - "Dream! Broken Mountain Cliffs" or "Wake Up! Flying Down"\r Participate in any copy count 1 time, you can participate in 6 times a day, participate in "Dream! Summer bugs" need to consume 1 point of war, participate in "Dream! Broken Mountain Cliff" or "Wake Up! Flying Down" takes 2 points God fights. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89.
 901	Activity time: From November 11th to November 17th, you can find the child of the god of love to get the activity task every day. After completing the task, you can not only get the task reward but also get the special props romantic certificate. Collect 9 romantic certificates. Redeem a special title.
-902	Activity time: From November 11th to November 17th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. After using the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
+902	Activity time: From November 11th to November 17th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. Après utilisation the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
 903	The epic team has a copy of the equipment. Every BOSS has only one drop per week. The higher the difficulty, the better the drop. So please ask the Saint Seiya to cherish your chance to drop. \r Note that the epic copy is now separated from the hero copy. Record, the player can continue to attack the epic copy after Raiders the hero copy. \r suggests 1 tank player, 3 treatment players, and 8 output players. \r Hero points can be participated when they reach 60 or above. You can enter unlimited times every week, but each BOSS drops only once a week.
 904	Or Service exclusive benefits, a large amount of experience per day and 3.5 times experience time per hour
 905	Or Service Exclusive Benefits, 1000 Star Certificates and 10 Sweep Cards per day

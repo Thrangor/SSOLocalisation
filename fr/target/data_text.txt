@@ -133,7 +133,7 @@
 132	Have fun, Saint, take advantage of the expansion pack! The Sang d'enchant that will be Parfait, Star Soul orange level 10, Bestial Divine beast of two heads; Do not these treasures leave you with a huge will? Do not stay with envy! Players of level higher than 20 can withdraw generous prizes here, with me, daily, when the Degree of Activity reaches 100.
 133	^000080 This stone monument looks a little different from the others, on the surface it seems to have a kind of force that is calling.
 134	With the entry ticket of any tournament on line 13, you can enter here, with me, at any Tournament Field on line 13!
-135	From this day until 09/12, when the Degree of Activity of the top players of level 20 complete 100, you can remove here, with me, rich cakes from the pumpkin moon. After using them, they will have the opportunity to obtain 100 Sang d'Enchantements, 100 Space-Time Keys, Limited Fashion (3 hours) and Heart of Gratitude. Accumulating separately 1, 3 and 6 Hearts of Gratitude, you can change, in a single time, for the gift package of the heart of gratitude. After opening it, there is a huge amount of EXP and generous prizes!
+135	From this day until 09/12, when the Degree of Activity of the top players of level 20 complete 100, you can remove here, with me, rich cakes from the pumpkin moon. Après utilisation them, they will have the opportunity to obtain 100 Sang d'Enchants, 100 Cube Cosmiques, Limited Fashion (3 hours) and Heart of Gratitude. Accumulating separately 1, 3 and 6 Hearts of Gratitude, you can change, in a single time, for the gift package of the heart of gratitude. After opening it, there is a huge amount of EXP and generous prizes!
 136	You do not need to talk so much; I beat myself first after talking again.
 137	Players above level 20 can, weekly, receive a free double period.
 138	The Fleurs Demoniaque of Queen, Celestial Star of Magic, is corroding the roses of the House of Poisson
@@ -151,7 +151,7 @@
 150	I want the Goddess to protect you.
 151	In order to pay homage to the great time of Athena, journey of countless miles to come from Saipan ......
 152	Do not bother me ...
-153	Inside that dungeon there is a dangerous Cosmo ......
+153	Inside that Donjon there is a dangerous Cosmo ......
 154	How did this wall break again? The sandstorm is very big ......
 155	This event comprises three challenges Zonas instances in the sequential chain, and the third one is here with me: Demonic country country of This event comprises 3 Instances areas of sequential chain challenges, is the third one is here, with me: Demonic God of the Country of Ice. After forming a team, receive the mission here, with me, to participate. Participation consumes points of divine struggle. In this week there remain ^e12500 ${rep (71)} points of Divine Strike Points ^N. ^e12500 This event supports the "Tutelary Troop Mode." ^N The Captain can form the troop. Requirements to be a member of the troop: 1. 3-6 superior players of level 60; 2. 0-6 level players between 30-59. In the Troop Inheritance Mode, if the number of players below level 59 is equal to or greater than 3, the superior players of level 60 may obtain the highest value inheritance prize.
 156	Passing the Wall of Eternal Ice, at the distant extremity of Sibérie, there is a green garden in which no one ever dared to come. Here the completely different from the icy surroundings, the green blooms, life is born without fear, the flowers eternally they unblock abundantly. In the center of the garden, there is a tree that extends towards the sky and there it is from the day the world was born; that is the wrath and the breathing of the world ... According to the legend, when the tree is destroyed, the world also inevitably, as a consequence, will perish. However, each time you perish, you will be reborn once.
@@ -344,7 +344,7 @@
 343	The nucleus of Oricalco, a Divine Artifact that imprisons the Power of the Empereur des Mers ......
 344	You defeated the most powerful of the Marines, Krishna of Crhysaor. But the time is short and Athena is still in danger. Afterwards, there are still more challenging struggles waiting for you.
 345	I, who am I, life and death still matter, come with me, I can promise you a freedom beyond life and death!
-346	Due to that mission that the Chief of the Army received, 1 million Or will be consumed. You can obtain a special tool to declare war of the Miracle of the Army, with effect of 7 days. The war declaration tool can be used against the Army Miracle of any base (including this base). After using it, the Miracle will go into mode of declaration of war and may be attacked. The duration is of the war is 1 hour; After this time is over, the miracle will be restored to the status where it can not be attacked. The mission will be defined every Tuesday, at 00h00. Please, prepare well to continue with the declaration of war!
+346	Due to that mission that the Chief of the Army received, 1 million Or will be consumed. You can obtain a special tool to declare war of the Miracle of the Army, with effect of 7 days. The war declaration tool can be used against the Army Miracle of any base (including this base). Après utilisation, the Miracle will go into mode of declaration of war and may be attacked. The duration is of the war is 1 hour; After this time is over, the miracle will be restored to the status where it can not be attacked. The mission will be defined every Tuesday, at 00h00. Please, prepare well to continue with the declaration of war!
 347	I know that, after Seiya crossed the House of Gemeaux, he felt that the Cosmo of Shun and Hyoga disappeared. I do not know if they managed to pass through the House of Gemeaux with ease. Seiya is already one step ahead, we will continue.
 348	I heard that there is someone who wants to destroy the village of Nereus. This type of evil person must be punished severely!
 349	The brothers fight side by side with a single desire: death!
@@ -458,7 +458,7 @@
 457	Damn! The Seventh Prison is divided into ten wells, if we keep fighting like that, we definitely will not get to Athena in time.
 458	Do not be fooled, believing that I, the great Charon, will let you escape!
 459	Second page of image description
-460	With 1, 3, 7 "Ice and Snow Day Ornament", you can get super gifts on the Christmas tree, get millions and millions of EXPs, and still have many Golden Armor fragments, as well as having the opportunity to obtain 100 Sang d'Enchantements and 100 Space-Time Keys! The change will not pick up the "Ice and Snow Day Ornament"; After the event ends, you can open "Ornament" and get EXP and Argent as a gift! What an abundance, he will collect later!
+460	With 1, 3, 7 "Ice and Snow Day Ornament", you can get super gifts on the Christmas tree, get millions and millions of EXPs, and still have many Golden ArmFragment d'Ors, as well as having the opportunity to obtain 100 Sang d'Enchants and 100 Cube Cosmiques! The change will not pick up the "Ice and Snow Day Ornament"; After the event ends, you can open "Ornament" and get EXP and Argent as a gift! What an abundance, he will collect later!
 461	The heart of the wise person discerns time and theory.
 462	I really like it a lot.
 463	Only by collecting enough donations will I have Power of Struggle to fight with force against the King des Enfers! ^00ffff Every night, at 20:00 ^N the rate of donations will be counted To defeat the King des Enfers shortly, please, give full force!
@@ -589,7 +589,7 @@
 588	Critique +2512
 589	Dégât Feu +1442
 590	Do not let Hades hurt Athena in any way!
-591	Warning: only the Army sub-leader or member with a superior position can make a withdrawal, the consumption of 10,000 Army Fundos is needed. "Crisis! Feelings of the Goddess" - the entrance ticket is linked individually, therefore, high-patent officials must receive it separately.
+591	Warning: only the Army sub-leader or member with a superior position can make a withdrawal, the consumption of 10,000 Army Fundos is needed. "Crisis! Feelings of the Goddess" - the entrance ticket is linked Individuelly, therefore, high-patent officials must receive it separately.
 592	You must protect the security of the Sanctuaire well.
 593	Young people today do not give money and then leave.
 594	The extraction of destiny decided the path of life of a person.
@@ -944,7 +944,7 @@
 943	...... It's been so long, I've forgotten it.
 944	This article can only be used after 03/18/03
 945	I will always protect Miss Saori!
-946	Thanks, thanks to you who accompanied the Knights, going through the wind and the rain. Thanks to you, we will do even better and especially during the Thanksgiving period, we will bring many events and awards.
+946	Thanks, thanks to you who accompanied the Knights, going through the wind and the rain. Thanks to you, we will do even better and especially during the Thanksgiving period, we will bring many events and Gains.
 947	Defense + 70 \rHP +900
 948	Dégât Elec +372
 949	Dégât Elec +1102
@@ -1255,7 +1255,7 @@
 1254	As a court officer, alive or dead, I must be loyal to the sovereign.
 1255	Only now I understand, I have many deficiencies. I will strive, Huahahaha
 1256	The Sanctuaire, for me, is already a distant name ...
-1257	Saori or Santuário agora é muito perigoso, Poseidon and Hades querem pegá-the A Deusa precise da sua ajuda! \r ^e12500This Dungeon can be started either individually or not Group mode (unaltered reward) \r ^e12500 This Dungeon supports or "Disciple Mode". ^N \rO Leader can raise a Raide and ask for new team members to be organized.
+1257	Saori or Santuário agora é muito perigoso, Poseidon and Hades querem pegá-the A Deusa precise da sua ajuda! \r ^e12500This Donjon can be started either Individuelly or not Group mode (unaltered reward) \r ^e12500 This Donjon supports or "Disciple Mode". ^N \rO Leader can raise a Raide and ask for new team members to be organized.
 1258	Opening hours of the event: Monday to Sunday (Except Saturday) 11:30 - 12:00 or 19:30 - 20:00 Saturday 11:30 - 12:00 or ^ff0000 19:00 - 19:30 ^N The event requires Army Chief, substitute for the chief and deputy chief to be opened.
 1259	The Grand Pope ordered that I stay here to receive Miss Saori Kido.
 1260	Would you choose depraved beauty or Parfait mediocrity?
@@ -1277,7 +1277,7 @@
 1276	The Golden Armor of Sagittaire belongs to us.
 1277	^e12500 The number of mission findings is counted together with the advanced level events "Requiem of the Sanctuaire" and "Butterflies des Enfers." ^N \r (The event will be open within these two periods: 12:00 - 2:00 p.m. and 8:00 p.m. - 10 p.m. You can only get the prize once a day.) \r \rA large number of servants from the forces of the King des Enfers appeared in the vicinity of the Sanctuaire. \r Knights, protect the doors of the Sanctuaire and the statue of Athena, quickly!
 1278	Without my permission, no one can enter the Grand Coliseum.
-1279	I hope to be able to open my eyes and see myself in my beloved boat, "Strawberry with Sugar", the calm ocean ahead ...... to have come here has been only a mistake, to enter the Aokigahara Forest has been a mistake yet higher!
+1279	I hope to be able to open my eyes and see myself in my beloved boat, "Strawberry with Sugar", the calm ocean ahead ...... to have come here has been only a mistake, to enter the Forêt d'Aokigahara has been a mistake yet higher!
 1280	The companions will surely come soon.
 1281	You will never find my secret, hahaha!
 1282	The talons of the Aigle are sharp, but even clearer is their vision
@@ -1381,7 +1381,7 @@
 1380	The order of the Sanctuaire needs our protection!
 1381	Because of their selfish desires, humans demand from nature without stopping, what you have seen is a consequence of this boundless demand.
 1382	...... (Hyoga unconscious)
-1383	Do you too, defender of Aioros?
+1383	Do you too, Defense of Aioros?
 1384	Hello, welcome to the Poseidon faction. I am your leader. \rThe Poseidon force will inevitably emerge, and giant waves will swallow that Earth. \r (To join the faction of Hades, the system collects 500,000 Or) '
 1385	Miss Shina, wait for me!
 1386	dsdfsd
@@ -1424,7 +1424,7 @@
 1423	Dégât Terre +1240
 1424	Hit +671
 1425	In the end, what does the Grand Pope want to do ...?
-1426	^e12500 Counts together with the event 'Apocalypse of Aldebaran'. ^N \r ('Tsunami at Atlantis' only drops awards once per day.) \r \r-In recent times, many tsunamis have occurred and people pray for the arrival of the glory of the Goddess. According to my observations, this may be related to the sinking of Atlantis, a long time ago. Quick, go investigate.
+1426	^e12500 Counts together with the event 'Apocalypse of Aldebaran'. ^N \r ('Tsunami at Atlantis' only drops Gains once per day.) \r \r-In recent times, many tsunamis have occurred and people pray for the arrival of the glory of the Goddess. According to my observations, this may be related to the sinking of Atlantis, a long time ago. Quick, go investigate.
 1427	Here is not a territory of the Sanctuaire, you need to be careful with everything.
 1428	I hope the glory of the Goddess will enlighten you, my son.
 1429	Master Mu really knows how to deal with people.
@@ -1487,7 +1487,7 @@
 1486	The members of the competition who fill the qualifications, can here with me, receive Ticket. (Line 1)
 1487	... Cosmo powerful ... We were subjugated.
 1488	Do you want to give a sensational marriage party? If you have the article "Start of Marriage" you can start the marriage ceremony phase. \rAfter starting the preparation phase, you will have a streaming system available, it is a good way to attract players for your marriage!
-1489	To celebrate the Renaissance Festival, the Knights brought an exclusive event to enjoy with the Fall Festival and spend time in an excellent game.
+1489	To celebrate the Festival de Renaissance, the Knights brought an exclusive event to enjoy with the Fall Festival and spend time in an excellent game.
 1490	Service with a smile, application of civilized law!
 1491	%s is already flawed in killing!
 1492	We must guarantee the progress of the construction of the statue of the Goddess!
@@ -1604,7 +1604,7 @@
 1603	Members of the competition who meet the requirements, can here with me, receive the Entry Ticket. (line 4)
 1604	Has the Royaume des Enfers already degenerated to the point of sending an idiot to battle ...?
 1605	Destiny in the hands of God and the will in his heart. This life, this world, helping each other.
-1606	To celebrate the Renaissance Festival, the Knights brought a new event for you, to take advantage of it along with the Fall Festival. The Knights who had 1.8.14.25.45.70 tickets to change the Fall Festival can, here with me, change the celebration gift of the Renaissance Festival. The heartbeat does not compare to the movement, take that now!
+1606	To celebrate the Festival de Renaissance, the Knights brought a new event for you, to take advantage of it along with the Fall Festival. The Knights who had 1.8.14.25.45.70 tickets to change the Fall Festival can, here with me, change the celebration gift of the Festival de Renaissance. The heartbeat does not compare to the movement, take that now!
 1607	I hate ... I hate knights!
 1608	My hometown is running an entertainment competition, would you like to participate?
 1609	Tremble, a miserable one who only has 5 wrestling power!
@@ -1615,7 +1615,7 @@
 1614	HP +1956
 1615	Dégât Terre +972
 1616	Deviation +496
-1617	Knights! \rThe 'Path of the Storm' is an illusory world created through telekinesis by the people of Jamir. All the monsters of that world receive the protection of that telekinesis. Even a powerful Knight does not cause great damage to them, and that is why, here in the battle, the capabilities of team cooperation and not individual heroism are proven. Collaborating is essential to achieve victory!
+1617	Knights! \rThe 'Path of the Storm' is an illusory world created through telekinesis by the people of Jamir. All the monsters of that world receive the protection of that telekinesis. Even a powerful Knight does not cause great damage to them, and that is why, here in the battle, the capabilities of team cooperation and not Individuel heroism are proven. Collaborating is essential to achieve victory!
 1618	Give me back my little one, snif, snif ...
 1619	The landscape appreciated is the river in the morning.
 1620	In the village, all are killed in the village ...
@@ -1709,7 +1709,7 @@
 1708	Remorse ...! Remorse ...!
 1709	Is calling the fisherman "Fisherman" not very strange?
 1710	If you have a "Cute Bunny" souvenir, remember to come and get me!
-1711	Shiryu ele ... Shiryu runs perigo, fast ... Vá ajudá-lo \r ^e12500This Dungeon can be started no way Individual ou em Grupo (unaltered reward)
+1711	Shiryu ele ... Shiryu runs perigo, fast ... Vá ajudá-lo \r ^e12500This Donjon can be started no way Individuel ou em Grupo (unaltered reward)
 1712	This is the Ragnarok, and the day of their judgment!
 1713	Dégât Feu +50, detour +35
 1714	Lightning Strike +902
@@ -1907,7 +1907,7 @@
 1906	HP +2340
 1907	Defense +517
 1908	HP +7866
-1909	Previously, when my partner went through the Aokigahara Forest and found a setback, the gift that we prepared was also lost in the forest ... But now we have already made a new gift! Even if it's only a small thing, we hope you show our sincere gratitude for you, I hope you like it!
+1909	Previously, when my partner went through the Forêt d'Aokigahara and found a setback, the gift that we prepared was also lost in the forest ... But now we have already made a new gift! Even if it's only a small thing, we hope you show our sincere gratitude for you, I hope you like it!
 1910	I'm holding this rope very strong ...
 1911	I love this city, I like the way it has remained the same for several years.
 1912	Here with me, all the knights from level 30 to 60, can obtain test qualifications that lead to the path of the Golden Knight! Find a good companion, together go on the path of the practices of the Golden Knights.
@@ -1996,7 +1996,7 @@
 1995	I thought so much that my head is going to hurt ...
 1996	Have I lost any memories?
 1997	The real battle is the best way to improve the strength of the Knight, only through an incessant training, can leave the continent, in the direction of the world! On the battlefield, the warrior that shows exceptional, will have double the chances of getting extra prizes from EXP. Enter the line to participate in the fights!
-1998	Do you want to participate in the super race test event? Do you want to get a lot of EXP and Argent? Then go now to ^0065FE [Sanctuaire] ^N! Generous awards are waiting for you, do not miss it! It's worth participating!
+1998	Do you want to participate in the super race test event? Do you want to get a lot of EXP and Argent? Then go now to ^0065FE [Sanctuaire] ^N! Generous Gains are waiting for you, do not miss it! It's worth participating!
 1999	Due to laziness, the roof will fall. Because of a slow work force, the house has leaks.
 2000	Valente without fear, sunk in the Acheron How would you escape from this?
 2001	I am incompetent, do not help my brothers protect the most important person for them.
@@ -2472,7 +2472,7 @@
 2471	In the Sublimation mission of the Constellation, please avoid ^ff0000 change class ^N. After changing class, remember to change it again. After leaving the mission, in case you forget the location of the NPC to receive missions, you can search it in ^ff0000 [Mission Available] ^N- ^ff0000 [Sublimation of the Constellation] ^N. Through the mission ^ff0000 [of your constellation (guidance)] ^N you can search for the NPC of corresponding stages.
 2472	Are you a Knight? I have not seen you before.
 2473	Hey, they and I are not the same. I never have a grudge against my compassion, and especially you who are such a lovely person! Choose me, I can give you what you want!
-2474	Stupid humans, olhem for o seu santuário e logo will be nosso oceano! \r ^e12500This copy can be inserted not individually or as an equipment (unaltered reward) \r ^e12500 This kind of support or "equitable mode of herança". ^N \rCaptain can raise a team and ask for members of the team. 1. Jogadores acima do nível 90, 2-6 pessoas; \r 2. 60-89 players 0-6. \r or \r1. 60-89 jogadores 3-6 pessoas; \r 2. 50-59 jogadores 0-6 pessoas. \rNo way to equip wounded, se or small number of jogadores for maior or equal to 3, or great jegador will be able to receber or maior value of herança.
+2474	Stupid humans, olhem for o seu santuário e logo will be nosso oceano! \r ^e12500This copy can be inserted not Individuelly or as an equipment (unaltered reward) \r ^e12500 This kind of support or "equitable mode of herança". ^N \rCaptain can raise a team and ask for members of the team. 1. Jogadores acima do nível 90, 2-6 pessoas; \r 2. 60-89 players 0-6. \r or \r1. 60-89 jogadores 3-6 pessoas; \r 2. 50-59 jogadores 0-6 pessoas. \rNo way to equip wounded, se or small number of jogadores for maior or equal to 3, or great jegador will be able to receber or maior value of herança.
 2475	Lightning Strike +471
 2476	Lightning Strike +365
 2477	HP +3082

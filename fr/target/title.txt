@@ -77,35 +77,35 @@
 76	^009933 Adventurer of the East
 77	Be an adventurer full of hope and brilliance in the Grand Coliseum.
 78	^ffff00Attack +70 \rHP +900 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-79	Conclude 30 secondary quests at the Grand Coliseum to get the title
+79	Conclude 30 secondary Quêtes at the Grand Coliseum to get the title
 80	^009933Dragón de Rozan
 81	He who has a just heart protects Rozan like the Dragon.
 82	^ffff00Attack +90 \rHP +1200 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-83	Conclude 30 secondary quests in Rozan to obtain the title
+83	Conclude 30 secondary Quêtes in Rozan to obtain the title
 84	^009933 That One Who Was Forgotten
 85	Awaken people who were lost for years.
 86	^ffff00Attack +120 \rHP +1500 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
-87	Conclude 30 secondary quests on the Forgotten Path to get the title
+87	Conclude 30 secondary Quêtes on the Forgotten Path to get the title
 88	^009933Phoenix de las Llamas
 89	Incinerate the unclean world, you are the Phoenix of the Flames!
 90	^ffff00Attack +150 \rHP +1800 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
-91	Conclude 30 secondary Quests on the Isle of Queen Death to obtain the title
+91	Conclude 30 secondary Quêtes on the Isle of Queen Death to obtain the title
 92	^009933 Ice Heart
 93	He dissolved frozen hearts of the Earth like spring.
 94	^ffff00Attack +180 \rHP +2100 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
-95	Conclude 30 secondary quests in Sibérie to obtain the title
+95	Conclude 30 secondary Quêtes in Sibérie to obtain the title
 96	^009933Hijo del Mar
 97	He entered the territory of Poseidon and testified the secret of the sea.
 98	^ffff00Attack +210 \rHP +2400 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-99	Conclude 30 secondary quests in Atlantis to get the title
+99	Conclude 30 secondary Quêtes in Atlantis to get the title
 100	^009933Head of the Constellation
 101	He experienced the life of Andromede, brilliant and full of sacrifices.
 102	^ffff00Attack +240 \rHP +2700 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
-103	Conclude 30 secondary Quests on the Ile d'Andromède to obtain the title
+103	Conclude 30 secondary Quêtes on the Ile d'Andromède to obtain the title
 104	^009933The Legend of the Night Hunter
 105	He became the legend of Hades Castle.
 106	^ffff00Attack +270 \rHP +3000 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
-107	Conclude 30 secondary quests at Hades Castle to obtain the title
+107	Conclude 30 secondary Quêtes at Hades Castle to obtain the title
 108	^009933 Survivor of the Acheron
 109	How many brave souls sank into the Acheron? Only a true warrior can survive this river of blood.
 110	^ffff00Defense +375 \rHP +3150 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
@@ -135,19 +135,19 @@
 134	^ffff00Penetration against Résistance to all elements +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 135	Collect 1000 Points of Illustration to obtain the title
 136	^009933Name in the Stories
-137	Your conquests will be told as a story.
+137	Your conQuêtes will be told as a story.
 138	^ffff00Esquive +30 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 139	Collect 120 Conquest Points to obtain the title
 140	^009933Name in the Legend
-141	Your conquests will be transmitted as a legend.
+141	Your conQuêtes will be transmitted as a legend.
 142	^ffff00Esquive +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 143	Collect 350 Conquest Points to obtain the title
 144	^0099ccName in the Epic
-145	His conquests are enough to be recorded in the Epic.
+145	His conQuêtes are enough to be recorded in the Epic.
 146	^ffff00Esquive +90 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 147	Collect 600 Conquest Points to obtain the title
 148	^0099ccName in Mythology
-149	Your conquests can become a myth and will be eternal like the stars.
+149	Your conQuêtes can become a myth and will be eternal like the stars.
 150	^ffff00Esquive + 120 ^\r ^NActivates the attributes by selecting the ^ffff00effect ^N
 151	Collect 900 Conquest Points to obtain the title
 152	^0099cc For Love and Justice!
@@ -377,7 +377,7 @@
 376	^009933 I'm Flying Trapeze
 377	You will fly higher and farther!
 378	^ffff00Dégât Vent +20 \rVasion +10 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-379	Conclude one of the Quests "Highest teacher-work", "Highest Divine Fact" or "Highest Fact", in the Shrine to obtain the title
+379	Conclude one of the Quêtes "Highest teacher-work", "Highest Divine Fact" or "Highest Fact", in the Shrine to obtain the title
 380	^009933 Master of the Twelve Houses
 381	You are the Master of the games of the Twelve Houses!
 382	^ffff00Attack +40 \rDefense +40 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
@@ -389,7 +389,7 @@
 388	^009933 Higher! Faster! Stronger!
 389	You have trained with Nix, practitioner of the Shinto Village, and have passed the test.
 390	^ffff00Pressure +20 \rEsquive +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-391	Conclude the "Practicing" Quests series at the Grand Coliseum to get the title
+391	Conclude the "Practicing" Quêtes series at the Grand Coliseum to get the title
 392	^009933 Master Yin Yang
 393	You have made good communication with the spirits.
 394	^ffff00 Dégât Elec +50 \rEsquive +20 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
@@ -397,19 +397,19 @@
 396	^009933 Fast as the Wind
 397	By God, you run faster than Kiki!
 398	^ffff00Pressure +25 \rEsquive +25 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-399	Conclude the series of Quests "Fast as the Wind" in Rozan to obtain the title
+399	Conclude the series of Quêtes "Fast as the Wind" in Rozan to obtain the title
 400	^009933 Who am I?
 401	His vision and judgment go beyond those of a normal person.
 402	^ffff00Attack of Earth +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
-403	Conclude the series of Quests "Guess who I am" in Rozan to obtain the title
+403	Conclude the series of Quêtes "Guess who I am" in Rozan to obtain the title
 404	^009933Bambú Loco
 405	Crazy Bamboo blooms by whom?
 406	^ffff00Résistance +1 \rPress +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
-407	Conclude the series of Quests "Flower of the Bamboo", in Rozan to obtain the title
+407	Conclude the series of Quêtes "Flower of the Bamboo", in Rozan to obtain the title
 408	^009933 Dragon Spheres
 409	You must be the fan of the Seven Spheres of the Dragon.
 410	^ffff00Defense +100 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
-411	Conclude the series of Quests "The Mystery of the Spheres of the Dragon", in Rozan to obtain the title
+411	Conclude the series of Quêtes "The Mystery of the Spheres of the Dragon", in Rozan to obtain the title
 412	^009933 Siren Hunter
 413	You have protected the Forgotten Village, defeating Sirena.
 414	^ffff00 Dégât Elec +40 \rPress +30 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
@@ -453,49 +453,49 @@
 452	^a800ff Lord of the War
 453	Reached 4th -10th place in the Personal Challenge Result Ranking for the Instance Zone last week
 454	^a800ff Emperor attitude
-455	Recognition for the Individual Power Ranking
+455	Recognition for the Individuel Power Ranking
 456	^ff0000Get the opportunity to lead a squadron when entering the area of ​​the multi-server BOSS, daily
-457	Reached 1st place in the Individual Power Ranking last week
+457	Reached 1st place in the Individuel Power Ranking last week
 458	^a800ffTyrano's attitude
-459	Reached 2nd-3rd place in the Individual Power Ranking last week
+459	Reached 2nd-3rd place in the Individuel Power Ranking last week
 460	^a800ffprofile attitude
-461	Reached 4th-20th place in the Individual Power Ranking last week
+461	Reached 4th-20th place in the Individuel Power Ranking last week
 462	^a800ffCampo Divino
-463	Recognition by the Individual Cosmo Ranking
-464	Reached 1st place in the Individual Cosmo Ranking last week
+463	Recognition by the Individuel Cosmo Ranking
+464	Reached 1st place in the Individuel Cosmo Ranking last week
 465	^a800ffCorazón do Cosmo
-466	Reached 2nd-3rd place in the Individual Cosmo Ranking last week
+466	Reached 2nd-3rd place in the Individuel Cosmo Ranking last week
 467	^a800ffArayashiki
-468	Reached 4th -10th place in the Individual Cosmo Ranking last week
+468	Reached 4th -10th place in the Individuel Cosmo Ranking last week
 469	^a800ffArmor of God
-470	Recognition for the Individual Armor Power Ranking
-471	Reach 1st place in the Individual Armor Power Ranking last week
+470	Recognition for the Individuel Armor Power Ranking
+471	Reach 1st place in the Individuel Armor Power Ranking last week
 472	^a800ffDeath Armor
-473	Reach 2nd-3rd place in the Individual Armor Power Ranking last week
+473	Reach 2nd-3rd place in the Individuel Armor Power Ranking last week
 474	^a800ff Hero's Armor
-475	Reach 4th-10th place in the Individual Armor Power Ranking last week
+475	Reach 4th-10th place in the Individuel Armor Power Ranking last week
 476	^a800ffPlaca Symbolic of God
-477	Recognition for the Power Ranking of the Individual Treasury
-478	Reached 1st place in the Individual Treasury Power Ranking last week
+477	Recognition for the Power Ranking of the Individuel Treasury
+478	Reached 1st place in the Individuel Treasury Power Ranking last week
 479	^a800ffPlaca Symbolic of the Devil
-480	Reach 2nd-3rd place in the Individual Treasury Power Ranking last week
+480	Reach 2nd-3rd place in the Individuel Treasury Power Ranking last week
 481	^a800ffPlaza Symbolic of the Hero
-482	Reach 4th-10th place in the Individual Treasury Power Ranking last week
+482	Reach 4th-10th place in the Individuel Treasury Power Ranking last week
 483	^a800ffGod's Covenant
-484	Recognition for the Power Ranking of Individual Equipment
-485	Reached 1st place in the Individual Equipment Power Ranking last week
+484	Recognition for the Power Ranking of Individuel Equipment
+485	Reached 1st place in the Individuel Equipment Power Ranking last week
 486	^a800ffDevil's Covenant
-487	Reached 2nd-3rd place in the Individual Equipment Power Ranking last week
+487	Reached 2nd-3rd place in the Individuel Equipment Power Ranking last week
 488	^a800ffPeace of the Hero
-489	Reached 4th-10th place in the Individual Equipment Power Ranking last week
+489	Reached 4th-10th place in the Individuel Equipment Power Ranking last week
 490	^a800ffPapa
-491	Recognition for the Ranking of Individual Activity Level
+491	Recognition for the Ranking of Individuel Activity Level
 492	^a800ffPresbítero
-493	Reached 2nd-3rd place in the Individual Activity Ranking of last week
+493	Reached 2nd-3rd place in the Individuel Activity Ranking of last week
 494	^a800ff Priest
-495	Reached 11th-100th place in the Individual Activity Ranking of last week
+495	Reached 11th-100th place in the Individuel Activity Ranking of last week
 496	^a800ffFollower
-497	Reached 101st-200th place in the Individual Activity Ranking of last week
+497	Reached 101st-200th place in the Individuel Activity Ranking of last week
 498	^a800ff Divine Medal of the Epic Guild
 499	Your Guild won first place in the Ranking of Activity last week! \rWith that title, the Guild Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
 500	First place in the Ranking of Guild's Degree of Activity last week
@@ -503,10 +503,10 @@
 502	Your Guild won second place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
 503	Second place in the Ranking of Guild's Degree of Activity last week
 504	^a800ffMedal of the Supreme Guild
-505	His Guild got the third place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+505	His Guild got the third place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous Gains with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
 506	Third place in the Ranking of Guild's Degree of Activity last week
 507	^a800ffMedal of the Grand Guild
-508	Your Guild got a good place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+508	Your Guild got a good place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous Gains with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
 509	4th to 10th place in the Ranking of Guild's Degree of Activity last week
 510	^a800ffMedal of the Glorious Guild
 511	11th to 20th place of the Ranking of Guild's Degree of Activity last week
@@ -533,7 +533,7 @@
 532	At the World Event - Attack Surprise! Gates des Enfers, participated in the final blow in the Determination of the Emperor des Enfers, and allowed the server to advance in the Opening of the Great Murder of the Gods
 533	^0099cc Lucky Star of the 17Y
 534	Congratulations! You are the Lucky Star of the 17Y!
-535	Withdraw in the Lucky Box obtained when participating in the 17Y Community Event.
+535	Withdraw in the Lucky Box obtained when participating in the 17Y Communauté Event.
 536	^0099cc Saint de la YY
 537	Supreme honor of the YY!
 538	Raffled in the Gift Package of the YY Event.
@@ -635,7 +635,7 @@
 634	^ffd700 Golden Taureau Guardian
 635	Golden Taureau Guard of the Goddess Athena authenticated by the Server!
 636	Golden Taureau Guard of the Twelve Houses of the Glory of the Goddess!
-637	^ffd700Gemini Golden Guards
+637	^ffd700Gemeaux Golden Guards
 638	Golden Gemeaux Guard of the Goddess Athena authenticated by the Server!
 639	Golden Gemeaux Guard of the Twelve Houses of the Glory of the Goddess!
 640	^ffd700Guardian Cancer Golden
@@ -674,7 +674,7 @@
 673	Prize for the participation of the "Collect Armors, raise your Power" Event.
 674	^0099cc Attack Knight
 675	^ffff00Critical index + 2％ \rReduction of total property Résistance +1 \r ^If you obtain the title, the attribute will have effect ^ffff00permanent ^N
-676	Prize for the participation of the "Rewards for the Conquests" Event.
+676	Prize for the participation of the "Rewards for the ConQuêtes" Event.
 677	^0099cc Or Legend
 678	^ffff00HP +1000 \rPressure +100 \rEsquive +100 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
 679	Prize for the participation of the "Recharge Bono" Event.
@@ -715,7 +715,7 @@
 714	^ffff00Attack +300 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 715	^0099ccDolino Soldat · Demonic Family
 716	In [Heroic] Ten Caves, defeat all Bosses of Difficulty Divine Soldat to get the title
-717	^5acbccMeeting of the Emissaries in the Sanctuaire
+717	^5acbccMeeting of the EmissBelier in the Sanctuaire
 718	Participate in the meeting of players of The Knights of the Zodiac Online in Pequin and receive the exclusive titles!
 719	^5acbccSpressed in the Treasure Chest
 720	Participate in the meeting of players of The Knights of the Zodiac Online in Pequin. You are the Star of Luck!
@@ -786,13 +786,13 @@
 785	Conclude the Quest "A World Without Thieves" at Hades Castle to get the title
 786	^009933The Extremely Honorable Bronze
 787	You got the Bronze Honor in the Extreme Challenge Quest!
-788	Conclude all 8 "Extreme Quests" of Star 1 to get the title
+788	Conclude all 8 "Extreme Quêtes" of Star 1 to get the title
 789	^009933The Extremely Honorable Argent
 790	You won the Argent Honor in the Extreme Challenge Quest!
-791	Conclude all 8 "Extreme Quests" of Star 2
+791	Conclude all 8 "Extreme Quêtes" of Star 2
 792	^009933The Extremely Honorable Or
 793	You won the Golden Honor in the Extreme Challenge Quest!
-794	Conclude all 8 "Extreme Quests" of Star 3 to get the title
+794	Conclude all 8 "Extreme Quêtes" of Star 3 to get the title
 795	^ff7800Amado
 796	1st Place in the Fresh Flowers List.
 797	^ff52bcAdmirado
@@ -1207,12 +1207,12 @@
 1206	^a800ff Arene Galactique 8 · Soul enters the team
 1207	^a800ff Arene Galactique No. 9 · Wudu Orphans
 1208	^a800ff Arene Galactique 10, Humari
-1209	^a800ff Centaurus 1 · The Emperor
+1209	^a800ff CenTaureau 1 · The Emperor
 1210	^a800ff Centaur 2 Puriel
 1211	^a800ff Centaur No. 3 · Dumb WO Team
 1212	^a800ff Centaur No. 4 · Beautiful and moving team
 1213	^a800ff Centaur No. 5 · Flower Fly │ tears without shadow team
-1214	^a800ff Centaurus 6 · MIX °C Dragon Team
+1214	^a800ff CenTaureau 6 · MIX °C Dragon Team
 1215	^a800ff Centaur 7th, Xiao Ge °C has a demon team
 1216	^a800ff Centaur 8
 1217	^a800ff Centaur 9
@@ -1465,13 +1465,13 @@
 1464	^5acbcc pig-like teammate
 1465	Rebirth orgy piece of information special exclusive
 1466	^a800ff All-Star Warriors
-1467	All-Star Event Awards
+1467	All-Star Event Gains
 1468	^a800ff dominates the king of the All-Star
 1469	All-Star Event Senior Title
 1470	Hero Replica Racing Event Premium Title
 1471	Hero Replica Racing Event Intermediate Title
 1472	^a800ff shrine to dispel the darkness
-1473	Hero Replica Racing Awards
+1473	Hero Replica Racing Gains
 1474	^a800ff Holy Angel! Goddess
 1475	Official Mission of the Sanctuaire, the best contribution to the exclusive reward!
 1476	^a800ff burning flame! The wrath of the gods
@@ -1507,7 +1507,7 @@
 1506	Killing [Epic] BOSS at the end of Hades
 1507	Unstoppable! Actually, I have really completed all the challenges of the gods!
 1508	^ff6c00 Galaxy Fighter's Sanctioner
-1509	Galaxy Gymnastics Awards
+1509	Galaxy Gymnastics Gains
 1510	Give a sweat and sweat feedback in the Galaxy
 1511	^ff0000 I am the only one! God's overlord
 1512	Defeat all opponents and dominate the gods. Kill the exclusive title of the cross-service BOSS

@@ -364,8 +364,8 @@
 363	Insufficient level, can not be changed.
 364	Insufficient power, can not be changed.
 365	Number of times maximum for change reached
-366	Requests of the quest insufficient, can not be changed.
-367	There are mutually exclusive quests, it can not be changed.
+366	ReQuêtes of the quest insufficient, can not be changed.
+367	There are mutually exclusive Quêtes, it can not be changed.
 368	Insufficient reputation, can not be changed.
 369	Or insufficient, can not be changed.
 370	Zénis insufficient, can not be changed.

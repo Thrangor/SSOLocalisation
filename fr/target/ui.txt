@@ -1,100 +1,100 @@
 0	Confirmer
-1	Attention: If your password is exposed or your account stolen, click here to request recovery.
-2	The password does not meet the requirements: Possess 6-16 digits; Alphanumeric characters; Sensitive to uppercase and lowercase; The name of the account does not agree with the requirements, email account, write the address of the complete email, The name of the account and password can not be empty; In case you write the data incorrectly three times, you may have lost or forgotten the password. In this case, visit the site to change the password.
-3	The name of the account and password do not match, the reason may be:
-4	Guild Conquests
+1	Attention: Si votre mot de passe est exposé ou votre compte volé, cliquez ici pour demander la récupération.
+2	Le mot de passe ne répond pas aux exigences:\rPossèder 6-16 Caractères de l'alphabet ou/et chiffre\rAttention aux majuscules et aux minuscules\rLe nom ne correspond pas aux exigences\rLe nom du compte et le mot de passe ne peuvent pas être vides\rEn cas de mot de passe oublié, visitez le site pour changer le mot de passe.
+3	Le nom du compte et le mot de passe ne correspondent pas, la raison peut être:
+4	Conquêtes de guilde
 5	Menu names eight characters
 6	Menu names eight characters
-7	Achievements
-8	Personal achievements
-9	Player Name
-10	Seventh step Fama
-11	Player name comparison
+7	Haut Fait
+8	Haut Fait Personnel
+9	Nom joueur
+10	7ème étapes Fama
+11	Comparaison noms de joueurs
 12	Eighth step XXXX
-13	Name of achievements, Document configuration
-14	Achievement Points
-15	Description of the conquests Description of the conquests Description of the conquests Description of the conquests Description of the conquests
-16	Achievement Points
+13	Nom des Haut Fait, Configuration du document
+14	Points Haut Fait
+15	Description des conquêtes
+16	Points Haut Fait
 17	Complete / Incomplete
 18	Bronze
 19	Argent
 20	Or
-21	Surplices
-22	Name of conquests, Document configuration Document configuration
-23	Description of the content of the conquest
-24	Achievement Points
+21	Surplis
+22	Nom des conquêtes, Configuration du document 
+23	Description du contenu de la conquête
+24	Points Haut Fait
 25	Goal of the conquest: to kill xxx, yyy, zzz
-26	Met the conditions of the conquest
-27	After completing the conquest you will receive the prize
+26	Répond aux conditions de la conquête
+27	Après avoir terminé la conquête, vous recevrez le prix
 28	Complete / Incomplete
 29	Total Points
-30	Total points:
-31	Fill in here the description of the conquest that has been replaced
-32	Fill in here the description of the conquest that has been replaced
-33	Fill in here the description of the conquest that has been replaced
-34	Fill in here the description of the conquest that has been replaced
-35	Fill in here the description of the conquest that has been replaced
-36	Fill in here the description of the conquest that has been replaced
-37	Fill in here the description of the conquest that has been replaced
-38	Fill in here the description of the conquest that has been replaced
-39	Fill in here the description of the conquest that has been replaced
-40	Fill in here the description of the conquest that has been replaced
-41	Fill in here the description of the conquest that has been replaced
-42	Fill in here the description of the conquest that has been replaced
-43	Points of Conquest
-44	Points of Conquest
-45	Points of Conquest
-46	Points of Conquest
-47	Points of Conquest
-48	Points of Conquest
-49	Points of Conquest
-50	Conquest Points
-51	Points of Conquest
-52	Points of Conquest
-53	Points of Conquest
-54	Points of Conquest
-55	Recently received
-56	Points of Conquest
-57	Stage of conquests
-58	Seventh stage
+30	Total Points:
+31	Remplissez ici la description de la conquête qui a été remplacée
+32	Remplissez ici la description de la conquête qui a été remplacée
+33	Remplissez ici la description de la conquête qui a été remplacée
+34	Remplissez ici la description de la conquête qui a été remplacée
+35	Remplissez ici la description de la conquête qui a été remplacée
+36	Remplissez ici la description de la conquête qui a été remplacée
+37	Remplissez ici la description de la conquête qui a été remplacée
+38	Remplissez ici la description de la conquête qui a été remplacée
+39	Remplissez ici la description de la conquête qui a été remplacée
+40	Remplissez ici la description de la conquête qui a été remplacée
+41	Remplissez ici la description de la conquête qui a été remplacée
+42	Remplissez ici la description de la conquête qui a été remplacée
+43	Points de conquête
+44	Points de conquête
+45	Points de conquête
+46	Points de conquête
+47	Points de conquête
+48	Points de conquête
+49	Points de conquête
+50	Points de conquête
+51	Points de conquête
+52	Points de conquête
+53	Points de conquête
+54	Points de conquête
+55	Récemment reçu
+56	Points de conquête
+57	Stage of conQuêtes
+58	7ème étapes
 59	Fame
 60	Niv 30
-61	Stop Mask of Death
+61	Arrêtez le masque de la mort
 62	AttackXXXXX
-63	Total Conquests
-64	Individual
-65	Quests
-66	Dungeon
-67	Community
+63	Total des conquêtes
+64	Individuel
+65	Quêtes
+66	Donjon
+67	Communauté
 68	RRP
 69	World
 70	Epic
 71	Confirmer
 72	Annuler
-73	Name of the event! Assembly of the Knights
-74	Name of the event! Assembly of the Knights
-75	Name of the event! Assembly of the Knights
-76	Name of the event! Assembly of the Knights
-77	Name of the event! Assembly of the Knights
-78	Name of the event! Assembly of the Knights
-79	Name of the event! Assembly of the Knights
-80	Name of the event! Assembly of the Knights
-81	Name of the event! Assembly of the Knights
-82	Name of the event! Assembly of the Knights
+73	Nom de l'événement! Assemblée des chevaliers
+74	Nom de l'événement! Assemblée des chevaliers
+75	Nom de l'événement! Assemblée des chevaliers
+76	Nom de l'événement! Assemblée des chevaliers
+77	Nom de l'événement! Assemblée des chevaliers
+78	Nom de l'événement! Assemblée des chevaliers
+79	Nom de l'événement! Assemblée des chevaliers
+80	Nom de l'événement! Assemblée des chevaliers
+81	Nom de l'événement! Assemblée des chevaliers
+82	Nom de l'événement! Assemblée des chevaliers
 83	Events
-84	Renaissance Festival - Introduction
-85	Renaissance Festival - Introduction
-86	Renaissance Festival - Treasure falls from Heaven
-87	Renaissance Festival - Awards
+84	Festival de Renaissance - Introduction
+85	Festival de Renaissance - Introduction
+86	Festival de Renaissance - Le trésor du ciel
+87	Festival de Renaissance - Gains
 88	To celebrate this commemorative date, The Knights of the Zodiac Online brings several exclusive activities. Join us in this celebration!
-89	"Renaissance Festival" Event:
-90	Schedule: Glorious battlefield: Complete the mission 2 times a week to receive the prize. Eliminate Evil: Complete the mission 2 times a week to receive the prize. Celebrate the Festival: Kill the boss of the dungeon daily to receive the prize. The prizes above include: ^FF00FF Festival de la Luna Coupon.
+89	"Festival de Renaissance" Event:
+90	Schedule: Glorious battlefield: Complete the mission 2 times a week to receive the prize. Eliminate Evil: Complete the mission 2 times a week to receive the prize. Celebrate the Festival: Kill the boss of the Donjon daily to receive the prize. The prizes above include: ^FF00FF Festival de la Luna Coupon.
 91	starting today until 09/22
-92	Schedule: Night of the Moon Festival: Schedule: Every night at 20:00 - 22:00. Players of level 20 or higher may seek the Shiryu Awards Ambassador, during the period in which the event is happening, to receive the prize. Renaissance Festival: Players of level 20 or higher who reach a level of activity 20, can receive the award of the Shiryu Prize Ambassador. The Awards include: ^FF00FF Festival de la Luna Coupon.
+92	Schedule: Night of the Moon Festival: Schedule: Every night at 20:00 - 22:00. Players of level 20 or higher may seek the Shiryu Gains Ambassador, during the period in which the event is happening, to receive the prize. Festival de Renaissance: Players of level 20 or higher who reach a level of activity 20, can receive the award of the Shiryu Prize Ambassador. The Gains include: ^FF00FF Festival de la Luna Coupon.
 93	starting today until 9/22
 94	Hours: Every night at 8:30 - 9:30 p.m. Every 10 minutes a random box will appear on the screen of the game, click on it to receive a huge amount of EXP and Mysterious prizes! Each time the prize appears, you will only have 2 minutes to get it, do not miss it!
 95	From 04/09 to 06/09
-96	Schedule: Through the commemorative events "Renaissance Festival", it is possible to receive ^ff00ffCupons for the Moon Festival, N, joining 1, 8, 14, 25 and 45 coupons, it is possible to receive great prizes from the Ambassador of Hyoga Awards. By putting together 70 coupons, you can exchange them for a special title of the limited edition.
+96	Schedule: Through the commemorative events "Festival de Renaissance", it is possible to receive ^ff00ffCupons for the Moon Festival, N, joining 1, 8, 14, 25 and 45 coupons, it is possible to receive great prizes from the Ambassador of Hyoga Gains. By putting together 70 coupons, you can exchange them for a special title of the limited edition.
 97	starting today until 09/22
 98	${npc(39802, "Automatically search the way to Shiryu")}
 99	Press ESC to skip
@@ -119,7 +119,7 @@
 118	Victories:
 119	Rules of the Galactic Arena
 120	Rewards of the Galactic Arena
-121	Exchange of Rank LV Awards
+121	Exchange of Rank LV Gains
 122	1. Rank LV 1: 0-200 \r2. Rank LV 2: 200-400 \r3. Rank LV 3: 400-600 \r4. Rank LV 4: 600-1100 \r5. Rank LV 5: 1100-1600 \r6. Rank LV 6: 1600-2100 \r7. Rank LV 7: 2100-3600 \r8. Rank LV 8: 3600-5100 \r9. Rank LV 9: 5100-6600 \r10. Rank LV 10: 6600-11600 \r11. Rank LV 11: 11600-16600 \r12. Rank LV 12: 16600-21600 \r13. Rank LV 13: 21600-51600 \r14. Rank LV 14: 51600-81600 \r15. Rank LV 15: Higher than 81600
 123	Character data
 124	Rank LV 15
@@ -192,7 +192,7 @@
 191	6. The player who is alive or who has more HP wins when the 3mins finish.
 192	5. By choosing the "Equality" mode, the property of the participants will have the same level.
 193	4. Choosing the "Fair Play" mode, the effect of Résistance elixirs will be blocked.
-194	3. In Challenge mode, there are no awards and it does not count in the weekly award number.
+194	3. In Challenge mode, there are no Gains and it does not count in the weekly award number.
 195	2. In Challenge mode, the number of participants is chosen and the owner will be the defensive side.
 196	1. With "Automatic Enrollment", the system will wait a while and will do the automatic registration.
 197	Very soon, more modes! Wait!
@@ -232,7 +232,7 @@
 231	xxx / xxx
 232	(Team)
 233	(Team)
-234	Defender attacks
+234	Defense attacks
 235	Attacker attacks
 236	Renounce
 237	30s
@@ -247,7 +247,7 @@
 246	Leave row
 247	The inscriptions for the League Mode of the Galactic Arena, is open every Saturday and Sunday from 1:00 pm to 3:00 pm at 10: 00-23: 55
 248	Waiting for players for the tournament ...
-249	1. Level 1 Ladder Weekly Prizes: Sang d'enchant x7, Soul of Orange, x0, Sang d'Argent x0, Key of Tempo x0, Source of Spiritual Power x0, Tear of Athena x0, EXP and Zénis Coupon 2. Staircase Level 2 weekly prizes: demonic x7, Soul of orange x0, Argent crystal x0, key of time x0, spiritual power source x0, Tear of Athena x0 and EXP and coupon of Argent 3. Staircase Level 3 Weekly Prizes: Sang d'enchant x7, Soul of Orange x7, Sang d'Argent x7, key of time x0, Source of spiritual power x0, Tear of Athena x0, EXP and Argent coupon 4. Stairway Level 4 Weekly Prizes: Sang d'enchant x7, Soul of the orange x7, Sang d'Argent x7, key of time x7, spiritual power source x0, Tear of Athena x0, EXP and Argent coupon 5. Stairway Level 5 weekly prizes: Demonic blood x7, Soul of orange x7, Sang d'Argent x7, key of time x7, spiritual power source x7, Tear of Athena x1, EXP and Argent coupon 6. Ladder Level 6 Weekly prizes: Demonic blood x15, Soul of the orange x7, Argent crystal x7, key of the time x7, spiritual power source x7, Tear of Athena x1, EXP and Argent coupon 7. Staircase Level 7 Weekly Prizes: Sang d'enchant x15, Soul of Orange X7, Sang d'Argent X7, Key of Time x15, Source of Spiritual Power x7, Tear of Athena x2 EXP and Coupon of Argent 8. Stairway Level 8 Weekly Prizes: Sang d'enchant x15, Soul of orange x7, Argent crystal x15, key of time x15, spiritual power source x7, Tear of Athena x2, EXP and coupon of Argent 9.Stair Level 9 Weekly prizes: Demonic blood x15, Soul of the orange x7, Argent crystal x15, time key x15, spiritual power source x7, Tear of Athena x2 EXP and Argent coupon 10. Ladder Level 10 Weekly prizes: Demonic blood x22, Soul of orange x7, Argent crystal x15, Key of Time x15, Source of spiritual power x15, L tear of Athena x3 EXP and coupon of Argent 11. Stairway of level 11 weekly prizes: demonic blood x22, soul of orange x15, crystal of Argent x15, key of time x15, source of spiritual power x15, Tear of Athena x3 EXP and coupon Argent 1213 weekly prize: demonic blood x22, orange soul x15, Argent crystal x15, time key x22, spiritual power source x15, Tear of Athena x4 EXP e coupon of Argent 13Scale ladder 13 weekly prize: demonic blood x30 , Soul of orange x15, key of time x22, Source of spiritual power x15 Tear of Athena x4 EXP and coupon of Argent 14. Ladder of level 14 Prize weekly: demonic blood x30, Soul of orange x15, crystal of Argent x15, key of the x22 time, Spiritual Power Source x15, Athena Tear x EXP and Zénis coupon 15 Ladder level 15 weekly prize: demonic blood x30, Soul of orange x15, Argent crystal x15, time key x22, Power source espi ritual x15, Athena's lama x8 EXP and Zénis coupon
+249	1. Level 1 Ladder Weekly Prizes: Sang d'enchant x7, Soul of Orange, x0, Sang d'Argent x0, Key of Tempo x0,\rSource Spirituelle x0, Tear of Athena x0, EXP and Zénis Coupon 2. Staircase Level 2 weekly prizes: demonic x7, Soul of orange x0, Sang d'Argent x0, key of time x0,\rSource Spirituelle x0, Tear of Athena x0 and EXP and coupon of Argent 3. Staircase Level 3 Weekly Prizes: Sang d'enchant x7, Soul of Orange x7, Sang d'Argent x7, key of time x0,\rSource Spirituelle x0, Tear of Athena x0, EXP and Argent coupon 4. Stairway Level 4 Weekly Prizes: Sang d'enchant x7, Soul of the orange x7, Sang d'Argent x7, key of time x7,\rSource Spirituelle x0, Tear of Athena x0, EXP and Argent coupon 5. Stairway Level 5 weekly prizes: Sang d'Enchant x7, Soul of orange x7, Sang d'Argent x7, key of time x7,\rSource Spirituelle x7, Tear of Athena x1, EXP and Argent coupon 6. Ladder Level 6 Weekly prizes: Sang d'Enchant x15, Soul of the orange x7, Sang d'Argent x7, key of the time x7,\rSource Spirituelle x7, Tear of Athena x1, EXP and Argent coupon 7. Staircase Level 7 Weekly Prizes: Sang d'enchant x15, Soul of Orange X7, Sang d'Argent X7, Key of Time x15,\rSource Spirituelle x7, Tear of Athena x2 EXP and Coupon of Argent 8. Stairway Level 8 Weekly Prizes: Sang d'enchant x15, Soul of orange x7, Sang d'Argent x15, key of time x15,\rSource Spirituelle x7, Tear of Athena x2, EXP and coupon of Argent 9.Stair Level 9 Weekly prizes: Sang d'Enchant x15, Soul of the orange x7, Sang d'Argent x15, time key x15,\rSource Spirituelle x7, Tear of Athena x2 EXP and Argent coupon 10. Ladder Level 10 Weekly prizes: Sang d'Enchant x22, Soul of orange x7, Sang d'Argent x15, Key of Time x15,\rSource Spirituelle x15, L tear of Athena x3 EXP and coupon of Argent 11. Stairway of level 11 weekly prizes: Sang d'Enchant x22, soul of orange x15, Sang d'Argent x15, key of time x15,\rSource Spirituelle x15, Tear of Athena x3 EXP and coupon Argent 1213 weekly prize: Sang d'Enchant x22, orange soul x15, Sang d'Argent x15, time key x22,\rSource Spirituelle x15, Tear of Athena x4 EXP e coupon of Argent 13Scale ladder 13 weekly prize: Sang d'Enchant x30 , Soul of orange x15, key of time x22,\rSource Spirituelle x15 Tear of Athena x4 EXP and coupon of Argent 14. Ladder of level 14 Prize weekly: Sang d'Enchant x30, Soul of orange x15, Sang d'Argent x15, key of the x22 time,\rSource Spirituelle x15, Athena Tear x EXP and Zénis coupon 15 Ladder level 15 weekly prize: Sang d'Enchant x30, Soul of orange x15, Sang d'Argent x15, time key x22, Power source espi ritual x15, Athena's lama x8 EXP and Zénis coupon
 250	Prize
 251	Week matches:
 252	Or
@@ -291,7 +291,7 @@
 290	Select the map
 291	Arena Mode
 292	Galactic Arena \r Challenge Mode
-293	Defender
+293	Defense
 294	Observer
 295	Attacker
 296	Password:
@@ -327,7 +327,7 @@
 326	Name of the room:
 327	Attacking Team
 328	XXX
-329	Team Defender
+329	Team Defense
 330	Leave room
 331	XXX
 332	Galactic Arena \r Challenge Mode
@@ -353,20 +353,20 @@
 352	Seventh step Fama
 353	Player name comparison
 354	Eighth step XXXX
-355	Name of conquests, Document configuration
-356	Points of Conquest
-357	Description of the conquests Description of the conquests Description of the conquests Description of the conquests Description of the conquests
-358	Points of Conquest
+355	Name of conQuêtes, Document configuration
+356	Points de conquête
+357	Description of the conQuêtes Description of the conQuêtes Description of the conQuêtes Description of the conQuêtes Description of the conQuêtes
+358	Points de conquête
 359	Complete / Incomplete
-360	Points of Conquest
-361	Points of Conquest
-362	Points of Conquest
-363	Points of Conquest
-364	Points of Conquest
-365	Points of Conquest
-366	Name of conquests, Document configuration Document configuration
+360	Points de conquête
+361	Points de conquête
+362	Points de conquête
+363	Points de conquête
+364	Points de conquête
+365	Points de conquête
+366	Name of conQuêtes, Document configuration Document configuration
 367	Description of the content of the conquest
-368	Points of Conquest
+368	Points de conquête
 369	Bronze
 370	Argent
 371	Or
@@ -375,19 +375,19 @@
 374	Met the conditions of the conquest
 375	After completing the conquest you will receive the prize
 376	Complete / Incomplete
-377	Total points of conquest
-378	Fill in here the description of the conquest that has been replaced
-379	Fill in here the description of the conquest that has been replaced
-380	Fill in here the description of the conquest that has been replaced
-381	Fill in here the description of the conquest that has been replaced
-382	Fill in here the description of the conquest that has been replaced
-383	Fill in here the description of the conquest that has been replaced
-384	Fill in here the description of the conquest that has been replaced
-385	Fill in here the description of the conquest that has been replaced
-386	Fill in here the description of the conquest that has been replaced
-387	Fill in here the description of the conquest that has been replaced
-388	Fill in here the description of the conquest that has been replaced
-389	Fill in here the description of the conquest that has been replaced
+377	Total Points de conquête
+378	Remplissez ici la description de la conquête qui a été remplacée
+379	Remplissez ici la description de la conquête qui a été remplacée
+380	Remplissez ici la description de la conquête qui a été remplacée
+381	Remplissez ici la description de la conquête qui a été remplacée
+382	Remplissez ici la description de la conquête qui a été remplacée
+383	Remplissez ici la description de la conquête qui a été remplacée
+384	Remplissez ici la description de la conquête qui a été remplacée
+385	Remplissez ici la description de la conquête qui a été remplacée
+386	Remplissez ici la description de la conquête qui a été remplacée
+387	Remplissez ici la description de la conquête qui a été remplacée
+388	Remplissez ici la description de la conquête qui a été remplacée
+389	Remplissez ici la description de la conquête qui a été remplacée
 390	Pts. Achievement:
 391	Logo Points
 392	Logo Points
@@ -433,7 +433,7 @@
 432	Quitter Alliance
 433	Undo Alliance
 434	Rules
-435	Guild Conquests
+435	Guild ConQuêtes
 436	Page 2
 437	Page 3
 438	Page 1
@@ -549,7 +549,7 @@
 548	Double click to modify the announcement and press Enter to Confirmer
 549	Basic Info
 550	Elevate LV
-551	Guild Conquests
+551	Guild ConQuêtes
 552	Flag
 553	End of the battle, you will leave in ^ff000030 seconds ^N of the battlefield
 554	Red Team / Blue team Winner
@@ -712,7 +712,7 @@
 711	Retirer
 712	Nom
 713	Emb.
-714	Guild Conquests
+714	Guild ConQuêtes
 715	Modify
 716	Enter a negative number to reduce the integration!
 717	Are you sure you want to make the following changes?
@@ -745,8 +745,8 @@
 744	Entrer
 745	× =
 746	× =
-747	Second round of awards
-748	First round of awards
+747	Second round of Gains
+748	First round of Gains
 749	Second round of assistance
 750	First round of assistance
 751	Select support item
@@ -789,13 +789,13 @@
 788	Combine the relics to increase the attributes.
 789	Suiv
 790	Prec
-791	Active relics
+791	Artefacts Actif
 792	Aura:
 793	Select Relic:
 794	Senal of calamity
-795	Charms:
+795	Orbes:
 796	Effet:
-797	P. Divino:
+797	Puissance: 
 798	Special
 799	Attribut
 800	x2.5
@@ -817,7 +817,7 @@
 816	Stop
 817	Améliorer
 818	Niv:
-819	Progress:
+819	Avancée:
 820	Clear Relic enchantments.
 821	By resetting the ore level, a certain amount of aura will return.
 822	Bronze Ore
@@ -850,7 +850,7 @@
 849	Origin relic
 850	Annuler
 851	Error message
-852	Transfert Enchantement
+852	Transfert Orbes
 853	Transfert Minerais
 854	Online Support Help
 855	Annuler
@@ -1023,7 +1023,7 @@
 1022	Portable warehouse: From VIP level 1, access to this service will be available.
 1023	Wareh.
 1024	Temporary
-1025	Quests
+1025	Quêtes
 1026	Items
 1027	Split item stack
 1028	Separate
@@ -1362,7 +1362,7 @@
 1361	Blocks and unlocks items. \rAfter locking an item, 7 days will needed to unlock it.
 1362	BLC
 1363	End of the battle, you will leave the battlefield in 30 seconds, the invoice of the instance zone will appear after 15 seconds.
-1364	Lava battlefield
+1364	Guerre au Volcan
 1365	Quitter PVP
 1366	Bleu
 1367	Rouge
@@ -1952,7 +1952,7 @@
 1951	Alma Store
 1952	Alma Store
 1953	Ah this Etoile, this Etoile is awesome. It not only allows you to make a wish come true, but it also enlightens you. Have you seen war flares in movies? In that thing, in the darkness of the night while you wander along the road, it did not cause to just cook it, I really run away from home to travel. What are you waiting for? Play quickly!
-1954	La vision est très importante pour un Chevalier, entraînez vous en comtant les oiseaux !
+1954	La vision est très importante pour un Chevalier, entraînez vous en comptant les oiseaux !
 1955	Entraînement terminée !
 1956	Prix:
 1957	Confirmer
@@ -1990,10 +1990,10 @@
 1989	Niv
 1990	Win
 1991	Info
-1992	Many awards Many prizes
-1993	Many places a lot Many awards
-1994	Many awards Many prizes
-1995	Many awards many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes
+1992	Many Gains Many prizes
+1993	Many places a lot Many Gains
+1994	Many Gains Many prizes
+1995	Many Gains many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes many prizes
 1996	Many words from a background story
 1997	Journalier
 1998	Hebdo
@@ -2209,8 +2209,8 @@
 2208	Puiss:
 2209	Etoile
 2210	Or
-2211	Award-winning Presence
-2212	Award
+2211	Prime de Présence
+2212	Gains
 2213	Groupe
 2214	Groupe
 2215	Athena
@@ -2576,7 +2576,7 @@
 2575	Welcome to the official WeChat of "The Knights of the Zodiac". \rBusque a public account "The Knights of the Zodiac" or scan the QR code to follow, more surprises await you!
 2576	Touch
 2577	Prize
-2578	Play Touch, win incredible prizes. Awards id: 12345
+2578	Play Touch, win incredible prizes. Gains id: 12345
 2579	QR code wechat
 2580	Advertisement:
 2581	Date:
@@ -2898,10 +2898,10 @@
 2897	More information
 2898	Understood
 2899	Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here!
-2900	Name of conquests Configuration of papers
+2900	Name of conQuêtes Configuration of papers
 2901	Achievements
 2902	He won a new conquest He won a new conquest He won a new conquest He won a new conquest He won a new conquest He won a new conquest
-2903	Many awards Many prizes Many prizes Many prizes Many prizes Many prizes
+2903	Many Gains Many prizes Many prizes Many prizes Many prizes Many prizes
 2904	Objectives
 2905	More details
 2906	Reward Guidelines
@@ -2916,9 +2916,9 @@
 2915	Reach level 95 to get 115,000 combat power
 2916	Prize
 2917	We have already received all the prizes
-2918	Awards
+2918	Gains
 2919	For childcare Parreira in the equipment concentrator and (character attributes) of the equipment vigor fight cohesive energy reaches 2000
-2920	Awards
+2920	Gains
 2921	Recommendations
 2922	Task
 2923	Power Avaliación
@@ -2985,7 +2985,7 @@
 2984	I want to earn money ...
 2985	I want to make friends ...
 2986	I want to join the Guild ...
-2987	Name, maximum, 8 conquests
+2987	Name, maximum, 8 conQuêtes
 2988	Many of the achievements word: many words achievements achievements many words: many achievements words achievements of many words a lot of words of achievement many words of achievements of many words a lot of words, many achievements of many words many achievements word word word many achievements many achievements are many words word word many achievements many achievements are many words word word many achievements many achievements word word many achievements
 2989	Check details
 2990	Complete New objective of the phase!
@@ -3008,7 +3008,7 @@
 3007	Browser
 3008	Official site
 3009	Forum
-3010	Community
+3010	Communauté
 3011	Know
 3012	Material
 3013	Measures
@@ -3251,7 +3251,7 @@
 3250	Golden
 3251	Argent
 3252	Bronze
-3253	Awards
+3253	Gains
 3254	Name of the player with 8 characters.
 3255	Rank
 3256	Convert the value of life according to one's own fighting strength
@@ -3324,7 +3324,7 @@
 3323	Upgarde of name XXXX
 3324	His name is now the highest in the Rola of names XXXX
 3325	Annuler
-3326	Awards
+3326	Gains
 3327	VS
 3328	Records
 3329	My rank
@@ -3929,7 +3929,7 @@
 3928	Offline
 3929	Offline
 3930	Offline
-3931	After selecting, you will not receive more group requests.
+3931	After selecting, you will not receive more group reQuêtes.
 3932	Full group
 3933	Player name has eight characters
 3934	Player name has eight characters
@@ -3970,7 +3970,7 @@
 3969	Oui
 3970	Are you sure?
 3971	Force close
-3972	Pending quests:
+3972	Pending Quêtes:
 3973	^ffffff after entering the ^ffff00 Glory Bath ^ffffffStatus ^a2ffff to every 5 ninth you will get stored experience ^ffff00 the greater the fighting power, the greater the experience stored in Guild bases from level 1 or above, use bonus extras ^ffffffOBS: Accumulated EXP can be released at the same time when you are winning the EXP normally, and it is twice the result!
 3974	Glory Bath
 3975	Click to stop, or leave or open the event calendar
@@ -4581,13 +4581,13 @@
 4580	EXP Reçu:
 4581	Get extra EXP from storage done.
 4582	Titre
-4583	See all Quests available
+4583	See all Quêtes available
 4584	Afficher
 4585	Trash selected Quest
 4586	Abandonner
 4587	Share quest chosen
 4588	Share
-4589	Number of Quests: 2/25
+4589	Number of Quêtes: 2/25
 4590	Getting rid of the boar 500 meters ahead
 4591	Go towards
 4592	Quêtes:
@@ -4614,7 +4614,7 @@
 4613	In the LV60, there will be only 10 questions per day and the EXP award of each question will be double.
 4614	Write the topic content here! Write the content of the topic here! Write the content of the topic here!
 4615	xxxx
-4616	Earn EXP awards:
+4616	Earn EXP Gains:
 4617	1899-12-31T08: 10: 00,000
 4618	Help friend
 4619	Help system.
@@ -4669,11 +4669,11 @@
 4668	Receive
 4669	Getting rid of the boar 500 meters ahead
 4670	First Chapter: Galactic Tournament Galactic Tournament
-4671	Quests available:
+4671	Quêtes available:
 4672	How many characters in the name of the quest.
-4673	Quests that can be delivered:
-4674	Up to 5 quests at a time and 50 per day.
-4675	Quests completed today: XX / 50
+4673	Quêtes that can be delivered:
+4674	Up to 5 Quêtes at a time and 50 per day.
+4675	Quêtes completed today: XX / 50
 4676	Knights of the Goddess
 4677	Golden Knight of Capricorne
 4678	Like: fjasdfkjasfkl; jasl; fj; lj necklace Card Campanula de Oro embarrassed comandane committed against evil spirits evil spirits Résist Satan willing to make another meal ask for collar lapel sweep against as tired as tired as volei committed as evil spirits sendother flood Satan is willing to make a meal as part of Satan willing to do for the difficulty of making law as to send the pieces to make the skin as the leader worry about making three rounds as boring as doing sweeping Lanfen decrease the measure: view; ldkfjkldsfj ; slfjaskdfjaskl; jf
@@ -4798,30 +4798,30 @@
 4797	Guild PK
 4798	Trace Configuration
 4799	All NPCs
-4800	Quests available
-4801	Conclusion of Quests
-4802	Objectives Quests
-4803	Monsters Quests
+4800	Quêtes available
+4801	Conclusion of Quêtes
+4802	Objectives Quêtes
+4803	Monsters Quêtes
 4804	Galactic Tavern
 4805	^O053 Close the audio player
 4806	^O053 minimize the audio player does not disable the sound
 4807	Temporarily turn off the sound and music of the game
 4808	After closing the radio, it will open automatically
-4809	Wheel of Fortune
+4809	Roue de la Fortune
 4810	↓ Multipliez les Zénis et l'EXP ↓
 4811	Click to start spinning the Wheel of Fortune
-4812	start draw
+4812	Lancer
 4813	You have 99 Dice of Destiny for the current time, the update is of, maximum, 5 times - now you can also update it 5 times
-4814	New attempt (5x)
+4814	Relancer (x5)
 4815	EXP+
 4816	× 1.5
 4817	× 2.0
 4818	× 3.0
 4819	× 5.0
 4820	× 8.0
-4821	Receive
+4821	Recevoir
 4822	Great Pineapple Bread
-4823	You won:
+4823	Tu as gagné:
 4824	× 5.0
 4825	× 5.0
 4826	× 5.0
@@ -5180,7 +5180,7 @@
 5179	Annuler
 5180	About to be sent to XXXX
 5181	Teste teste teste teste
-5182	Cancel the automatic route search
+5182	Annuler l'itinéraire automatique
 5183	Teleport immediat
 5184	Click once on the mouse to see the details
 5185	Progress of the Knight
@@ -5723,23 +5723,23 @@
 5722	Close Photos
 5723	Open
 5724	Viewing distance
-5725	Tomorrow's Prize
-5726	Today's award
-5727	Award-winning Presence
-5728	Receive
-5729	Receive
+5725	Demain
+5726	Aujourd'hui
+5727	Prime de Présence
+5728	Recevoir
+5729	Recevoir
 5730	X8
 5731	X8
 5732	X8
 5733	X8
 5734	X8
 5735	X8
-5736	The Power of Struggle determines the strength of a knight or not. Constantly checking your own Power of Struggle is a necessary
-5737	See my Power
+5736	La puissance de combat détermine la force d'un chevalier.\rVérifier constamment votre puissance de combat est une nécessité.
+5737	Ma Puissance
 5738	7 Days
 5739	28 Days
 5740	^FFEFD5EIn the event that you do not sign a day, you can still sign. \r ^FFB90 You have been present for XX days in this month. \rThe award-winning Presence is renewed monthly.
-5741	Award-Winning Presence
+5741	Prime de Présence
 5742	Taureau Personification Card 3 Days
 5743	Taureau Personification Card 3 Days
 5744	Taureau Personification Card 3 Days
@@ -5968,8 +5968,8 @@
 5967	Or current:
 5968	Add
 5969	Full inventory, can not be purchased.
-5970	Buy
-5971	Sell
+5970	Achat
+5971	Vente
 5972	Clear
 5973	Open personal store
 5974	Confirmer
@@ -6273,7 +6273,7 @@
 6272	Currently, the brightness of the Etoile Soul Stone can no longer use this Stone Upgrade to Upgrade the level
 6273	Verify purchase history
 6274	History
-6275	Shop
+6275	Magasin
 6276	4 words
 6277	4 words
 6278	4 words
@@ -6307,14 +6307,14 @@
 6306	Suiv
 6307	Suiv
 6308	Click to sell all useless items in the inventory.
-6309	Quick sale
-6310	Repair all
-6311	Repair
+6309	Vente rapide
+6310	Tout Repar
+6311	Reparer
 6312	Retour
 6313	Registration
 6314	Radish X100
-6315	Sell
-6316	Sell next items
+6315	Vendre
+6316	Liste des items
 6317	23 h y 59 min
 6318	23 h y 59 min
 6319	23 h y 59 min
@@ -6509,7 +6509,7 @@
 6508	Inicial
 6509	Único
 6510	Tasas
-6511	Cancel venta
+6511	Annuler vente
 6512	Buscar
 6513	No encontrado.
 6514	Tiempo
@@ -7262,18 +7262,18 @@
 7261	Eleve
 7262	Astrologie
 7263	Artefact
-7264	Spirit of Armor
+7264	Esprit d'Armure
 7265	Armure
 7266	Social
 7267	Guilde
 7268	Familier
 7269	Hide / Show Buttons
-7270	Character
+7270	Personnage
 7271	Items
 7272	Skills
 7273	Quêtes
-7274	Item Mall
-7275	System
+7274	Cash Shop
+7275	Systeme
 7276	Divine perfection
 7277	Divinité
 7278	Guardianship
@@ -7282,7 +7282,7 @@
 7281	7 sec
 7282	Help your apprentice climb Level to receive honor points.
 7283	Honor
-7284	Only the tutelage relationship established through the System of Indications can receive the awards when the apprentice becomes a teacher
+7284	Only the tutelage relationship established through the System of Indications can receive the Gains when the apprentice becomes a teacher
 7285	Indication
 7286	Teacher
 7287	Apprentice
@@ -7294,7 +7294,7 @@
 7293	Ahhh, haha
 7294	Reception of Honor Points
 7295	Fermer
-7296	Awards
+7296	Gains
 7297	Player 1:
 7298	Admit an apprentice (receives on the 3rd day):
 7299	99999 points
@@ -7341,7 +7341,7 @@
 7340	x99
 7341	Multiserver
 7342	Fermer
-7343	Individual registration
+7343	Individuel registration
 7344	Team registration
 7345	Rules of the arena
 7346	Exit
@@ -7379,7 +7379,7 @@
 7378	x Victoires x Défaites
 7379	Fermer
 7380	Team registration
-7381	Individual registration
+7381	Individuel registration
 7382	xxx / xxx
 7383	Points PvP:
 7384	xxx / xxx
@@ -7395,7 +7395,7 @@
 7394	Puissance actuel:
 7395	xxx
 7396	Taux de Victoire:
-7397	Ruins of the God of War: Individual registrations from 10:00 am to 5:00 pm and team registrations from 8:00 pm to 11:55 pm, daily
+7397	Ruins of the God of War: Individuel registrations from 10:00 am to 5:00 pm and team registrations from 8:00 pm to 11:55 pm, daily
 7398	First week of the Season of Competitions of the month
 7399	When choosing the option, show the players in the Level icon
 7400	Display icon
@@ -7505,40 +7505,40 @@
 7504	Voting quality:
 7505	Green
 7506	Designate
-7507	Enter the row
+7507	Entrer
 7508	Nom
 7509	Times
 7510	Status
 7511	Name First Name First Name
 7512	Status
-7513	Enter the row
-7514	Enter the row
+7513	Entrer
+7514	Entrer
 7515	Leave the group
 7516	Tank
 7517	DPS
 7518	Heal
 7519	Search for upcoming players
-7520	Enter the row
+7520	Entrer
 7521	Attack
 7522	Guild name is eight characters
 7523	Guild name is eight characters
 7524	1h and 20min are missing
-7525	Pegase domain
+7525	Domaine Pegase
 7526	attacking and defensive statute
 7527	enemy Guild
 7528	Date
-7529	Domain
+7529	Domaine
 7530	Date
 7531	Status
-7532	enemy Guild
-7533	Allied Guild
-7534	Domain
+7532	Guilde ennemie
+7533	Guilde Allier
+7534	Domaine
 7535	Alliance Schedule
-7536	In progress (1h and 20min)
+7536	En cours (1h and 20min)
 7537	Attack
 7538	Guild name is eight characters
-7539	Pegase domain
-7540	Enter the row
+7539	Domaine Pegase
+7540	Entrer
 7541	Date
 7542	Defensive Guild
 7543	Guild Attacker
@@ -7550,12 +7550,12 @@
 7549	Profit
 7550	Nom
 7551	Guild name is eight characters.
-7552	Enter the battle
+7552	Entrer PvP
 7553	Declare
-7554	Period
+7554	Periode
 7555	Defensive Guild
 7556	Guild Attacker
-7557	Domain
+7557	Domaine
 7558	In progress (1h and 20min are missing)
 7559	Guild name is eight characters.
 7560	Guild name is eight characters.
@@ -7587,7 +7587,7 @@
 7586	Exit
 7587	Or
 7588	Bid value:
-7589	Current offer:
+7589	Offre:
 7590	Occupant
 7591	Const.
 7592	Busy
@@ -7602,8 +7602,8 @@
 7601	Or
 7602	Magnitude
 7603	Name of the constellation
-7604	Final offer
-7605	Current offer:
+7604	Offre Finale
+7605	Offre:
 7606	Profit
 7607	Occupant
 7608	Our team can attack
@@ -7720,10 +7720,10 @@
 7719	Permanent power: HP + 999 Attack + 999
 7720	Titles that beginners can easily achieve
 7721	Progress:
-7722	Awards:
+7722	Gains:
 7723	Brave chicken slaughtering
 7724	Progress:
-7725	Awards:
+7725	Gains:
 7726	Brave chicken slaughtering
 7727	Prec
 7728	Suiv
@@ -7936,7 +7936,7 @@
 7935	Annuler
 7936	Teleportation imminent
 7937	Test test test test
-7938	Cancel the automatic search of the road
+7938	Annuler l'itinéraire automatique
 7939	Go aHour
 7940	Weird treasure
 7941	Collect
@@ -8279,7 +8279,7 @@
 8278	Expelled
 8279	Expelled
 8280	Expelled
-8281	Cancel multiplayer montage
+8281	Annuler le montage multijoueur
 8282	Buy
 8283	4 words
 8284	4 words
