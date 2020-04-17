@@ -2791,7 +2791,7 @@
 2790	^O021^ffff00 Cupid kiss\r^O009^ffffff you're Eros kissing!
 2791	^O021^ffff00 Cupid Kiss
 2792	^O021Q wire transfer to room
-2793	^O021^ffff00 chaotic battlefield_Capture the Flag integral\r^O009^ffffff increase the integration chandelier
+2793	^O021^ffff00 Guerre des Cristaux_Capture the Flag integral\r^O009^ffffff increase the integration chandelier
 2794	^O021Q Zi anti-editing wires
 2795	^O021^ffff00 Muro\r^O009^ffffff suffer harm reduction, immune control of air defense.
 2796	^O021^ffff00 air defense wall
@@ -2891,7 +2891,7 @@
 2890	^O021^ffff00 climbing attack
 2891	The coding rate has increased dramatically.
 2892	^O021^ffff00 to improve the Taux Critique
-2893	^O021 flag chaotic battlefield completion
+2893	^O021 flag Guerre des Cristaux completion
 2894	^O021^ffff00 force Parry\r^O009^ffffff body will converge on the arm, blocking all attacks.
 2895	^O021^ffff00 Golden Arrow test\r^O009^ffffff success blocking a golden arrow attack
 2896	^O021^ffff00 Golden Arrow test
@@ -2980,7 +2980,7 @@
 2979	^O021 delay buckle anger
 2980	^O021^ffff00 vie\r^O009^ffffff when fully occupied or recapture crystal, 20m range within the players themselves receive reward points.
 2981	^O021^ffff00 containment
-2982	^O021 chaotic battlefield BUFF scattered tips
+2982	^O021 Guerre des Cristaux BUFF scattered tips
 2983	^O021^ffff00 dizziness\r^O009^ffffff Vertigo
 2984	^O021 for anti-property practice ^O009 increase Dégât
 2985	^O021 anti-water property practice ^O009 increase Dégât

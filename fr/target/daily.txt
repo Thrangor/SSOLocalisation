@@ -55,7 +55,7 @@
 54	[Donjon] Seven Ocean Giants (front)
 55	80 or above
 56	[Donjon] Seven Ocean Giants (after)
-57	[PvP] Attica Ruins
+57	[PvP] Guerre de Domination
 58	[Donjon] Killing Evil
 59	victory! The glory of the battlefield (abandoned)
 60	[Solo] Run! Little brother (lucky star)
@@ -88,8 +88,8 @@
 87	${npc(31615,1)}
 88	${npc(31616,10)}
 89	Cité d'Hades
-90	[PvP] Attica 1v1
-91	[PvP] Attica Temporary Test
+90	[PvP] Guerre de Domination 1v1
+91	[PvP] Guerre de Domination Temporary Test
 92	greedy yarn weaving
 93	20-100 level (^fffd44 can only get 59 rewards ^N)
 94	25-100 level (^fffd44 can only get 59 rewards ^N)
@@ -118,7 +118,7 @@
 117	(4 or more people)
 118	[Donjon] Midsummer Carnival Day Drop Gift
 119	anywhere, online
-120	[PvP] Abandoning Charge! Attica ruins
+120	[PvP] Guerre de Domination Abandon
 121	[Month] Goddess of God
 122	(4-6 people recommended full team)
 123	[Hero] Ten Wind Cave
@@ -143,7 +143,7 @@
 142	[Donjon] Day drop treasure chest
 143	[Donjon] Me and my friends
 144	[Event] Mid-Autumn Festival! Oyster of osmanthus wine
-145	[PvP] abandoned occupation! Guerre des Cristaux
+145	[PvP] Guerre des Cristaux Abandon
 146	close
 147	[Donjon] National Day! Dragon of the East
 148	[Donjon] "Happy National Day" collection
@@ -241,7 +241,7 @@
 240	[PvP] Guerre au Volcan 3v3 Test
 241	[PvP] flag is open! Victory
 242	victory! The Road to the King (Abandoned)
-243	[PvP] PvP Lave
+243	[PvP] Guerre au Volcan
 244	[PvP] Flight 1
 245	[Donjon] Labor Day! Goddess of gratitude
 246	[Donjon] Contre Attaque! Atlantis HL
@@ -478,8 +478,8 @@
 477	The Guild will open the Guild Qualifying Tournament every Saturday night from 22:00 to 23:00, and members are invited to participate on time. \rThis activity requires a Guild base to participate.
 478	Ten Wind Cave
 479	Ten Wind Cave can get up to 10 rewards per week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saints led the Dark Saints to the Arene Galactique and captured the Or saint of Sagittaire! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
-480	Battlefield: Attica Ruins
-481	Battle size: 10-18 people/square\r In order to hone the fighting skills and meet the new holy war, the holy warriors in the holy war ancient battlefield Attica ruins Conduct practical training！
+480	Battlefield: Guerre de Domination
+481	Battle size: 10-18 people/square\r In order to hone the fighting skills and meet the new holy war, the holy warriors in the holy war ancient battlefield Guerre de Domination Conduct practical training！
 482	In the arena in the middle of the illusion, there will be a treasure chest, and the treasure chest will be destroyed and the prize will be dropped. \rTime: Start at 11:00 every day, brush one every 2 hours, and close at 23:00. \r^e12500 Note: The map is PK without penalty area, I hope the player pays attention. ^N
 483	In order to welcome the awakening of Hades, the world is attributed to the eternal darkness and horror, and the four gods of the goddess of death are killed by the gods of Nadousus and the life of the sleeping gods. They look for the gladiators who have not yet awakened, and wake up the dark universe that they lurk in their dreams. For love and justice, for the light and peace of the earth, stop them, the young Saints! \r Everyday 10:00-23:59 points, in the illusion will be a lot of monsters, the difficulty is high, I hope to team up. \r 幻境1 enters the lowest level is 50 level\r 幻境2 enters the lowest level is 65 level ^e12500 Note: The map is PK without penalty area, I hope the player pays attention. ^N
 484	is open all day, and a lot of monsters will be brushed out in the illusion. It is recommended to enter the team. \r^e12500 Note: This map is a safe area. ^N
@@ -523,7 +523,7 @@
 522	Saints! The glory of the stars can only be completed once a week. After taking the mission, you can complete the mission by performing the epic challenge of Stars at Coyes. The higher the historical record level, the higher the experience reward!
 523	Those who were exiled on the road of forgetting turned their backs on the faith of the goddess. Under the impetus of the dark forces, they attempted to use the forgotten village as a base to carry out the terrorist plan to destroy the entire Sanctuaire. As the guardian of the road to forget, the Or Saints, Ioria, was ordered to annihilate the rebellion.
 524	On the night of Tanabata, there was a terrible change in the well of Huangquan. Even Zilong, who was ordered to investigate, was trapped in the well of Huangquan. Chun Li sensed the crisis of Zilong, and rushed into the well of Huang Quan, and asked you to help her rescue the green dragon.
-525	Battle size: 10-18 people/square\r100 level open\r Athena created this chaotic battlefield in order to train the young Saints with Hades. In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
+525	Battle size: 10-18 people/square\r100 level open\r Athena created this Guerre des Cristaux in order to train the young Saints with Hades. In the Guerre des Cristaux, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
 526	Where is the limit of Saints? Nobody knows! Because the holy warrior is always breaking the limit! \r In order to holy war, the commander of the Sanctuaire was prepared by the life of Athena for the extreme tasks of the Saints. It is said that as long as you complete all the extreme tasks, you will become the strongest Saint. Go ahead and challenge, young Saints! The strongest belongs to you! ! !
 527	Cité d'Hades ghosts are rampant, is it another plot of Hades? Fortunately, the Sanctuaire is ready to deal with these ghost pumpkin bombs! Let's bomb together!
 528	Entering the trial illusion of the corresponding level, you will receive the illusion of the illusion, killing 30 corresponding levels of the mandala flower. The task is triggered every 5 minutes, 72 times a day, and 12 times at night. \r^e12500 Note: This map is a safe area. ^N
@@ -754,7 +754,7 @@
 753	Event time: From December 23rd to January 12th, when the daily activity reaches 20, you can get a double card at the Christmas tree. When you collect 3, 6, 10, and 15, you can redeem the surprise reward at Santa Claus.
 754	Activity time: From December 23rd to December 25th, every day from 20:00 to -22, you can get Santa's information at the Christmas tree. From January 1st to January 3rd, you can use Santa Claus every day. The information was exchanged at Santa Claus for the reward.
 755	Event time: From December 23rd to December 25th, 3 days, you can receive 2 New Year's red envelopes at the Christmas tree. The red envelopes will be used by other players from January 1st to January 3rd. Earn rewards.
-756	Activity time: From January 1st to January 3rd, two Attica battlefields or chaotic battlefield missions will be completed twice a day, and you will receive an additional double reward for the battlefield.
+756	Activity time: From January 1st to January 3rd, two Attica battlefields or Guerre des Cristaux missions will be completed twice a day, and you will receive an additional double reward for the battlefield.
 757	The goddess of ice and snow, imprisoned in the snow-capped mountains, sent her men in the coldest hours of the year to avenge the gods of Olympus who imprisoned her. Now, countless snowmen have invaded East Siberia and threatened the peace of the earth. Brave Saints, defeat these abominable invaders!
 758	Activity time: From January 1st to January 3rd, you can exchange your Santa Claus information for the reward.
 759	Sang d'Argent
@@ -770,7 +770,7 @@
 769	On Valentine's Day, the system will record the world call (including the name of the person being blessed) and (the words or blessings that Valentine said to TA), each server will randomly select 10 pairs of lovers (ie send blessed characters and be blessed) Role), gifted with the special edition of the Valentine's Day 2015 special title: 2015. Note: The event winners will be announced on the official website after February 25th. The event Gains will be issued within 5 working days after the winners are announced.
 770	title: 2015
 771	The goddess was taken away again! Why do I say that...
-772	Event time: From March 17th to March 30th, you can get an extra double reward for the battlefield by completing two Attica battlefields or chaotic battlefield missions every day.
+772	Event time: From March 17th to March 30th, you can get an extra double reward for the battlefield by completing two Attica battlefields or Guerre des Cristaux missions every day.
 773	Event time: January 23 - February 5, every night from 20:00 to 22:00. \r Every 10 minutes will randomly pop up the treasure box in the game interface, click on the treasure chest to receive the item reward! Only 2 minutes of pick-up time per pop-up, please don't miss it!
 774	Activity time: From March 17th to March 30th, players who have an activity level of 20 per day can receive 1 "Rebirth Return Card", and players who collect 1, 4, 7, or 10 cards can be in Q. Exchange a great reward for the Athena!
 775	Join MAX! The Dark Stars of Infinite War must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
@@ -860,9 +860,9 @@
 859	[Guilde] Invasion en Guilde !
 860	[Donjon] Guerre du Colisée
 861	[PvP] victory! The road to the king
-862	[Donjon]& Rêve des Dieux Or
+862	[Donjon] Rêve des Dieux Or
 863	(6 people)
-864	[Donjon]& Rêve des Dieux Surplis
+864	[Donjon] Rêve des Dieux Surplis
 865	[Event] Eros Collection Order
 866	110 or above
 867	(6-12 people recommend the full team)
@@ -875,7 +875,7 @@
 874	The story of the various Saints is circulated in the world of Saint Seiya. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi.
 875	All battles and three rings are counted together. \rThis activity includes 2 copies of the serial challenge with sequential relationship: \r "Poisson Trial" - "Litender Trial" or "Lion Trial"\r Participate in any copy count 1 time, can participate in 6 cumulatively per day Secondly, it takes 1 point of war to participate in the "Poisson Trial", and it takes 2 points to participate in the "Litli Trial" or "Lion Trial"!
 876	Ten Wind Cave can participate in up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saint Seiya led the Dark Saint Seiya to the Arene Galactique and captured the Or saint of Sagittaire! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
-877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-submersible 2; submersible 3-submersible 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Attica ruins can be rewarded with a lot of rewards.
+877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-submersible 2; submersible 3-submersible 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Guerre de Domination can be rewarded with a lot of rewards.
 878	The Twelve Houses (Part I) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuaire to confront the Pope, but the Assassin sent by the Pope shot with a Or arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Belier, Aldebaran of Taureau and the mysterious Gemeaux Saint Seiya?
 879	Twelve Houses (Part II) can participate up to 10 times a week, and the difficulty is high, it is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Lion's punching speed is close to the speed of light; the Vierge's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
 880	Twelve Houses (Part III) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Balance Palace, the Scorpion Palace and the Archer Palace. \r Balance's Dohko teacher retired in Lushan; Sagittaire's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpion's Miro is a killer that can't be Résisted by anyone.
@@ -886,7 +886,7 @@
 885	Ice Temple can participate up to 10 times a week, you need to participate in the [copy] Golden Zodiac (Yu), get the item: ^61f2ff ice wing ^N before you can participate. \rIceland Princess Valkyrie was cursed by Nibelungen's ring and turned into a female Valkyrie. She was controlled by the sea emperor and occupied the seal of the sea emperor under the ice sea against Athena. In order to save the Princess of Valkyrie from the curse, break through the night of this blockade of ice, the boy of love and justice, march toward the Temple of Ice and Ice!
 886	On the occasion of the Dragon Boat Festival, many Saints gathered in Lushan. The tranquil Lushan Mountain is very lively at this moment. The village head also specially invites you to visit Lushan to attend their Dragon Boat Festival celebrations. What are you waiting for, go to the party!
 887	Midsummer night comes, it is the most powerful time of the god of the gods, and Athena will carry out an important star prayer ceremony on this day, she will consume a lot of energy in the ceremony. \r turned into a golden warrior, reviving the physical strength of the goddess with the golden universe and the resonance of God, and prevented the dream god and his party feathers coming to attack.
-888	Combat scale: 18v18\r grade segmentation: 80-94; 95-submersible 2; submersible 3 - submersible 10\r In order to train the young Saint Seiya with Hades, Athena created this chaotic battlefield . In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
+888	Combat scale: 18v18\r grade segmentation: 80-94; 95-submersible 2; submersible 3 - submersible 10\r In order to train the young Saint Seiya with Hades, Athena created this Guerre des Cristaux . In the Guerre des Cristaux, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
 889	Among the holy warriors, there are many teenagers from an ancient country in the East. \r These days are the national day of that country. However, as a holy warrior who guards the peace of the earth, the teenagers cannot leave the Sanctuaire and return to their country. Therefore, at this time of the year, the Pope has a magic bell to celebrate them in the Sanctuaire.
 890	During the event, on National Day! Dragon of the East, Mid-Autumn Night! Mooncake big bang and awakening! In the six activities of Shaka, four items (not bound) are randomly prized for “National”, “Celebration”, “Fast” and “Le”. \r Single-word items can be opened directly to get a small amount of experience and vouchers. Collect 4 words to exchange a lot of experience with Emily, and redeem it once a day.
 891	Event time: December 24th - December 30th, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive massive experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!

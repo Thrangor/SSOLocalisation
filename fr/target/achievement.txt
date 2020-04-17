@@ -935,12 +935,12 @@
 934	King Without Crown
 935	Win 50x on the Battlefield of Attica
 936	Glory of Chaos
-937	Win 1x on the Chaotic Battlefield
+937	Win 1x on the Guerre des Cristaux
 938	General Vencedor
-939	Win 25x on the Chaotic Battlefield
+939	Win 25x on the Guerre des Cristaux
 940	Invincible
-941	Win 50x on the Chaotic Battlefield
-942	Chaotic Battlefield Test
+941	Win 50x on the Guerre des Cristaux
+942	Guerre des Cristaux Test
 943	Beat 1x Battlefield Battle Test
 944	Immediate Victory
 945	Win 1x on the Guerre au Volcan
@@ -1160,7 +1160,7 @@
 1159	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Assembly! The zodiac crisis
 1160	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Atlantis! Storm
 1161	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Ten Winds Cave
-1162	Check ${dynamic_dir(55, "\Daily Activities"\)} and win [Battlefield] Attica ruins
+1162	Check ${dynamic_dir(55, "\Daily Activities"\)} and win [PvP] Guerre de Domination
 1163	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] To Kill Evil
 1164	Use ${dynamic_dir(5, "\Star Cast System"\)} and upgrade any Holy Armor to LV2
 1165	Check ${dynamic_dir(26, "\Hero Arena"\)} and participate in area battle

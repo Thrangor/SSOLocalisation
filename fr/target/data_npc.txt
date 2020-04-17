@@ -8015,7 +8015,7 @@
 8014	Teleportation Battlefield Celestial red team
 8015	Teleportation Battlefield Celestial blue team
 8016	Floating competition_ Teleportation zone without BUG
-8017	Chaotic battlefield
+8017	Guerre des Cristaux
 8018	Teleportation of the glass area of ​​the red team
 8019	Teleportation of the glass area of ​​the blue team
 8020	East Gate of Attica
@@ -12678,7 +12678,7 @@
 12677	Popular Battle Camp Guide
 12678	Battlefield Celestial guide
 12679	Battlefield complete chaos
-12680	Battlefield Lava complete
+12680	Guerre au Volcan complete
 12681	Lava Battle Camp guide
 12682	Emissary of the god of war - Anlina
 12683	Complete Attica battlefield

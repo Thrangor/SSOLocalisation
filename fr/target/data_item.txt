@@ -14612,7 +14612,7 @@
 14611	Mu
 14612	Aldebaran
 14613	Luck of the day [Friendship]
-14614	Luck of the day [Battle]
+14614	Luck of the day [PvP]
 14615	Luck of the Day [Romance]
 14616	Luck of the day [Wealth]
 14617	Horoscope Tool
