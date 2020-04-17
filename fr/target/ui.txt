@@ -2447,14 +2447,14 @@
 2446	Open the Rola of friends and select a friend online
 2447	List
 2448	Confirmer
-2449	Conversation History
+2449	Historique Conversation
 2450	Prec
 2451	Suiv
-2452	Clear History
+2452	Effacer Historique
 2453	Nom:
 2454	Enemies
 2455	Niv:
-2456	Sign:
+2456	Signe:
 2457	Schillin, the knight.
 2458	Vierge
 2459	Constellation:
@@ -2491,7 +2491,7 @@
 2490	Display as current next friend title
 2491	Parrot Mascot
 2492	Open chat window
-2493	History
+2493	Historique
 2494	Move to another group
 2495	Copy name
 2496	Remove friend
@@ -3668,7 +3668,7 @@
 3667	By acquiring all the Blessings, you will gain \r ^ff0000 at least 50000pts. of Blessing Value. \r ^NAl acquire that Blessing Value, the same amount of Green will be received.
 3668	Use
 3669	10 consecutive times
-3670	History
+3670	Historique
 3671	There is a probability of receiving the following items:
 3672	You have received:
 3673	Continuous use of rewards
@@ -3679,7 +3679,7 @@
 3678	Green
 3679	Green
 3680	Blessings:
-3681	History
+3681	Historique
 3682	Schedule
 3683	Blessing
 3684	Nom
@@ -6272,7 +6272,7 @@
 6271	An error message and the results of the update appeared here.
 6272	Currently, the brightness of the Etoile Soul Stone can no longer use this Stone Upgrade to Upgrade the level
 6273	Verify purchase history
-6274	History
+6274	Historique
 6275	Magasin
 6276	4 words
 6277	4 words
@@ -8584,7 +8584,7 @@
 8583	Encyclopedia
 8584	
 8585	Etoile domain
-8586	History
+8586	Historique
 8587	process
 8588	Guidelines
 8589	Treasury
