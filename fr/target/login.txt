@@ -56,7 +56,7 @@
 55	COIFFURE
 56	Aperçu de l'armure
 57	PEAU
-58	SIGN
+58	SIGNE
 59	Selection lieu %s
 60	Selection serveur
 61	Sélectionner le serveur que vous souhaitez rejoindre
@@ -68,7 +68,7 @@
 67	Liste des personnages obtenu!
 68	If the server does not respond for a long time it may be that the connection has expired, please try to connect again.
 69	To ensure the security of your account, remove your Parfait Aegis from the USB slot and keep it safe.
-70	Cancel Create
+70	Annuler Création
 71	Suivant
 72	Précédent
 73	Here you can preview golden armors!

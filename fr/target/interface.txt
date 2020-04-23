@@ -34,7 +34,7 @@
 33	Latence: ^FFFF00 %dms ^N
 34	Latence: ^ff0000 %dms ^N
 35	Ok
-36	Cancel
+36	Annuler
 37	Rejeter
 38	Oui
 39	Non
@@ -459,7 +459,7 @@
 458	Application to join the group
 459	Application for Group
 460	Order for Reunion
-461	Enter the row
+461	Entrer
 462	Entrer en Guerre de Guilde
 463	Guardianship Invitation
 464	Athena authentication invitation
@@ -503,7 +503,7 @@
 502	^80FF00new
 503	^80FF00 ↑
 504	^FFFF00 ↓
-505	Individual
+505	Individuel
 506	Grouper
 507	World
 508	Guild
@@ -721,9 +721,9 @@
 720	OFF
 721	I
 722	All
-723	Activities
+723	Activitées
 724	En attente
-725	Activiter: %d
+725	Activitée: %d
 726	Click here to find details of your teammates,
 727	You are on the team, you can continue to recruit other teammates
 728	You can click on the button on the left to find teammates
@@ -745,7 +745,7 @@
 744	Confirming local
 745	Combat en cours ...
 746	When you are on the battlefield, it is temporarily impossible to use the row function
-747	Activiter: %s
+747	Activitée: %s
 748	Level 15 and higher obtained today %s activity level points can be opened.
 749	h
 750	min
@@ -872,7 +872,7 @@
 871	<Change>
 872	<Astrology>
 873	<Awakening of Heavenly Spirits> Search for the Star Element
-874	<Hero Coliseum> Daily awards
+874	<Hero Coliseum> Daily Gains
 875	Star %d
 876	Gem %d
 877	Star insufficient, it is not possible to receive
@@ -929,7 +929,7 @@
 928	Total Gemmes: Niv %d
 929	Prochaine Aura Niv %d
 930	A gem must be inserted into the breastplate.
-931	Spirit of Armor
+931	Esprit d'Armure
 932	Apostles or LV Power atigiu
 933	Before do LV Power atingiu
 934	^00FF00Please insert
@@ -1034,7 +1034,7 @@
 1033	Vent / Screen Mode
 1034	Boss key
 1035	Burn Cosmo
-1036	Defender
+1036	Defense
 1037	Collect
 1038	Shortcut Bar 1
 1039	Shortcut Bar 2

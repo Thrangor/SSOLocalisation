@@ -143,7 +143,7 @@
 142	Or
 143	Divine
 144	General
-145	Individual
+145	Individuel
 146	Today
 147	Niv
 148	Mon rang:
@@ -165,7 +165,7 @@
 164	Expertise
 165	Star Epic
 166	Number of litters
-167	Player obtained the title of Incarnation of the God of War. If in the list of individual Star Epic rankings, he won the first place in the ranking of the Star of War. If in the ranking list of individual Star Epics, he obtained 2 ° -3 ° places. Semillador de la Gloria Militar. If in the ranking list of individual Star Epics, obtained from the 4th to the 10th place
+167	Player obtained the title of Incarnation of the God of War. If in the list of Individuel Star Epic rankings, he won the first place in the ranking of the Star of War. If in the ranking list of Individuel Star Epics, he obtained 2 ° -3 ° places. Semillador de la Gloria Militar. If in the ranking list of Individuel Star Epics, obtained from the 4th to the 10th place
 168	Roses
 169	Every month the general list will be updated and, on day 01 of each time, the list will be deleted. At the same time, the titles of last month's ranking list will be awarded. \rThe players receive the titles: \r1 ° place: Dazzling Beauty \r2 ° place: Beleza Florescente \r3 place: Beleza Brillante \r4º - 10º places: Beleza Encantadora
 170	Total power
@@ -236,7 +236,7 @@
 235	Location:
 236	How to obtain:
 237	Sanctuaire
-238	Main quests
+238	Main Quêtes
 239	When the reputation reaches a certain level, you can buy items with ${pos (-234,351,311.2, 'Vicente')}
 240	A construction of the Grand Foundation, one of the largest companies in the world. It was created for the completion of the Galactic Tournament.
 241	Coliseum Grand
@@ -297,30 +297,30 @@
 296	Aurora execution
 297	Poisson Knight. It is said that there is no one more beautiful among the 88 Knights, it has the title of "Warrior whose brightness of beauty competes with the Sun and the Moon".
 298	Royal Diabolic Roses
-299	Light of Faith can be obtained through certain items obtained in the dungeons and used to exchange for Beads.
+299	Light of Faith can be obtained through certain items obtained in the Donjons and used to exchange for Beads.
 300	Use:
 301	NPC:
 302	Buy Beads
-303	When the reputation reaches a certain level, you can buy rosaries with ${pos (403,317,179.20, 'Severe')}
+303	When the reputation reaches a certain level, you can buy rosBelier with ${pos (403,317,179.20, 'Severe')}
 304	After the Light Ray Index of the Sign reaches a certain degree of Luminosity, it can invoke the Altair Squire or Vega Squire to aid in the battles.
 305	Daily Quest:
 306	You can buy with ${pos (310,317,179.20, 'Intendente de Squire')}
 307	Favor Points can be obtained in Disciple Mode for players above level 60 and used to exchange for different items.
 308	Buy favor package
 309	The gift package can be purchased in the ${pos (365,317,172.20, 'Favor Store')}
-310	Weekly the Goddess gives 105 Ares Points to the Knights. Points can be used to participate in some activities and access quests from the battlefield.
+310	Weekly the Goddess gives 105 Ares Points to the Knights. Points can be used to participate in some activities and access Quêtes from the battlefield.
 311	Update:
 312	Every Saturday at 06:00
 313	Ares Points can be used with ${pos (222,317,238.20, 'Amanda')}
-314	When you step up in [Dungeon] Seven Pillars of Ocean I, [Dungeon] Seven Pillars of Ocean II and in [Heroic] in the dungeon, in difficult mode, you can get Hero Points.
+314	When you step up in [Donjon] Seven Pillars of Ocean I, [Donjon] Seven Pillars of Ocean II and in [Heroic] in the Donjon, in difficult mode, you can get Hero Points.
 315	Releases in:
 316	Niv 80
-317	When you reach a certain level, you can participate in the dungeon corresponding to [Heroic]
+317	When you reach a certain level, you can participate in the Donjon corresponding to [Heroic]
 318	By using the Blessing of the Goddess, you can get your reputation.
 319	You can change with ${pos (364,317,190.20, 'Cristina')}
 320	Guardianship Award; When the Apprentice graduates, you can receive your prize with the NPC.
 321	Can be changed with ${npc(34576)}
-322	Romance Points are specific reputation awards for players who are husband and wife. They can be accumulated through daily Quests. If they divorce, the points are deleted, but the titles are not.
+322	Romance Points are specific reputation Gains for players who are husband and wife. They can be accumulated through daily Quêtes. If they divorce, the points are deleted, but the titles are not.
 323	The specific title of husband and wife can be changed with ${npc(38333)}
 324	Area governed by Hades where people go to die. In addition to the Wailing Wall, there is the road to the Champs Elysees. To enter the World of the Dead alive, it is necessary to awaken the 8th Sense.
 325	Royaume des Enfers
@@ -331,7 +331,7 @@
 330	Chevalier d'Or
 331	Chevalier d'Argent
 332	Zone
-333	Individual
+333	Individuel
 334	Reputation of ${name} earned: ${point} points
 335	Reputation of ${name} lost: ${point} points
 336	Earned ${name} ${point / 100} points
@@ -790,7 +790,7 @@
 789	The application to recruit the student has already been sent, please wait for the answer.
 790	You received the blessing of Athena! Click on the button to receive. Remaining time: %d seconds
 791	You received the blessing of Athena! Click on the button to receive. Remaining time: %d minutes %d seconds
-792	L'imprime écran a été enregistré dans le dossier screenshot
+792	L'imprime ecran a ete enregistre dans le dossier screenshot
 793	You will not be able to attack and move within the next 10 seconds, then it will teleport to the nearest rebirth point (can not be used again in 2 minutes)
 794	The current battlefield does not allow the use of the 'freeze' function of the character, if you really stay frozen, please click on inform BUG
 795	New discovered area: %s
@@ -834,7 +834,7 @@
 833	Look around you
 834	Dance
 835	Reborn
-836	Defender
+836	Defense
 837	Exploit
 838	Meteor
 839	Petrification
@@ -917,10 +917,10 @@
 916	^FF0000Zénis insuffisante
 917	^FF0000Or insuffisant
 918	^FF0000 %s insuffisant
-919	After using %s the success rate increases considerably, do you want to use it?
+919	Après utilisation %s the success rate increases considerably, do you want to use it?
 920	%02d: %02d: %02d
-921	Récupérer
-922	Récupérer.
+921	Rechercher
+922	Récupérer
 923	Inadequate coin for Ritual
 924	Votre Zénis est insuffisante, participer à un events pour en gagner
 925	%s insuffisant
@@ -947,7 +947,7 @@
 946	When Astrology reaches level 88, an extremely strong aura will shine on the body
 947	Rechercher tout
 948	Récupérer tout
-949	Their Múons are insufficient, go quickly to collect some Cosmic Keys
+949	Their Múons are insufficient, go quickly to collect some Cube Cosmiques
 950	The Star Ritual was initiated, please await the conclusion
 951	When Astrology reaches level 24, a strong aura will shine, click on preview
 952	When Astrology reaches level 48, a strong aura will shine, click on preview
@@ -1012,7 +1012,7 @@
 1011	(Puissance: %d pour l'activer)
 1012	Effet
 1013	Niv Max des pierres: %d
-1014	After using, the Relic will be transferred to the Relic Store, do you wish to proceed?
+1014	Après utilisation, the Relic will be transferred to the Relic Store, do you wish to proceed?
 1015	Source
 1016	Cible
 1017	Select the Origin Relic
@@ -1437,8 +1437,8 @@
 1436	%s accepted your friend request
 1437	Skill level to learn this insufficient skill.
 1438	Automatic answer: Sorry, at the moment I'm busy, I'll get in touch with you later.
-1439	The individual price of the product / the total price can not transfer 2000000000
-1440	The individual price of the product / the total price can not be less than 1.
+1439	The Individuel price of the product / the total price can not transfer 2000000000
+1440	The Individuel price of the product / the total price can not be less than 1.
 1441	The quantity of products can not exceed the existing quantity / maximum limit of stacked products.
 1442	%s is already your friend.
 1443	Your question has been sent, please wait for it to be processed.
@@ -1725,7 +1725,7 @@
 1724	Automatically find the way for the Divine Artifact Emissary
 1725	Armor of the Spirit
 1726	Star Store
-1727	Aokigahara Forest
+1727	Forêt d'Aokigahara
 1728	Grand Pope of the Server
 1729	Automatically search the way for Monique
 1730	automatically search the way for Kaizen
@@ -1860,7 +1860,7 @@
 1859	Reply
 1860	Exclude
 1861	Book
-1862	Cancel Reservetion
+1862	Annuler Réservation
 1863	Quitter
 1864	Dissoudre
 1865	Rassembler
@@ -1895,16 +1895,16 @@
 1894	Strong features
 1895	Weak characteristics
 1896	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffSearch for Joseph in Argent City \rNecessary items: \rBraze fragment x15
-1897	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to Own the Flying Fish Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
-1898	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to Own the Sextans Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
-1899	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffFind Altai in Argent City \rNecessary items: \rFragment of Argent × 40
+1897	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to Own the Flying Fish Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
+1898	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to Own the Sextans Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
+1899	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffFind Altai in Argent City \rNecessary items: \rFragment d'Argent × 40
 1900	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNeed to Own the Cassiopaean Armor \r ^ffffffSearch for Altai in the Argent City \rRequired Items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
-1901	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Snake Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
+1901	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Snake Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
 1902	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Dolphin Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
 1903	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own Corbeau Armor \r ^ffffffSearch for Altai in Argent City \rRequired Items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
-1904	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV75 \rNecessary to possess the Compass Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rFragment of Argent × 200 \rAuthorization of Armor [Argent] × 3
-1905	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Whale Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment of Argent × 200 \rAuthorization of Armor [Argent] × 3
-1906	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Reticle Armor \r ^ffffffFind Altai in the Argent City \rNecessary items: \rFragment of Argent × 120
+1904	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV75 \rNecessary to possess the Compass Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rFragment d'Argent × 200 \rAuthorization of Armor [Argent] × 3
+1905	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Whale Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment d'Argent × 200 \rAuthorization of Armor [Argent] × 3
+1906	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Reticle Armor \r ^ffffffFind Altai in the Argent City \rNecessary items: \rFragment d'Argent × 120
 1907	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it [1]: \rChange with the Emissary of the Golden Sacrée Light in the Argent City \rNecessary items: \rAutorisation Armure [Or] x1 \r Golden Sacrée Light x100 \rHow get it [2]: \rOpen the Armor album and put all the pieces together \rThe pieces can be changed with Jonathan for Armor Authorization [Or] \rThe World Bosses dropam pieces
 1908	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Argent City and change to the sign of ^0184ffPegasus \r ^ffffffHey again with Clyde and perform the Predestination Quest.
 1909	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing Sign in LV59. \rTalk to Clyde in the Argent City and change to the sign ^0184ffDragon. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
@@ -1915,69 +1915,69 @@
 1914	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Sagite Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
 1915	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Auriga Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSilver Shard × 120
 1916	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Aigle Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSilver Shard × 120
-1917	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to own the Reindeer Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
-1918	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV65 \rNecessary to possess the Armor of Heracles \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rFragment of Argent × 160 \rAuthorization of Armor [Argent] × 2
+1917	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to own the Reindeer Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
+1918	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV65 \rNecessary to possess the Armor of Heracles \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rFragment d'Argent × 160 \rAuthorization of Armor [Argent] × 2
 1919	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNecessary to own the Triangle Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rPlant Shard × 160 \rAuthorization of Armor [Argent] × 2
-1920	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Berenice Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment of Argent × 160 \rAuthorization of Armor [Argent] × 2
+1920	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Berenice Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment d'Argent × 160 \rAuthorization of Armor [Argent] × 2
 1921	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Perseus Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
 1922	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Turkey Armor \r ^ffffffSearch for Altai in the Argent City \rRequired Items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
-1923	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Cefeus Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment of Argent × 120
+1923	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Cefeus Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment d'Argent × 120
 1924	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rDo you need Pigeon Armor \r ^ffffffSearch for Altai in Argent City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
 1925	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Fornax Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSilver Shard × 120
 1926	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Sword Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Argent] × 2
-1927	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Hunting Dog Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \r Argent Shard × 200 \r Armor Authorization [Argent] × 3
+1927	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Hunting Dog Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \r Fragment d'Argent × 200 \r Armor Authorization [Argent] × 3
 1928	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Atrium Armor \r ^ffffffSearch for Altai in the Argent City \rRequired items: \rSharp Shard × 200 \rAuthorization of Armor [Argent] × 3
 1929	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Empress Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSilver Shard × 120
-1930	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to have the Stern Frame \r ^ffffffFind Joseph at the Cidade Prata \rNecessary items: \rBronze Shard × 60
-1931	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to have the Shield Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
-1932	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNecessary to own the Southern Crown Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rBronze Shard × 60
+1930	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to have the Stern Frame \r ^ffffffFind Joseph at the Cidade Prata \rNecessary items: \rFragment de Bronze × 60
+1931	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to have the Shield Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
+1932	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNecessary to own the Southern Crown Armor \r ^ffffffFind Joseph in Argent City \rNecessary items: \rFragment de Bronze × 60
 1933	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Hare Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rSilver Shard × 120
 1934	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \rSearch for Zephyr in Argent City for the change \rNecessary items: \r Armor Authorization [Black] × 1 \rYou can get the Armor Authorization [Black] through of change with Zephyr \rNecessary items: \rBlack insignia × 30
-1935	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Pandora in Argent City \rNecessary items: \r Surplice fragment × 90 \rFixed fragment × 100 \rFragment fragment Bronze × 100 \rIt is possible to obtain Surplice Fragment with Pandora. \rNecessary items: \r Or fragment \r \rTeaTea Tear
+1935	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Pandora in Argent City \rNecessary items: \r Fragment de Surplis × 90 \rFixed fragment × 100 \rFragment fragment Bronze × 100 \rIt is possible to obtain Fragment de Surplis with Pandora. \rNecessary items: \r Fragment d'Or \r \rTeaTea Tear
 1936	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Argent City \rRequired Items: \r Or Shard × 50 \rFragment Shard × 100 \rFragment Shape Bronze × 100
-1937	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV92 \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 240 \r It is possible to get Metal from the Royaume des Enfers with Pandora . \rNecessary item: \rFragment of Argent
+1937	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV92 \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 240 \r It is possible to get Metal from the Royaume des Enfers with Pandora . \rNecessary item: \rFragment d'Argent
 1938	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Argent City and change to the sign ^0184ffDragon Mar. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
-1939	^ff0000You did not get the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV50 \rNecessary to possess the Fly Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment of Argent × 120
+1939	^ff0000You did not get the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV50 \rNecessary to possess the Fly Armor \r ^ffffffSearch for Altai in the Argent City \rNecessary items: \rFragment d'Argent × 120
 1940	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Argent City and change to the sign ^0184ffWyrm. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
-1941	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to possess the Surplice of Acheron \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1942	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to own the Surplice of Aldebaran \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1943	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Harpian Surplice \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1944	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Balrog Surplice \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1945	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \r\r\rYou need to have the Basilisk Surplice \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1946	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Minotaur Surplice \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
-1947	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Sphinx Surplice \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
+1941	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to possess the Surplis of Acheron \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1942	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to own the Surplis of Aldebaran \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1943	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Harpian Surplis \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1944	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Balrog Surplis \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1945	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \r\r\rYou need to have the Basilisk Surplis \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1946	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Minotaur Surplis \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
+1947	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Sphinx Surplis \r ^ffffffFind Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
 1948	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Argent City \rRequired Items: \r Or Shard × 100 \rFragment Shard × 100 \rFragment Shape Bronze × 100
-1949	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Argent City \rRequired Items: \rFragment of Or × 125 \rFragment of Argent × 100 \rFragment of Bronze × 100
+1949	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Argent City \rRequired Items: \rFragment d'Or × 125 \rFragment d'Argent × 100 \rFragment de Bronze × 100
 1950	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Argent City \rRequired items: \r Or Shard × 150 \rFragment × 100 \rFragment Bronze × 100
 1951	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Argent City \rRequired Items: \r Or Shard × 175 \rFixed Shard × 100 \rFragment Shard Bronze × 100
-1952	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Argent City \rNecessary items: \rFragment of Or × 200 \rFragment of Argent × 100 \rFragment of Bronze × 100
+1952	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Argent City \rNecessary items: \rFragment d'Or × 200 \rFragment d'Argent × 100 \rFragment de Bronze × 100
 1953	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Argent City and change to the sign ^0184ffLira. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
-1954	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecesary LV97 \rYou need to own the Lycaon Surplice \r ^ffffffSearch for Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment of Argent
+1954	^ff0000You did not get the Surplis yet. \r ^ffffffHow to get it: \r ^0184ffNecesary LV97 \rYou need to own the Lycaon Surplis \r ^ffffffSearch for Pandora in Argent City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Royaume des Enfers with Pandora. \rNecessary article: \rFragment d'Argent
 1955	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Taureau Armor \r ^ffffffChange with the Emissary of the Golden Sacrée Light in the Argent City \rNecessary items: \rSacrée Piece 1 [Taureau] × 16 \r Sacrée Piece 2 [Taureau] × 16 \r Sacrée Piece 3 [Taureau] × 16 \rThe World Bosses dropam pieces
 1956	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNNecessary to possess the Poisson Armor \r ^ffffffChange with the Emissary of the Golden Sacrée Light in Argent City \rNecessary items: \rOr insignia × 120 \rThe badges can be obtained at major events
 1957	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to Own the Cancer Armor \r ^ffffffChange with the Emissary of the Golden Light of the Argent City \rNecessary items: \rSacrée Part 1 [Cancer] × 16 \r Sacrée Piece 2 [Cancer] × 16 \r Sacrée Piece 3 [Cancer] × 16 \rThe Dropam Parts of World Bosses
 1958	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Lion Armor \r ^ffffffChange with the Emissary of the Golden Light of the Argent City \rNecessary items: \rSacrée insignia [Leão] × 32 \rThe insignia can be dropped in the Heilong World Boss
 1959	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to possess the Scorpion Armor \r ^ffffffChange with the Emissary of the Golden Sacrée Light in the Argent City \rNecessary items: \rOr insignia × 120 \rThe badges can be obtained at major events
-1960	^ff0000You still did not get the Armor \r ^ffffffHow to obtain it: \r ^ff0000Require level 92 \rNecesario first obtain fff600Armor of ^ff0000Geminis \r ^72fe00con ^0184ffEmisary of the Golden Light of Sacrée ^72fe00for the change \r ^ffffffFor the change it is necessary to gather ^fff600 Fifty Sacrée Badges of Gemeaux \r ^ffffffMode to obtain badges: \r ^72fe00 Instance Zone ^0184ffInside of the 12 Golden Houses I ^72fe00Derrotar ^0184ffGeminis of degree of difficulty Assassin of Gods ^72fe00
+1960	^ff0000You still did not get the Armor \r ^ffffffHow to obtain it: \r ^ff0000Require level 92 \rNecesario first obtain fff600Armor of ^ff0000Gemeauxs \r ^72fe00con ^0184ffEmisary of the Golden Light of Sacrée ^72fe00for the change \r ^ffffffFor the change it is necessary to gather ^fff600 Fifty Sacrée Badges of Gemeaux \r ^ffffffMode to obtain badges: \r ^72fe00 Instance Zone ^0184ffInside of the 12 Golden Houses I ^72fe00Derrotar ^0184ffGemeauxs of degree of difficulty Assassin of Gods ^72fe00
 1961	^0184ffGuild Competitions for Galactic Sovereignty ^fff600 Winning Guild Award
 1962	^ffffffCan obtain official events
 1963	^ff0000Not available at the moment \r ^fff600Available only through quest. \r ^ffffffHow to obtain (Future): \r ^ff0000Needdance LV59 \rProcure ^0184ffAllen ^72fe00 and change Constellation to ^0184ffTurned ^72fe00, then complete quest: \r ^0184ffTroca! Predestined Sign (Tornado)
 1964	^ff0000You still did not get the Armor \r ^ffffffHow to get: \r ^ff0000Needded LV50 \rYou need to have Tsunami Armor \r ^ffffffProcure ^fff600Altai ^ffffffna Argent City \r ^fff600 Items Needed: \r ^ffffff Argent Shield x120
 1965	^ff0000You still did not get the Armor \r ^ffffffHow to get: \r ^ff0000Needded LV65 \rNeeded to have Desert Armor \r ^ffffffProcure ^fff600Altai ^ffffffna City Argent \r ^fff600 Required items: rAuthorization Authorization [Argent] x2
 1966	^ff0000You have not yet obtained the Armor \r ^ffffffHow to obtain: \r ^ff0000Needance Required LV75 \rEquired to have Aurora Armor \r ^ffffffProcure ^fff600Altai ^ffffffna Argent City \r ^fff600 Items Required: rAuthorization Authorization [Argent] x3
-1967	^ff0000You have not yet gotten the Armor \r ^ffffffHow to get: \r ^ff0000Needed LV97 \rNeeded to have the Sapuris of ★ Matter \r ^ffffffProcure ^fff600Pandora ^ffffffna Argent City \rItems required: \rMethod des Enfers x280 \rE possible get Metal from the Royaume des Enfers with Pandora \r ^fff600Item required: \r ^ffffff Argent Shard
+1967	^ff0000You have not yet gotten the Armor \r ^ffffffHow to get: \r ^ff0000Needed LV97 \rNeeded to have the Sapuris of ★ Matter \r ^ffffffProcure ^fff600Pandora ^ffffffna Argent City \rItems required: \rMethod des Enfers x280 \rE possible get Metal from the Royaume des Enfers with Pandora \r ^fff600Item required: \r ^ffffff Fragment d'Argent
 1968	(Customize)
 1969	First chapter
 1970	Blood and Fire Test
 1971	SOC
-1972	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
-1973	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
-1974	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
-1975	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Volans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
-1976	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
-1977	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Sextans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1972	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
+1973	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
+1974	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
+1975	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Volans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
+1976	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
+1977	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Sextans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
 1978	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 94\rRequires ^fff600Cassiopeia^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200^72fe00\r^0184ffArmor Authorization [Argent]×3
-1979	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Serpent^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1979	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Serpent^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
 1980	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Crow^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
 1981	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Piscis Aus.^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
 1982	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 94\rRequires ^fff600Compass^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Argent]×3
@@ -2005,7 +2005,7 @@
 2004	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 94\rRequires ^fff600Sagitta^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Argent]×3
 2005	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 75\rReq. Combat Power 39960\rRequires ^fff600Auriga^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Argent]×1
 2006	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 75\rReq. Combat Power 39960\rRequires ^fff600Eagle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Argent]×1
-2007	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Tarandus^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2007	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Tarandus^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
 2008	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Hercules^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
 2009	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Triangle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
 2010	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Berenices^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
@@ -2015,28 +2015,28 @@
 2014	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Lyraff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
 2015	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Chameleon^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
 2016	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 75\rReq. Combat Power 39960\rRequires ^fff600Fornax^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Argent]×1
-2017	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
-2018	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2017	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
+2018	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
 2019	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Hydra^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
 2020	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 84\rRequires ^fff600Dorado^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Argent]×2
 2021	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Crux^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
 2022	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Corona Borealis^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
 2023	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 94\rRequires ^fff600Atrium^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Argent]×3
 2024	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 75\rReq. Combat Power 39960\rRequires ^fff600Queen^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Argent]×1
-2025	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Puppis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2025	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Puppis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
 2026	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 60\rReq. Combat Power 39960\rRequires ^fff600Eridanus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
-2027	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Shield^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
-2028	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Corona Australis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
-2029	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2027	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Shield^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
+2028	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 50\rReq. Combat Power 5140\rRequires ^fff600Corona Australis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×60\r^0184ffArmor Authorization [Bronze]×1
+2029	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffFragment de Bronzes×15
 2030	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffFragment Noir×30^72fe00
 2031	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffFragment Noir×30^72fe00
 2032	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffFragment Noir×30^72fe00
 2033	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffFragment Noir×30^72fe00
 2034	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffFragment Noir×30^72fe00
-2035	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment de Surplice^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
-2036	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×50\r^0184ffSilver Shards×100\rBronze Shards×100
-2037	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment de Surplice^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
-2038	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment de Surplice^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
+2035	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplis×90\r^0184ffSilver Shards×100\r^72fe00Fragment de Bronzes×100\r^a800ffFragment de Surplis^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
+2036	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×50\r^0184ffSilver Shards×100\rFragment de Bronzes×100
+2037	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplis×90\r^0184ffSilver Shards×100\r^72fe00Fragment de Bronzes×100\r^a800ffFragment de Surplis^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
+2038	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment de Surplis×90\r^0184ffSilver Shards×100\r^72fe00Fragment de Bronzes×100\r^a800ffFragment de Surplis^72fe00 can be obtained via ^fff600Fragment d'Or^72fe00 or ^fff600Larme d'Athena^72fe00
 2039	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×240\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2040	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×240\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2041	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×240\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
@@ -2056,9 +2056,9 @@
 2055	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Basilisk^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×280\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2056	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Minotaur^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×280\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
 2057	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Sphinx^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Royaume des Enfers×280\r^0184ffMetal from the Royaume des Enfers^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
-2058	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×100\r^0184ffSilver Shards×100\rBronze Shards×100
-2059	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×125\r^0184ffSilver Shards×100\rBronze Shards×100
-2060	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×150\r^0184ffSilver Shards×100\rBronze Shards×100
+2058	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×100\r^0184ffSilver Shards×100\rFragment de Bronzes×100
+2059	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×125\r^0184ffSilver Shards×100\rFragment de Bronzes×100
+2060	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Niv requis 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment d'Or×150\r^0184ffSilver Shards×100\rFragment de Bronzes×100
 2061	2333
 2062	55555
 2063	888
@@ -2069,7 +2069,7 @@
 2068	Guild
 2069	     All players who settled at 24 o'clock this week accumulated accumulative data\r based on the list. After the maintenance on Tuesday, the first player will be given a time limit of 1 week. Black Pearl special effects wings fashion\r After the maintenance on Tuesday, Sanctuaire The district will erect a statue for the first player this week and issue benefits to the players in its name!
 2070	
-2071	 A total list refresh will be performed every month, and the monthly list will be reset on the 1st of each month to display the list of the month. The first month of each month will be issued the title of the previous month after maintenance. \r The player gets the title\r The gorgeous individual flower list of the arrogant frost gets the 1st place\r The beautiful individual flower list of the bloom gets the 2nd place\r The 3rd place of the shining individual flower list in the flower cluster \r Born like a summer flower, the warmth of individual flower list won the 4th-10th
+2071	 A total list refresh will be performed every month, and the monthly list will be reset on the 1st of each month to display the list of the month. The first month of each month will be issued the title of the previous month after maintenance. \r The player gets the title\r The gorgeous Individuel flower list of the arrogant frost gets the 1st place\r The beautiful Individuel flower list of the bloom gets the 2nd place\r The 3rd place of the shining Individuel flower list in the flower cluster \r Born like a summer flower, the warmth of Individuel flower list won the 4th-10th
 2072	The qualifications for the competition have been closed and the points will automatically expire on August 1. Please visit the official website to confirm the final list of the finalists, please also enter the team leader to receive the tickets.
 2073	Once reputation reaches a certain level visit ${pos(203,317,292,4,'Imai Sokyu')} to purchase items
 2074	Once reputation reaches a certain level visit ${pos(-236,350,352,2,'Horacio')} to purchase items

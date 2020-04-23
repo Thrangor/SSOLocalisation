@@ -235,7 +235,7 @@
 234	MMORPG
 235	Arcade Fight
 236	Casual games
-237	Individual games
+237	Individuel games
 238	Cards and boards
 239	Play online
 240	Console and laptops

@@ -40,7 +40,7 @@
 39	Crab
 40	Scattered Books
 41	List of Competitors
-42	Full Surplices
+42	Full Surplis
 43	Bloodless Grass
 44	Scattered Pearls
 45	Journal of Eide
@@ -56,7 +56,7 @@
 55	Sachet
 56	One of the Divine Stones
 57	Two of the Divine Stones
-58	Pegase Armor Fragment
+58	Pegase ArmFragment d'Or
 59	Pottery Pot
 60	Pearl
 61	Photo of Tianyi
@@ -303,7 +303,7 @@
 302	Secondary Line 08 Medusa
 303	Secondary Line 09 Wolf Meat
 304	Petals of Sara
-305	Full Surplices
+305	Full Surplis
 306	Julian's sister necklace
 307	Holy Water
 308	Key
@@ -550,7 +550,7 @@
 549	Rune Dégât x3
 550	Star Heart ⑩
 551	Transformation of Verseau
-552	Spiritual Source I x5
+552	Source Spirituelle x5
 553	Lion Transformation
 554	Transformation of Belier
 555	Sang d'Argent ③
@@ -870,8 +870,8 @@
 869	Holy Part 3 [Taureau]
 870	Holy Package [Taureau] x3
 871	Sacrée Piece 2 [Taureau]
-872	Divine Sang d'Athena (168)
-873	150 packets of Divine Sang d'Athena
+872	Sang d'Athena (168)
+873	150 packets of Sang d'Athena
 874	100 Bronze Starter Packs
 875	100 packs of Spirits of the Spirits of the Air
 876	Skeleton 7 Day Fashion Kit
@@ -1131,10 +1131,10 @@
 1130	Title Man. Do Rei
 1131	Causeway Costume Package
 1132	Livre d'Athena (30)
-1133	Divine Sang d'Athena (30)
+1133	Sang d'Athena (30)
 1134	Sang d'enchant (5)
-1135	Divine Sang d'Athena (400)
-1136	Divine Sang d'Athena (50)
+1135	Sang d'Athena (400)
+1136	Sang d'Athena (50)
 1137	Year of the Rooster
 1138	Or Emblem (30)
 1139	Or Emblem (40)
@@ -1338,7 +1338,7 @@
 1337	Change Black 500 points Rescue certificate
 1338	Squire's Equipment Gift Pack
 1339	Random Black Shift Gift Pack of Squire
-1340	Space-Time Key Gift Pack
+1340	Cube Cosmique Gift Pack
 1341	Stool Fragment Gift Pack
 1342	Beautiful Mermaid Gift Pack
 1343	Doll Gift Pack with Mask
@@ -1611,7 +1611,7 @@
 1610	Explosion
 1611	Priest's Diary
 1612	Utiliser
-1613	Divine Sang d'Athena
+1613	Sang d'Athena
 1614	Utiliser
 1615	Bouquet of Sacrifice
 1616	Offering
@@ -2025,7 +2025,7 @@
 2024	Parts of the Armor (3)
 2025	Armor Parts (4)
 2026	Advanced Material Pack
-2027	Golden Armor Fragment Pack
+2027	Golden ArmFragment d'Or Pack
 2028	Or Promotion Level 40 Award Prize
 2029	Or Promotion Level 60 Award Prize
 2030	Or Promotion Level 80 Award Prize
@@ -2145,7 +2145,7 @@
 2144	Resonate
 2145	Photo of Tianyi
 2146	Utiliser
-2147	Surplice of Hades
+2147	Surplis of Hades
 2148	Clue [Strength]
 2149	Utiliser
 2150	Lane [★ Cause]
@@ -2899,7 +2899,7 @@
 2898	Gift of Verseau
 2899	Eternal Loyal Soul
 2900	Rosary of Vierge
-2901	Golden Armor Fragment Gift Pack pass briskly
+2901	Golden ArmFragment d'Or Gift Pack pass briskly
 2902	Title Pack of the God of War immortal
 2903	Gift pack to promote the grace of Nirvana
 2904	Nirvana Tool Gift Pack
@@ -3453,7 +3453,7 @@
 3452	Utiliser
 3453	Extension de Banque 1 package
 3454	Utiliser
-3455	Trans. Surplice
+3455	Trans. Surplis
 3456	Sang d'Hades 1 pack
 3457	Trans. Random
 3458	Utiliser
@@ -3561,9 +3561,9 @@
 3560	Star Trek Collective Buying Pack
 3561	Collective Poseidon Crystal Buying Gift Package
 3562	Collective Buying Gift Set of Abyss Crystals
-3563	Collective purchase package of Argent Armor fragment
+3563	Collective purchase package of Argent ArmFragment d'Or
 3564	Package of gift of collective purchase of great value of the surroundings
-3565	Collective purchase package of Bronze Armor fragment
+3565	Collective purchase package of Bronze ArmFragment d'Or
 3566	Collective Buying Kit for Hurricane Crystals
 3567	Merry Christmas Gift Pack for Women's Fashion
 3568	Fashionable Merry Christmas Gift Pack
@@ -5247,7 +5247,7 @@
 5246	Utiliser
 5247	Globe
 5248	Drop Balloon
-5249	100 pieces of demonic blood
+5249	100 pieces of Sang d'Enchant
 5250	National Day Gift Box
 5251	Thriller Gift Box
 5252	New Year's Eve of the Goddess
@@ -5570,7 +5570,7 @@
 5569	Utiliser
 5570	Gift package light of experience
 5571	Dual Energy Center Package
-5572	Space-Time Key Gift Pack
+5572	Cube Cosmique Gift Pack
 5573	Fragment d'Artefact gift pack
 5574	Divine Book of God Page Gift Pack
 5575	Sang d'enchant Gift Pack
@@ -5820,7 +5820,7 @@
 5819	Sang d'Hades Gratitude Pack (0 coins)
 5820	EXP Double Gratitude Package
 5821	Gratitude Package of Goddess Favor
-5822	Space-Time Key Grate Pack
+5822	Cube Cosmique Grate Pack
 5823	Poseidon Blood Gratitude Pack (0 coin purchase)
 5824	Grand Prize of Great Gratitude of Carnival
 5825	Sang d'Argent Gratitude Package (0 purchase currencies)
@@ -5863,7 +5863,7 @@
 5862	Energy Fusion Limited Package 60 percent off
 5863	Or Blood Limited Package 60 percent off
 5864	Gem Spirit Limited Package 50 percent off
-5865	Space-time key limited package 50percent discount
+5865	Cube Cosmique limited package 50percent discount
 5866	Or Limited Package of Awakening of Celestial Spirits
 5867	Spiritual Power Fuene Limited Set 50 percent off
 5868	Sang d'Argent Limited Package 50 percent off
@@ -5872,13 +5872,13 @@
 5871	Energy Fusion Limited Package 50percent off
 5872	Or Blood Limited Package 50 percent off
 5873	Limited Time Cube Cosmique Package 40percent off
-5874	Spiritual Power Source Limited Pack 40 percent off
+5874	Source Spirituelle Limited Pack 40 percent off
 5875	Sang d'Argent Limited Package 40 percent off
 5876	Divine Artifact Soul Limited Package 40 percent off
 5877	Sang d'Argent Limited Package 40 percent off
 5878	Limited Energy Fusion Package 40 percent off
-5879	Unlimited space-time key package
-5880	Unlimited Pack of Spiritual Power Source
+5879	Unlimited Cube Cosmique package
+5880	Unlimited Pack of Source Spirituelle
 5881	Unlimited Sang d'Argent Package
 5882	Unlimited Pack of Divine Artifact Soul
 5883	Unlimited Sang d'enchant Pack
@@ -5972,7 +5972,7 @@
 5971	Fashion Pack of 9 Double Festival
 5972	Festival Gift Pack 9 Familier Double
 5973	Package of gift tools of 9 double festival
-5974	Argent 100w Pack
+5974	Zénis 1000000 Pack
 5975	Venus Dress (F)
 5976	Costume Venus (M)
 5977	Golden Autumn Recharge Custom Title Gift Pack
@@ -5996,11 +5996,11 @@
 5995	Or Level Award Gift Package
 5996	Night arrival kit 7 days
 5997	Packet of change of bank notes by Squire (500)
-5998	Space-time Key Gift Pack (600)
+5998	Cube Cosmique Gift Pack (600)
 5999	Fashionable package of angel wings mysterious killer
 6000	Fashionable Killer Angel Wing Killer Package
 6001	Orange Soul Gift Pack (100)
-6002	Pack of Spiritual Power Source (200)
+6002	Pack of Source Spirituelle (200)
 6003	Sang d'enchant Gift Pack (1000)
 6004	Paquee gift rare coin
 6005	Platinum Presence Gift
@@ -6167,10 +6167,10 @@
 6166	Birthday package brand title
 6167	Birthday package fun title
 6168	Birthday package Sacrée Golden Light
-6169	Birthday package title space-time key
-6170	Birthday packet title of spiritual power source
+6169	Birthday package title Cube Cosmique
+6170	Birthday packet title of Source Spirituelle
 6171	Birthday Sang d'Argent Pack
-6172	Birthday Pack of the Demon Blood
+6172	Birthday Pack of the Sang d'Enchant
 6173	Birthday Fuser Power Pack
 6174	Birthday package title memory
 6175	Birthday Deluxe Dresses Limited Edition
@@ -6264,7 +6264,7 @@
 6263	Large Sanctuaire Registration Gift Pack
 6264	Aid of the Goddess
 6265	Money Tree of the Goddess
-6266	Change equipment [Squire] x20
+6266	Parchemin Armure [Eleve] x20
 6267	Spirit of Gem x150
 6268	Spirit of Gem x15
 6269	Spirit of Gem x5
@@ -6275,7 +6275,7 @@
 6274	End of the year Luck Bag
 6275	Pack of flowers «I love you»
 6276	Stellar Soul Pack Corona Solar Level 8
-6277	200 packets of space-time keys
+6277	200 packets of Cube Cosmiques
 6278	Cube Cosmique x30
 6279	Cube Cosmique x500
 6280	Condensed Meteor Pack x100
@@ -6283,7 +6283,7 @@
 6282	Cristal d'Eleve x20
 6283	Memento de Anima x15
 6284	Orange Stellar Soul 20 pcs
-6285	Spiritual Source I x10
+6285	Source Spirituelle x10
 6286	Fragment de Gemme x30
 6287	Fragment de Gemme x500
 6288	Gem Fragment Pack x500
@@ -6440,12 +6440,12 @@
 6439	Colorful International Day Toolkit
 6440	Favor of the Goddess to Scorpion x99
 6441	Goddess Favor to Scorpion Package
-6442	Change equipment [Squire] x1000
+6442	Parchemin Armure [Eleve] x1000
 6443	Gem Spirit Pack x150
 6444	Box 100x Stone Esp. Holy Sealed
 6445	Stone Esp. Sagrada Sellada x500
 6446	Great Starlight Gift Pack
-6447	200 packages of spiritual power source
+6447	200 packages of Source Spirituelle
 6448	Gem Fragment Pack x3000
 6449	Package of divine artifact insignia 1 piece
 6450	Venus Blessing Box
@@ -6454,7 +6454,7 @@
 6453	Big gift package of Mutual Affection
 6454	Affection Mutual Fashion Kit
 6455	Caja 3333x Sangre de Athena
-6456	Divine Sang d'Athena x9999
+6456	Sang d'Athena x9999
 6457	PGP Mission Gift Pack
 6458	PGP surprise gift package
 6459	PGP weekly login gift pack
@@ -6969,7 +6969,7 @@
 6968	Utiliser
 6969	Trans. Random
 6970	Utiliser
-6971	Package Surplice
+6971	Package Surplis
 6972	Utiliser
 6973	Women's clothing (7 days)
 6974	Utiliser
@@ -7503,7 +7503,7 @@
 7502	Mount
 7503	Coffee Campaign Rabbit
 7504	Mount
-7505	Kaeru - Lucky Frog
+7505	Kaeru - Lucky Crapeau
 7506	Mount
 7507	Cerberus
 7508	Mount
@@ -7707,19 +7707,19 @@
 7706	Sang d'enchant
 7707	Holy Blood (tie)
 7708	Bug Test
-7709	Demon blood (Parfait)
+7709	Sang d'Enchant (Parfait)
 7710	Blessing of the Goddess ☆ Crusade
 7711	^a800ff Mini Marine x1 (4500 rating limit)
 7712	^a800ffLight Sacrée Or x100
 7713	^e5872f Gem Shape x9999
 7714	^a800ff Certification of Knight of Princess x1
 7715	^a800ff too many big random prizes
-7716	Argent crystal
+7716	Sang d'Argent
 7717	Sang d'enchant (Parfait)
 7718	Rune Dégât
 7719	Rune HP
 7720	Christmas Costume Package
-7721	Power Fuser
+7721	Energie Cosmique
 7722	Divine Stone of the Storm
 7723	Cube Cosmique
 7724	Insignia of the Divine Artifact
@@ -7779,12 +7779,12 @@
 7778	^a800ffLivre d'Athena x5
 7779	^a800ff too many big random prizes
 7780	^a800ff too many random prizes
-7781	Argent crystal
+7781	Sang d'Argent
 7782	Sang d'enchant (Parfait)
 7783	Rune Dégât
 7784	Rune HP
 7785	Christmas Costume Package
-7786	Stone of fusion of energies
+7786	Energie Cosmique
 7787	Divine Stone of the Storm
 7788	Cube Cosmique
 7789	Insignia of the Divine Artifact
@@ -7817,7 +7817,7 @@
 7816	Rune Dégât
 7817	Rune HP
 7818	Certification of Knight of the Princess
-7819	Power Fuser
+7819	Energie Cosmique
 7820	Divine Stone of the Storm
 7821	Goddess' Gift ☆ Poisson
 7822	Divine Stone of the Storm
@@ -7849,7 +7849,7 @@
 7848	Rune Dégât x8
 7849	Rune HP x8
 7850	Skill Change [Squire] x3
-7851	Change the equipment [Squire] x18
+7851	Parchemin Armure [Eleve] x18
 7852	Rune Dégât x3
 7853	Rune HP x3
 7854	Minerais d'Argent Noir x125
@@ -7864,7 +7864,7 @@
 7863	Expansion of Warehouse x1
 7864	Fragment of Stool x10
 7865	Minerais de Bronze Noir x10
-7866	Change equipment [Squire] x1
+7866	Parchemin Armure [Eleve] x1
 7867	Book of the Golden Oracle x1
 7868	Rune Dégât x2
 7869	Rune HP x2
@@ -7879,7 +7879,7 @@
 7878	^a800ffQ Squire version Ikki x1
 7879	^a800ff too many big random prizes
 7880	Skill Change [Squire] x6
-7881	Change equipment [Squire] x60
+7881	Parchemin Armure [Eleve] x60
 7882	Rune Dégât [Orange] x8
 7883	Rune HP [Orange] x8
 7884	Parchemin Armure [Eleve] x18
@@ -7900,7 +7900,7 @@
 7899	Minerais d'Etoile [Eau] x10
 7900	Minerais d'Etoile [Vent] x10
 7901	Minerais de Bronze Noir x20
-7902	Change Equipment [Squire] x1
+7902	Parchemin Armure [Eleve] x1
 7903	Energy Fuse x5
 7904	Book of the Golden Oracle x1
 7905	Rune Dégât x2
@@ -7952,7 +7952,7 @@
 7951	Certification drill x10
 7952	Rune Dégât x3
 7953	Rune HP x3
-7954	Change equipment [Squire] x3
+7954	Parchemin Armure [Eleve] x3
 7955	Rune Dégât x1
 7956	Rune HP x1
 7957	Minerais d'Argent Noir x25
@@ -7963,7 +7963,7 @@
 7962	Minerais d'Etoile [Eau] x10
 7963	Minerais d'Etoile [Wind] x10
 7964	Minerais de Bronze Noir x20
-7965	Change Equipment [Squire] x1
+7965	Parchemin Armure [Eleve] x1
 7966	Fragment of Stool x10
 7967	Book of the Golden Oracle x1
 7968	Rune Dégât x2
@@ -7996,7 +7996,7 @@
 7995	Minerais d'Etoile [Eau] x10
 7996	Minerais d'Etoile [Wind] x10
 7997	Minerais de Bronze Noir x20
-7998	Change equipment [Squire] x1
+7998	Parchemin Armure [Eleve] x1
 7999	Fragment d'Echarpe x10
 8000	Book of the Golden Oracle x1
 8001	Rune Dégât x2
@@ -8005,14 +8005,14 @@
 8004	Fate Given x2
 8005	Megaphone x10
 8006	Favor of the Goddess ☆ Hyoga Version (Link)
-8007	^a800ff Demon blood x999
+8007	^a800ff Sang d'Enchant x999
 8008	^a800ffQ Hyoga Version x1
-8009	^a800ff Demon blood (Parfait) x1
+8009	^a800ff Sang d'Enchant (Parfait) x1
 8010	^a800ff Divine Stone of the Storm x1
 8011	^a800ff too many big random prizes
 8012	^a800ff Energy Filler x100
 8013	^a800ff Reformulation x100
-8014	^a800ff Demon blood x100
+8014	^a800ff Sang d'Enchant x100
 8015	^a800ff Sang d'Argent Blood x100
 8016	^a800ff Burning Alloy x100
 8017	^a800ffFierce Soul x100
@@ -8022,13 +8022,13 @@
 8021	Soul Fierce x8
 8022	Argent Drill x10
 8023	Esprit d'Artefact x5
-8024	Change Equipment [Squire] x18
+8024	Parchemin Armure [Eleve] x18
 8025	Skill Change [Squire] x3
 8026	Esprit d'Artefact x3
 8027	Rune Dégât x3
 8028	Rune HP x3
 8029	Drill Voucher x6
-8030	Change equipment [Squire] x6
+8030	Parchemin Armure [Eleve] x6
 8031	Livre d'Athena x1
 8032	Esprit d'Artefact x1
 8033	星 华 x1 Gift Pack
@@ -8038,19 +8038,19 @@
 8037	Soul Feroz x1
 8038	Minerais de Bronze Noir x20
 8039	Goddess Gifts ☆ Ice Edition (Link)
-8040	^a800ff Demon blood x999
+8040	^a800ff Sang d'Enchant x999
 8041	^a800ffQ Version Hyoga x
 8042	^a800ffDigital Blood (Parfait) x1
 8043	^a800ff Divine Stone of the Storm x1
 8044	^a800ff too many big random prizes
 8045	^a800ff PowerFilter x100
 8046	^a800ff Reformulation x100
-8047	^a800ff Demon blood x100
+8047	^a800ff Sang d'Enchant x100
 8048	^a800ff Sang d'Argent Blood x100
 8049	^a800ff Burning Alloy x100
 8050	^a800ffFierce Soul x100
 8051	Skill Change [Squire] x6
-8052	Change equipment [Squire] x60
+8052	Parchemin Armure [Eleve] x60
 8053	Rune Dégât x8
 8054	Rune HP x8
 8055	Certification drill x10
@@ -8061,7 +8061,7 @@
 8060	Rune Dégât x3
 8061	Soul Feroz x3
 8062	Drill voucher x6
-8063	Change equipment [Squire] x6
+8063	Parchemin Armure [Eleve] x6
 8064	Livre d'Athena x1
 8065	Esprit d'Artefact x1
 8066	星 华 x1 Gift Pack
@@ -8077,11 +8077,11 @@
 8076	^a800ff Favor of the Goddess ☆ Capricorne Version X999
 8077	^a800ff too many big random prizes
 8078	Sang d'Argent
-8079	Demon blood (Parfait)
+8079	Sang d'Enchant (Parfait)
 8080	Rune Dégât
 8081	Rune HP
 8082	Christmas Costume Package
-8083	Power Fuser
+8083	Energie Cosmique
 8084	Divine Stone of the Storm
 8085	Cube Cosmique
 8086	Relic Badge
@@ -8175,12 +8175,12 @@
 8174	^e5872f Gemstone Shape x9999
 8175	^a800ffFavor of the Goddess ☆ Lunar New Year (II) Version x999
 8176	^a800ff too many big random prizes
-8177	Argent crystal
-8178	Demon blood (Parfait)
+8177	Sang d'Argent
+8178	Sang d'Enchant (Parfait)
 8179	Rune Dégât
 8180	Rune HP
 8181	Christmas Costume Package
-8182	Stone of Fusion of Energies
+8182	Energie Cosmique
 8183	Divine Stone of the Storm
 8184	Cube Cosmique
 8185	Insignia of the Divine Artifact
@@ -8208,12 +8208,12 @@
 8207	^e5872f Gem Shape x9999
 8208	^a800ffFavor of the Goddess ☆ Vierge (III) Version x999
 8209	^a800ff too many big random prizes
-8210	Argent crystal
+8210	Sang d'Argent
 8211	Sang d'enchant (Parfait)
 8212	Rune Dégât
 8213	Rune HP
 8214	Fashionable Moon Stars and Shadow Gift Pack
-8215	Stone of Fusion of Energies
+8215	Energie Cosmique
 8216	Esprit d'Artefact
 8217	Blessing of Venus
 8218	Sealed Spiritual Stone
@@ -8225,7 +8225,7 @@
 8224	Classic Mount Badge
 8225	Insignia of the Classic Protective Constellation
 8226	Sealed Spiritual Stone
-8227	Fragment of Gemstone
+8227	Fragment de Gemmestone
 8228	Rune Dégât
 8229	Rune HP
 8230	Esprit d'Artefact
@@ -8241,12 +8241,12 @@
 8240	^e5872f Gemstone Shape x9999
 8241	^a800ffFavor of the Goddess ☆ Taureau Version (III) x999
 8242	^a800ff too many big random prizes
-8243	Argent crystal
-8244	Demon blood (Parfait)
+8243	Sang d'Argent
+8244	Sang d'Enchant (Parfait)
 8245	Rune Dégât
 8246	Rune HP
 8247	Christmas Costume Package
-8248	Stone of Fusion of Energies
+8248	Energie Cosmique
 8249	Divine Stone of the Storm
 8250	Cube Cosmique
 8251	Insignia of the Divine Artifact
@@ -8275,12 +8275,12 @@
 8274	^a800ffFavor of the Goddess ☆ Scorpion Version (IV) x999
 8275	^a800ff too many big random prizes
 8276	Blood Armor Rhinoceros
-8277	Argent crystal
+8277	Sang d'Argent
 8278	Sang d'enchant (Parfait)
 8279	Rune Dégât
 8280	Rune HP
 8281	Fashionable Halloween Party Gift Pack
-8282	Stone of Fusion of Energies
+8282	Energie Cosmique
 8283	Esprit d'Artefact
 8284	Blessing of Venus
 8285	Sealed Spiritual Stone
@@ -8307,12 +8307,12 @@
 8306	^e5872f Gem Fragment x9999
 8307	^a800ffFavor of the Goddess ☆ Poisson Version (III) x999
 8308	^a800ff too many big random prizes
-8309	Argent crystal
+8309	Sang d'Argent
 8310	Sang d'enchant (Parfait)
 8311	Rune Dégât
 8312	Rune HP
 8313	Christmas Costume Package
-8314	Stone of fusion of energies
+8314	Energie Cosmique
 8315	Divine Stone of the Storm
 8316	Cube Cosmique
 8317	Insignia of the Divine Artifact
@@ -8340,17 +8340,17 @@
 8339	^e5872f Gem Fragment x9999
 8340	^a800ffFavor of the Goddess ☆ Cancer (III) x999
 8341	^a800ff too many big random prizes
-8342	Argent crystal
+8342	Sang d'Argent
 8343	Sang d'enchant (Parfait)
 8344	Rune Dégât
 8345	Rune HP
 8346	Christmas Costume Package
-8347	Stone of Fusion of Energies
+8347	Energie Cosmique
 8348	Divine Stone of the Storm
 8349	Cube Cosmique
 8350	Insignia of the Divine Artifact
 8351	Skill Change [Squire]
-8352	Change Equipment [Squire]
+8352	Parchemin Armure [Eleve]
 8353	Rune Dégât
 8354	Rune HP
 8355	Skill Change [Squire]
@@ -8374,12 +8374,12 @@
 8373	^a800ffFavor of the Goddess ☆ Balance (III) x999
 8374	^a800ff too many big random prizes
 8375	Hidden Scarlet Dragon
-8376	Argent crystal
-8377	Demon blood (Parfait)
+8376	Sang d'Argent
+8377	Sang d'Enchant (Parfait)
 8378	Rune Dégât
 8379	Rune HP
 8380	Hot Blood Campus Fashion Gift Pack
-8381	Stone of Fusion of Energies
+8381	Energie Cosmique
 8382	Esprit d'Artefact
 8383	Blessing of Venus
 8384	Sealed Spiritual Stone
@@ -8406,12 +8406,12 @@
 8405	^e5872f Gem Shape x9999
 8406	^a800ffFavor of the Goddess ☆ Lion Version (III) x999
 8407	^a800ff too many big random prizes
-8408	Argent crystal
-8409	Demon blood (Parfait)
+8408	Sang d'Argent
+8409	Sang d'Enchant (Parfait)
 8410	Rune Dégât
 8411	Rune HP
 8412	Christmas Costume Package
-8413	Stone of Fusion of Energies
+8413	Energie Cosmique
 8414	Divine Stone of the Storm
 8415	Cube Cosmique
 8416	Insignia of the Divine Artifact
@@ -8439,12 +8439,12 @@
 8438	^e5872f Gem Fragment x9999
 8439	^a800ffFavor of the Goddess ☆ Gemeaux Version (III) x999
 8440	^a800ff too many big random prizes
-8441	Argent crystal
+8441	Sang d'Argent
 8442	Sang d'enchant (Parfait)
 8443	Rune Dégât
 8444	Rune HP
 8445	Christmas Costume Package
-8446	Stone of Fusion of Energies
+8446	Energie Cosmique
 8447	Divine Stone of the Storm
 8448	Cube Cosmique
 8449	Insignia of the Divine Artifact
@@ -8472,12 +8472,12 @@
 8471	^e5872f Gem Fragment x9999
 8472	^a800ffFavor of the Goddess ☆ Verseau Version (III) x999
 8473	^a800ff too many big random prizes
-8474	Argent crystal
+8474	Sang d'Argent
 8475	Sang d'enchant (Parfait)
 8476	Rune Dégât
 8477	Rune HP
 8478	Christmas Costume Package
-8479	Stone of Fusion of Energies
+8479	Energie Cosmique
 8480	Divine Stone of the Storm
 8481	Cube Cosmique
 8482	Insignia of the Divine Artifact
@@ -8543,7 +8543,7 @@
 8542	Rune Dégât
 8543	Rune HP
 8544	Certification of Knight of the Princess
-8545	Power Fuser
+8545	Energie Cosmique
 8546	Divine Stone of the Storm
 8547	Goddess' Gift ☆ Poisson
 8548	Divine Stone of the Storm
@@ -8572,7 +8572,7 @@
 8571	^a800ff Favor of the Goddess ☆ Taureau Version (II) X999
 8572	^a800ff too many big random prizes
 8573	Sang d'Argent
-8574	Demon blood (Parfait)
+8574	Sang d'Enchant (Parfait)
 8575	Rune Dégât
 8576	Rune HP
 8577	Christmas Costume Package
@@ -8605,11 +8605,11 @@
 8604	^a800ff Favor of the Goddess ☆ Scorpion Version (III) X999
 8605	^a800ff too many big random prizes
 8606	Sang d'Argent
-8607	Demon blood (Parfait)
+8607	Sang d'Enchant (Parfait)
 8608	Rune Dégât
 8609	Rune HP
 8610	Christmas Costume Package
-8611	Power Fuser
+8611	Energie Cosmique
 8612	Divine Stone of the Storm
 8613	Cube Cosmique
 8614	Relic Insignia
@@ -8642,7 +8642,7 @@
 8641	Rune Dégât
 8642	Rune HP
 8643	Christmas Costume Package
-8644	Power Fuser
+8644	Energie Cosmique
 8645	Divine Stone of the Storm
 8646	Cube Cosmique
 8647	Relic Badge
@@ -8670,12 +8670,12 @@
 8669	^e5872f Gem Fragment x9999
 8670	^a800ffFavor of the Goddess ☆ Capricorne Version (III) X999
 8671	^a800ff too many big random prizes
-8672	Argent crystal
+8672	Sang d'Argent
 8673	Sang d'enchant (Parfait)
 8674	Rune Dégât
 8675	Rune HP
 8676	Christmas Costume Pack
-8677	Stone of Fusion of Energies
+8677	Energie Cosmique
 8678	Divine Stone of the Storm
 8679	Cube Cosmique
 8680	Insignia of the Divine Artifact
@@ -8741,7 +8741,7 @@
 8740	Rune Dégât
 8741	Rune HP
 8742	Christmas Costume Package
-8743	Power Fuser
+8743	Energie Cosmique
 8744	Divine Stone of the Storm
 8745	Cube Cosmique
 8746	Insignia of Relic
@@ -8769,12 +8769,12 @@
 8768	^e5872f Gem Fragment x9999
 8769	^a800ffFavor of the Goddess ☆ Sagittaire Version (III) x999
 8770	^a800ff too many big random prizes
-8771	Argent crystal
+8771	Sang d'Argent
 8772	Sang d'enchant (Parfait)
 8773	Rune Dégât
 8774	Rune HP
 8775	Christmas Costume Pack
-8776	Stone of Fusion of Energies
+8776	Energie Cosmique
 8777	Divine Stone of the Storm
 8778	Cube Cosmique
 8779	Insignia of the Divine Artifact
@@ -8803,7 +8803,7 @@
 8802	^a800ff Favor of the Goddess ☆ Balance (II) Version X999
 8803	^a800ff too many big random prizes
 8804	Sang d'Argent
-8805	Demon blood (Parfait)
+8805	Sang d'Enchant (Parfait)
 8806	Rune Dégât
 8807	Rune HP
 8808	Christmas Costume Package
@@ -8840,7 +8840,7 @@
 8839	Rune Dégât
 8840	Rune HP
 8841	Christmas Costume Pack
-8842	Power Fuser
+8842	Energie Cosmique
 8843	Divine Stone of the Storm
 8844	Cube Cosmique
 8845	Insignia of Relic
@@ -8869,11 +8869,11 @@
 8868	^a800ff Favor of the Goddess ☆ Belier Version (II) x999
 8869	^a800ff too many big random prizes
 8870	Sang d'Argent
-8871	Demon blood (Parfait)
+8871	Sang d'Enchant (Parfait)
 8872	Rune Dégât
 8873	Rune HP
 8874	Christmas Costume Package
-8875	Power Fuser
+8875	Energie Cosmique
 8876	Divine Stone of the Storm
 8877	Cube Cosmique
 8878	Relic Badge
@@ -8901,11 +8901,11 @@
 8900	^a800ff flowers X999
 8901	^a800ff Chimera deThor x1: Change of Flying Mount
 8902	^a800ff too many big random prizes
-8903	Change Equipment [Squire] x60
+8903	Parchemin Armure [Eleve] x60
 8904	Rune Dégât x8
 8905	Rune HP x8
 8906	Skill Change [Squire] x3
-8907	Change Equipment [Squire] x18
+8907	Parchemin Armure [Eleve] x18
 8908	Rune Dégât x3
 8909	Rune HP x3
 8910	Minerais d'Argent Noir x125
@@ -8920,7 +8920,7 @@
 8919	Extension de Banque x1
 8920	Fragment d'Echarpe x10
 8921	Minerais de Bronze Noir x10
-8922	Change Equipment [Squire] x1
+8922	Parchemin Armure [Eleve] x1
 8923	Book of the Golden Oracle x1
 8924	Rune Dégât x2
 8925	Rune HP x2
@@ -8940,7 +8940,7 @@
 8939	Rune Dégât
 8940	Rune HP
 8941	Blue Baby Package
-8942	Power Fuser
+8942	Energie Cosmique
 8943	Esprit d'Artefact
 8944	Blessing of Venus
 8945	Sealed Spiritual Stone
@@ -8969,7 +8969,7 @@
 8968	^a800ff too many big random prizes
 8969	Rudolph
 8970	Sang d'Argent
-8971	Demon blood (Parfait)
+8971	Sang d'Enchant (Parfait)
 8972	Rune Dégât
 8973	Rune HP
 8974	Snowman Package
@@ -9002,7 +9002,7 @@
 9001	^a800ff too many big random prizes
 9002	Youkai Hakutaku
 9003	Sang d'Argent
-9004	Demon blood (Parfait)
+9004	Sang d'Enchant (Parfait)
 9005	Rune Dégât
 9006	Rune HP
 9007	Aristocratic Package
@@ -9039,7 +9039,7 @@
 9038	Rune Dégât
 9039	Rune HP
 9040	Romantic Package
-9041	Power Fuser
+9041	Energie Cosmique
 9042	Esprit d'Artefact
 9043	Blessing of Venus
 9044	Sealed Spiritual Stone
@@ -9101,7 +9101,7 @@
 9100	^a800ff too many big random prizes
 9101	Ave of Cairns
 9102	Sang d'Argent
-9103	Demon blood (Parfait)
+9103	Sang d'Enchant (Parfait)
 9104	Rune Dégât
 9105	Rune HP
 9106	Scarlet Pack
@@ -9132,7 +9132,7 @@
 9131	^a800ffLights of Or x999
 9132	^a800ff Flying mount: Christmas Reindeer x1 or Divine Explosion Stone x1 (can be changed by permanent mount version)
 9133	^a800ff too many big random prizes
-9134	Demon blood (Parfait)
+9134	Sang d'Enchant (Parfait)
 9135	Rune Dégât
 9136	Rune HP
 9137	Skill Change [Squire]
@@ -9162,11 +9162,11 @@
 9161	Goddess' Gift ☆ Belier
 9162	^a800ff Mini Nachi x1 (4500 rating limit)
 9163	^e5872Facuum of Verseau x1
-9164	^a800ff Demon blood x999
+9164	^a800ff Sang d'Enchant x999
 9165	^a800ff Favor of the Goddess ☆ Belier Version X999
 9166	^a800ff too many big random prizes
 9167	Sang d'Argent
-9168	Demon blood (Parfait)
+9168	Sang d'Enchant (Parfait)
 9169	Rune Dégât
 9170	Rune HP
 9171	Certification of Knight of the Princess
@@ -9198,7 +9198,7 @@
 9197	^a800ff Hades blood x999
 9198	^a800ff Favor of the Goddess ☆ Verseau Version (II) X999
 9199	^a800ff too many big random prizes
-9200	Demon's Blood (Parfait)
+9200	Sang d'Enchant (Parfait)
 9201	Rune Dégât
 9202	Rune HP
 9203	Chinese New Year Men's Fashion Gift Package
@@ -9265,11 +9265,11 @@
 9264	^a800ff Favor of the Goddess ☆ Capricorne Version X999
 9265	^a800ff too many big random prizes
 9266	Sang d'Argent
-9267	Demon blood (Parfait)
+9267	Sang d'Enchant (Parfait)
 9268	Rune Dégât
 9269	Rune HP
 9270	Christmas Costume Package
-9271	Power Fuser
+9271	Energie Cosmique
 9272	Divine Stone of the Storm
 9273	Cube Cosmique
 9274	Relic Badge
@@ -9298,7 +9298,7 @@
 9297	^a800ff Favor of the Goddess ☆ Vierge Version x999
 9298	^a800ff too many big random prizes
 9299	Sang d'Argent
-9300	Demon blood (Parfait)
+9300	Sang d'Enchant (Parfait)
 9301	Rune Dégât
 9302	Rune HP
 9303	Fashion Army Gift Pack of Night
@@ -9331,7 +9331,7 @@
 9330	^a800ff FAVOR of the Goddess ☆ Lion Version x999
 9331	^a800ff too many big random prizes
 9332	Sang d'Argent
-9333	Demon blood (Parfait)
+9333	Sang d'Enchant (Parfait)
 9334	Rune Dégât
 9335	Rune HP
 9336	Fashion leather soul clothing gift package
@@ -9538,7 +9538,7 @@
 9537	Snowman Package
 9538	Polar Pack
 9539	Rodolfo Package
-9540	Power Fuser
+9540	Energie Cosmique
 9541	Esprit d'Artefact
 9542	Blessing of Venus
 9543	Sealed Spiritual Stone
@@ -9567,7 +9567,7 @@
 9566	Rune Dégât
 9567	Rune HP
 9568	Sunny Day Package
-9569	Power Fuser
+9569	Energie Cosmique
 9570	Esprit d'Artefact
 9571	Blessing of Venus
 9572	Sealed Spiritual Stone
@@ -9596,7 +9596,7 @@
 9595	^a800ff too many big random prizes
 9596	Golden Ostrich
 9597	Sang d'Argent
-9598	Demon blood (Parfait)
+9598	Sang d'Enchant (Parfait)
 9599	Rune Dégât
 9600	Rune HP
 9601	Shanghai Package
@@ -9695,7 +9695,7 @@
 9694	^a800ff too many big random prizes
 9695	Lula Flaming
 9696	Sang d'Argent
-9697	Demon blood (Parfait)
+9697	Sang d'Enchant (Parfait)
 9698	Rune Dégât
 9699	Rune HP
 9700	Elegance Package
@@ -9727,7 +9727,7 @@
 9726	^a800ff too many big random prizes
 9727	Pippinho
 9728	Sang d'Argent
-9729	Demon blood (Parfait)
+9729	Sang d'Enchant (Parfait)
 9730	Rune Dégât
 9731	Rune HP
 9732	Endless Summer Package
@@ -9797,7 +9797,7 @@
 9796	Rune Dégât
 9797	Rune HP
 9798	Rockstar Package
-9799	Power Fuser
+9799	Energie Cosmique
 9800	Esprit d'Artefact
 9801	Blessing of Venus
 9802	Sealed Spiritual Stone
@@ -9854,10 +9854,10 @@
 9853	Goddess' Gift ☆ Scorpion
 9854	^a800ff Squire: Q Soldat version of the Sanctuaire x1
 9855	^e5872f Medusa's Shield of Perseus x1
-9856	^a800ff Spiritual Source I x999
+9856	^a800ff Source Spirituelle x999
 9857	^a800ff Tyrannosaurus bone · Deadly poison x1 or Tyrannosaurus bone · Endless night
 9858	^a800ff too many big random prizes
-9859	Demon blood (Parfait)
+9859	Sang d'Enchant (Parfait)
 9860	Rune Dégât
 9861	Rune HP
 9862	Skill Change [Squire]
@@ -9890,11 +9890,11 @@
 9889	^e5872f Gemstone Shape x9999
 9890	^a800ffFavor of the Goddess ☆ Initial Feeling Version x999
 9891	^a800ff too many big random prizes
-9892	Argent crystal
+9892	Sang d'Argent
 9893	Sang d'enchant
 9894	Rune Dégât
 9895	Rune HP
-9896	Stone of fusion of energies
+9896	Energie Cosmique
 9897	Divine Stone of the Storm
 9898	Blessing of Venus
 9899	Cube Cosmique
@@ -9998,7 +9998,7 @@
 9997	Cube Cosmique
 9998	Relic Badge
 9999	Skill Change [Squire]
-10000	Change equipment [Squire]
+10000	Parchemin Armure [Eleve]
 10001	Rune Dégât
 10002	Rune HP
 10003	Skill Change [Squire]
@@ -10022,11 +10022,11 @@
 10021	^a800ffBendition of the Goddess ☆ Poisson x999
 10022	^a800ff too many big random prizes
 10023	Sang d'Argent
-10024	Demon blood (Parfait)
+10024	Sang d'Enchant (Parfait)
 10025	Rune Dégât
 10026	Rune HP
 10027	Certification of Knight of the Princess
-10028	Power Fuser
+10028	Energie Cosmique
 10029	Divine Stone of the Storm
 10030	Goddess' Gift ☆ Poisson
 10031	Divine Stone of the Storm
@@ -10059,7 +10059,7 @@
 10058	Rune Dégât
 10059	Rune HP
 10060	Fashion gift pack I love to be in the snow season
-10061	Power Fuser
+10061	Energie Cosmique
 10062	Divine Stone of the Storm
 10063	Cube Cosmique
 10064	Relic Badge
@@ -10088,17 +10088,17 @@
 10087	^a800ff Gift of the Goddess ☆ Taureau version X999
 10088	^a800ff too many big random prizes
 10089	Sang d'Argent
-10090	Demon blood (Parfait)
+10090	Sang d'Enchant (Parfait)
 10091	Rune Dégât
 10092	Rune HP
 10093	Certification of Knight of the Princess
-10094	Power Fuser
+10094	Energie Cosmique
 10095	Divine Stone of the Storm
 10096	Goddess' Gift ☆ Poisson
 10097	Divine Stone of the Storm
 10098	Cube Cosmique
 10099	Skill Change [Squire]
-10100	Change Equipment [Squire]
+10100	Parchemin Armure [Eleve]
 10101	Rune Dégât
 10102	Rune HP
 10103	Skill Change [Squire]
@@ -10121,11 +10121,11 @@
 10120	^a800ff Favor of the Goddess ☆ Balance Version X999
 10121	^a800ff too many big random prizes
 10122	Sang d'Argent
-10123	Demon blood (Parfait)
+10123	Sang d'Enchant (Parfait)
 10124	Rune Dégât
 10125	Rune HP
 10126	Fashionable Ninja Heart Gift Pack
-10127	Power Fuser
+10127	Energie Cosmique
 10128	Divine Stone of the Storm
 10129	Cube Cosmique
 10130	Relic Badge
@@ -10154,11 +10154,11 @@
 10153	^a800ff Favor of the Goddess ☆ Capricorne Version X999
 10154	^a800ff too many big random prizes
 10155	Sang d'Argent
-10156	Demon blood (Parfait)
+10156	Sang d'Enchant (Parfait)
 10157	Rune Dégât
 10158	Rune HP
 10159	Christmas Costume Package
-10160	Power Fuser
+10160	Energie Cosmique
 10161	Divine Stone of the Storm
 10162	Cube Cosmique
 10163	Relic Insignia
@@ -10183,11 +10183,11 @@
 10182	Goddess' Gift ☆ Belier
 10183	^a800ff Mini Jabu x1 (upper limit of 4500 qualification)
 10184	^e5872Facuum of Verseau x1
-10185	^a800ff Demon blood x999
+10185	^a800ff Sang d'Enchant x999
 10186	^a800ff Favor of the Goddess ☆ Belier Version X999
 10187	^a800ff too many big random prizes
 10188	Sang d'Argent
-10189	Demon blood (Parfait)
+10189	Sang d'Enchant (Parfait)
 10190	Rune Dégât
 10191	Rune HP
 10192	Certification of Knight of the Princess
@@ -10253,7 +10253,7 @@
 10252	^a800ff Favor of the Goddess ☆ Cancer Version x999
 10253	^a800ff too many big random prizes
 10254	Sang d'Argent
-10255	Demon blood (Parfait)
+10255	Sang d'Enchant (Parfait)
 10256	Rune Dégât
 10257	Rune HP
 10258	Fashion leather soul clothing gift package
@@ -10273,7 +10273,7 @@
 10272	Fragment d'Echarpe
 10273	Sang de Bronze
 10274	Skill Change [Squire]
-10275	Change equipment [Squire]
+10275	Parchemin Armure [Eleve]
 10276	Rune Dégât
 10277	Rune HP
 10278	Minerais d'Argent Noir
@@ -10323,7 +10323,7 @@
 10322	Rune Dégât
 10323	Rune HP
 10324	Certification of Knight of the Princess
-10325	Power Fuser
+10325	Energie Cosmique
 10326	Divine Stone of the Storm
 10327	Goddess' Gift ☆ Poisson
 10328	Divine Stone of the Storm
@@ -10340,7 +10340,7 @@
 10339	Fragment d'Echarpe
 10340	Sang de Bronze
 10341	Skill Change [Squire]
-10342	Change equipment [Squire]
+10342	Parchemin Armure [Eleve]
 10343	Rune Dégât
 10344	Rune HP
 10345	Minerais d'Argent Noir
@@ -10352,7 +10352,7 @@
 10351	^a800ff Favor of the Goddess ☆ Sagittaire Version (II) x999
 10352	^a800ff too many big random prizes
 10353	Sang d'Argent
-10354	Demon blood (Parfait)
+10354	Sang d'Enchant (Parfait)
 10355	Rune Dégât
 10356	Rune HP
 10357	Imperfect campus fashion gift package
@@ -10385,7 +10385,7 @@
 10384	^a800ff too many big random prizes
 10385	^a800ff too many random prizes
 10386	Sang d'Argent
-10387	Demon blood (Parfait)
+10387	Sang d'Enchant (Parfait)
 10388	Rune Dégât
 10389	Rune HP
 10390	Christmas Costume Pack
@@ -10840,9 +10840,9 @@
 10839	Extremely frozen
 10840	Bucket
 10841	Medicine of the Curse
-10842	Statue of Athena
-10843	Statue of Athena
-10844	Statue of Athena
+10842	Statue d'Athena
+10843	Statue d'Athena
+10844	Statue d'Athena
 10845	Bucket
 10846	Shrine Chapter 2 Pearl Necklace
 10847Eudora	ointment
@@ -11132,18 +11132,18 @@
 11131	Magic Potion of Immortality
 11132	Starlight Discipline
 11133	Trans. Andromede
-11134	Trans. Surplice Gemeaux
-11135	Trans. Surplice Poisson
-11136	Trans. Surplice Vierge
-11137	Trans. Surplice Balance
-11138	Trans. Surplice Scorpion
-11139	Trans. Sagittaire Surplice
-11140	Trans. Surplice Capricorne
-11141	Trans. Surplice Cancer
-11142	Trans. Surplice Verseau
-11143	Trans. Lion Surplice
-11144	Trans. Surplice Belier
-11145	Trans. Surplice Taureau
+11134	Trans. Surplis Gemeaux
+11135	Trans. Surplis Poisson
+11136	Trans. Surplis Vierge
+11137	Trans. Surplis Balance
+11138	Trans. Surplis Scorpion
+11139	Trans. Sagittaire Surplis
+11140	Trans. Surplis Capricorne
+11141	Trans. Surplis Cancer
+11142	Trans. Surplis Verseau
+11143	Trans. Lion Surplis
+11144	Trans. Surplis Belier
+11145	Trans. Surplis Taureau
 11146	Trans. Phoenix
 11147	Trans. Gemeaux
 11148	Trans. Poisson
@@ -11407,9 +11407,9 @@
 11406	Ambition of Hades
 11407	Mysterious Tool
 11408	Testing the Value of Enhanced Tools
-11409	Spiritual Source III
-11410	Spiritual Source II
-11411	Spiritual Source I
+11409	Source Spirituelle II
+11410	Source Spirituelle I
+11411	Source Spirituelle
 11412	Test Spiritual Sphere
 11413	Unstable Enhancer
 11414	Enhancer
@@ -11434,7 +11434,7 @@
 11433	Sang de Poseidon
 11434	Sang d'Argent
 11435	Sang de Bronze
-11436	Super Sang d'Athena
+11436	Super Sang
 11437	Sang d'Athena Divin
 11438	Super Or Blood
 11439	Auxiliary Accessories
@@ -12041,9 +12041,9 @@
 12040	Or
 12041	Secret Treasure of Starlight
 12042	Challenger Badge
-12043	Fragment de Surplice
+12043	Fragment de Surplis
 12044	Heritage of the Twelve Houses
-12045	Change of security code code of the Twelve Houses individual current
+12045	Change of security code code of the Twelve Houses Individuel current
 12046	Fragments of the Gemeaux Relic
 12047	Fragments of Gemeaux's Most Valuable Treasure
 12048	Fragments of the Poisson Relic
@@ -12114,7 +12114,7 @@
 12113	Tooth fallen after blow
 12114	Old box
 12115	Vase
-12116	Or fragment
+12116	Fragment d'Or
 12117	Burning Torch
 12118	Metal Bar
 12119	Flag clean
@@ -12142,7 +12142,7 @@
 12141	Antique iron plate
 12142	100-year old wine barrel
 12143	Average Currency
-12144	Fragment of Argent
+12144	Fragment d'Argent
 12145	Eviar sheet of old paper and yellowish
 12146	Rag Bag
 12147	Aged wine
@@ -12350,7 +12350,7 @@
 12349	Metal from the Royaume des Enfers
 12350	Autorisation Armure [Surplis]
 12351	Sacrée Wreck of Vierge
-12352	Sacrée Golden Coin
+12352	Pièce Ancienne
 12353	Autorisation Armure [Argent]
 12354	Fragment d'Argent
 12355	Holy insignia [Gemeaux]
@@ -12658,7 +12658,7 @@
 12657	Wrestling Soul of the King des Enfers
 12658	Fighting Soul of the Sanctuaire
 12659	Wrestling Soul of the King of the Seas
-12660	100 demon bloods
+12660	100 Sang d'Enchants
 12661	Flag Fragment level 1
 12662	Flag Fragment level 2
 12663	Flag Fragment level 3
@@ -13323,7 +13323,7 @@
 13322	Wedding Announcement
 13323	Llave Dulce
 13324	Cube Cosmique x100
-13325	Spiritual Source I x100
+13325	Source Spirituelle x100
 13326	Sang d'enchant x100
 13327	Wedding gift (top)
 13328	Wedding gift (theme)
@@ -13344,7 +13344,7 @@
 13343	Celebrating the birthday of the invocation of reel
 13344	Night old more amount of EXP
 13345	Cube Cosmique x100
-13346	Blood Demonic 100 pieces
+13346	Sang d'Enchant 100 pieces
 13347	Friend of childhood
 13348	Take the Initiative
 13349	Very powerful army
@@ -13381,14 +13381,14 @@
 13380	Bachelor's Day_number 1
 13381	Bachelor's Day_number 2
 13382	Romantic Letter
-13383	Day of the bachelor super Sang d'Athena
+13383	Day of the bachelor Super Sang
 13384	Poison of cut bone
 13385	Cherry Heart
 13386	Argent Star
 13387	Crystallization of black hole
-13388	Spiritual Source I x100
+13388	Source Spirituelle x100
 13389	Cube Cosmique x100
-13390	100 pieces of demonic blood
+13390	100 pieces of Sang d'Enchant
 13391	10 pieces of the stellar soul of the orange
 13392	Double Bear Pupu
 13393	Instruction manual of the double event playability
@@ -13397,8 +13397,8 @@
 13396	Funding Card II
 13397	Double festival card
 13398	Festival Card
-13399	Spiritual Source I x100
-13400	Blood Demonic 100 pieces
+13399	Source Spirituelle x100
+13400	Sang d'Enchant 100 pieces
 13401	Sang d'Athena 100 pieces
 13402	100 demigod bloods
 13403	Cube Cosmique x100
@@ -13424,7 +13424,7 @@
 13423	Thanksgiving plus amount of EXP
 13424	Cube Cosmique x100
 13425	Fashion 30 days
-13426	Blood Demonic 100 pieces
+13426	Sang d'Enchant 100 pieces
 13427	Thanksgiving Card
 13428	Chinese New Year Cake
 13429	New Year's Artillery
@@ -13448,7 +13448,7 @@
 13447	Or Badge of the Two Dragons
 13448	Witness pack of small companions
 13449	Festival coin of the Galactic Tournament
-13450	Or Fragment Pack
+13450	Fragment d'Or Pack
 13451	Gilded Stellar Soul Fragment
 13452	Fragment of lightning mount
 13453	Limited Form Version Piece
@@ -13458,7 +13458,7 @@
 13457	Snowball
 13458	Winged battle change ticket
 13459	New Year's Peru
-13460	Fragment of Or Emblem
+13460	Fragment d'Or Emblem
 13461	Fragment of the great hidden treasure
 13462	Treasure Map Hidden
 13463	Fragment of hidden treasure map 1
@@ -13466,8 +13466,8 @@
 13465	Fragment of the unknown treasure map 3
 13466	Fragment of hidden treasure map 4
 13467	Card of rebirth of the soul of Or
-13468	[Dungeon] Seven Pillars I
-13469	[Dungeon] Seven Pillars II
+13468	[Donjon] Seven Pillars I
+13469	[Donjon] Seven Pillars II
 13470	[Heroic] Ten Caves
 13471	[Heroic] Castle of Hades
 13472	[Heroic] Elegy of the Goddess I
@@ -14612,7 +14612,7 @@
 14611	Mu
 14612	Aldebaran
 14613	Luck of the day [Friendship]
-14614	Luck of the day [Battle]
+14614	Luck of the day [PvP]
 14615	Luck of the Day [Romance]
 14616	Luck of the day [Wealth]
 14617	Horoscope Tool

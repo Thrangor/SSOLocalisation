@@ -325,7 +325,7 @@
 324	Third Eye
 325	Displacement
 326	Blessing of the Darkness
-327	Blessing of the Darkness_Invocation of the Individual Instant Release
+327	Blessing of the Darkness_Invocation of the Individuel Instant Release
 328	Invocation of the Spirits
 329	Treasure of Persecution
 330	Circular Treasure
@@ -671,7 +671,7 @@
 670	My faction is still unknown
 671	$noname The Speed ​​Dispute in the City of Hades: the difficulty of that challenge is %d, used %d seconds. The result was already registered. [Hero] The first 50 positions in the Hades Speed ​​Dispute won good rewards. Consult the official page for more details of the event.
 672	$noname The Speed ​​Dispute in the City of Hades: challenge the 4 bosses of the same difficulty and you can participate in the Speed ​​Competition Event in the City of Hades. The 50 groups with the shortest time will receive good rewards. The degree of difficulty of the challenge has to be of Divine Soldat up.
-673	dungeonracing: dungeonname = 32123: difficulty = %d: usedtime = %d: player1 = %s: player2 = %s: player3 = %s: player4 = %s: player5 = %s: player6 = %s
+673	Donjonracing: Donjonname = 32123: difficulty = %d: usedtime = %d: player1 = %s: player2 = %s: player3 = %s: player4 = %s: player5 = %s: player6 = %s
 674	$noname The Speed ​​Dispute in the City of Hades: the degree of difficulty of the challenged leaders is different, therefore, did not generate a result of the dispute.
 675	$noname The Speed ​​Dispute in the City of Hades: the degree of difficulty challenged is below the Divine Soldat, therefore, it did not generate a result of the dispute
 676	Who is the one who would have pity? ~~ Of a withered flower, without perfume or color ~~

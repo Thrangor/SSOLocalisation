@@ -60,7 +60,7 @@
 59	Stellar Sand x1
 60	Fragment Bronze x5
 61	Sang de Bronze x5
-62	Argent Shard x5
+62	Fragment d'Argent x5
 63	^a800ff Demon Demon x1
 64	^a800ff Golden Blood x1
 65	^0184ffFragment Argent x1
@@ -76,12 +76,12 @@
 75	Minerais d'Argent Noir
 76	Fragment d'Echarpe
 77	Sang de Bronze
-78	Argent Shard
+78	Fragment d'Argent
 79	^a800ffScuder: Shadow Soldat x1
 80	^e5872fRelicus: Perseus Medusa Shield x1
-81	^a800ff Spiritual Source I x999
+81	^a800ff\rSource Spirituelle x999
 82	^a800ff Tyrannosaurus World · Deadly Venom 1x \rOu Tyrannosaurus Bone · Endless Night x1, permanent
-83	^a800ffOther random big prizes include: Sang d'Argent x100, Demon Blood (Parfait) x1, Rune Dégât x100, Soul Ferocious x100, etc.
+83	^a800ffOther random big prizes include: Sang d'Argent x100, Sang d'Enchant (Parfait) x1, Rune Dégât x100, Soul Ferocious x100, etc.
 84	^a800ff Demon Demon (Parfait)
 85	Origin of the Divine Blood
 86	^a800ffEscudeiro: Snowball Bone X1 (Red or Purple)
@@ -93,7 +93,7 @@
 92	^e5872fRelique: Poisson Rose x1
 93	^a800ffSoon of Hades x999
 94	^a800ffBlessings of the Goddess ☆ Verseau x999
-95	^a800ffOther random large prizes include: x100 Sang d'Argent, Demon Blood (Parfait) x1, Chinese New Year costume gift package x1, Energie Cosmique x100, Relic Plate (Universal Relic Exchange) x1, Divine Stone of the Storm (universal flying mount exchange) x1, Rune Dégât x100, Soul Ferocious X100, etc.
+95	^a800ffOther random large prizes include: x100 Sang d'Argent, Sang d'Enchant (Parfait) x1, Chinese New Year costume gift package x1, Energie Cosmique x100, Relic Plate (Universal Relic Exchange) x1, Divine Stone of the Storm (universal flying mount exchange) x1, Rune Dégât x100, Soul Ferocious X100, etc.
 96	Chinese New Year male costume gift package
 97	Chinese New Year Women's Costume Gift Package
 98	Energie Cosmique
@@ -128,7 +128,7 @@
 127	^a800ffSirenes x1 (Pratique max 4500)
 128	^e5872fRelicus: Capricorne Excalibur x1
 129	^a800ff Blessing of the Goddess ☆ Poisson x999
-130	^a800ffOther random big prizes: Includes flying mount: Blue Demon Wolf x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rtroca of the Chinese New Year costume gift package: Princess Knight Certificate x1, Energie Cosmique x100, Relic Plate (Universal Relic Exchange) x1 \rDivine Tempest Plate (universal flying mount exchange) x1, Rune Dégât x100, Soul Ferocious X100, etc.
+130	^a800ffOther random big prizes: Includes flying mount: Blue Demon Wolf x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rtroca of the Chinese New Year costume gift package: Princess Knight Certificate x1, Energie Cosmique x100, Relic Plate (Universal Relic Exchange) x1 \rDivine Tempest Plate (universal flying mount exchange) x1, Rune Dégât x100, Soul Ferocious X100, etc.
 131	^a800ffScuder: Mini Jabu x1 (Pratique max 4500)
 132	^e5872Format of Verseau x1
 133	^a800ffBlessings of the Goddess ☆ Belier x999
@@ -151,25 +151,25 @@
 150	^a800ffMini Nachi x1 (Pratique max 4500)
 151	^e5872 Cancer Score x1
 152	^a800ffBlessing of the Goddess ☆ Cancer x999
-153	^a800ffOther random big prizes: Includes flying mount: Flame Car x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rSoul Leather Costume Gift Package x1, Energy Fusion x100, Relic Badge Universal Relic) x1, Divine Storm Stone (universal flying mount) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
+153	^a800ffOther random big prizes: Includes flying mount: Flame Car x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rSoul Leather Costume Gift Package x1, Energy Fusion x100, Relic Badge Universal Relic) x1, Divine Storm Stone (universal flying mount) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
 154	Soul Leather Costume Gift Package
 155	Relic Insignia
 156	Cristal Spirituel
 157	^a800ffJune SD x1 (Pratique max 4500)
 158	^e5872fPresa de Lion x1
 159	^a800ff Blessing of the Goddess ☆ Lion x999
-160	^a800ffOther random large prizes: Includes flying mount: Pandora Mascot x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rSummer Costume Gift Pack x1, Energy Fuse x100, Relic Insignia (Universal Relic Exchange ) x1, Storm Divine Stone (universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+160	^a800ffOther random large prizes: Includes flying mount: Pandora Mascot x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rSummer Costume Gift Pack x1, Energy Fuse x100, Relic Insignia (Universal Relic Exchange ) x1, Storm Divine Stone (universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 161	Lion Month Costume Package
-162	Spiritual Source I
+162	Source Spirituelle
 163	^a800ffMini Marine x1 (Pratique max 4500)
 164	^e5872f Athena's Shield [Legend] x1
 165	^a800ff Blessing of the Goddess ☆ Virgin x999
-166	^a800ffOther random big prizes: Includes flying mount: Starlit Sky Sovereign x1, Sang d'Argent x100, Demon Blood (Parfait) x1 Night Army costume gift package x1, Energy Fusion x100, Relic insignia of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+166	^a800ffOther random big prizes: Includes flying mount: Starlit Sky Sovereign x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 Night Army costume gift package x1, Energy Fusion x100, Relic insignia of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 167	Army Costume Gift Package
 168	^a800ffMini Ichi x1 (Pratique max 4500)
 169	^e5872fNunchaku of Balance x1
 170	^a800ffBenedet of the Goddess ☆ Balance x999
-171	^a800ffOther random big prizes: Includes flying mount: Metallic Garuda x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rNinja Heart Costume Gift Pack x1, Energie Cosmique x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+171	^a800ffOther random big prizes: Includes flying mount: Metallic Garuda x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rNinja Heart Costume Gift Pack x1, Energie Cosmique x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 172	Ninja Heart Costume Gift Package
 173	^a800ffMini Jamian x1 (Pratique max 4500)
 174	^e5872fGolden's Crown of Scorpion x1
@@ -179,17 +179,17 @@
 178	^a800ffMini Orfeu x1 (Pratique max 4500)
 179	^e5872Fly Or Balance x1
 180	^a800ff Blessing of the Goddess ☆ Sagittaire (II) x999
-181	^a800ffOther random large prizes: Includes flying mount: Starry Shadow x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rInexperience Campus costume gift package x1, Energy Fusion x100, Relic Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+181	^a800ffOther random large prizes: Includes flying mount: Starry Shadow x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rInexperience Campus costume gift package x1, Energy Fusion x100, Relic Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 182	Inexperienced Campus Costume Gift Pack Summer Fashion Gift Pack x1
 183	^a800ffMini Tremy x1 (Pratique max 4500)
 184	^e5872f Divine Marbles of Belier x1
 185	^a800ff Blessing of the Goddess ☆ Capricorne (II) x999
-186	^a800ffOther random large prizes: Includes flying mount: Santa's Gift x1, Sang d'Argent x100, Demon's Blood (Parfait) x1 \rChristmas Costume Gift Pack x1, Energy Fusion x100, Relic Badge of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+186	^a800ffOther random large prizes: Includes flying mount: Santa's Gift x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rChristmas Costume Gift Pack x1, Energy Fusion x100, Relic Badge of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 187	Christmas Costume Gift Package X1 Merry Christmas Costume Gift Package
 188	^a800ffMini Algol x1 (Pratique max 4500)
 189	^e5872fGold Bull Taureau x1
 190	^a800ff Blessing of the Goddess ☆ Verseau (II) x999
-191	^a800ffOther random big prizes: Includes flying mount: Sprite of Glory x1, Sang d'Argent x100, Demon Blood (Parfait) x1 Hip Hop Costume Gift Pack x1, Energie Cosmique x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
+191	^a800ffOther random big prizes: Includes flying mount: Sprite of Glory x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 Hip Hop Costume Gift Pack x1, Energie Cosmique x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \rRune Dégât x100, Soul Ferocious X100, etc.
 192	Hip Hop Costume Gift Package
 193	^a800ffFesta in the garden of wind, rain and deer x1
 194	^a800ff Costume Package of the Year of Prosperity and Happiness x1
@@ -230,34 +230,34 @@
 229	Fragment d'Echarpe x1
 230	Light of the Condensed Star x1
 231	Minerais de Bronze Noir x1
-232	Spiritual Source I x1
+232	Source Spirituelle x1
 233	^a800ffMini x1 (Pratique max 4500)
 234	^ffff00Bag of Athena [Legend] x1
 235	^a800ffBlessings of the Goddess ☆ Belier (II) x999
-236	^a800ffOther random big prizes: Includes Flying Montage: Star Leopard x1, Sang d'Argent x100, Demon Blood (Parfait) x1 \rSpanish costume gift package x1, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
+236	^a800ffOther random big prizes: Includes Flying Montage: Star Leopard x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rSpanish costume gift package x1, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
 237	Spanish costume package
 238	^a800ffMini Pegase Noir x1 (Pratique max 4500)
 239	^e5872fLymnades Helmet x1
 240	^a800ff Blessing of the Goddess ☆ Taureau (II) x999
-241	^a800ffOther random big prizes: Includes Flying Montage: Forest Squirrel x1, Sang d'Argent x100, Demon Blood (Parfait) x1 Mido Rhythm costume gift package x1, Energy Fusion x100, Relic Insignia Universal Relic) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
+241	^a800ffOther random big prizes: Includes Flying Montage: Forest Squirrel x1, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 Mido Rhythm costume gift package x1, Energy Fusion x100, Relic Insignia Universal Relic) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \rRune Dégât x100, Soul Ferocious x100, etc.
 242	Miado Rhythm Costume Gift Pack
 243	^a800ffLights of Or x100
 244	^a800ffCertificate of Knight of the Princess x1
-245	^a800ffOther random big prizes: Includes Cube Cosmique x100, Sang d'Argent x100, Demon Blood (Parfait) x1 \rEnergy Filler x100, Relic Insignia (Universal Relic Exchange) x1, Rune Dégât x100, Soul Ferocious x100, etc.
-246	Or Fragment
+245	^a800ffOther random big prizes: Includes Cube Cosmique x100, Sang d'Argent x100, Sang d'Enchant (Parfait) x1 \rEnergy Filler x100, Relic Insignia (Universal Relic Exchange) x1, Rune Dégât x100, Soul Ferocious x100, etc.
+246	Fragment d'Or
 247	Star Element Level 3
 248	Star Element Level 2
 249	^a800ffMini Isaac x1 (Pratique max 4500)
 250	^e5872f Magic Bell Siren x1
 251	^a800ffBenediction of the Goddess ☆ Twins (II) x999
-252	^a800ffOther random big prizes: Includes Flying Montage: Taureau of Power x1, Flying Monarchy: Golden Taureau x1, Flying Monarchy: Taureau of Destruction x1 \rx Sang d'Argentshot x100, Demon Blood x1, X1, Rune Dégât x100, Soul Ferocious x100 \rInsignia of Classic Costume x1, Insignia of Warrior x1, Fuser of Energy x1, Fuser of Energy x100 \rInsignia of Relic (universal Relic exchange) x1, Divine Stone of Storm Classic Climber x1, Classic Squire Insignia x1, etc.
+252	^a800ffOther random big prizes: Includes Flying Montage: Taureau of Power x1, Flying Monarchy: Golden Taureau x1, Flying Monarchy: Taureau of Destruction x1 \rx Sang d'Argentshot x100, Sang d'Enchant x1, X1, Rune Dégât x100, Soul Ferocious x100 \rInsignia of Classic Costume x1, Insignia of Warrior x1, Fuser of Energy x1, Fuser of Energy x100 \rInsignia of Relic (universal Relic exchange) x1, Divine Stone of Storm Classic Climber x1, Classic Squire Insignia x1, etc.
 253	Buffalo Lottery Lottery Ticket 2
 254	Buffalo Lottery Lottery Ticket 3
 255	Hot Blood Colleges Costume Gift Package
 256	^a800ffMini Mice x1 (Pratique max 4500)
 257	^e5872 Blood Feathers of Skilla x1
 258	^a800ffBlessings of the Goddess ☆ Cancer (II) x999
-259	^a800ffOther random big prizes: Includes Flying Montage: Lucky Frog x1, Leisure Baseball Kit x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia x1 Divine Tempest (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
+259	^a800ffOther random big prizes: Includes Flying Montage: Lucky Crapeau x1, Leisure Baseball Kit x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia x1 Divine Tempest (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
 260	Costume Gift Package 23
 261	Classic Costume Insignia
 262	Insignia of Classic Riding
@@ -265,12 +265,12 @@
 264	^a800ffMini Phoenix Noir x1 (Pratique max 4500)
 265	^e5872f Wiseman of Crisaor x1
 266	^a800ff Blessing of the Goddess ☆ Lion (II) x999
-267	^a800ffOther random big prizes: Includes Flying Montage: Desert Smoke x1, Sunshine of the Beach Kit x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (universal relic exchange) x1 \rDivine Tempest of the Storm (Universal Flight Mount Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge x1 badge, etc.
+267	^a800ffOther random big prizes: Includes Flying Montage: Desert Smoke x1, Sunshine of the Beach Kit x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (universal relic exchange) x1 \rDivine Tempest of the Storm (Universal Flight Mount Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge x1 badge, etc.
 268	Kit of the Sun of the Beach
 269	​​^a800ffMini Dante x1 (Pratique max 4500)
 270	^e5872 Intensive Kraken x1
 271	^a800ff Blessing of the Goddess ☆ Virgin (II) x999
-272	^a800ffOther random big prizes: Includes Flying Montage: Jurassic Turtle x1, Honor Guard Or and Argent Tassels Kit x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia of Universal Relic) x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge of Honor x1, etc.
+272	^a800ffOther random big prizes: Includes Flying Montage: Jurassic Turtle x1, Honor Guard Or and Argent Tassels Kit x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia of Universal Relic) x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge of Honor x1, etc.
 273	^a800ffMini Dragon Noir x1 (Pratique max 4500)
 274	^e5872f Dragon des Mers Relief x1
 275	^a800ffBenedet of the Goddess ☆ Balance (II) x999
@@ -279,23 +279,23 @@
 278	^a800ffMini Sorento x1 (Pratique max 4500)
 279	^e5872Fresh of Poseidon [Legend] x1
 280	^a800ffBenedet of the Goddess ☆ Scorpion (II) x999
-281	^a800ffOther random big prizes: Includes Flying Riding: Resurgence! National Treasure x1, Feather Island Favor Costume Package x1, Demon Blood (Parfait) x1 \rArgent Slavery x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Storm Order (Universal Flight Mount Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassic Costume Badge x1, Classic Ride Insignia x1, Classic Squad Insignia x1, etc.
+281	^a800ffOther random big prizes: Includes Flying Riding: Resurgence! National Treasure x1, Feather Island Favor Costume Package x1, Sang d'Enchant (Parfait) x1 \rArgent Slavery x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Storm Order (Universal Flight Mount Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassic Costume Badge x1, Classic Ride Insignia x1, Classic Squad Insignia x1, etc.
 282	Blessing of Venus
 283	^a800ffShunrei SD x1 (Pratique max 4500)
 284	^e5872femo of Acheron x1
 285	^a800ff Blessing of the Goddess ☆ Sagittaire (III) x999
-286	^a800ffOther random big prizes: Includes Flying Montage: Cute Guinea Pig x1, Black Wind costume gift pack x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+286	^a800ffOther random big prizes: Includes Flying Montage: Cute Guinea Pig x1, Black Wind costume gift pack x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
 287	Black Wind Costume Gift Package
 288	November lottery wing
 289	^a800ffMini Kanon x1 (Pratique max 4500)
 290	^e5872fMadràgora de Aldebaran x1
 291	^a800ff Blessing of the Goddess ☆ Capricorne (III) x999
-292	^a800ffOther random big prizes: Includes Flying Montage: Huskys Sleigh x1, Snow Walk Costume Gift Package x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+292	^a800ffOther random big prizes: Includes Flying Montage: Huskys Sleigh x1, Snow Walk Costume Gift Package x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
 293	Black Kiss
 294	^a800ffMini Cygne Noir x1 (Pratique max 4500)
 295	^e5872fSphinx Leaf x1
 296	^a800ffBenedet of the Goddess ☆ Verseau (III) x999
-297	^a800ffOther random large prizes: Includes Flying Montage: Demonstrated Winged Montage x1, Eco Dress Gift Pack x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange ) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Mount Exchange) x1, Rune Dégât x100, Rune HP x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+297	^a800ffOther random large prizes: Includes Flying Montage: Demonstrated Winged Montage x1, Eco Dress Gift Pack x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange ) x1, Blessing of Venus x1 \rDivine Tempest of the Storm (Universal Flying Mount Exchange) x1, Rune Dégât x100, Rune HP x100 \rClassical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
 298	Eco Costume Gift Package
 299	Blue enchantress
 300	^a800ffMini Thetis x1 (Pratique max 4500)
@@ -307,7 +307,7 @@
 306	^a800ffMini Black Andromede x1 (Pratique max 4500)
 307	^e5872f Balron code x1
 308	^a800ff Blessing of the Goddess ☆ Belier (III) x999
-309	^a800ffOther random big prizes: Includes Flying Montage: Metallic Sheep x1, Aurora costume gift package x1, Demon Blood (Parfait) x1 \rAss: Cock! Wings of the Glacial Devil x1, Toxic! Wings of the Devil of Separation x1, Speed ​​of Light! Wings des Enfers Demon x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Blessing of Venus x1 \rDivine Tempest Pillar x1, Rune Dégât x100, Rune HP x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge Emblem x1, etc.
+309	^a800ffOther random big prizes: Includes Flying Montage: Metallic Sheep x1, Aurora costume gift package x1, Sang d'Enchant (Parfait) x1 \rAss: Cock! Wings of the Glacial Devil x1, Toxic! Wings of the Devil of Separation x1, Speed ​​of Light! Wings des Enfers Demon x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Blessing of Venus x1 \rDivine Tempest Pillar x1, Rune Dégât x100, Rune HP x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, Classical Badge Emblem x1, etc.
 310	Feeling Loving Suit Gift Package
 311	Coot! Wings of the Glacial Devil
 312	Toxic! Wings of the Demon of Separation
@@ -315,13 +315,13 @@
 314	^a800ffMini Misty x1 (Pratique max 4500)
 315	^e5872fTentacles of Worm x1
 316	^a800ff Blessing of the Goddess ☆ Taureau (III) x999
-317	^a800ffOther random big prizes: Includes Flying Montage: Metal Sheep x1, Wings: Cock! Wings of the Glacial Devil, Toxic! Wings of the Devil of Separation, Speed ​​of Light! Wings des Enfers Demon, Gift Pack of Suit 32 x1, Demon Blood (Parfait) x1 \rStar Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious X100 \rClassical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
+317	^a800ffOther random big prizes: Includes Flying Montage: Metal Sheep x1, Wings: Cock! Wings of the Glacial Devil, Toxic! Wings of the Devil of Separation, Speed ​​of Light! Wings des Enfers Demon, Gift Pack of Suit 32 x1, Sang d'Enchant (Parfait) x1 \rStar Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Storm (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious X100 \rClassical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
 318	Nile River Aurora Costume Gift Pack
 319	Angel Wings
 320	^a800ffMini Capella x1 (Pratique max 4500)
 321	^e5872fSpade of Hades [Legend] x1
 322	^a800ffBenedet of the Goddess ☆ Twins (III) x999
-323	^a800ffOther Random Big Prizes: Includes Flying Montage: Argent Seahorse, Purple Seahorse, Scarlet Seahorse, Wings: Psychedelic Wings, Caribbean Sea Costume Gift Pack x1, Demon Blood (Parfait) x1 \rArgent Sling x100 , Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rDivine Tempest Shield x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Insignia of Classic Climbing x1, Insignia of Classical Squire x1, etc.
+323	^a800ffOther Random Big Prizes: Includes Flying Montage: Argent Seahorse, Purple Seahorse, Scarlet Seahorse, Wings: Psychedelic Wings, Caribbean Sea Costume Gift Pack x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100 , Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rDivine Tempest Shield x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Insignia of Classic Climbing x1, Insignia of Classical Squire x1, etc.
 324	Seahorse Argent
 325	Scarlet Sea Horse
 326	Purple Seahorse
@@ -329,7 +329,7 @@
 328	^a800ffMini Jango x1 (Pratique max 4500)
 329	^e5872Fragon Dragon of Wyvern x1
 330	^a800ffBlessings of the Goddess ☆ Cancer (III) x999
-331	^a800ffOther random big prizes: Includes Flying Montage: Clown Penguin, Wings: Pink Papillon Wing, Blue Papillon Wing, Green Papillon Wing, Paradise Costume Gift Package x1, Demon Blood (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rDivine Stormstone (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
+331	^a800ffOther random big prizes: Includes Flying Montage: Clown Penguin, Wings: Pink Papillon Wing, Blue Papillon Wing, Green Papillon Wing, Paradise Costume Gift Package x1, Sang d'Enchant (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rDivine Stormstone (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Dress Insignia x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
 332	Paradise Costume Gift Package
 333	Pink Papillon Wing
 334	Blue Papillon Wing
@@ -337,7 +337,7 @@
 336	^a800ffMini Zelos x1 (Pratique max 4500)
 337	^e5872f Minotaur xM1
 338	^a800ff Blessing of the Goddess ☆ Lion (III) x999
-339	^a800ffOther random large prizes: Includes Flying Montage: Tales Crab, Wings: Jade Dream, Beach Costume Gift Package x1, Demon Blood (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Tempest Shield (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, x1, etc.
+339	^a800ffOther random large prizes: Includes Flying Montage: Tales Crab, Wings: Jade Dream, Beach Costume Gift Package x1, Sang d'Enchant (Parfait) x1 \rArgent Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rDivine Tempest Shield (Universal Flying Montage Exchange) x1, Rune Dégât x100, Soul Ferocious x100 \rClassical Costume Badge x1, Classical Badge Insignia x1, x1, etc.
 340	Bali Beach Costume Gift Package
 341	Sicilian Beach Costume Gift Package
 342	Playa Mexicana costume gift package
@@ -345,12 +345,12 @@
 344	^e5872f Relic Icon x1
 345	^a800ffBlessings of the Goddess ☆ Initial Feeling x999
 346	^a800ffOther random big prizes: Sang d'enchant x100, Sang d'Argent x100, Energy Fusion x100, Or Blood x100, Venus Blessing x1 \rDivine Stormstone (Universal Flying Mount Exchange) x1, Rune Dégât x100, Soul Ferocious x100, Sacrée Or Light x100 \rInsignal of Classic Costume x1, Insignia of Classic Climber x1, Insignia of Classical Squire x1, etc.
-347	Demon Blood
+347	Sang d'Enchant
 348	Sang d'Athena
 349	^a800ffMini Pharaoh x1 (Pratique max 4500)
 350	^e5872fReliququia: Griffon Puppet x1
 351	^a800ff Blessing of the Goddess ☆ Virgin (III) x999
-352	^ff0000Great Special Prize (minimum likelihood): Demon Blood (Parfait) x8 \r ^a800ffOther random big prizes: Flying Riding: Fantasy Chariot, Sacrée Wing, Moon and Star Costume Gift Pack x1, x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \rInsicle of Classic Costume x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
+352	^ff0000Great Special Prize (minimum likelihood): Sang d'Enchant (Parfait) x8 \r ^a800ffOther random big prizes: Flying Riding: Fantasy Chariot, Sacrée Wing, Moon and Star Costume Gift Pack x1, x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \rInsicle of Classic Costume x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
 353	Fantasy Carriage
 354	Moon and star costume gift package
 355	Esprit d'Artefact
@@ -367,28 +367,28 @@
 366	^a800ffMini Papillon x1 (Pratique max 4500)
 367	^e5872f Basilisk Helm x1
 368	^a800ff Blessing of the Goddess ☆ Scorpion (IV) x999
-369	^ff0000Great Special Prize (minimum likelihood): Demon Blood (Parfait) x8 \r ^a800ffOther random big prizes: flying mount: Scarlet Rhinoceros, Wings: Dark Dragon Wings, Halloween Party Costume Gift Package x1, Demon Blood (Parfait) x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 Classic Costume x1, Classic Costume Emblem x1, Classic Emblem of Squire x1, etc.
+369	^ff0000Great Special Prize (minimum likelihood): Sang d'Enchant (Parfait) x8 \r ^a800ffOther random big prizes: flying mount: Scarlet Rhinoceros, Wings: Dark Dragon Wings, Halloween Party Costume Gift Package x1, Sang d'Enchant (Parfait) x1 \r Sang d'Argent x100, Energie Cosmique x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 Classic Costume x1, Classic Costume Emblem x1, Classic Emblem of Squire x1, etc.
 370	Scarlet Rhinoceros
 371	Halloween Party Costume Gift Package
 372	Dark Dragon Wings
 373	^a800ffBên. of the Goddess ☆ Queen (Pratique Limit: 4500)
 374	^e5872fHarpia: Mask of the Aigle x1
 375	^a800ff Blessing of the Goddess ☆ Sagittaire (IV) x999
-376	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ff Other Random Rewards: Flying Montage: Golden Jaguar, Golden Wings of the Future, Doge Package x1, Demon Blood (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Shield x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc
+376	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ff Other Random Rewards: Flying Montage: Golden Jaguar, Golden Wings of the Future, Doge Package x1, Sang d'Enchant (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Shield x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc
 377	Jaguar Golden
 378	Doge Package
 379	Light of the Future
 380	^a800ffMini Charon x1 (Pratique max 4500)
-381	^e5872f Frog's Treacherous Deck x1
+381	^e5872f Crapeau's Treacherous Deck x1
 382	^a800ff Blessing of the Goddess ☆ Balance (III) x999
-383	^ff0000Great Special Prize (minimum likelihood): Demon Blood (Parfait) x8 \r ^a800ffOther random big prizes: flying mount: Blue Winged Dragon, Wing: Pink Wing, Hot Blood University Costume Gift Package x1, Blood X1, X5, X5, X5, X5, X5, X5, X5, X5, X5, X, X, Classical Costume x1, Classical Emblem of Squire x1, etc.
+383	^ff0000Great Special Prize (minimum likelihood): Sang d'Enchant (Parfait) x8 \r ^a800ffOther random big prizes: flying mount: Blue Winged Dragon, Wing: Pink Wing, Hot Blood University Costume Gift Package x1, Blood X1, X5, X5, X5, X5, X5, X5, X5, X5, X5, X, X, Classical Costume x1, Classical Emblem of Squire x1, etc.
 384	Blue Winged Dragon
 385	Hot Blood University Costume Gift Pack
 386	Asa Rosé
 387	Blessing of Niobe x1 (Pratique Limit: 4500)
 388	^e5872fChifre: Rock Fist x1
 389	^a800ff Blessing of the Goddess ☆ Capricorne (IV)
-390	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffOther Random Awards: Three types of Flying Monasteries: Christmas Sleigh II, Christmas Sleigh III, Christmas Sleigh IV, Three Types of Wings: Innocent Heart, Heart Crystal, Green Heart, Costume Fairytales III x1 \rDemon Demonstration (Parfait) x1, Sang d'Argent x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Soul Burning x100, Alma Feroz x100 \rClassic Fashion Insignia x1, Classic Climber Insignia x1, Classical Squire Insignia x1, etc.
+390	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffOther Random Gains: Three types of Flying Monasteries: Christmas Sleigh II, Christmas Sleigh III, Christmas Sleigh IV, Three Types of Wings: Innocent Heart, Heart Crystal, Green Heart, Costume Fairytales III x1 \rDemon Demonstration (Parfait) x1, Sang d'Argent x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Soul Burning x100, Alma Feroz x100 \rClassic Fashion Insignia x1, Classic Climber Insignia x1, Classical Squire Insignia x1, etc.
 391	Christmas Sleigh II
 392	Sleigh Natalino III
 393	Sleigh Natalino IV
@@ -408,7 +408,7 @@
 407	^a800ff. of the Goddess ☆ New Year (III) (Lim. of Pratique: 4500)
 408	^e5872fPandora: Trident of Darkness x1
 409	^a800ff. of the Goddess ☆ New Year (III) x999
-410	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffOther Random Rewards: Flying Riding Golden Ostrich, Phoenix of Dance, Shanghai Package x1, Demon Blood (Parfait) x1 \rStar Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
+410	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffOther Random Rewards: Flying Riding Golden Ostrich, Phoenix of Dance, Shanghai Package x1, Sang d'Enchant (Parfait) x1 \rStar Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
 411	Golden Ostrich
 412	Shanghai Package
 413	Phoenix ​​of Dance - 9 days
@@ -422,7 +422,7 @@
 421	^a800ffBên. of the Goddess ☆ Gordon (Pratique Limit: 4500)
 422	^e5872fPoseidon: Elmo of Creation and Destruction [Legend] x1
 423	^a800ffBenedet of the Goddess ☆ Twins (IV) x999
-424	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ff Other Random Rewards: Flying Montage Golden Saber Tooth, Fairy King Wings, Random costume packs, Demon Blood (Parfait) x1 \rSangue de Prata x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassic Fashion Insignia x1, Cleric Insignia x1, Insignia of Squire Classic x1, etc ...
+424	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ff Other Random Rewards: Flying Montage Golden Saber Tooth, Fairy King Wings, Random costume packs, Sang d'Enchant (Parfait) x1 \rSangue de Prata x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassic Fashion Insignia x1, Cleric Insignia x1, Insignia of Squire Classic x1, etc ...
 425	Golden Saber Tooth
 426	Dark Gray Package
 427	Navy Blue Package
@@ -431,7 +431,7 @@
 430	^a800ffMini Sylphid x1 (Pratique max 4500)
 431	^e5872fGaruda: Ailes de Éaque x1
 432	^a800ff Blessing of the Goddess ☆ Cancer (IV) x999
-433	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffDe Random Rewards: Flying Montain Golden Arraia, Million Glass, Sunny Day Package x1, Demon Blood (Parfait) x1 Sang d'Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
+433	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffDe Random Rewards: Flying Montain Golden Arraia, Million Glass, Sunny Day Package x1, Sang d'Enchant (Parfait) x1 Sang d'Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
 434	Golden Arraia
 435	Sunny Day Package
 436	Million Glass
@@ -458,7 +458,7 @@
 457	Blue Sky Wings
 458	^a800ffMini Worm x1 (Pratique max 4500)
 459	^e5872fDohko: Balance Shield x1
-460	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffDe Random Rewards: Flying Montage Youkai Hakutaku, Blue Sea Heart, Baby Blue Package x1, Demon Blood (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Shield x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc...
+460	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffDe Random Rewards: Flying Montage Youkai Hakutaku, Blue Sea Heart, Baby Blue Package x1, Sang d'Enchant (Parfait) x1 Sang d'Argent x100, Energie Cosmique x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Shield x50, Soul of Relic x50, Rune Dégât x100, Soul Ferocious x100 \rClassical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc...
 461	Youkai Hakutaku
 462	Blue Baby Package
 463	Heart of the Blue Sea
@@ -476,7 +476,7 @@
 475	Purple Wing
 476	^a800ffMini Aphrodite x1 (Pratique max 4500)
 477	^e5872fGirls: Gemeaux Object x1
-478	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffde Random Rewards: Dragon des Mers Flying Ride, Evil Pack, Jamiel Costume Bundle x1, Demon Blood (Parfait) x1 \rStar Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
+478	^ff0000 Special Prize (Very Low Chances): Sang d'enchant (Parfait) x8 \r ^a800ffde Random Rewards: Dragon des Mers Flying Ride, Evil Pack, Jamiel Costume Bundle x1, Sang d'Enchant (Parfait) x1 \rStar Argent x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \rSealed Spiritual Spell x50, Relic Soul x50, Rune Dégât x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
 479	Dragon des Mers
 480	Costume Package
 481	Malicious Wings
@@ -495,9 +495,9 @@
 494	Fruit
 495	^a800ff Halloween Scarf x1
 496	^a800ffBook of Athena x5
-497	^a800ffOther great prizes: Includes Relic Insignia x1, Demon Blood (Parfait) x1, Sang d'Argent x100, Cube Cosmique x100 \rEnergy Filler x100, Rune Dégât x100, Soul Ferocious x100
+497	^a800ffOther great prizes: Includes Relic Insignia x1, Sang d'Enchant (Parfait) x1, Sang d'Argent x100, Cube Cosmique x100 \rEnergy Filler x100, Rune Dégât x100, Soul Ferocious x100
 498	^a800ffOther great prizes: Includes Sang d'Argent x8, Cube Cosmique x8 \rEnergy Filler x8, Rune Dégât x8, Rune HP x8
-499	^a800ff Other great prizes: Demon Blood (Parfait) x1, Sang d'Argent x100, Cube Cosmique x100 \rEnergy Fighter x100, Rune Dégât x100, Rune HP x100
+499	^a800ff Other great prizes: Sang d'Enchant (Parfait) x1, Sang d'Argent x100, Cube Cosmique x100 \rEnergy Fighter x100, Rune Dégât x100, Rune HP x100
 500	^a800ff More great prizes: Includes Sang d'Argent x5, Cube Cosmique x5 Energy Filler x5, Rune Dégât x5, Rune HP x5
 501	^e5872fBeads of Vierge x1
 502	^e5872Fish Fish x1

@@ -389,12 +389,12 @@
 388	$UImid$noname The evil prank of Hermes was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 389	$UImid$noname The evil prank of Hermes was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 390	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
-391	$UImid$noname The Awards NPC will leave the base in 50 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-392	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-393	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-394	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-395	$UImid$noname The Awards NPC will leave the base in 10 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-396	$UImid$noname The Awards NPC will leave the base in 5 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+391	$UImid$noname The Gains NPC will leave the base in 50 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+392	$UImid$noname The Gains NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+393	$UImid$noname The Gains NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+394	$UImid$noname The Gains NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+395	$UImid$noname The Gains NPC will leave the base in 10 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+396	$UImid$noname The Gains NPC will leave the base in 5 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
 397	Giant Hook!
 398	Powerful First Realm!
 399	Maximum damage!
@@ -543,7 +543,7 @@
 542	$UImid$noname The spirits of the Advanced Knights level were all purified !!!
 543	$UImid$noname The Athena Emissary has already appeared at the Guild Base. Members who have not yet received the prize should immediately look for Karin !!!
 544	$UImid$noname The Athena Emissary will leave the Base in 5 minutes. Members who have not yet received the Guild Award, look for Karin immediately !!!
-545	$UImid$noname The Emissaries of Athena, Berina and Karin have already left the Guild Base.
+545	$UImid$noname The EmissBelier of Athena, Berina and Karin have already left the Guild Base.
 546	$UImid$noname The event <Elegy of the Resurrection> is already closed!
 547	I felt the power
 548	Sow quickly!
@@ -4475,7 +4475,7 @@
 4474	They will challenge some reborn warriors! Let's wait to see! Who will be the first opponent they will face?
 4475	He is the ancestor of the Cancer Knight! Poor challengers!
 4476	He is the fearsome ancestor of Aldebaran! The Celestial Star of La Maga is too brutal!
-4477	Gods! It's Shion of Belier using a Surplices! Yes, defeat would not be a shame ...
+4477	Gods! It's Shion of Belier using a Surplis! Yes, defeat would not be a shame ...
 4478	That victory was an accident! That time, he is the ancestor of the Verseau Knight who enters the field! Tremble, defiant!
 4479	Victory recently does not count! That time, it is the Celestial Star of Violence that enters the field! Ardan!
 4480	What happened was just a warm up! Next, he knows how to fight alone and in a majestic way! Good luck…
@@ -5306,7 +5306,7 @@
 5305	For your loyalty!
 5306	For your loyalty!
 5307	Simple human beings, they have not yet left the Elysian fields!
-5308	Really unpleasant, your dirty blood contaminated my Surplice!
+5308	Really unpleasant, your dirty blood contaminated my Surplis!
 5309	Insects from the ground, receive the punishment of justice!
 5310	The Sceptre d'Athéna will wash away your sins completely!
 5311	Hypnos, God of the dream ...... filthy humans entered the Elísios Fields
@@ -6617,9 +6617,9 @@
 6616	The thief is audacious without equal, besides being awesome!
 6617	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 6618	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
-6619	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-6620	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
-6621	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6619	$UImid$noname The Gains NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6620	$UImid$noname The Gains NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6621	$UImid$noname The Gains NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
 6622	Here is a forbidden zone !!! Get out fast!
 6623	Guillotine!
 6624	Come, let's have a real fight!

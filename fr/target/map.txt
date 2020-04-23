@@ -204,14 +204,14 @@
 203	Central Red Door
 204	Door of the Red Left
 205	The Heart of Sagittaire
-206	The Twelve Houses
+206	Les 12 Maisons
 207	Sanctuaire of Ice
-208	Seven Pillars of the Ocean
+208	Les 7 Piliers des Mers
 209	The Poem of the Goddess
 210	Hero of the Ten Wind Cave
 211	Hero of the Heart of Sagittaire
 212	Hero of the Castle of the Grand Blue
-213	Hero of the City of Hades
+213	[Hero] Hades
 214	The End of Hades
 215	The Epic Stars
 216	Requiem of the Well of the Dead
@@ -303,15 +303,15 @@
 302	Wake up! Fly down waterfall
 303	Seven Oceans of Saori
 304	MAX! Infinite Battle
-305	MAX! Individual Test of the Infinite Battle (White)
-306	MAX! Individual Test of the Infinite Battle (Or)
-307	MAX! Individual Test of the Infinite Battle (Sea)
-308	MAX! Individual Test of the Infinite Battle (Darkness)
-309	MAX! Individual Test of the Infinite Battle (Infinity)
+305	MAX! Individuel Test of the Infinite Battle (White)
+306	MAX! Individuel Test of the Infinite Battle (Or)
+307	MAX! Individuel Test of the Infinite Battle (Sea)
+308	MAX! Individuel Test of the Infinite Battle (Darkness)
+309	MAX! Individuel Test of the Infinite Battle (Infinity)
 310	Test! The road to becoming a God
 311	Test! The road to becoming a God - Mining
 312	Proof! The road to becoming a God - Thief
-313	MAX! Individual Black Hole Challenge (Infinity)
+313	MAX! Individuel Black Hole Challenge (Infinity)
 314	Doze Divine Houses I
 315	Doze Divine Houses II
 316	Doze Divine Houses III
@@ -320,7 +320,7 @@
 319	Li Yingyan test
 320	Special Needs of Animation
 321	Ares! Ruins of Attica
-322	Chaotic Battlefield
+322	Guerre des Cristaux
 323	Battlefield with Lava
 324	Winged Battlefield
 325	Bloody Battle! Nordic misfortune
@@ -330,7 +330,7 @@
 329	Multiserver - Ruin of Ares
 330	Arena of Multiserver Equipment
 331	PK Multiserver Equipment
-332	New Individual Arena
+332	New Individuel Arena
 333	First Competition in the Milky Way Arena
 334	Second Multiserver Competition of the Galactic Sovereign (Balanced)
 335	Dispute over the Milky Way

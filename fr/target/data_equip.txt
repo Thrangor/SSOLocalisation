@@ -2874,7 +2874,7 @@
 2873	Water Symbol_Common_Category 18_Morado
 2874	Symbol of Water_Common_Category 19_Morado
 2875	Apprentice Emblem
-2876	Symbol of Water_Community_Category 20_Morado
+2876	Symbol of Water_Communauté_Category 20_Morado
 2877	Symbol of the Priest
 2878	Symbol of the Presbyter
 2879	Symbol of the Bishop
@@ -2890,11 +2890,11 @@
 2889	Emblem of the Titan
 2890	Emblem of Olympus
 2891	Symbol of Athena
-2892	Fire Symbol_Community_Category 17_Morado
-2893	Fire Symbol_Community_Category 18_Morado
+2892	Fire Symbol_Communauté_Category 17_Morado
+2893	Fire Symbol_Communauté_Category 18_Morado
 2894	Fire Symbol_Common_Category 19_Morado
 2895	Newbie Emblem
-2896	Fire Symbol_Community_Category 20_Morado
+2896	Fire Symbol_Communauté_Category 20_Morado
 2897	Symbol of the Priest
 2898	Symbol of the Presbyter
 2899	Symbol of the Bishop

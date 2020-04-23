@@ -559,7 +559,7 @@
 558	RealP 8
 559	In the configurations of the external chat box it can be changed for the built-in mode
 560	---- [Kiki]
-561	In the Quests bar located on the right, you can do an automatic search directly for the NPC target!
+561	In the Quêtes bar located on the right, you can do an automatic search directly for the NPC target!
 562	When jumping, when you are in the air, press the space bar again to use the double jump
 563	Click with the left mouse button on the map interface to automatically search the route to the desired location
 564	You can use the Collect skill to gain fallen spoils, this ability can be found in the Skills interface

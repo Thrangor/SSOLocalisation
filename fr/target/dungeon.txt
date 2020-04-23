@@ -27,25 +27,25 @@
 26	${name} already participated in the Requiem of the Shrine
 27	Already participated in the Requiem of the Sanctuaire
 28	A group of 2 or more members is required to activate
-29	${name} requires the item: ^0065feRuta de Estrella ^N. When passing the ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
-30	Required item: ^0065fe Star Route ^N. Going from ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
+29	${name} requires the item: ^0065feRuta de Estrella ^N. When passing the ^fffd44 [Donjon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
+30	Required item: ^0065fe Star Route ^N. Going from ^fffd44 [Donjon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
 31	The ${name} LV is less than 70
-32	${name} needs the item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
+32	${name} needs the item: ^0065feels of Ice ^N. Going from ^fffd44 [Donjon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
 33	The LV is less than 70
-34	Necessary item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
+34	Necessary item: ^0065feels of Ice ^N. Going from ^fffd44 [Donjon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
 35	The ${name} LV is less than 80
 36	The LV is less than 80
-37	${name} precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Beginning) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
-38	Precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Início) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
+37	${name} precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Donjon] Sete Pilares Marinhos (Beginning) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
+38	Precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Donjon] Sete Pilares Marinhos (Início) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
 39	The ${name} LV is less than 90
-40	The number of Dungeon [Heroic] participations from ${name} has run out or the Hero Points did not reach 45
+40	The number of Donjon [Heroic] participations from ${name} has run out or the Hero Points did not reach 45
 41	The LV is less than 90
-42	The number of Dungeon participations [Heroic] has sold out or Hero Points did not reach 45
+42	The number of Donjon participations [Heroic] has sold out or Hero Points did not reach 45
 43	The ${name} LV is less than 60
 44	The LV is less than 60
 45	OR Participation number of Counter-Attack is esgotou ou Ponto de Ares insufficient
-46	O nº de participações da Dungeon [Heroic] of ${name} esgotou ou os Pontos Heroicos não atingiram 10
-47	O nº de participações da Dungeon [Heroic] es esgotou ou os Pontos Heroicos não atingiram 10
+46	O nº de participações da Donjon [Heroic] of ${name} esgotou ou os Pontos Heroicos não atingiram 10
+47	O nº de participações da Donjon [Heroic] es esgotou ou os Pontos Heroicos não atingiram 10
 48	OR remaining number of participações of Counter-Attack of ${name} é insufficient or Ponto de Ares insufficient
 49	O rest of participações de Contra-Ataque and insufficient or Ponto de Ares insufficient
 50	The number of participations of [Heroic] Castillo de Sinigrado of ${name} has sold out
@@ -90,7 +90,7 @@
 89	Jamian du Corbeau %d / 1
 90	Tremi du Sagita %d / 1
 91	Countdown to the fight: %ds
-92	Soldat des Enfers %d / 15 \rZelos %d / 1 \rSoldat des Océans %d / 15 \rSorrento %d / 1
+92	Soldat des Enfers %d / 15 \rZelos %d / 1 \rSoldat des Mers %d / 15 \rSorrento %d / 1
 93	Estrela Terrestre da Prisão %d / 1
 94	Earth Star of Evil %d / 1
 95	Disable the mechanisms to eliminate the Illusion of Heaven
@@ -121,7 +121,7 @@
 120	Go to the Dragon des Mers Altar
 121	Marine Dragon %d / 1
 122	Moving on
-123	Defeat the monsters
+123	Éliminer les ennemis
 124	Follow Thetis to explore the underwater secret
 125	Unleash the soul of Kraken
 126	Release the Siren Soul \rNotal number of defeated enemies: %d
@@ -136,7 +136,7 @@
 135	Mage of the Tides %d / 2 \r Black Warrior Leader %d / 1
 136	Within 180s, defeat as many enemies as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated enemies: %d
 137	Marine Soldat %d / 30
-138	Bloodthirsty Bat %d / 15 Black Warrior Leader %d / 3
+138	Chauve-Souris des Enfers %d / 15 Black Warrior Leader %d / 3
 139	Black Warrior Elite %d / 7 \r Black Warrior Leader %d / 1
 140	Valiant Warrior resuscitated %d / 6 \rSirenes %d / 6
 141	Identify the true Scale of Marine Dragon \rThe person covered by the blue light can activate the Scale of Marine Dragon
@@ -211,8 +211,8 @@
 210	Nordic Archers %d / 4 \rPolar Bear %d / 8 \rForest Fall %d / 8
 211	Hidden Event: \rGrand Arctic Wolf %d / 1
 212	Abyssal %d / 1
-213	Poison Toad %d / 7 \rGarde Elite des Enfers %d / 7 \rBloodthirst %d / 9 \rDeathwing Guards %d / 9
-214	Bloodthirsty Bat %d / 9 \rGarde des Enfers %d / 9
+213	Crapaud Vénéneux %d / 7 \rGarde Elite des Enfers %d / 7 \rChauve-Souris des Enfers %d / 9 \rGarde des Enfers %d / 9
+214	Chauve-Souris des Enfers %d / 9 \rGarde des Enfers %d / 9
 215	Troll Iwan %d / 1
 216	Enter the Mysterious Magic Circle
 217	Number of people: %d \rReactive count to break Magic Circle: %d
@@ -226,7 +226,7 @@
 225	Enter the bright area
 226	Vous avez 180s, Tuez autant d'ennemis que possible: \r ^e12500Temps Restant: %ds ^N \rEnnemis Tuer: %d
 227	Pharaoh du Sphinx %d / 1
-228	Crows %d / 11 \rGarde Elite des Enfers %d / 11
+228	Corbeaux %d / 11 \rGarde Elite des Enfers %d / 11
 229	Serpent des Enfers %d / 6 \rFecure Defeat %d / 6
 230	Save the fairies by killing Sphinx as fast as possible \rOtherwise, every 20 seconds, there will be a sacrificed fairy \r ^e12500 Remaining faeces: %d ^N \rsfinge %d / 1
 231	Rescued %d fairies \rYou get the gift left by the fairies.
@@ -260,7 +260,7 @@
 259	Continue to chase the Grand Pope (Grand Pope reached the platform) \rSolder Soldat %d / 8
 260	Continue to chase the Grand Pope (Grand Pope left the platform) \rSoldat of Knight %d / 10
 261	(The Grand Pope reached the center of the Hall) \rDroot the Grand Pope %d / 1
-262	Dungeon Objective:
+262	Donjon Objective:
 263	Is the Thieves' Lair here?
 264	Within 2min, capture as many Thieves as possible! ^e12500 Remaining time: %ds ^N
 265	Capturing the Great Thief, Kid
@@ -291,7 +291,7 @@
 290	Defeat Dragon Noir %d / 1 \r (The Leader talks to Dragon Noir to choose the difficulty of the challenge) \r ^FFCC00Dragon Black has entered rage status, updated countdown: ^FF0000 %ds ^N
 291	Defeat Ikki, Knight of Phoenix %d / 1 \r (The Leader talks to Ikki to choose the difficulty of the challenge)
 292	Defeat Ikki, Knight of Phoenix %d / 1 \r (The Leader talks to Ikki to choose the difficulty of the challenge) \r ^FFCC00Ikki has entered rage status, updated countdown: ^FF0000 %ds ^N
-293	Advance in the dungeon
+293	Advance in the Donjon
 294	Protect Belier from Sagittaire. Defeat the enemy!
 295	Defeat Babel of Centaur %d / 1
 296	Defeat Maya of Sagita %d / 1
@@ -405,12 +405,12 @@
 404	Defeating Shido from Mizar, Star Zeta %d / 1 \rDestroying Alcor Bado, Star Zeta %d / 1 \r (The Leader talks to Shido to choose the difficulty of the challenge) \r ^FFCC00The Tiger Saber brothers of Saber entered furious status, updated fight countdown: ^FF0000 %ds ^N
 405	Defeat Queen of Aldebaran, Demon Celestial Star %d / 1 \r (The Leader talks to Queen to choose the difficulty of the challenge)
 406	Defeat Valentine of Harpia, Celestial Star of Cry %d / 1 \r (The Leader talks to Valentine to choose the difficulty of the challenge)
-407	Defeating Frog Zeros, Bizarre Terrestrial Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge)
+407	Defeating Crapeau Zeros, Bizarre Terrestrial Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge)
 408	Defeat Rhadamanthe, Celestial Star of Fury %d / 1 \r (The Leader talks to Rhadamanthe to choose the difficulty of the challenge) \r ^FFCC00 After starting Boss, the fighting zone will be closed
 409	Defeat the Garde Elites inside the Castle of Hades %d / 12
 410	Defeat Queen of Aldebaran, Demon Celestial Star %d / 1 \r (The Leader talks to Queen to choose the difficulty of the challenge) \r ^FFCC00Queen went into fury status, updated fight countdown: ^FF0000  %ds ^N
 411	Defeat Valentine of Harpia, Celestial Star of Cry %d / 1 \r (The Leader talks to Valentine to choose the difficulty of the challenge) \r ^FFCC00Valentine has entered into fury status, updated fight countdown: FF0000 %ds ^N
-412	Defeating Frog Zeros, Bizarre Land Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge) \r ^FFCC00Zeros has entered furious status, updated fight countdown: ^FF0000  %ds ^N
+412	Defeating Crapeau Zeros, Bizarre Land Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge) \r ^FFCC00Zeros has entered furious status, updated fight countdown: ^FF0000  %ds ^N
 413	Defeat Rhadamanthe, Celestial Fury Star %d / 1 \r (The Leader talks to Rhadamanthe to choose the difficulty of the challenge) \r ^FFCC00Rhadamanthe has entered furious status, updated fight countdown: ^FF0000 %ds
 414	Obtain Wind Soul %d / 10 \rObter Earth Soul %d / 5 \rObter Water Soul %d / 80 \rObter Fire Soul %d / 140
 415	Obtain Wind Soul %d / 5 \rObter Earth Soul %d / 10 \rObter Water Soul %d / 140 \rObter Fire Soul %d / 80
@@ -425,8 +425,8 @@
 424	Obtain Wind Soul %d / 180 \rObter Earth Soul %d / 75 \rObter Water Soul %d / 180 \rObter Fire Soul %d / 60
 425	Obtain Wind Soul %d / 75 \rObter Earth Soul %d / 180 \rObter Water Soul %d / 60 \rObter Fire Soul %d / 180
 426	Fight preparation phase, select Kingdom \rAfter selecting Kingdom, speak to Shaka to start the fight
-427	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Familier may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individually,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individually,^N to get ^ffff0020^N conhecimentos, libera a ^ffff00terceira^N habilidade das Seis Existência\rTime until uma grande quantidade de Seres das Seis Existências apareçam: ^ff0000%d^N segundos
-428	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Familier may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individually,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individually,^N to get ^ffff0020^N conhecimentos avançados da ^ffff00terceira^N habilidade das Seis Existência\r^ff0000Atenção! Grande quantidade de Seres das Seis Existências apareceram nas proximidades do Jardim das Árvores Gêmeas^N
+427	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Familier may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individuelly,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individuelly,^N to get ^ffff0020^N conhecimentos, libera a ^ffff00terceira^N habilidade das Seis Existência\rTime until uma grande quantidade de Seres das Seis Existências apareçam: ^ff0000%d^N segundos
+428	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Familier may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individuelly,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individuelly,^N to get ^ffff0020^N conhecimentos avançados da ^ffff00terceira^N habilidade das Seis Existência\r^ff0000Atenção! Grande quantidade de Seres das Seis Existências apareceram nas proximidades do Jardim das Árvores Gêmeas^N
 429	Defeat Saga, Golden Knight with Sapuris %d / 1
 430	Fight preparation phase, talk to Dohko to start it
 431	Help Dohko eliminate the Wraiths who are in the way \rDroot Subterranean Shadow Soldats ^00ffff %d / 15 ^N
@@ -488,7 +488,7 @@
 487	Defeat Twins from Evil
 488	You have preserved the goodness in the heart of Gemeaux!
 489	Resurrected Warrior %d / 8 \rOnly with the Sacrée Lotus at the end of the road, it is possible to remove the terrible curse of the enemy
-490	Giant Bloodthirsty Bat %d / 1 \rBorneo Queen des Enfers %d / 1 \rRoyaume des Enfers Myu Tétis %d / 1
+490	Giant Chauve-Souris des Enfers %d / 1 \rBorneo Queen des Enfers %d / 1 \rRoyaume des Enfers Myu Tétis %d / 1
 491	Union of the Dream God %d / 1
 492	Defeated the God of the Dream!
 493	Go to the Royaume des Enfers's Portal \r ^fff000Destroy all Shadowhunters and Soul Hunters on the Path of Death. \r Shadowhunters %d / 128 \rSoulcatchers %d / 32
@@ -550,7 +550,7 @@
 549	Congratulations on defeating Oneiros, talk to Shunrei
 550	Defeat the Illusion of Morpheus %d / 1
 551	Follow along this path and defeat the Hydra des Enfers %d / 1
-552	Follow along this path and defeat the monsters \rAbissais %d / 6
+552	Follow along this path and Éliminer les ennemis \rAbissais %d / 6
 553	Follow along this path and defeat the Immortal Dragon
 554	Defeat Fâstaso %d / 1
 555	Follow the signal ahead and teleport to the Temple of Thanatos next to the Breeder of Eagles to defeat the God of Death, Thanatos! \rThanatos %d / 1
@@ -610,68 +610,68 @@
 609	Gain from the Specter ^ffff00Isolde, the Earth Star of Evil ^N! Defend the Sanctuaire!
 610	They have successfully Résisted enemies, they are really Knights of Love and Justice!
 611	They have successfully Résisted enemies, they are really Knights of the Goddess!
-612	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and Deusa, oil to prova vindo da Caixa Magica de Pandora
-613	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Black Pégasus! \rA Ilusão do Pégasus Negro tem a velocity and attack of Pegase comuns, ^FFCC00devie-se seus attacks ^N or more rapid possível
-614	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDeerrote or Cygne Noir! \rA Ilusão do Cisne Negro chama- I know if it is the same as the possum or Ar Frio mais poder; não se deixe ser ^FFCC00congelado ^N by ele
-615	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Andrômeda Negro! \rA corrente da Ilusão do Andrômeda Negro and equally powerful. When I click for it, a real ^FFCC00 will transform ^N in small serpentes to attack you
-616	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Dragão Negro! \rA Ilusão do Dragão Negro possu uma força poderosa , ^FFCC00desvie-se ^N of your attacks or more quickly possível!
-617	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Cavaleiro de Bronze, Ikki de Fênix! \rO Coup Fantasma da Fênix da Ilusão da Fênix will invoke illusões do seu próprio corpo to fight against você, mantenha-se firme e ^FFCC00derrote as ilusões ^N!
+612	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and Deusa, oil to prova vindo da Caixa Magica de Pandora
+613	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Black Pégasus! \rA Ilusão do Pégasus Negro tem a velocity and attack of Pegase comuns, ^FFCC00devie-se seus attacks ^N or more rapid possível
+614	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDeerrote or Cygne Noir! \rA Ilusão do Cisne Negro chama- I know if it is the same as the possum or Ar Frio mais poder; não se deixe ser ^FFCC00congelado ^N by ele
+615	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Andrômeda Negro! \rA corrente da Ilusão do Andrômeda Negro and equally powerful. When I click for it, a real ^FFCC00 will transform ^N in small serpentes to attack you
+616	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Dragão Negro! \rA Ilusão do Dragão Negro possu uma força poderosa , ^FFCC00desvie-se ^N of your attacks or more quickly possível!
+617	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Cavaleiro de Bronze, Ikki de Fênix! \rO Coup Fantasma da Fênix da Ilusão da Fênix will invoke illusões do seu próprio corpo to fight against você, mantenha-se firme e ^FFCC00derrote as ilusões ^N!
 618	Through the ^FFCC00Diosa Athena ^N, leave the Illusion of the Pandora's Magic Box
 619	Through ^FFCC00Pandora ^N, leave the Illusion of the Pandora's Magic Box
-620	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
-621	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Argent Nebulae ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Centaur! The Illusion of Centaur releases red lotus fire, ^FFCC00save these flames ^N as fast as possible to reduce damage
-622	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Whale Chevalier d'Argent \rWhen whale is dying, he will explode in fury, letting all his force go
-623	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the Sagita Chevalier d'Argent \rWhen are dying , Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
-624	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Perseus! Perseus possesses a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
-625	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Cefeu \rA illusion Cefeu an impregnable barrier and their watchmen will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
-626	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
-627	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Knight of Poisson! \rBe careful of the Bloody Rose of Poisson, when his teammates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
-628	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Rider of Verseau! enemies in an ice coffin and only when ^FFCC00 destroy him ^N, it will be possible to leave this prison.
-629	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Golden Galaxy:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Cancer Or Knight \rDeath rMáscara! will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as fast as possible
-630	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Golden Galaxy:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Capricorne Or Knight \rCapricórnio invoke Excalibur to recover your own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
-631	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Horseman of Balance! \rWhen the circle triangular magician is started, the 3 people who carry the red, green and Or colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
-632	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, accepted proof coming from the Magic Box of Pandora
-633	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Star Navy:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Isaac Kraken \rA attack area ^FFCC00Círculo Frost ^N of Isaac is very powerful, avoiding it is a good option
-634	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss on the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rBian Seahorse Warbler \rThe God of Ice invoked will grant the Bian a Parfait defense against all damage ^FFCC00reject the God of Ice ^N and the Parfait defense will disappear
-635	Time to close Dungeon: ^FFCC00 %ds.^N\rTotal of Boss on the Marine Star: ^FFCC005^N!\rBosses defeated: ^FFCC00%d^N\rDerrote o General Marina Kasa de Lymnades!\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N!
-636	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal the Star Navy:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote chrysaor Krishna \rA divine force allows chrysaor having an immortal body. Only inside ^FFCC00Astrolábio ^N will be without the divine force
-637	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
-638	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \remains is affixed between Pandora and the Goddess accept the proof from the Magic Box of Pandora
-639	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Shion Belier illusion \ra! Shion's Crystal Wall is highly lethal, destroy it as quickly as possible and deviate from the next attack
-640	Time to close Dungeon: ^FFCC00 %ds. ^N \rBosses in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Illusion of Aldebaran's Antecessor! Aldebaran will summon Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
-641	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Benu Illusion! heavenly fire, which will render it Résistant to all harm; so ^^FFCC00eliminate the fire ^N as quickly as possible
-642	Time to close dungeon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the predecessor Wyvern \rO's predecessor Wyvern will be invincible under Wyvern status. ^FFCC00Colling Wind Essences ^N spiked by Wyvern can undo such status
-643	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N! The Roses of Nightmare takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
-644	Time to close Dungeon: ^FFCC00 %ds.^N\rrDrooking^FFCC00 5 ^NBosses time restarts!\rBosses defeated in this round: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
-645	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Pegase Illusion! has the usual speed and attack of Pegase, ^FFCC00see your attacks ^N as soon as possible
-646	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cygne Noir Illusion! Cygne Noir Illusion! calls himself the one with the most powerful Diamond Dust; do not let yourself be frozen ^FFCC00 ^N by him
-647	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Andromede Illusion! Black Andromede is equally powerful. When you get caught by it, the current ^FFCC00 will turn ^N into small snakes to attack you
-648	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Dragon Noir Illusion! The illusion of the Dragon Noir has a powerful force, FFCC00 to break off his attacks as quickly as possible!
-649	Time to close Dungeon: ^FFCC00 %ds  ^N\rDrocking FFCC00 ^5 ^el tiempo NBosses restart \ren rBosses defeated this round: %d FFCC00 ^^N \r¡Derrote it Ilusión del Saint of Bronze Phoenix! The Phantom Fist of the Phoenix of Ikki's Illusion of Phoenix will invoke illusions of his own body to fight against you, stand firm and FFCC00reject illusions ^N!
-650	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Chevalier d'Argent of Centaur! \rCaution! The Illusion of Centaur releases fire from the red lotus, ^FFCC00devote those flames ^N as quickly as possible to reduce damage
-651	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Whale Chevalier d'Argent! \rWhen Whale is Dying , he will explode in fury, letting all his force leave ^N
-652	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Chevalier d'Argent of Sagita! \rWhen dying, Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
-653	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent's Illusion of Perseus! of Perseus has a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
-654	Time to close dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cefeus Illusion! invincible barrier and their sentries will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
-655	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Poisson! \rBe careful with the Bloody Rose of Poisson, when his group mates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
-656	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Verseau He will put his enemies in an icebox, and only when he is destroyed will it be possible to leave that prison.
-657	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Cancer ! The Death Mask will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as quickly as possible.
-658	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Capricorne! Excalibur to recover its own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
-659	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Horseman of Balance! triangle magic circle is started, the 3 people who carry the red, green, and Or colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
-660	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDleave the Illusion of the Kraken Isaac! The attack area of ​​the ^FFCC00 Frost Circle ^Isaac is very powerful, avoiding it is a good choice.
-661	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^NDriver Bian of Seahorse \rThe God of Ice invoked will grant the Bian a Parfait defense against all damage ^FFCC00reject the God of Ice ^N and the Parfait defense will disappear
-662	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the illusion of General Marina Kasa of Lymnades! a bunch of loyal fans! Watch out! Their kiss can make Kasa ^FFCC00recupere HP ^N! Do not let them get close to Kasa!
-663	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy Crisaor de Krishna! \rThe Force Divine allows Crisaor to have an immortal body. Only within the ^FFCC00Astrolabio ^N will be without divine force.
-664	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
-665	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Shion Illusion of Belier! The Crystal Wall created by Shion is highly lethal, destroy it as quickly as possible and deviate from the next attack.
-666	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDrive the Illusion of Aldebaran's Antecessor! will invoke Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
-667	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Bennu Illusion! \rBennu he will invoke the heavenly fire, which will render him Résistant to all damages; therefore, ^FFCC00eliminate the fire ^N as quickly as possible.
-668	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of Wyvern's Antecessor! Wyvern's predecessor will remain invincible under Wyvern status. ^FFCC00 Collecting Wind Essences ^N spits by the Wyvern can undo such status.
-669	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Dream God! takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
+620	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
+621	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Argent Nebulae ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Centaur! The Illusion of Centaur releases red lotus fire, ^FFCC00save these flames ^N as fast as possible to reduce damage
+622	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Whale Chevalier d'Argent \rWhen whale is dying, he will explode in fury, letting all his force go
+623	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the Sagita Chevalier d'Argent \rWhen are dying , Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+624	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Argent Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent of Perseus! Perseus possesses a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+625	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Argent Nebula:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Cefeu \rA illusion Cefeu an impregnable barrier and their watchmen will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
+626	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
+627	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Knight of Poisson! \rBe careful of the Bloody Rose of Poisson, when his teammates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
+628	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Rider of Verseau! enemies in an ice coffin and only when ^FFCC00 destroy him ^N, it will be possible to leave this prison.
+629	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Golden Galaxy:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Cancer Or Knight \rDeath rMáscara! will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as fast as possible
+630	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Golden Galaxy:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote Capricorne Or Knight \rCapricórnio invoke Excalibur to recover your own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
+631	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Horseman of Balance! \rWhen the circle triangular magician is started, the 3 people who carry the red, green and Or colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
+632	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, accepted proof coming from the Magic Box of Pandora
+633	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Star Navy:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Isaac Kraken \rA attack area ^FFCC00Círculo Frost ^N of Isaac is very powerful, avoiding it is a good option
+634	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss on the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rBian Seahorse Warbler \rThe God of Ice invoked will grant the Bian a Parfait defense against all damage ^FFCC00reject the God of Ice ^N and the Parfait defense will disappear
+635	Time to close Donjon: ^FFCC00 %ds.^N\rTotal of Boss on the Marine Star: ^FFCC005^N!\rBosses defeated: ^FFCC00%d^N\rDerrote o General Marina Kasa de Lymnades!\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N!
+636	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal the Star Navy:. ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote chrysaor Krishna \rA divine force allows chrysaor having an immortal body. Only inside ^FFCC00Astrolábio ^N will be without the divine force
+637	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
+638	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole:. ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \remains is affixed between Pandora and the Goddess accept the proof from the Magic Box of Pandora
+639	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses: ^FFCC00 %d ^N \rDerrote Shion Belier illusion \ra! Shion's Crystal Wall is highly lethal, destroy it as quickly as possible and deviate from the next attack
+640	Time to close Donjon: ^FFCC00 %ds. ^N \rBosses in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Illusion of Aldebaran's Antecessor! Aldebaran will summon Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
+641	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Benu Illusion! heavenly fire, which will render it Résistant to all harm; so ^^FFCC00eliminate the fire ^N as quickly as possible
+642	Time to close Donjon: ^FFCC00 %ds ^N \rBoss RTotal in Hades wormhole: ^FFCC005 ^N \rdefeated rBosses:! ^FFCC00 %d ^N \rDerrote the predecessor Wyvern \rO's predecessor Wyvern will be invincible under Wyvern status. ^FFCC00Colling Wind Essences ^N spiked by Wyvern can undo such status
+643	Time to close Donjon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N! The Roses of Nightmare takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
+644	Time to close Donjon: ^FFCC00 %ds.^N\rrDrooking^FFCC00 5 ^NBosses time restarts!\rBosses defeated in this round: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+645	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Pegase Illusion! has the usual speed and attack of Pegase, ^FFCC00see your attacks ^N as soon as possible
+646	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cygne Noir Illusion! Cygne Noir Illusion! calls himself the one with the most powerful Diamond Dust; do not let yourself be frozen ^FFCC00 ^N by him
+647	Time to close Donjon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Andromede Illusion! Black Andromede is equally powerful. When you get caught by it, the current ^FFCC00 will turn ^N into small snakes to attack you
+648	Time to close Donjon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Dragon Noir Illusion! The illusion of the Dragon Noir has a powerful force, FFCC00 to break off his attacks as quickly as possible!
+649	Time to close Donjon: ^FFCC00 %ds  ^N\rDrocking FFCC00 ^5 ^el tiempo NBosses restart \ren rBosses defeated this round: %d FFCC00 ^^N \r¡Derrote it Ilusión del Saint of Bronze Phoenix! The Phantom Fist of the Phoenix of Ikki's Illusion of Phoenix will invoke illusions of his own body to fight against you, stand firm and FFCC00reject illusions ^N!
+650	Time to close Donjon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Chevalier d'Argent of Centaur! \rCaution! The Illusion of Centaur releases fire from the red lotus, ^FFCC00devote those flames ^N as quickly as possible to reduce damage
+651	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Whale Chevalier d'Argent! \rWhen Whale is Dying , he will explode in fury, letting all his force leave ^N
+652	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Chevalier d'Argent of Sagita! \rWhen dying, Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+653	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Chevalier d'Argent's Illusion of Perseus! of Perseus has a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+654	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cefeus Illusion! invincible barrier and their sentries will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
+655	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Poisson! \rBe careful with the Bloody Rose of Poisson, when his group mates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
+656	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Verseau He will put his enemies in an icebox, and only when he is destroyed will it be possible to leave that prison.
+657	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Cancer ! The Death Mask will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as quickly as possible.
+658	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Capricorne! Excalibur to recover its own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
+659	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Horseman of Balance! triangle magic circle is started, the 3 people who carry the red, green, and Or colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
+660	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDleave the Illusion of the Kraken Isaac! The attack area of ​​the ^FFCC00 Frost Circle ^Isaac is very powerful, avoiding it is a good choice.
+661	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^NDriver Bian of Seahorse \rThe God of Ice invoked will grant the Bian a Parfait defense against all damage ^FFCC00reject the God of Ice ^N and the Parfait defense will disappear
+662	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the illusion of General Marina Kasa of Lymnades! a bunch of loyal fans! Watch out! Their kiss can make Kasa ^FFCC00recupere HP ^N! Do not let them get close to Kasa!
+663	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy Crisaor de Krishna! \rThe Force Divine allows Crisaor to have an immortal body. Only within the ^FFCC00Astrolabio ^N will be without divine force.
+664	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
+665	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Shion Illusion of Belier! The Crystal Wall created by Shion is highly lethal, destroy it as quickly as possible and deviate from the next attack.
+666	Time to close Donjon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDrive the Illusion of Aldebaran's Antecessor! will invoke Fleurs Demoniaques. By absorbing strength from these flowers, Aldebaran will recover a large amount of HP. ^FFCC00Delete the Fleurs Demoniaques ^N as fast as possible.
+667	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Bennu Illusion! \rBennu he will invoke the heavenly fire, which will render him Résistant to all damages; therefore, ^FFCC00eliminate the fire ^N as quickly as possible.
+668	Time to close Donjon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of Wyvern's Antecessor! Wyvern's predecessor will remain invincible under Wyvern status. ^FFCC00 Collecting Wind Essences ^N spits by the Wyvern can undo such status.
+669	Time to close Donjon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Dream God! takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
 670	Through the ^FFCC00 Goddess Athena ^N out of the Illusion of the Pandora's Box! \r Through ^FFCC00 Pandora ^N out of the Illusion of the Pandora's Box!
-671	Tempo to date Dungeon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo restarts! \rBosses defeated n this shot: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Peixes! \rTake care com to Rosa Sangrenta de Peixes, when there are teammates of equip forem hit by roses brancas, ^FFCC00destrua-as ^N quickly. Do not say that they absorb blood and they become vermelhas
-672	Time to enclose Dungeon: ^FFCC00 %ds. ^N \rDriving ^FFCC00 5 ^NBosses the time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDerrote the Illusion of the Golden Knight of Verseau ! \rAquario will put the player in an ice box and only ^FFCC00rom the ice box ^N as fast as possible will guarantee the departure of the group.
-673	Tempo to date Dungeon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo reboots! \rBosses defeated nesta rolled: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Balance! \rWhen or magical triangular circle for initiated, as 3 pessoas that carregam a cor vermelha, green e dourada, respectively, devem ^FFCC00ficar em cima da cor corresponding ^N. The invincibility of Dohko will end!
+671	Tempo to date Donjon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo restarts! \rBosses defeated n this shot: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Peixes! \rTake care com to Rosa Sangrenta de Peixes, when there are teammates of equip forem hit by roses brancas, ^FFCC00destrua-as ^N quickly. Do not say that they absorb blood and they become vermelhas
+672	Time to enclose Donjon: ^FFCC00 %ds. ^N \rDriving ^FFCC00 5 ^NBosses the time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDerrote the Illusion of the Golden Knight of Verseau ! \rAquario will put the player in an ice box and only ^FFCC00rom the ice box ^N as fast as possible will guarantee the departure of the group.
+673	Tempo to date Donjon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo reboots! \rBosses defeated nesta rolled: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Balance! \rWhen or magical triangular circle for initiated, as 3 pessoas that carregam a cor vermelha, green e dourada, respectively, devem ^FFCC00ficar em cima da cor corresponding ^N. The invincibility of Dohko will end!
 674	Through the FFCC00 Deusa Athena ^N sir da Ilusão da Caixa de Pandora! \rThrough ^FFCC00 Pandora ^N sair da Ilusão da Caixa de Pandora! \rActivities do ^FFCC00 Obelisco ^N receber prêmio!
 675	Via ^FFCC00 Som do Teletransporte ^N, select to open or the corresponding road number. \rDrotate ^FFCC00 20 ^N Bosses to open to 5th round! \rDrotate ^FFCC00 40 ^N Bosses to open to 9th round! \rDrotate ^FFCC00 60 ^N Bosses to open to 13th round! \rDrotate ^FFCC00 80 ^N bosses to open to 17th round!
 676	Start Challenge
@@ -687,7 +687,7 @@
 686	Go to the House of Taureau!
 687	Defeat Gemeaux clone Gemeaux Symbiosis ^N, the two personalities together become even more powerful, separate them and attack them one at a time ^N \rIf you are hit by the ffcc00 Deprivation of the 5 Senses ^N, go to the Bright Circle ^N invoked by the personality of the good and may be able to get rid of the ^N curse, but do not stay within the circle for long
 688	Defeating God · Golden Knight of Gemeaux · Saga \rThe Black Hole can summon from the Other Dimension the Spirits of the Knights, who will come to help Saga in battle. After the black hole appears, the bombs are destroyed immediately.
-689	Advance in the dungeon!
+689	Advance in the Donjon!
 690	Go to the House of Cancer! Death Mask can summon the mighty Waves of Hell. Please, Knights, look for the most prudent place to hide.
 691	Go to the Lion House! \r While Lion is aware, his defense is very strong, but when he becomes unconscious, it may be the best time to attack
 692	Go to the Virgin's House! The Vierge's salvation can defend some of the damage caused by the Buddha's Palm, but each salvation only works for one person. When the companions are struck by the Invocation of Spirits, Andromede needs to help eliminate the control. When the Hungry Ghosts appear, eliminate them quickly.
@@ -696,8 +696,8 @@
 695	Go to the House of Scorpion!
 696	Go to the House of Scorpion! \rMiro prepared a toxic charade \rObserve the six cavities! \r Five poisons, an antidote! \rThe fate of every group depends on your idea!
 697	Go to the Sagittaire House!
-698	Go to the House of Sagittaire! \rDeus · Golden Glory of Aiolia will bring infinite damage! \rThe Goddess Shelter will save your life \rDon't forget: do not leave the boundaries of the Shelter! Otherwise the Gods will not be able to help it!
-699	Congratulations! Advanced in the dungeon!
+698	Go to the House of Sagittaire! \rDeus · Golden Glory of Aiolia will bring infinite damage! \rThe Goddess Shelter will save your life \rDon't forget: do not leave the boundBelier of the Shelter! Otherwise the Gods will not be able to help it!
+699	Congratulations! Advanced in the Donjon!
 700	Next to the House of Poisson
 701	Advance to the House of Poisson \rTo avoid the white rose of blood that Aphrodite invoked! [BERAK] When your ally is immobilized by the white rose, turn the white rose, your time is limited! When the companion is fixed by the white rose, turn the white rose, your time is limited \rNote: The black rose behind the Boss will continue to summon the red rose.
 702	Next to the House of Verseau
@@ -728,60 +728,60 @@
 727	Le Donjon va Fermer. Quitter dans^ff0000 %s ^N \rRésumé^ff0000 %s^N
 728	Vous n'êtes plus en Groupe. Quitter dans^ff0000 %s ^N \rRésumé^ff0000 %s^N
 729	Some members do not agree with the requirements. Including level, limitation of members, item for entry, etc.
-730	%s has created a Dungeon, do you want to enter?
-731	There are members of your group who are not in the vicinity; this prevents the activation of the Dungeon. Do you want to send them a notification?
-732	%s want to activate the Dungeon [ %s], but it failed because you are far away. Do you want to go immediately to the meeting place: [ %s]?
+730	%s has created a Donjon, do you want to enter?
+731	There are members of your group who are not in the vicinity; this prevents the activation of the Donjon. Do you want to send them a notification?
+732	%s want to activate the Donjon [ %s], but it failed because you are far away. Do you want to go immediately to the meeting place: [ %s]?
 733	Prize
-734	Dungeon created successfully
+734	Donjon created successfully
 735	Instance in the server reached limit
-736	Essa Dungeon allows you to single entry
-737	Essa Dungeon allows you to enter the Group
-738	Failure in the Dungeon
-739	%s could not enter the Dungeon in the current status
-740	The %s LV does not meet the requirements of the Dungeon
-741	The %s daily entry number in this Dungeon has been exhausted
-742	The weekly entry number of %s in this Dungeon has been exhausted
-743	Missing item for %s enter this Dungeon
-744	Reputation of %s is insufficient to enter this Dungeon
-745	Missing BUFF for %s entering nessa Dungeon
-746	I can not enter, I do not know how to walk in such a Dungeon
-747	This Dungeon requires everyone to belong to the same Guild
+736	Essa Donjon allows you to single entry
+737	Essa Donjon allows you to enter the Group
+738	Failure in the Donjon
+739	%s could not enter the Donjon in the current status
+740	The %s LV does not meet the requirements of the Donjon
+741	The %s daily entry number in this Donjon has been exhausted
+742	The weekly entry number of %s in this Donjon has been exhausted
+743	Missing item for %s enter this Donjon
+744	Reputation of %s is insufficient to enter this Donjon
+745	Missing BUFF for %s entering nessa Donjon
+746	I can not enter, I do not know how to walk in such a Donjon
+747	This Donjon requires everyone to belong to the same Guild
 748	%s is not on the same realm
-749	Fail to create Dungeon
-750	It is necessary to create group to activate this Dungeon
-751	This Dungeon must be activated by the Leader
-752	The number of people in the group is insufficient to activate the Dungeon
-753	To activate the Dungeon, it is necessary that everyone be together
+749	Fail to create Donjon
+750	It is necessary to create group to activate this Donjon
+751	This Donjon must be activated by the Leader
+752	The number of people in the group is insufficient to activate the Donjon
+753	To activate the Donjon, it is necessary that everyone be together
 754	The number of people to form the group in the surroundings is less than the required
-755	The group already has a Dungeon at the moment, wait a while
-756	At the moment, you're still in a Dungeon, wait 1min
-757	Non-existent Dungeon
-758	The Dungeon is not yet activated
-759	Dungeon has not yet been activated, was not found or server enabled
-760	Dungeoneering operations must be realized in the Great World
-761	Surprising time in creating Dungeon
+755	The group already has a Donjon at the moment, wait a while
+756	At the moment, you're still in a Donjon, wait 1min
+757	Non-existent Donjon
+758	The Donjon is not yet activated
+759	Donjon has not yet been activated, was not found or server enabled
+760	Donjoneering operations must be realized in the Great World
+761	Surprising time in creating Donjon
 762	Required to meet the prerequisites
 763	Entry only in Raid
 764	Activated only by the Leader
 765	Does not allow activation by Raid
 766	Invalid Raid information
 767	Raid Group or Reputation does not correspond
-768	This Dungeon has ended, entry is not allowed
+768	This Donjon has ended, entry is not allowed
 769	Guild Leader needs to participate
 770	Guild Reputation does not correspond
-771	Individual power surpasses the requirement of the Dungeon
-772	Individual power does not meet the requirement of the Dungeon
-773	You can not enter the Dungeon in your current status
-774	Your LV does not meet the requirement of the Dungeon
-775	Your daily entry number in this Dungeon has sold out
-776	Your weekly entry number in this Dungeon has sold out
-777	Missing item to enter this Dungeon
-778	Your Reputation is not enough for you to enter this Dungeon
-779	Missing BUFF to enter in this Dungeon
+771	Individuel power surpasses the requirement of the Donjon
+772	Individuel power does not meet the requirement of the Donjon
+773	You can not enter the Donjon in your current status
+774	Your LV does not meet the requirement of the Donjon
+775	Your daily entry number in this Donjon has sold out
+776	Your weekly entry number in this Donjon has sold out
+777	Missing item to enter this Donjon
+778	Your Reputation is not enough for you to enter this Donjon
+779	Missing BUFF to enter in this Donjon
 780	You are not on the same realm.
-781	The Possum group Dungeon currently activated
-782	The time of entry in the dungeon has run out
-783	%s updated to Dungeon where the Group is
+781	The Possum group Donjon currently activated
+782	The time of entry in the Donjon has run out
+783	%s updated to Donjon where the Group is
 784	Phase %d
 785	^00ff00Power Required: %d
 786	^ff0000Power Required: %d
@@ -792,9 +792,9 @@
 791	Exit gives area of challenges after %ds.
 792	To succeed it is necessary to accumulate points: %d / %d
 793	To succeed, it is necessary to defeat: %s
-794	Many Players is participating in the Individual Challenge, try again later
-795	It was not met or Individual Challenge
-796	Failed to initiate Dungeon of Individual Challenge
+794	Many Players is participating in the Individuel Challenge, try again later
+795	It was not met or Individuel Challenge
+796	Failed to initiate Donjon of Individuel Challenge
 797	You just made a challenge., wait for a tempo
 798	Your power and insufficient, to participate in a hastily challenge is very dangerous. Practice first to then to enter in one!
 799	Player ${name} is below level 30
