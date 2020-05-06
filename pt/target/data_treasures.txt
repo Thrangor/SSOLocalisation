@@ -780,21 +780,21 @@
 779	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
 780	Luz da Determinação de Métis
 781	A vontade da deusa inteligente permite que você reaprenda habilidades de combate.
-782	Bênção da Deusa☆Libra
+782	Bênção da Deusa☆Sagitário
 783	...
-784	Bênção da Deusa☆Áries(II)
+784	Bênção da Deusa☆Sagitário(II)
 785	...
-786	Pacote de presente de devolução dos pontos de Escorpião
+786	Pacote de presente de devolução dos pontos de Sagitário
 787	...
-788	Presente de Escor. II (Sublime)
+788	Presente de Sagit. II (Sublime)
 789	...
-790	Presente de Escor. II (Supremo)
+790	Presente de Sagit. II (Supremo)
 791	...
-792	Pacote de presente de devolução dos pontos de Escorpião
+792	Pacote de presente de devolução dos pontos de Sagitário
 793	
-794	Presente de Escor. II (Sublime)
+794	Presente de Sagit. II (Sublime)
 795	...
-796	Presente de Escor. II (Supremo)
+796	Presente de Sagit. II (Supremo)
 797	...
 798	Memento de Anima*1
 799	Quando usado no  Protoss, aprimora a experiência intensificada.

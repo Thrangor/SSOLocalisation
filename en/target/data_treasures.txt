@@ -780,21 +780,21 @@
 779	The will of the intelligent goddess allows you to relearn combat skills.
 780	Metis Determination Light
 781	The will of the intelligent goddess allows you to relearn combat skills.
-782	Goddess' Gift ☆ Libra
+782	Goddess' Gift ☆ Sagittarius
 783	...
-784	Goddess' Gift ☆ Aries (II)
+784	Goddess' Gift ☆ Sagittarius (II)
 785	...
-786	Scorpio Gift Pack
+786	Sagittarius Gift Pack
 787	...
-788	Gift of Scorpio II (Excellent)
+788	Gift of Sagittarius II (Excellent)
 789	...
-790	Gift of Scorpio II (Supreme)
+790	Gift of Sagittarius II (Supreme)
 791	...
-792	Scorpio Gift Pack
+792	Sagittarius Gift Pack
 793	
-794	Gift of Scorpio II (Excellent)
+794	Gift of Sagittarius II (Excellent)
 795	...
-796	Gift of Scorpio II (Supreme)
+796	Gift of Sagittarius II (Supreme)
 797	...
 798	Memento of Anima*1
 799	When used in Anima, it enhances the intensified experience.

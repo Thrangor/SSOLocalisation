@@ -780,21 +780,21 @@
 779	聪慧女神的意志使你能重新学习战斗技能。
 780	Light of Metis
 781	聪慧女神的意志使你能重新学习战斗技能。
-782	God Gift•Libra
+782	God Gift•Sagittarius
 783	...
-784	女神的恩赐☆白羊版(Ⅱ)
+784	God Gift•Sagittarius II
 785	...
-786	Scorpion Bonus Pack
+786	Sagittarius Box II
 787	...
-788	Scorpio Gift II (Top)
+788	Sagittarius Gift II (Top)
 789	...
-790	Scorpio Gift II (EX)
+790	Sagittarius Gift II (Extreme)
 791	...
-792	Scorpion Bonus Pack
+792	Sagittarius Box II
 793	
-794	Scorpio Gift II (Top)
+794	Sagittarius Gift II (Top)
 795	...
-796	Scorpio Gift II (EX)
+796	Sagittarius Gift II (Extreme)
 797	...
 798	Protoss keepsake*1
 799	星灵强化时使用，可提升强化经验倍率。
