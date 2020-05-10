@@ -110,26 +110,26 @@
 109	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
 110	Hyper Potion III
 111	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-112	Sang de Poseidon*20
+112	Sang de Poseidon x20
 113	It can improve the effect when the star casts the Scales.
-114	Sang d'Athena*20
+114	Sang d'Athena x20
 115	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-116	Sang de Bronze*20
+116	Sang de Bronze x20
 117	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-118	Sang d'Argent*20
+118	Sang d'Argent x20
 119	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-120	Sang d'Hades*20
+120	Sang d'Hades x20
 121	It can improve the effect when the star casts the Holy Armour.
-122	Sang d'enchant*20
+122	Sang d'enchant x20
 123	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
 124	Sang d'enchant
 125	Legend is the blood essence of the demon, which can greatly improve the stability of the energy.
-126	Sang de Bronze*20
-127	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
+126	Sang de Bronze x20
+127	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
 128	Sang de Bronze
-129	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-130	Sang d'Athena*20
-131	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
+129	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
+130	Sang d'Athena x20
+131	It can be enhanced in the Star Cast Gold Holy Armour and the chance for Divine Armor.
 132	Sang d'Athena
 133	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
 134	Livre d'Athena
@@ -140,11 +140,11 @@
 139	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
 140	Hyper Potion I
 141	Restores a small amount of HP.
-142	Energetic I*20
+142	Energetic I x20
 143	Après utilisation, you receive 500 magic box energy.
 144	Energetic I
 145	Après utilisation, you receive 500 magic box energy.
-146	Enhancer*20
+146	Enhancer x20
 147	Après utilisation, you receive 400 magic box energy.
 148	Enhancer
 149	Après utilisation, you receive 400 magic box energy.
@@ -158,7 +158,7 @@
 157	Required to use World chat channel.\rLevel 40 or above only.
 158	Energy Center EXP Double
 159	Augmente double EXP duration by 60 minutes.
-160	Destination Data*20
+160	Destination Data x20
 161	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
 162	Destination Data
 163	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
@@ -176,7 +176,7 @@
 175	Collect a certain amount to redeem the ruler equipment.
 176	Metis Determination Light
 177	The will of the intelligent goddess allows you to relearn combat skills.
-178	Gift of Belier II (Excellent)
+178	Gift of Aries II (Excellent)
 179	A value-for-money spree that is limited to one use per person.
 180	Fist of Justice
 181	Casual t-shirt, modern design, fine finish
@@ -362,11 +362,11 @@
 361	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
 362	Hyper Potion III
 363	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-364	Energetic I*20
+364	Energetic I x20
 365	Après utilisation, you receive 500 magic box energy.
 366	Energetic I
 367	Après utilisation, you receive 500 magic box energy.
-368	Enhancer*20
+368	Enhancer x20
 369	Après utilisation, you receive 400 magic box energy.
 370	Enhancer
 371	Après utilisation, you receive 400 magic box energy.
@@ -374,19 +374,19 @@
 373	Expands bag space by 6 slots.
 374	Extension de Banque
 375	Expands warehouse space by 6 slots.
-376	Megaphone*200
+376	World Megaphone x200
 377	Consumed when speaking on the world channel.
-378	Megaphone*10
+378	World Megaphone x10
 379	Consumed when speaking on the world channel.
-380	Ad Megaphone*200
+380	Ad Megaphone x200
 381	Consumed when speaking on a broadcast channel.
-382	Ad Megaphone*10
+382	Ad Megaphone x10
 383	Consumed when speaking on a broadcast channel.
 384	Ad Megaphone
 385	Consumed when speaking on a broadcast channel.
 386	Energy Center EXP Double
 387	Augmente double EXP duration by 60 minutes.
-388	Destination Data*20
+388	Destination Data x20
 389	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
 390	Destination Data
 391	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
@@ -402,43 +402,43 @@
 401	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
 402	Ecliptic Heart V
 403	Augmente the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-404	Cristal d'Eleve*5
+404	Cristal d'Eleve x5
 405	Material used in exchange for the related items of the ruler.
-406	Fragment de Bronze*5
+406	Fragment de Bronze x5
 407	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
-408	Fragment d'Argent*5
+408	Fragment d'Argent x5
 409	After collecting a certain amount, you can exchange for Argent Holy Armor.\rDrops in activities above level 60.
-410	Minerais de Bronze Noir*5
+410	Minerais de Bronze Noir x5
 411	Dark Saints 1-10 stars cast.\rCan be redeemed.
-412	Minerais d'Argent Noir*5
+412	Minerais d'Argent Noir x5
 413	Dark Saints 11-16 stars cast.\rCan be redeemed.
-414	Minerais d'Or Noir*5
+414	Minerais d'Or Noir x5
 415	Dark Saints 17-32 stars cast.\rCan be redeemed.
-416	Minerais de Bronze*5
+416	Minerais de Bronze x5
 417	Pegase Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
-418	Minerais d'Argent*5
+418	Minerais d'Argent x5
 419	Pegase Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
-420	Minerais d'Or*5
+420	Minerais d'Or x5
 421	Pegase Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
-422	Poussière de Bronze*5
+422	Poussière de Bronze x5
 423	Used in ordinary bronze Sacrée clothing.\rDrops frequency in instances above level 30.
-424	Poussière d'Argent*5
+424	Poussière d'Argent x5
 425	Used for ordinary Argent Sacrée clothing.\rDrops frequency in instances above level 50.
-426	Minerais d'Etoile [Terre]*5
+426	Minerais d'Etoile [Terre] x5
 427	Used for Armure Or.\rDrops frequency in instances above level 70.
-428	Minerais d'Etoile [Feu]*5
+428	Minerais d'Etoile [Feu] x5
 429	Used for Armure Or.\rDrops frequency in instances above level 70.
-430	Minerais d'Etoile [Eau]*5
+430	Minerais d'Etoile [Eau] x5
 431	Used for Armure Or.\rDrops frequency in instances above level 70.
-432	Minerais d'Etoile [Vent]*5
+432	Minerais d'Etoile [Vent] x5
 433	Used for Armure Or.\rDrops frequency in instances above level 70.
-434	Spiritual Light*10
+434	Spiritual Light x10
 435	Used to equip the energy.\rDrops frequency in instances above level 30.
-436	Spiritual Light +*10
+436	Spiritual Light + x10
 437	Used to equip the energy.\rDrops frequency in instances above level 50.
-438	Soul Light*10
+438	Soul Light x10
 439	Used to equip the energy.\rDrops frequency in instances above level 30.
-440	Soul Light +*10
+440	Soul Light + x10
 441	Used to equip the energy.\rDrops frequency in instances above level 50.
 442	Fragment d'Echarpe
 443	Once collected in a certain amount, it can be used to exchange items for the sling.
@@ -449,7 +449,7 @@
 448	Beautiful and elegant
 449	Young, beautiful elegant and natural.
 450	Golden Light
-451	SunLumiere surrounds you
+451	Sunlight surrounds you
 452	Young Knight
 453	Tenderness is justice.
 454	Maduro
@@ -530,15 +530,15 @@
 529	The use of this item during particle evolution greatly Augmentes the success rate.
 530	Sang d'Argent
 531	It can be enhanced when the stars cast all Argent and Armure Bronzes.
-532	Sang d'Argent*20
+532	Sang d'Argent x20
 533	It can be enhanced when the stars cast all Argent and Armure Bronzes.
 534	Sang d'Hades
 535	It can improve the effect when the star casts the Holy Armour.
-536	Sang d'Hades*20
+536	Sang d'Hades x20
 537	It can improve the effect when the star casts the Holy Armour.
-538	Minerais Divin*5
+538	Minerais Divin x5
 539	The Pegase Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
-540	Minerais des Enfers*5
+540	Minerais des Enfers x5
 541	Used for the necessities of the Sacrée clothing.
 542	Cube Cosmique
 543	Essentials for stargazing.\rActivities above level 65 have fallen.
@@ -570,11 +570,11 @@
 569	Shining like a sunflower.
 570	Basic Sunglasses
 571	Beautiful and basic 
-572	Sang de Bronze*20
+572	Sang de Bronze x20
 573	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
 574	Sang de Bronze
 575	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Armure Argent.
-576	Sang d'Argent*20
+576	Sang d'Argent x20
 577	It can be enhanced when the stars cast all Argent and Armure Bronzes.
 578	Sang d'Argent
 579	It can be enhanced when the stars cast all Argent and Armure Bronzes.
@@ -628,7 +628,7 @@
 627	Magic Paradise theme costumes.
 628	American Boots (F)
 629	Magic Paradise theme costumes.
-630	Gift of Belier II (Excellent)
+630	Gift of Aries II (Excellent)
 631	A value-for-money spree that is limited to one use per person.
 632	Esprit d'Artefact
 633	You can choose to use the enhanced artifact power value.
@@ -644,11 +644,11 @@
 643	The two are married and the girls must have props.
 644	Sang de Poseidon
 645	It can improve the effect when the star casts the Scales.
-646	Sang de Poseidon*20
+646	Sang de Poseidon x20
 647	It can improve the effect when the star casts the Scales.
 648	Reformulation Axis
 649	It is possible to recast the spirit of some equipment.
-650	Axis of Preservation*10
+650	Axis of Preservation x10
 651	It is possible to retain the previous equipment spirit when recasting the spirit.
 652	Preservation Axis +
 653	It is possible to retain the previous equipment spirit when recasting the spirit.
@@ -664,15 +664,15 @@
 663	The blessings of the message on the luxury inscription message board, the blessing is seen by everyone.
 664	Sang de Poseidon
 665	It can improve the effect when the star casts the Scales.
-666	Sang de Poseidon*20
+666	Sang de Poseidon x20
 667	It can improve the effect when the star casts the Scales.
 668	Sang d'Hades
 669	It can improve the effect when the star casts the Holy Armor.
-670	Sang d'Hades*20
+670	Sang d'Hades x20
 671	It can improve the effect when the star casts the Holy Armor.
 672	Sang d'Athena
 673	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
-674	Sang d'Athena*20
+674	Sang d'Athena x20
 675	It can be enhanced in the Star Cast Or Holy Armour and the chance for Armure Divine.
 676	Marriage veil of love to the snow season
 677	
@@ -688,19 +688,19 @@
 687	
 688	Reformulation Axis
 689	It is possible to recast the spirit of some equipment.
-690	Axis of Preservation*10
+690	Axis of Preservation x10
 691	It is possible to retain the previous equipment spirit when recasting the spirit.
 692	Preservation Axis +
 693	It is possible to retain the previous equipment spirit when recasting the spirit.
 694	Axis Transition
 695	Items that must be consumed when the spirits are transferred.
-696	Minerais des Océans*5
+696	Minerais des Océans x5
 697	Usable for Scales.
 698	Baby Panda Egg
 699	Cute New Year Panda Baby, holding red koi for you to celebrate!
 700	Specter Blood
 701	It can improve the effect when the star casts the Holy Armor.
-702	Specter Blood*20
+702	Sang de Spectre x20
 703	It can improve the effect when the star casts the Holy Armor.
 704	Crystal of Degeneration
 705	Can be used to upgrade badge.
@@ -780,41 +780,42 @@
 779	The will of the intelligent goddess allows you to relearn combat skills.
 780	Metis Determination Light
 781	The will of the intelligent goddess allows you to relearn combat skills.
-782	Goddess' Gift ☆ Sagittaire
+
+782	Goddess' Gift ☆ Sagittarius
 783	...
-784	Goddess' Gift ☆ Sagittaire (II)
+784	Goddess' Gift ☆ Sagittarius (II)
 785	...
-786	Sagittaire Gift Pack
+786	Sagittarius Gift Pack
 787	...
-788	Gift of Sagittaire II (Excellent)
+788	Gift of Sagittarius II (Excellent)
 789	...
-790	Gift of Sagittaire II (Supreme)
+790	Gift of Sagittarius II (Supreme)
 791	...
-792	Sagittaire Gift Pack
+792	Sagittarius Gift Pack
 793	
-794	Gift of Sagittaire II (Excellent)
+794	Gift of Sagittarius II (Excellent)
 795	...
-796	Gift of Sagittaire II (Supreme)
+796	Gift of Sagittarius II (Supreme)
 797	...
-798	Memento de Anima*1
+798	Memento de Anima x1
 799	When used in Anima, it enhances the intensified experience.
-800	Memento de Anima*20
+800	Memento de Anima x20
 801	When used in Anima, it enhances the intensified experience.
-802	Condensed Meteorite*1
+802	Condensed Meteorite x1
 803	Search for consumables needed for stars.
 804	Autorisation Armure [Bronze]
 805	In exchange for the certificate of the higher-grade Bronze Holy Armor.
-806	Condensed Meteorite*20
+806	Condensed Meteorite x20
 807	Search for consumables needed for stars.
 808	Whisper of Iapetus
 809	Resets the astral awakening value after use.
-810	Memento de Anima*1
+810	Memento de Anima x1
 811	When used in Anima, it enhances the intensified experience.
-812	Memento de Anima*20
+812	Memento de Anima x20
 813	When used in Anima, it enhances the intensified experience.
-814	Condensed Meteorite*1
+814	Condensed Meteorite x1
 815	Search for consumables needed for stars.
-816	Condensed Meteorite*20
+816	Condensed Meteorite x20
 817	Search for consumables needed for stars.
 818	Whisper of Iapetus
 819	Resets the astral awakening value after use.
@@ -840,7 +841,7 @@
 839	can be used to switch between different occupations.
 840	Gender Change
 841	Switch between genders after use.
-842	Spirit of Battle of Lion
+842	Spirit of Battle of Leo
 843	Upgrades high-end lion mounts to the must-have for higher-end mounts.
 844	Lotus Flower
 845	With this and fashion tops, you can redeem a set of corresponding gender fashions.
@@ -852,3 +853,4 @@
 851	Get 30 minutes of mysterious man effect after use, you will not know who it is.
 852	Mysterious Person
 853	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+

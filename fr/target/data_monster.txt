@@ -372,7 +372,7 @@
 371	Cassios
 372	Poisson Male Guardian
 373	Communication Channel of the Arrow Trap of the House of Poisson
-374	Official [Foundation]
+374	Official [Fondation]
 375	Serpent des Enfers in the Sanctuaire
 376	Cerberus of the Sanctuaire
 377	Prêtresse du Sanctuaire
@@ -1017,7 +1017,7 @@
 1016	Apprenti
 1017	Jabu
 1018	Unicorn
-1019	Security [Foundation]
+1019	Security [Fondation]
 1020	Mystery Warrior
 1021	Suspicious Person
 1022	Leader of the Black Knights
@@ -1109,7 +1109,7 @@
 1108	Black Thunder
 1109	Transparent Monster
 1110	Hearing
-1111	Guard [Foundation]
+1111	Garde [Fondation]
 1112	Shun
 1113	Andromede
 1114	Ask the Public
@@ -2745,14 +2745,14 @@
 2744	The ghost of the baby
 2745	Hyoga
 2746	Cygne
-2747	Security [Foundation]
+2747	Security [Fondation]
 2748	Tokumaru Tatsumi
 2749	Jabu
 2750	Unicorn
 2751	Seiya
 2752	Pegase
 2753	Warrior of Darkness
-2754	Official [Foundation]
+2754	Official [Fondation]
 2755	Shun
 2756	Andromede
 2757	Phoenix Noir
@@ -6836,7 +6836,7 @@
 6835	Black cloud barrier
 6836	Tremor
 6837	Smoke
-6838	Official [Foundation]
+6838	Official [Fondation]
 6839	Hearing
 6840	Hearing
 6841	Geki
@@ -6857,8 +6857,8 @@
 6856	wolf
 6857	Receptionist
 6858	Galactic War 03 Invisible Monster sips its hatred
-6859	Official [Foundation]
-6860	Official [Foundation]
+6859	Official [Fondation]
+6860	Official [Fondation]
 6861	Hyoga
 6862	Cygne
 6863	Birthplace
@@ -10570,30 +10570,30 @@
 10569	Watchmaker of the Sanctuaire
 10570	npc_Transparent watchmaker's mission
 10571	npc_Estatua de Athena
-10572	Shadow Surprise Attacker
-10573	Guard of the Specters
+10572	Combatant Spectre
+10573	Gardien Spectre
 10574	Attacker Surprise of the Shadows
-10575	Soldat of the spectra
+10575	Soldat Spectre
 10576	Discard
-10577	Specter fanatic surprise attacker of ice
-10578	Specter fanatic surprise attacker of the ice
-10579	Specter fanatic surprise attacker of ice
-10580	Fanatic Spectrum Attacker Surprise Ice
-10581	Specter fanatic surprise attacker
-10582	Fanatic specter surprise attacker
-10583	Specter fanatic surprise attacker
-10584	Spectrum fanatic surprise attacker
-10585	Fanatic specter surprise attacker
-10586	Avant-garde of Fanatical Specters
-10587	Fanatical Soldat specter
-10588	Avant-garde of Fanatical Specters
-10589	Avant-garde of Fanatical Specters
-10590	Avant-garde of Fanatical Specters
-10591	Avant-garde of Fanatical Specters
-10592	Fanatical Soldat specter
-10593	Fanatical Soldat specter
-10594	Fanatical Soldat specter
-10595	Fanatical Soldat specter
+10577	Combatant Spectre Fanatique [Glace]
+10578	Combatant Spectre Fanatique [Glace]
+10579	Combatant Spectre Fanatique [Glace]
+10580	Combatant Spectre Fanatique [Glace]
+10581	Combatant Spectre Fanatique
+10582	Combatant Spectre Fanatique
+10583	Combatant Spectre Fanatique
+10584	Combatant Spectre Fanatique
+10585	Combatant Spectre Fanatique
+10586	Avant-garde Spectre Fanatique
+10587	Soldat Spectre Fanatique
+10588	Avant-garde Spectre Fanatique
+10589	Avant-garde Spectre Fanatique
+10590	Avant-garde Spectre Fanatique
+10591	Avant-garde Spectre Fanatique
+10592	Soldat Spectre Fanatique
+10593	Soldat Spectre Fanatique
+10594	Soldat Spectre Fanatique
+10595	Soldat Spectre Fanatique
 10596	Surprise Shooter of the Fanatic Sombas
 10597	Surprise Attacker from the Fanatic Sombas
 10598	surprise fanatic bomber
@@ -10601,8 +10601,8 @@
 10600	surprise attacker of the fanatic sombas
 10601	Ice surprise attacking specter
 10602	Warrior of the Risen Royaume des Enfers
-10603	Shadow Surprise Attacker
-10604	Guard of the Specters
+10603	Combatant Spectre
+10604	Gardien Spectre
 10605	Satin Soldat of the spectra
 10606	Spectrum Surprise Attacker
 10607	Avant-garde Spectre
@@ -10626,7 +10626,7 @@
 10625	Discard
 10626	npc_guia npc
 10627	Spectrum surprise attacker of ice
-10628	Specter fanatic surprise attacker of the ice
+10628	Combatant Spectre Fanatique [Glace]
 10629	Knight of the Risen Royaume des Enfers
 10630	Fall of the Pillar
 10631	Attract Pillar 1

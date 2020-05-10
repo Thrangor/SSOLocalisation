@@ -2575,51 +2575,51 @@
 2574	Top Level 94 Gift Pack
 2575	Lunar New Year Gift (II)
 2576	Lunar New Year Fashionable Arrival Gift Pack
-2577	Gift of Vierge (III)
+2577	Gift of Virgo (III)
 2578	Fashionable Moon Stars and Shadow Gift Pack
-2579	Gift of Taureau (III)
+2579	Gift of Taurus (III)
 2580	Pack 1 Fashionable Dawn of the Nile River
 2581	Pack 2 Fashionable Dawn of the Nile River
 2582	Pack 3 fashionable sunrise of the Nile River
 2583	Finnal pack of dawn fashion of the Nile River
-2584	Scorpion gift (Ⅳ)
+2584	Scorpio gift (Ⅳ)
 2585	​​Fashionable Halloween Party Gift Pack
 2586	Fashionable Halloween Party Gift Pack
-2587	Gift of Belier (III)
+2587	Gift of Aries (III)
 2588	Ultimate Dawn Fashion Pack of the Ancient Castle
 2589	Gift of Cancer (III)
 2590	Fashionable Gift Pack Paradise of Childhood
-2591	Gift of Balance (III)
+2591	Gift of Libra (III)
 2592	Hot Blood Campus Fashion Gift Pack
-2593	Lion Gift (III)
+2593	Leo Gift (III)
 2594	Bali Beach Fashion Gift Pack
 2595	Mexican Beach Fashion Gift Pack
 2596	Sicilian Beach Fashion Gift Pack
 2597	Hawaiian Beach Fashion Gift Pack
-2598	Gift of Gemeaux (III)
+2598	Gift of Gemini (III)
 2599	Pirates of the Caribbean Fashion Pack
-2600	Gift of Verseau (III)
+2600	Gift of Aquarius (III)
 2601	New Fashion Fashion Gift Pack
 2602	Intense cold of Siberia
-2603	Gift of Taureau (II)
+2603	Gift of Taurus (II)
 2604	Fashionable Meow Rhythm Gift Pack
-2605	Gift of Scorpion (III)
+2605	Gift of Scorpio (III)
 2606	Feather Island Fashion Gift Pack
 2607	Gift of Cancer (II)
 2608	Baseball Kit for Entertainment
-2609	Gift of Capricorne (III)
+2609	Gift of Capricorn (III)
 2610	Fashion romantic gift pack meeting in the snow
-2611	Gemeaux Gift (II)
+2611	Gemini Gift (II)
 2612	Hot-blooded schoolboy fashion gift pack
-2613	Gift of Vierge (II)
+2613	Gift of Virgo (II)
 2614	Lit of Or and Argent Tassels of the Honor Guard
-2615	Gift of Sagittaire (III)
+2615	Gift of Sagittarius (III)
 2616	Fashionable gift package of black clothes with red sleeve
 2617	Balance Gift (II)
 2618	Entertainment Mounting Kit
-2619	Lion Gift (II)
+2619	Leo Gift (II)
 2620	Kit of the Sun of the Beach
-2621	Gift of Belier (II)
+2621	Gift of Aries (II)
 2622	Spanish Fashion Gift Pack
 2623	Scorpion gift (Ⅳ)
 2624	Blue Baby Package
@@ -2627,16 +2627,16 @@
 2626	Pack of Capr. IV
 2627	Snowman Package
 2628	Snowman Package (Vinc.)
-2629	Gift of Sagittaire (IV)
+2629	Gift of Sagittarius (IV)
 2630	Aristocratic Package
 2631	Aristocratic Package (Vinc.)
 2632	New Year's gift (IV)
 2633	Romantic Package
 2634	Romantic Package (Vinc.)
-2635	Gift of Verseau (IV)
+2635	Gift of Aquarius (IV)
 2636	Jamiel Package
 2637	Jamiel Package (Vinc.)
-2638	Gift of Balance (IV)
+2638	Gift of Libra (IV)
 2639	Scarlet Package
 2640	Scarlet Pack (Vinc.)
 2641	Great gift pack of the Squire Leader
@@ -2649,7 +2649,7 @@
 2648	Egg with Surprise
 2649	Teachings of Saga
 2650	Melody [Enfers]
-2651	Gift of Verseau (II)
+2651	Gift of Aquarius (II)
 2652	Hip-Hop Fashion Gift Pack
 2653	Empty model to occupy position
 2654	Verseau Amphora
@@ -2659,9 +2659,9 @@
 2658	Helmet of Lymnades
 2659	Helmet of Lymnades
 2660	Singles Day Star Soul Gift Pack
-2661	Gift of Gemeaux
+2661	Gift of Gemini
 2662	Red capped captive fashion gift package
-2663	Gift of Poisson
+2663	Gift of Pisces
 2664	Financial Aid of the Grand Foundation
 2665	Legacy of Hades
 2666	Hip-Hop Fashion Gift Pack
@@ -2683,14 +2683,14 @@
 2682	Gift of the Virgin (IV)
 2683	Fairy Tale Package
 2684	Fairy Tale Package (Vinc.)
-2685	Gift of Verseau (IV)
+2685	Gift of Aquarius (IV)
 2686	Piece Pack
 2687	Pack Piu (Vinc.)
 2688	Big M Package
-2689	Gift of Lion (IV)
+2689	Gift of Leo (IV)
 2690	Endless Summer Package
 2691	Summer Without End Package (Vinc.)
-2692	Gemeaux Gift (IV)
+2692	Gemini Gift (IV)
 2693	Gray Package
 2694	Dark Gray Package
 2695	Dark Gray Package (Vinc.)
@@ -2699,10 +2699,10 @@
 2698	Pink White Package
 2699	Pink White Package (Vinc.)
 2700	Golden Blue Package
-2701	Present of Belier (IV)
+2701	Present of Aries (IV)
 2702	Rockstar Package
 2703	Rockstar Package (Vinc.)
-2704	Gift of Sagittaire (IV)
+2704	Gift of Sagittarius (IV)
 2705	​​Doge Package
 2706	Doge Package
 2707	Hero Card
@@ -2844,17 +2844,17 @@
 2843	Utiliser
 2844	Anecdote of the 12 Houses
 2845	Utiliser
-2846	Gift of Vierge
+2846	Gift of Virgo
 2847	Fashion Army Gift Pack of Night
 2848	Fashion Army Gift Pack of Night
-2849	Gift of Balance
+2849	Gift of Libra
 2850	Fashionable Ninja Heart Gift Pack
-2851	Gift of Scorpion (II)
-2852	Gift of Scorpion
+2851	Gift of Scorpio (II)
+2852	Gift of Scorpio
 2853	Fashion gift pack I love to be in the snow season
 2854	Goddess Blessing Gift Pack
 2855	Soul of the Seven Oceans
-2856	Gift of Sagittaire (II)
+2856	Gift of Sagittarius (II)
 2857	Unfashionable Field Fashion Gift Pack
 2858	Mystery of the Cosmo Phoenix
 2859	Mystery of the Cosmo Cygne
@@ -2878,7 +2878,7 @@
 2877	Utiliser
 2878	Training Gift
 2879	Great Package of Luxury Armor
-2880	Gift of Capricorne (II)
+2880	Gift of Capricorn (II)
 2881	Christmas Costume Package
 2882	​​Gemeaux Mask
 2883	Gemeaux Mask
@@ -2896,7 +2896,7 @@
 2895	Blessing of the Sea
 2896	Welcome Fashion Gift Pack
 2897	Essence of the Water Element
-2898	Gift of Verseau
+2898	Gift of Aquarius
 2899	Eternal Loyal Soul
 2900	Rosary of Vierge
 2901	Golden ArmFragment d'Or Gift Pack pass briskly
@@ -2905,7 +2905,7 @@
 2904	Nirvana Tool Gift Pack
 2905	Fashion leather soul clothing gift package
 2906	Fashion gift pack I love to be in the snow season
-2907	Lion's gift
+2907	Leo's gift
 2908	Summer Fashion Gift Pack
 2909	Summer Fashion Gift Pack
 2910	Lion's Fang
@@ -2913,7 +2913,7 @@
 2912	Lion Fang
 2913	Sweet Candy Fashion Gift Pack
 2914	Gift package materials and crafting
-2915	Belier Gift
+2915	Aries Gift
 2916	Sacrée · Gemeaux
 2917	Open armor box
 2918	Sacrée · Poisson
@@ -2940,7 +2940,7 @@
 2939	Open armor box
 2940	Eternal Memory of the Empress
 2941	Summer Fashion Gift Pack
-2942	Gift of Taureau (IV)
+2942	Gift of Taurus (IV)
 2943	Elegance Package
 2944	Elegance Package (Vinc.)
 2945	Rosary of Vierge
@@ -2987,7 +2987,7 @@
 2986	Reincarnation of the Flame
 2987	Fury of the Mask of Death
 2988	Memory forgotten
-2989	Taureau Gift
+2989	Taurus Gift
 2990	Welcome gift fashion package
 2991	Poisson Rose
 2992	Poisson Rose
@@ -3167,75 +3167,75 @@
 3166	Read
 3167	Balance Relic
 3168	Utiliser
-3169	Gemeaux Gift (Supreme)
-3170	Gift of Gemeaux II (Supreme)
-3171	Gift of Gemeaux III (Supreme)
-3172	Pres. of Gemeaux IV (Supr.)
-3173	Gemeaux Gift (Excellent)
-3174	Gemeaux Gift II (Excellent)
-3175	Gift of Gemeaux III (Excellent)
-3176	Pres. of Gemeaux IV (Subl.)
+3169	Gemini Gift (Supreme)
+3170	Gift of Gemini II (Supreme)
+3171	Gift of Gemini III (Supreme)
+3172	Pres. of Gemini IV (Supr.)
+3173	Gemini Gift (Excellent)
+3174	Gemini Gift II (Excellent)
+3175	Gift of Gemini III (Excellent)
+3176	Pres. of Gemini IV (Subl.)
 3177	Gemeaux Relic
-3178	Gemeaux's Most Valuable Treasure
-3179	Gemeaux's Most Valuable Treasure
+3178	Gemini's Most Valuable Treasure
+3179	Gemini's Most Valuable Treasure
 3180	Pres. of Fish IV (Supr.)
 3181	Pres. of Fish IV (Subl.)
-3182	Gift of Poisson (Supreme)
-3183	Gift of Poisson II (Supreme)
-3184	Gift of Poisson III (Supreme)
-3185	Present of Poisson (Supreme)
-3186	Gift of Poisson (Excellent)
-3187	Gift of Poisson II (Excellent)
-3188	Gift of Poisson III (Excellent)
+3182	Gift of Pisces (Supreme)
+3183	Gift of Pisces II (Supreme)
+3184	Gift of Pisces III (Supreme)
+3185	Present of Pisces (Supreme)
+3186	Gift of Pisces (Excellent)
+3187	Gift of Pisces II (Excellent)
+3188	Gift of Pisces III (Excellent)
 3189	Gift of Fish (Sublime)
 3190	Relic of Poisson
-3191	The Most Valuable Treasure of Poisson
-3192	The Most Valuable Treasure of Poisson
-3193	Vierge Gift (Supreme)
-3194	Vierge Gift (Excellent)
-3195	Vierge Gift (Supreme)
-3196	Gift of Vierge II (Supreme)
+3191	The Most Valuable Treasure of Pisces
+3192	The Most Valuable Treasure of Pisces
+3193	Virgo Gift (Supreme)
+3194	Virgo Gift (Excellent)
+3195	Virgo Gift (Supreme)
+3196	Gift of Virgo II (Supreme)
 3197	Present of the Virgin (Supreme)
-3198	Vierge Gift (Excellent)
-3199	Gift of Vierge II (Excellent)
+3198	Virgo Gift (Excellent)
+3199	Gift of Virgo II (Excellent)
 3200	Gift of the Virgin (Sublime)
 3201	Vierge Relic
-3202	The Most Valuable Treasure of Vierge
-3203	Gift of Balance III (Supreme)
-3204	Gift of Balance III (Excellent)
-3205	Gift of Balance (Supreme)
-3206	Gift of Balance II (Supreme)
-3207	Gift of Balance (Supreme)
-3208	Gift of Balance (Excellent)
-3209	Gift of Balance II (Excellent)
-3210	Gift of Balance (Sublime)
+3202	The Most Valuable Treasure of Virgo
+3203	Gift of Libra III (Supreme)
+3204	Gift of Libra III (Excellent)
+3205	Gift of Libra (Supreme)
+3206	Gift of Libra II (Supreme)
+3207	Gift of Libra (Supreme)
+3208	Gift of Libra (Excellent)
+3209	Gift of Libra II (Excellent)
+3210	Gift of Libra (Sublime)
 3211	Balance Relic
-3212	The most valuable treasure of Balance
-3213	Gift of Scorpion IV (Supreme)
-3214	Gift of Scorpion IV (Excellent)
-3215	Gift of Scorpion (Supreme)
-3216	Gift of Scorpion II (Supreme)
-3217	Gift of Scorpion III (Supreme)
-3218	Gift of Scorpion (Supreme)
-3219	Scorpion gift (Excellent)
-3220	Gift of Scorpion II (Excellent)
-3221	Gift of Scorpion III (Excellent)
-3222	Gift of Scorpion (Sublime)
-3223	Reward with Scorpion Monthly VIP Gift Package
-3224	The Most Valuable Treasure of Scorpion
-3225	The Most Valuable Treasure of Scorpion
-3226	Pres. of Sagittaire IV (Supr.)
-3227	Pres. of Sagittaire IV (Subl.)
-3228	Gift of Sagittaire (Supreme)
-3229	Gift of Sagittaire II (Supreme)
-3230	Gift of Sagittaire III (Supreme)
-3231	Gift of Sagittaire (Supreme)
-3232	Gift of Sagittaire (Excellent)
-3233	Gift of Sagittaire II (Excellent)
-3234	Gift of Sagittaire III (Excellent)
-3235	Gift of Sagittaire (Sublime)
-3236	The Most Valuable Treasure of Sagittaire
-3237	The Most Valuable Treasure of Sagittaire
+3212	The most valuable treasure of Libra
+3213	Gift of Scorpio IV (Supreme)
+3214	Gift of Scorpio IV (Excellent)
+3215	Gift of Scorpio (Supreme)
+3216	Gift of Scorpio II (Supreme)
+3217	Gift of Scorpio III (Supreme)
+3218	Gift of Scorpio (Supreme)
+3219	Scorpio gift (Excellent)
+3220	Gift of Scorpio II (Excellent)
+3221	Gift of Scorpio III (Excellent)
+3222	Gift of Scorpio (Sublime)
+3223	Reward with Scorpio Monthly VIP Gift Package
+3224	The Most Valuable Treasure of Scorpio
+3225	The Most Valuable Treasure of Scorpio
+3226	Pres. of Sagittarius IV (Supr.)
+3227	Pres. of Sagittarius IV (Subl.)
+3228	Gift of Sagittarius (Supreme)
+3229	Gift of Sagittarius II (Supreme)
+3230	Gift of Sagittarius III (Supreme)
+3231	Gift of Sagittarius (Supreme)
+3232	Gift of Sagittarius (Excellent)
+3233	Gift of Sagittarius II (Excellent)
+3234	Gift of Sagittarius III (Excellent)
+3235	Gift of Sagittarius (Sublime)
+3236	The Most Valuable Treasure of Sagittarius
+3237	The Most Valuable Treasure of Sagittarius
 3238	Gift of Cancer III (Supreme)
 3239	Gift of Cancer III (Excellent)
 3240	The Most Valuable Treasure of Cancer
@@ -3247,65 +3247,65 @@
 3246	Gift of Cancer (Sublime)
 3247	Cancer Relic
 3248	The Most Valuable Treasure of Cancer
-3249	Pres. of Capricorne IV (Supr.)
-3250	Pres. of Capricorne IV (Subl.)
-3251	Gift of Capricorne (Supreme)
-3252	Gift of Capricorne II (Supreme)
-3253	Gift of Capricorne III (Supreme)
+3249	Pres. of Capricorn IV (Supr.)
+3250	Pres. of Capricorn IV (Subl.)
+3251	Gift of Capricorn (Supreme)
+3252	Gift of Capricorn II (Supreme)
+3253	Gift of Capricorn III (Supreme)
 3254	Capric gift. (Supreme)
-3255	Capricorne Gift (Excellent)
-3256	Gift of Capricorne II (Excellent)
-3257	Gift of Capricorne III (Excellent)
+3255	Capricorn Gift (Excellent)
+3256	Gift of Capricorn II (Excellent)
+3257	Gift of Capricorn III (Excellent)
 3258	Capric gift. (Sublime)
-3259	The Most Valuable Treasure of Capricorne
-3260	The Most Valuable Treasure of Capricorne
+3259	The Most Valuable Treasure of Capricorn
+3260	The Most Valuable Treasure of Capricorn
 3261	Free Weekly Gift Pack
-3262	Pres. of Verseau IV (Supr.)
-3263	Pres. of Verseau IV (Subl.)
-3264	Gift of Verseau (Supreme)
-3265	Gift of Verseau II (Supreme)
-3266	Gift of Verseau III (Supreme)
-3267	Gift of Verseau (Supreme)
-3268	Gift from Verseau (Excellent)
-3269	Gift of Verseau II (Excellent)
-3270	Gift of Verseau III (Excellent)
-3271	Gift of Verseau (Sublime)
-3272	The Most Valuable Treasure of Verseau
-3273	The most valuable treasure of Verseau
-3274	Gift of Lion (Supreme)
-3275	Lion gift (Excellent)
-3276	Gift of Lion (Supreme)
-3277	Gift of Lion II (Supreme)
-3278	Gift of Lion (Supreme)
-3279	Lion gift (Excellent)
-3280	Gift of Lion II (Excellent)
-3281	Gift of Lion (Sublime)
-3282	Lion Relic
-3283	Lion's Most Valuable Treasure
-3284	Pres. of Belier IV (Supr.)
-3285	Pres. of Belier IV (Subl.)
-3286	Gift of Belier (Supreme)
-3287	Gift of Belier II (Supreme)
-3288	Gift of Belier III (Supreme)
-3289	Belier Gift (Excellent)
-3290	Gift of Belier II (Excellent)
-3291	Gift of Belier III (Excellent)
-3292	Relic of Belier
-3293	The Most Valuable Treasure of Belier
-3294	The Most Valuable Treasure of Belier
+3262	Pres. of Aquarius IV (Supr.)
+3263	Pres. of Aquarius IV (Subl.)
+3264	Gift of Aquarius (Supreme)
+3265	Gift of Aquarius II (Supreme)
+3266	Gift of Aquarius III (Supreme)
+3267	Gift of Aquarius (Supreme)
+3268	Gift from Aquarius (Excellent)
+3269	Gift of Aquarius II (Excellent)
+3270	Gift of Aquarius III (Excellent)
+3271	Gift of Aquarius (Sublime)
+3272	The Most Valuable Treasure of Aquarius
+3273	The most valuable treasure of Aquarius
+3274	Gift of Leo (Supreme)
+3275	Leo gift (Excellent)
+3276	Gift of Leo (Supreme)
+3277	Gift of Leo II (Supreme)
+3278	Gift of Leo (Supreme)
+3279	Leo gift (Excellent)
+3280	Gift of Leo II (Excellent)
+3281	Gift of Leo (Sublime)
+3282	Leo Relic
+3283	Leo's Most Valuable Treasure
+3284	Pres. of Aries IV (Supr.)
+3285	Pres. of Aries IV (Subl.)
+3286	Gift of Aries (Supreme)
+3287	Gift of Aries II (Supreme)
+3288	Gift of Aries III (Supreme)
+3289	Aries Gift (Excellent)
+3290	Gift of Aries II (Excellent)
+3291	Gift of Aries III (Excellent)
+3292	Relic of Aries
+3293	The Most Valuable Treasure of Aries
+3294	The Most Valuable Treasure of Aries
 3295	Special Thanksgiving Gift Package
 3296	Christmas Special Gift Pack
-3297	Pres. of Taureau IV (Supr.)
-3298	Pres. of Taureau IV (Subl.)
-3299	Gift of Taureau (Supreme)
-3300	Gift of Taureau II (Supreme)
-3301	Gift of Taureau III (Supreme)
-3302	Gift of Taureau (Excellent)
-3303	Gift of Taureau II (Excellent)
-3304	Gift of Taureau III (Excellent)
-3305	Taureau Relic
-3306	The Most Valuable Treasure of Taureau
-3307	The Most Valuable Treasure of Taureau
+3297	Pres. of Taurus IV (Supr.)
+3298	Pres. of Taurus IV (Subl.)
+3299	Gift of Taurus (Supreme)
+3300	Gift of Taurus II (Supreme)
+3301	Gift of Taurus III (Supreme)
+3302	Gift of Taurus (Excellent)
+3303	Gift of Taurus II (Excellent)
+3304	Gift of Taurus III (Excellent)
+3305	Taurus Relic
+3306	The Most Valuable Treasure of Taurus
+3307	The Most Valuable Treasure of Taurus
 3308	Entrance ticket of the City of the Gods change ticket_Inframundo
 3309	Change Location
 3310	Entrance ticket of the City of the Gods change ticketSantuario
@@ -5329,29 +5329,29 @@
 5328	Indulge yourself a little
 5329	Celebrate
 5330	Fast
-5331	Gift of Belier
+5331	Gift of Aries
 5332	Utiliser
-5333	Taureau Gift
+5333	Taurus Gift
 5334	Utiliser
-5335	Gemeaux Gift
+5335	Gemini Gift
 5336	Utiliser
 5337	Cancer Gift
 5338	Utiliser
-5339	Lion's gift
+5339	Leo's gift
 5340	Utiliser
-5341	Vierge Gift
+5341	Virgo Gift
 5342	Utiliser
-5343	Balance Gift
+5343	Libra Gift
 5344	Utiliser
-5345	Scorpion gift
+5345	Scorpio gift
 5346	Utiliser
-5347	Gift of Sagittaire
+5347	Gift of Sagittarius
 5348	Utiliser
-5349	Gift of Capricorne
+5349	Gift of Capricorn
 5350	Utiliser
-5351	Gift of Verseau
+5351	Gift of Aquarius
 5352	Utiliser
-5353	Gift of Poisson
+5353	Gift of Pisces
 5354	Utiliser
 5355	Pres. from Christmas
 5356	Sang d'enchant Gift Pack
@@ -7809,8 +7809,8 @@
 7808	Blessing of the Goddess ☆ Special
 7809	^​​a800ff Sirens x1 (4500 rating maximum limit)
 7810	^e5872fExcalibur of Capricorne x1
-7811	^a800ffLights of Or x999
-7812	^a800ffBendition of the Goddess ☆ Poisson x999
+7811	^a800ffLights of Gold x999
+7812	^a800ffBendition of the Goddess ☆ Pisces x999
 7813	^a800ff too many big random prizes
 7814	Sang d'Argent
 7815	Sang d'enchant (Parfait)
@@ -7819,7 +7819,7 @@
 7818	Certification of Knight of the Princess
 7819	Energie Cosmique
 7820	Divine Stone of the Storm
-7821	Goddess' Gift ☆ Poisson
+7821	Goddess' Gift ☆ Pisces
 7822	Divine Stone of the Storm
 7823	Cube Cosmique
 7824	Skill Change [Squire]
@@ -7939,7 +7939,7 @@
 7938	Rune Dégât x2
 7939	Rune HP x2
 7940	Favor of the Goddess ☆ Hot winter version
-7941	^a800ff Or blood x999
+7941	^a800ff Sang d'Athéna x999
 7942	^a800ff Space-time wheel
 7943	Q Squire version Seiya x1
 7944	Q Squire version shyriu x1
@@ -8070,11 +8070,11 @@
 8069	Rune Dégât x1
 8070	Rune HP x1
 8071	Minerais de Bronze Noir x20
-8072	Goddess' Gift ☆ Verseau (II)
+8072	Goddess' Gift ☆ Aquarius (II)
 8073	^a800ff Mini Tremy x1 (4500 rating limit)
 8074	^e5872f Divine Light of Belier x1
 8075	^e5872f Gem Shape x9999
-8076	^a800ff Favor of the Goddess ☆ Capricorne Version X999
+8076	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 8077	^a800ff too many big random prizes
 8078	Sang d'Argent
 8079	Sang d'Enchant (Parfait)
@@ -8105,9 +8105,9 @@
 8104	Extension de Banque
 8105	Favor of the Goddess ☆ Blessing Version
 8106	^a800ff Mini Tremy x1 (4500 rating limit)
-8107	^e5872f Divine Mariner of Belier x1
+8107	^e5872f Divine Mariner of Aries x1
 8108	^e5872f Gemstone Shape x9999
-8109	^a800ff Favor of the Goddess ☆ Capricorne Version X999
+8109	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 8110	^a800ff too many random big prizes
 8111	Sang d'Argent
 8112	Sang d'enchant (Parfait)
@@ -8136,11 +8136,11 @@
 8135	Minerais d'Argent Noir
 8136	Extension Inventaire
 8137	Extension de Banque
-8138	Goddess' Gift ☆ Poisson
+8138	Goddess' Gift ☆ Pisces
 8139	^a800ff Sirens x1 (4500 rating limit)
 8140	^e5872fExcalibur of Capricorne x1
-8141	^a800ffGolden Or Light x999
-8142	^a800ffBendition of the Goddess ☆ Poisson x999
+8141	^a800ffGolden Gold Light x999
+8142	^a800ffBendition of the Goddess ☆ Pisces x999
 8143	^a800ff too many big random prizes
 8144	Sang d'Argent
 8145	Sang d'enchant (Parfait)
@@ -8149,7 +8149,7 @@
 8148	Certification of Knight of the Princess
 8149	Energie Cosmique
 8150	Divine Stone of the Storm
-8151	Goddess' Gift ☆ Poisson
+8151	Goddess' Gift ☆ Pisces
 8152	Divine Stone of the Storm
 8153	Cube Cosmique
 8154	Skill Change [Squire]
@@ -8202,11 +8202,11 @@
 8201	Minerais d'Argent Noir
 8202	Authorization to extend Backpack
 8203	Authorization to extend Warehouse
-8204	Goddess' Gift ☆ Vierge (III)
+8204	Goddess' Gift ☆ Virgo (III)
 8205	^a800ffMini Pharaoh x1 (4500 rating maximum limit)
 8206	^e5872f Griffin Handbook x1
 8207	^e5872f Gem Shape x9999
-8208	^a800ffFavor of the Goddess ☆ Vierge (III) Version x999
+8208	^a800ffFavor of the Goddess ☆ Virgo (III) Version x999
 8209	^a800ff too many big random prizes
 8210	Sang d'Argent
 8211	Sang d'enchant (Parfait)
@@ -8235,11 +8235,11 @@
 8234	Aldebaran Challenge Coupon
 8235	Fragment d'Echarpe
 8236	Stellar condensed stone
-8237	Goddess' Gift ☆ Taureau (III)
+8237	Goddess' Gift ☆ Taurus (III)
 8238	^a800ffMini Misty x1 (4500 rating maximum limit)
 8239	^e5872fWorm Beads x1
 8240	^e5872f Gemstone Shape x9999
-8241	^a800ffFavor of the Goddess ☆ Taureau Version (III) x999
+8241	^a800ffFavor of the Goddess ☆ Taurus Version (III) x999
 8242	^a800ff too many big random prizes
 8243	Sang d'Argent
 8244	Sang d'Enchant (Parfait)
@@ -8268,11 +8268,11 @@
 8267	Minerais d'Argent Noir
 8268	Authorization to extend Backpack
 8269	Authorization to extend Warehouse
-8270	Goddess' Gift ☆ Scorpion (IV)
+8270	Goddess' Gift ☆ Scorpio (IV)
 8271	^a800ffMini Papillon x1 (maximum qualification limit 4500)
 8272	^e5872f Basilisk Helix x1
 8273	^e5872f Gem Fragment x9999
-8274	^a800ffFavor of the Goddess ☆ Scorpion Version (IV) x999
+8274	^a800ffFavor of the Goddess ☆ Scorpio Version (IV) x999
 8275	^a800ff too many big random prizes
 8276	Blood Armor Rhinoceros
 8277	Sang d'Argent
@@ -8301,11 +8301,11 @@
 8300	Fragment d'Echarpe
 8301	Stellar condensed stone
 8302	Skill Change [Squire]
-8303	Goddess' Gift ☆ Belier (III)
+8303	Goddess' Gift ☆ Aries (III)
 8304	^a800ffMini Black Andromede x1 (4500 qualification limit)
 8305	^e5872fCalrog Code x1
 8306	^e5872f Gem Fragment x9999
-8307	^a800ffFavor of the Goddess ☆ Poisson Version (III) x999
+8307	^a800ffFavor of the Goddess ☆ Pisces Version (III) x999
 8308	^a800ff too many big random prizes
 8309	Sang d'Argent
 8310	Sang d'enchant (Parfait)
@@ -8367,11 +8367,11 @@
 8366	Minerais d'Argent Noir
 8367	Authorization to extend Backpack
 8368	Authorization to extend Warehouse
-8369	Goddess' Gift ☆ Balance (III)
+8369	Goddess' Gift ☆ Libra (III)
 8370	^a800ffMini Charon x1 (4500 rating maximum limit)
 8371	^e5872f Dana's Misleading Caption x1
 8372	^e5872f Gem Fragment x9999
-8373	^a800ffFavor of the Goddess ☆ Balance (III) x999
+8373	^a800ffFavor of the Goddess ☆ Libra (III) x999
 8374	^a800ff too many big random prizes
 8375	Hidden Scarlet Dragon
 8376	Sang d'Argent
@@ -8400,11 +8400,11 @@
 8399	Fragment d'Echarpe
 8400	Stellar condensed stone
 8401	Skill Change [Squire]
-8402	Goddess' Gift ☆ Lion (III)
+8402	Goddess' Gift ☆ Leo (III)
 8403	^a800ffMini Zelos x1 (4500 rating maximum limit)
 8404	^e5872From Minotaur x1
 8405	^e5872f Gem Shape x9999
-8406	^a800ffFavor of the Goddess ☆ Lion Version (III) x999
+8406	^a800ffFavor of the Goddess ☆ Leo Version (III) x999
 8407	^a800ff too many big random prizes
 8408	Sang d'Argent
 8409	Sang d'Enchant (Parfait)
@@ -8433,11 +8433,11 @@
 8432	Minerais d'Argent Noir
 8433	Authorization to extend Backpack
 8434	Authorization to extend Warehouse
-8435	Goddess' Gift ☆ Gemeaux (III)
+8435	Goddess' Gift ☆ Gemini (III)
 8436	^a800ffMini Capella x1 (4500 rating maximum limit)
 8437	^e5872fEspada de Hades [Legend] x1
 8438	^e5872f Gem Fragment x9999
-8439	^a800ffFavor of the Goddess ☆ Gemeaux Version (III) x999
+8439	^a800ffFavor of the Goddess ☆ Gemini Version (III) x999
 8440	^a800ff too many big random prizes
 8441	Sang d'Argent
 8442	Sang d'enchant (Parfait)
@@ -8466,11 +8466,11 @@
 8465	Minerais d'Argent Noir
 8466	Authorization to extend Backpack
 8467	Authorization to extend Warehouse
-8468	Goddess' Gift ☆ Verseau (III)
+8468	Goddess' Gift ☆ Aquarius (III)
 8469	^a800ffMini Cygne Noir x1 (4500 maximum qualification limit)
 8470	^e5872f Sphinx Gear x1
 8471	^e5872f Gem Fragment x9999
-8472	^a800ffFavor of the Goddess ☆ Verseau Version (III) x999
+8472	^a800ffFavor of the Goddess ☆ Aquarius Version (III) x999
 8473	^a800ff too many big random prizes
 8474	Sang d'Argent
 8475	Sang d'enchant (Parfait)
@@ -8532,11 +8532,11 @@
 8531	Advanced Argent Pack
 8532	Bolsa de Estrellas II
 8533	Cristal d'Eleve
-8534	Goddess' Gift ☆ Taureau
+8534	Goddess' Gift ☆ Taurus
 8535	^a800ff Mini Ban x1 (4500 rating limit)
 8536	^e5872f Sagittaire Arch x1
 8537	^e5872f Rune Dégât x999
-8538	^a800ff Gift of the Goddess ☆ Taureau version X999
+8538	^a800ff Gift of the Goddess ☆ Taurus version X999
 8539	^a800ff too many big random prizes
 8540	Sang d'Argent
 8541	Sang d'enchant (Parfait)
@@ -8545,7 +8545,7 @@
 8544	Certification of Knight of the Princess
 8545	Energie Cosmique
 8546	Divine Stone of the Storm
-8547	Goddess' Gift ☆ Poisson
+8547	Goddess' Gift ☆ Pisces
 8548	Divine Stone of the Storm
 8549	Cube Cosmique
 8550	Skill Change [Squire]
@@ -8565,11 +8565,11 @@
 8564	Rune HP
 8565	Minerais d'Argent Noir
 8566	Extension Inventaire
-8567	Goddess' Gift ☆ Taureau (II)
+8567	Goddess' Gift ☆ Taurus (II)
 8568	^a800ff Mini Pegase Noir x1 (4500 rating limit)
 8569	^e5872f Lymnades Basin x1
 8570	^e5872f Gem Fragment x9999
-8571	^a800ff Favor of the Goddess ☆ Taureau Version (II) X999
+8571	^a800ff Favor of the Goddess ☆ Taurus Version (II) X999
 8572	^a800ff too many big random prizes
 8573	Sang d'Argent
 8574	Sang d'Enchant (Parfait)
@@ -8598,11 +8598,11 @@
 8597	Minerais d'Argent Noir
 8598	Extension Inventaire
 8599	Extension de Banque
-8600	Goddess' Gift ☆ Scorpion (III)
+8600	Goddess' Gift ☆ Scorpio (III)
 8601	^a800ff Mini Sorento x1 (4500 rating limit)
 8602	^ffff00Tour of Poseidon [Legend] x1
 8603	^e5872f Gem Shape x9999
-8604	^a800ff Favor of the Goddess ☆ Scorpion Version (III) X999
+8604	^a800ff Favor of the Goddess ☆ Scorpio Version (III) X999
 8605	^a800ff too many big random prizes
 8606	Sang d'Argent
 8607	Sang d'Enchant (Parfait)
@@ -8664,11 +8664,11 @@
 8663	Minerais d'Argent Noir
 8664	Extension Inventaire
 8665	Extension de Banque
-8666	Goddess' Gift ☆ Capricorne (III)
+8666	Goddess' Gift ☆ Capricorn (III)
 8667	^a800ffMini Kanon x1 (4500 rating maximum limit)
 8668	^e5872fManager of Aldebaran x1
 8669	^e5872f Gem Fragment x9999
-8670	^a800ffFavor of the Goddess ☆ Capricorne Version (III) X999
+8670	^a800ffFavor of the Goddess ☆ Capricorn Version (III) X999
 8671	^a800ff too many big random prizes
 8672	Sang d'Argent
 8673	Sang d'enchant (Parfait)
@@ -8697,11 +8697,11 @@
 8696	Minerais d'Argent Noir
 8697	Authorization to extend Backpack
 8698	Authorization to extend Warehouse
-8699	Goddess' Gift ☆ Gemeaux (II)
+8699	Goddess' Gift ☆ Gemini (II)
 8700	^a800ff Mini Isaak x1 (4500 rating limit)
 8701	^e5872fMagnetic Flame x1
 8702	^e5872f Gem Shape x9999
-8703	^a800ff Favor of the Goddess ☆ Gemeaux Version (II) X999
+8703	^a800ff Favor of the Goddess ☆ Gemini Version (II) X999
 8704	^a800ff too many random large prizes
 8705	Sang d'Argent
 8706	Sang d'enchant (Parfait)
@@ -8730,11 +8730,11 @@
 8729	Minerais d'Argent Noir
 8730	Extension Inventaire
 8731	Extension de Banque
-8732	Goddess' Gift ☆ Vierge (II)
+8732	Goddess' Gift ☆ Virgo (II)
 8733	^a800ff Mini Dante x1 (4500 rating limit)
 8734	^e5872 Intensive Kraken x1
 8735	^e5872f Gem Shape x9999
-8736	^a800ff Favor of the Goddess ☆ Vierge Version (II) x999
+8736	^a800ff Favor of the Goddess ☆ Virgo Version (II) x999
 8737	^a800ff too many big random prizes
 8738	Sang d'Argent
 8739	Sang d'enchant (Parfait)
@@ -8763,11 +8763,11 @@
 8762	Minerais d'Argent Noir
 8763	Extension Inventaire
 8764	Extension de Banque
-8765	Goddess' Gift ☆ Sagittaire (III)
+8765	Goddess' Gift ☆ Sagittarius (III)
 8766	^a800ffShunrei Q Version (4500 rating maximum)
 8767	^e5872fRemo of Acheron x1
 8768	^e5872f Gem Fragment x9999
-8769	^a800ffFavor of the Goddess ☆ Sagittaire Version (III) x999
+8769	^a800ffFavor of the Goddess ☆ Sagittarius Version (III) x999
 8770	^a800ff too many big random prizes
 8771	Sang d'Argent
 8772	Sang d'enchant (Parfait)
@@ -8796,11 +8796,11 @@
 8795	Minerais d'Argent Noir
 8796	Authorization to extend Backpack
 8797	Authorization to extend Warehouse
-8798	Goddess' Gift ☆ Balance (II)
+8798	Goddess' Gift ☆ Libra (II)
 8799	^a800ff Mini Dragon NEGRO x1 (4500 skill limit)
 8800	^e5872fViolence of Dragon of the Sea x1
 8801	^e5872f Gemstone Shape x9999
-8802	^a800ff Favor of the Goddess ☆ Balance (II) Version X999
+8802	^a800ff Favor of the Goddess ☆ Libra (II) Version X999
 8803	^a800ff too many big random prizes
 8804	Sang d'Argent
 8805	Sang d'Enchant (Parfait)
@@ -8829,11 +8829,11 @@
 8828	Minerais d'Argent Noir
 8829	Extension Inventaire
 8830	Extension de Banque
-8831	Goddess' Gift ☆ Lion (II)
+8831	Goddess' Gift ☆ Leo (II)
 8832	^a800ff Mini Phoenix Noir x1 (4500 rating limit)
 8833	^e5872f Wisdom Ring of Crisaor x1
 8834	^e5872f Gem Fragment x9999
-8835	^a800ff Favor of the Goddess ☆ Lion Version (II) x999
+8835	^a800ff Favor of the Goddess ☆ Leo Version (II) x999
 8836	^a800ff too many big random prizes
 8837	Sang d'Argent
 8838	Sang d'enchant (Parfait)
@@ -8862,11 +8862,11 @@
 8861	Minerais d'Argent Noir
 8862	Extension Inventaire
 8863	Extension de Banque
-8864	Goddess' Gift ☆ Belier (II)
+8864	Goddess' Gift ☆ Aries (II)
 8865	^a800ff Mini Io x1 (4500 rating limit)
 8866	^ffff00Central of Athena [Legend] x1
 8867	^e5872f Gem Fragment x9999
-8868	^a800ff Favor of the Goddess ☆ Belier Version (II) x999
+8868	^a800ff Favor of the Goddess ☆ Aries Version (II) x999
 8869	^a800ff too many big random prizes
 8870	Sang d'Argent
 8871	Sang d'Enchant (Parfait)
@@ -8928,11 +8928,11 @@
 8927	Star Tote Bag II x1
 8928	Cristal d'Eleve x5
 8929	Hyper Potion IV x1
-8930	Goddess' Gift ☆ Scorpion (IV)
+8930	Goddess' Gift ☆ Scorpio (IV)
 8931	^a800ffMini Worm x1 (Practice max 4500)
 8932	^e5872fDohko: Balance Shield x1
 8933	^e5872f Gem Shape x9999
-8934	^a800ffFavor of the Goddess ☆ Scorpion Version (IV) x999
+8934	^a800ffFavor of the Goddess ☆ Scorpio Version (IV) x999
 8935	^a800ff too many big random prizes
 8936	Youkai Hakutaku
 8937	Sang d'Argent
@@ -8965,7 +8965,7 @@
 8964	^a800ffMini Camus x1 (Practice max 4500)
 8965	^e5872fSagitator: Golden Arrow x1
 8966	^e5872f Gem Shape x9999
-8967	^a800ff Blessing of the Goddess ☆ Capricorne (IV)
+8967	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
 8968	^a800ff too many big random prizes
 8969	Rudolph
 8970	Sang d'Argent
@@ -8994,11 +8994,11 @@
 8993	Fragment d'Echarpe
 8994	Condensed Meteorite
 8995	Skill Change [Squire]
-8996	Blessing of the Goddess ☆ Sagittaire (IV)
+8996	Blessing of the Goddess ☆ Sagittarius (IV)
 8997	^a800ffMini Shura x1 (Practice max 4500)
 8998	^e5872fTouro: Elmo Dourado x1
 8999	^e5872f Gemstone Shape x9999
-9000	^a800ffFavor of the Goddess ☆ Scorpion Version (IV) x999
+9000	^a800ffFavor of the Goddess ☆ Scorpio Version (IV) x999
 9001	^a800ff too many big random prizes
 9002	Youkai Hakutaku
 9003	Sang d'Argent
@@ -9029,7 +9029,7 @@
 9028	Skill Change [Squire]
 9029	Goddess Blessing ☆ New Year (IV)
 9030	^a800ffMini Mu x1 (Practice max 4500)
-9031	^e5872fShaka: Vierge Artifact x1
+9031	^e5872fShaka: Virgo Artifact x1
 9032	^e5872f Gem Fragment x9999
 9033	^a800ffBlessings of the Goddess ☆ New Year (IV) x999
 9034	^a800ff too many big random prizes
@@ -9060,11 +9060,11 @@
 9059	Fragment d'Echarpe
 9060	Condensed Meteorite
 9061	Skill Change [Squire]
-9062	Blessing of the Goddess ☆ Verseau (IV)
+9062	Blessing of the Goddess ☆ Aquarius (IV)
 9063	^a800ffMini Aphrodite x1 (Practice max 4500)
 9064	^e5872fGirls: Gemeaux Object x1
 9065	^e5872f Gem Shape x9999
-9066	^a800ff Blessing of the Goddess ☆ Verseau (IV) x999
+9066	^a800ff Blessing of the Goddess ☆ Aquarius (IV) x999
 9067	^a800ff too many big random prizes
 9068	DDM
 9069	Sang d'Argent
@@ -9093,11 +9093,11 @@
 9092	Fragment d'Echarpe
 9093	Condensed Meteorite
 9094	Skill Change [Squire]
-9095	Blessing of the Goddess ☆ Balance (IV)
+9095	Blessing of the Goddess ☆ Libra (IV)
 9096	^a800ffMini Aioros x1 (Practice max 4500)
 9097	^e5872fDeus do Sono: Wings of Hypnos x1
 9098	^e5872f Gem Fragment x9999
-9099	^a800ff Blessing of the Goddess ☆ Balance (IV) x999
+9099	^a800ff Blessing of the Goddess ☆ Libra (IV) x999
 9100	^a800ff too many big random prizes
 9101	Ave of Cairns
 9102	Sang d'Argent
@@ -9126,7 +9126,7 @@
 9125	Fragment d'Echarpe
 9126	Condensed Meteorite
 9127	Skill Change [Squire]
-9128	Goddess' Gift ☆ Sagittaire
+9128	Goddess' Gift ☆ Sagittarius
 9129	^a800ff Squire: Snow Ball Doll x1 (red or purple)
 9130	^e5872fBeads of Vierge x1
 9131	^a800ffLights of Or x999
@@ -9159,11 +9159,11 @@
 9158	Book Oracle of Or
 9159	Rune Dégât
 9160	Rune HP
-9161	Goddess' Gift ☆ Belier
+9161	Goddess' Gift ☆ Aries
 9162	^a800ff Mini Nachi x1 (4500 rating limit)
 9163	^e5872Facuum of Verseau x1
 9164	^a800ff Sang d'Enchant x999
-9165	^a800ff Favor of the Goddess ☆ Belier Version X999
+9165	^a800ff Favor of the Goddess ☆ Aries Version X999
 9166	^a800ff too many big random prizes
 9167	Sang d'Argent
 9168	Sang d'Enchant (Parfait)
@@ -9172,7 +9172,7 @@
 9171	Certification of Knight of the Princess
 9172	Energie Cosmique
 9173	Divine Stone of the Storm
-9174	Goddess' Gift ☆ Poisson
+9174	Goddess' Gift ☆ Pisces
 9175	Divine Stone of the Storm
 9176	Cube Cosmique
 9177	Skill Change [Squire]
@@ -9192,11 +9192,11 @@
 9191	Rune HP
 9192	Minerais d'Argent Noir
 9193	Extension Inventaire
-9194	Goddess' Gift ☆ Verseau
+9194	Goddess' Gift ☆ Aquarius
 9195	^a800ff Son of the God of Love Eros x1 (maximum qualification limit 4500)
 9196	^e5872f Poisson Rage x1
 9197	^a800ff Hades blood x999
-9198	^a800ff Favor of the Goddess ☆ Verseau Version (II) X999
+9198	^a800ff Favor of the Goddess ☆ Aquarius Version (II) X999
 9199	^a800ff too many big random prizes
 9200	Sang d'Enchant (Parfait)
 9201	Rune Dégât
@@ -9258,11 +9258,11 @@
 9257	Minerais d'Argent Noir
 9258	Expansion of Inventory
 9259	Extension de Banque
-9260	Goddess' Gift ☆ Capricorne (II)
+9260	Goddess' Gift ☆ Capricorn (II)
 9261	^a800ff Mini Tremy x1 (4500 rating limit)
 9262	^e5872f Divine Mariner of Belier x1
 9263	^e5872f Gem Fragment x9999
-9264	^a800ff Favor of the Goddess ☆ Capricorne Version X999
+9264	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 9265	^a800ff too many big random prizes
 9266	Sang d'Argent
 9267	Sang d'Enchant (Parfait)
@@ -9291,11 +9291,11 @@
 9290	Minerais d'Argent Noir
 9291	Extension Inventaire
 9292	Extension de Banque
-9293	Goddess' Gift ☆ Vierge
+9293	Goddess' Gift ☆ Virgo
 9294	^a800ff Marine Version x1 (maximum limit of 4500)
 9295	^e5872f Athena's Shield [Legend] x1
 9296	^e5872f Gem Shape x9999
-9297	^a800ff Favor of the Goddess ☆ Vierge Version x999
+9297	^a800ff Favor of the Goddess ☆ Virgo Version x999
 9298	^a800ff too many big random prizes
 9299	Sang d'Argent
 9300	Sang d'Enchant (Parfait)
@@ -9324,11 +9324,11 @@
 9323	Minerais d'Argent Noir
 9324	Extension Inventaire
 9325	Extension de Banque
-9326	Goddess' Gift ☆ Lion
+9326	Goddess' Gift ☆ Leo
 9327	^a800ff June version x1 (4500 rating limit)
 9328	^e5872fColillo de Lion x1
 9329	^e5872f Gem Fragment x9999
-9330	^a800ff FAVOR of the Goddess ☆ Lion Version x999
+9330	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 9331	^a800ff too many big random prizes
 9332	Sang d'Argent
 9333	Sang d'Enchant (Parfait)
@@ -9357,11 +9357,11 @@
 9356	Minerais d'Argent Noir
 9357	Extension Inventaire
 9358	Extension de Banque
-9359	Goddess' Gift ☆ Scorpion (II)
+9359	Goddess' Gift ☆ Scorpio (II)
 9360	^a800ff Mini Jamian x1 (4500 rating limit)
 9361	^e5872fCold Or Scorpion x1
 9362	^e5872f Gem Fragment x9999
-9363	^a800ff Favor of the Goddess ☆ Scorpion Version (II) X999
+9363	^a800ff Favor of the Goddess ☆ Scorpio Version (II) X999
 9364	^a800ff too many big random prizes
 9365	Sang d'Argent
 9366	Sang d'enchant (Parfait)
@@ -9390,11 +9390,11 @@
 9389	Minerais d'Argent Noir
 9390	Extension Inventaire
 9391	Extension de Banque
-9392	Goddess' Gift ☆ Verseau (II)
+9392	Goddess' Gift ☆ Aquarius (II)
 9393	^a800ff Mini Algol (4500 rating limit)
 9394	^e5872fGolden Taureau Box x1
 9395	^e5872f Gem Fragment x9999
-9396	^a800ff Favor of the Goddess ☆ Verseau Version (II) X999
+9396	^a800ff Favor of the Goddess ☆ Aquarius Version (II) X999
 9397	^a800ff too many big random prizes
 9398	Sang d'Argent
 9399	Sang d'enchant (Parfait)
@@ -9423,11 +9423,11 @@
 9422	Minerais d'Argent Noir
 9423	Extension Inventaire
 9424	Extension de Banque
-9425	Goddess' Gift ☆ Sagittaire (II)
+9425	Goddess' Gift ☆ Sagittarius (II)
 9426	^a800ff Mini Orpheus x1 (4500 rating limit)
 9427	^e5872fPlate Or Lice x1
 9428	^e5872f Gem Fragment x9999
-9429	^a800ff Favor of the Goddess ☆ Sagittaire Version (II) x999
+9429	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
 9430	^a800ff too many big random prizes
 9431	Sang d'Argent
 9432	Sang d'enchant (Parfait)
@@ -9456,11 +9456,11 @@
 9455	Minerais d'Argent Noir
 9456	Extension Inventaire
 9457	Extension de Banque
-9458	Goddess' Gift ☆ Balance
+9458	Goddess' Gift ☆ Libra
 9459	^a800ff Mini Ichi x1 (4500 rating limit)
 9460	^e5872fNunchaku of Balance x1
 9461	^e5872f Gem Fragment x9999
-9462	^a800ff Favor of the Goddess ☆ Version Balance X999
+9462	^a800ff Favor of the Goddess ☆ Version Libra X999
 9463	^a800ff too many big random prizes
 9464	Sang d'Argent
 9465	Sang d'enchant (Parfait)
@@ -9489,11 +9489,11 @@
 9488	Minerais d'Argent Noir
 9489	Extension Inventaire
 9490	Extension de Banque
-9491	Goddess' Gift ☆ Gemeaux
+9491	Goddess' Gift ☆ Gemini
 9492	^e800ff Mini Geki x1 (4500 rating limit)
 9493	^e5872f Gemeaux mask x1
 9494	^e5872f Gem Fragment x9999
-9495	^a800ff Favor of the Goddess ☆ Gemeaux Version
+9495	^a800ff Favor of the Goddess ☆ Gemini Version
 9496	^a800ff too many big random prizes
 9497	Sang d'Argent
 9498	Sang d'enchant (Parfait)
@@ -9502,7 +9502,7 @@
 9501	Certification of Knight of the Princess
 9502	Energie Cosmique
 9503	Divine Stone of the Storm
-9504	Goddess' Gift ☆ Poisson
+9504	Goddess' Gift ☆ Pisces
 9505	Divine Stone of the Storm
 9506	Cube Cosmique
 9507	Skill Change [Squire]
@@ -9526,7 +9526,7 @@
 9525	Blessing of Niobe x1 (Practice Limit: 4500)
 9526	^e5872fChifre: Rock Fist x1
 9527	^e5872f Gem Fragment x9999
-9528	^a800ff Blessing of the Goddess ☆ Capricorne (IV)
+9528	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
 9529	^a800ff too many big random prizes
 9530	Christmas Sleigh II
 9531	Christmas Sleigh III
@@ -9621,7 +9621,7 @@
 9620	Fragment d'Echarpe
 9621	Condensed Meteorite
 9622	Skill Change [Squire]
-9623	Blessing of the Goddess ☆ Vierge (IV)
+9623	Blessing of the Goddess ☆ Virgo (IV)
 9624	^a800ffMini Iwan x1 (Practice max 4500)
 9625	^e5872fPapillon: Myu's Helmet x1
 9626	^e5872f Gemstone Shape x9999
@@ -9654,11 +9654,11 @@
 9653	Fragment d'Echarpe
 9654	Condensed Meteorite
 9655	Skill Change [Squire]
-9656	Blessing of the Goddess ☆ Verseau (IV)
+9656	Blessing of the Goddess ☆ Aquarius (IV)
 9657	^a800ffBên. of the Goddess ☆ Pandora (Lim. of Practice: 4500)
 9658	^e5872fDeep: Infernal Shoulder Pad x1
 9659	^e5872f Gem Fragment x9999
-9660	^a800ff Blessing of the Goddess ☆ Verseau (IV) x999
+9660	^a800ff Blessing of the Goddess ☆ Aquarius (IV) x999
 9661	^a800ff too many big random prizes
 9662	Argent Bode
 9663	Sang d'Argent
@@ -9687,11 +9687,11 @@
 9686	Fragment d'Echarpe
 9687	Condensed Meteorite
 9688	Skill Change [Squire]
-9689	Blessing of the Goddess ☆ Taureau (IV)
-9690	^a800ffBên. of the Goddess ☆ Taureau (Practice Limit: 4500)
+9689	Blessing of the Goddess ☆ Taurus (IV)
+9690	^a800ffBên. of the Goddess ☆ Taurus (Practice Limit: 4500)
 9691	^e5872fBalron: Scourge of Lune x1
 9692	^e5872f Gem Fragment x9999
-9693	^a800ff Blessing of the Goddess ☆ Taureau (IV) x999
+9693	^a800ff Blessing of the Goddess ☆ Taurus (IV) x999
 9694	^a800ff too many big random prizes
 9695	Lula Flaming
 9696	Sang d'Argent
@@ -9785,11 +9785,11 @@
 9784	Rune HP
 9785	Aldebaran Challenge Coupon
 9786	Fragment d'Echarpe
-9787	Blessing of the Goddess ☆ Belier (IV)
+9787	Blessing of the Goddess ☆ Aries (IV)
 9788	^a800ffBên. of the Goddess ☆ Krishna (Lim. of Practice: 4500)
 9789	^e5872fTroll: Iwan Whip x1
 9790	^e5872f Gem Fragment x9999
-9791	^a800ff Blessing of the Goddess ☆ Belier (IV) x999
+9791	^a800ff Blessing of the Goddess ☆ Aries (IV) x999
 9792	^a800ff too many big random prizes
 9793	Golden Owl
 9794	Sang d'Argent
@@ -9818,11 +9818,11 @@
 9817	Fragment d'Echarpe
 9818	Condensed Meteorite
 9819	Skill Change [Squire]
-9820	Blessing of the Goddess ☆ Sagittaire (IV)
+9820	Blessing of the Goddess ☆ Sagittarius (IV)
 9821	^a800ffBên. of the Goddess ☆ Queen (Practice Limit: 4500)
 9822	^e5872fHarpia: Mask of the Aigle x1
 9823	^e5872f Gem Fragment x9999
-9824	^a800ff Blessing of the Goddess ☆ Sagittaire (IV) x999
+9824	^a800ff Blessing of the Goddess ☆ Sagittarius (IV) x999
 9825	^a800ff too many big random prizes
 9826	Jaguar Dourado
 9827	Sang d'Argent
@@ -9851,7 +9851,7 @@
 9850	Fragment d'Echarpe
 9851	Condensed Meteorite
 9852	Skill Change [Squire]
-9853	Goddess' Gift ☆ Scorpion
+9853	Goddess' Gift ☆ Scorpio
 9854	^a800ff Squire: Q Soldat version of the Sanctuaire x1
 9855	^e5872f Medusa's Shield of Perseus x1
 9856	^a800ff Source Spirituelle x999
@@ -9982,11 +9982,11 @@
 9981	Rune Dégât x8
 9982	Rune HP x8
 9983	Skill Change [Squire] x3
-9984	Goddess' Gift ☆ Vierge
+9984	Goddess' Gift ☆ Virgo
 9985	^a800ff Mini Marine x1 (4500 rating limit)
 9986	^e5872fBeads of Vierge x1
 9987	^e5872f Gemstone Shape x9999
-9988	^a800ff Favor of the Goddess ☆ Vierge Version x999
+9988	^a800ff Favor of the Goddess ☆ Virgo Version x999
 9989	^a800ff too many big random prizes
 9990	Sang d'Argent
 9991	Sang d'enchant (Parfait)
@@ -10015,11 +10015,11 @@
 10014	Minerais d'Argent Noir
 10015	Extension Inventaire
 10016	Extension de Banque
-10017	Goddess' Gift ☆ Poisson
+10017	Goddess' Gift ☆ Pisces
 10018	^a800ff Sirens x1 (4500 rating limit)
 10019	^e5872fExcalibur of Capricorne x1
 10020	^a800ffLight Sacrée Or x999
-10021	^a800ffBendition of the Goddess ☆ Poisson x999
+10021	^a800ffBendition of the Goddess ☆ Pisces x999
 10022	^a800ff too many big random prizes
 10023	Sang d'Argent
 10024	Sang d'Enchant (Parfait)
@@ -10028,7 +10028,7 @@
 10027	Certification of Knight of the Princess
 10028	Energie Cosmique
 10029	Divine Stone of the Storm
-10030	Goddess' Gift ☆ Poisson
+10030	Goddess' Gift ☆ Pisces
 10031	Divine Stone of the Storm
 10032	Cube Cosmique
 10033	Skill Change [Squire]
@@ -10048,11 +10048,11 @@
 10047	Rune HP
 10048	Minerais d'Argent Noir
 10049	Extension Inventaire
-10050	Goddess Blessing ☆ Scorpion (II)
+10050	Goddess Blessing ☆ Scorpio (II)
 10051	^a800ff Mini Jamian x1 (4500 rating limit)
 10052	^e5872fCold Or Scorpion x1
 10053	^e5872f Gemstone Shape x9999
-10054	^a800ff Favor of the Goddess ☆ Scorpion Version (II) X999
+10054	^a800ff Favor of the Goddess ☆ Scorpio Version (II) X999
 10055	^a800ff too many big random prizes
 10056	Sang d'Argent
 10057	Sang d'enchant (Parfait)
@@ -10081,11 +10081,11 @@
 10080	Minerais d'Argent Noir
 10081	Extension Inventaire
 10082	Extension de Banque
-10083	Goddess' Gift ☆ Taureau
+10083	Goddess' Gift ☆ Taurus
 10084	^a800ff Mini Ban x1 (4500 rating limit)
 10085	^e5872f Sagittaire x1
 10086	^e5872fBurning Soul x999
-10087	^a800ff Gift of the Goddess ☆ Taureau version X999
+10087	^a800ff Gift of the Goddess ☆ Taurus version X999
 10088	^a800ff too many big random prizes
 10089	Sang d'Argent
 10090	Sang d'Enchant (Parfait)
@@ -10094,7 +10094,7 @@
 10093	Certification of Knight of the Princess
 10094	Energie Cosmique
 10095	Divine Stone of the Storm
-10096	Goddess' Gift ☆ Poisson
+10096	Goddess' Gift ☆ Pisces
 10097	Divine Stone of the Storm
 10098	Cube Cosmique
 10099	Skill Change [Squire]
@@ -10114,11 +10114,11 @@
 10113	Rune HP
 10114	Minerais d'Argent Noir
 10115	Extension Inventaire
-10116	Goddess' Gift ☆ Balance
+10116	Goddess' Gift ☆ Libra
 10117	^a800ff Mini Ichi x1 (4500 rating limit)
 10118	^e5872fNunchaku of Balance x1
 10119	^e5872f Gem Fragment x9999
-10120	^a800ff Favor of the Goddess ☆ Balance Version X999
+10120	^a800ff Favor of the Goddess ☆ Libra Version X999
 10121	^a800ff too many big random prizes
 10122	Sang d'Argent
 10123	Sang d'Enchant (Parfait)
@@ -10147,11 +10147,11 @@
 10146	Minerais d'Argent Noir
 10147	Extension Inventaire
 10148	Extension de Banque
-10149	Goddess' Gift ☆ Capricorne (II)
+10149	Goddess' Gift ☆ Capricorn (II)
 10150	^a800ff Mini Tremy x1 (4500 rating limit)
 10151	^e5872f Divine Mariner of Belier x1
 10152	^e5872f Gem Shape x9999
-10153	^a800ff Favor of the Goddess ☆ Capricorne Version X999
+10153	^a800ff Favor of the Goddess ☆ Capricorn Version X999
 10154	^a800ff too many big random prizes
 10155	Sang d'Argent
 10156	Sang d'Enchant (Parfait)
@@ -10180,11 +10180,11 @@
 10179	Minerais d'Argent Noir
 10180	Extension Inventaire
 10181	Extension de Banque
-10182	Goddess' Gift ☆ Belier
+10182	Goddess' Gift ☆ Aries
 10183	^a800ff Mini Jabu x1 (upper limit of 4500 qualification)
 10184	^e5872Facuum of Verseau x1
 10185	^a800ff Sang d'Enchant x999
-10186	^a800ff Favor of the Goddess ☆ Belier Version X999
+10186	^a800ff Favor of the Goddess ☆ Aries Version X999
 10187	^a800ff too many big random prizes
 10188	Sang d'Argent
 10189	Sang d'Enchant (Parfait)
@@ -10193,7 +10193,7 @@
 10192	Certification of Knight of the Princess
 10193	Energie Cosmique
 10194	Divine Stone of the Storm
-10195	Goddess' Gift ☆ Poisson
+10195	Goddess' Gift ☆ Pisces
 10196	Divine Stone of the Storm
 10197	Cube Cosmique
 10198	Change of skill [Squire]
@@ -10213,11 +10213,11 @@
 10212	Rune HP
 10213	Minerais d'Argent Noir
 10214	Extension Inventaire
-10215	Goddess' Gift ☆ Verseau
+10215	Goddess' Gift ☆ Aquarius
 10216	^a800ff Son of the God of Love Eros x1 (maximum qualification limit 4500)
 10217	^e5872Fray of Poisson x1
 10218	^a800ff Hades blood x999
-10219	^a800ff Favor of the Goddess ☆ Verseau Version (II) X999
+10219	^a800ff Favor of the Goddess ☆ Aquarius Version (II) X999
 10220	^a800ff too many random large prizes
 10221	Sang d'enchant (Parfait)
 10222	Rune Dégât
@@ -10279,11 +10279,11 @@
 10278	Minerais d'Argent Noir
 10279	Extension Inventaire
 10280	Extension de Banque
-10281	Goddess' Gift ☆ Lion
+10281	Goddess' Gift ☆ Leo
 10282	^a800ffQ June version x1 (4500 rating limit)
 10283	^e5872fColillo de Lion x1
 10284	^e5872f Gem Shape x9999
-10285	^a800ff FAVOR of the Goddess ☆ Lion Version x999
+10285	^a800ff FAVOR of the Goddess ☆ Leo Version x999
 10286	^a800ff too many big random prizes
 10287	Sang d'Argent
 10288	Sang d'enchant (Parfait)
@@ -10312,11 +10312,11 @@
 10311	Minerais d'Argent Noir
 10312	Expansion of Inventory
 10313	Extension de Banque
-10314	Goddess' Gift ☆ Gemeaux
+10314	Goddess' Gift ☆ Gemini
 10315	^a800ff Mini command x1 (4500 rating limit)
 10316	^e5872f Gemeaux mask x1
 10317	^e5872f Gem Fragment x9999
-10318	^a800ff Favor of the Goddess ☆ Gemeaux Version
+10318	^a800ff Favor of the Goddess ☆ Gemini Version
 10319	^a800ff too many big random prizes
 10320	Sang d'Argent
 10321	Sang d'enchant (Parfait)
@@ -10325,7 +10325,7 @@
 10324	Certification of Knight of the Princess
 10325	Energie Cosmique
 10326	Divine Stone of the Storm
-10327	Goddess' Gift ☆ Poisson
+10327	Goddess' Gift ☆ Pisces
 10328	Divine Stone of the Storm
 10329	Cube Cosmique
 10330	Change of skill [Squire]
@@ -10345,11 +10345,11 @@
 10344	Rune HP
 10345	Minerais d'Argent Noir
 10346	Extension Inventaire
-10347	Goddess' Gift ☆ Sagittaire (II)
+10347	Goddess' Gift ☆ Sagittarius (II)
 10348	^a800ff Mini Orpheus x1 (4500 rating limit)
 10349	^e5872fGray Or Liaison x1
 10350	^e5872f Gem Fragment x9999
-10351	^a800ff Favor of the Goddess ☆ Sagittaire Version (II) x999
+10351	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
 10352	^a800ff too many big random prizes
 10353	Sang d'Argent
 10354	Sang d'Enchant (Parfait)
@@ -12054,7 +12054,7 @@
 12053	Leaf of Sharo
 12054	Fragments of the Vierge Relic
 12055	Fragments of the most valuable treasure of Vierge
-12056	Origin of the Divine Blood
+12056	Sang de Potion
 12057	Bamboo Practitioner's Hat of Buddhism
 12058	Fragments of the Balance relic
 12059	Fragments of the most valuable treasure of Balance

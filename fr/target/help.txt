@@ -752,7 +752,7 @@
 751	You only need to click on Offering and tomorrow you can get the article
 752	Now you can perform the Relic operations, click here to open
 753	Click to enter the Relic Interface
-754	Put the [Lira: Orpheus's Harp] in the relics bar you have. \rClique droit pour utiliserit
+754	Put the [Lira: Orpheus's Harp] in the relics bar you have. \rClique droit pour utiliser
 755	Now, drag the Relic you own down [Lira: Harp of Orpheus] to the relics bar to activate it
 756	Use the [Source Spirituelle] to increase your Aura index
 757	Click on the add button and the Aura will be added to the selected Relic

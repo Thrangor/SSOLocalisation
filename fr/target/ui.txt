@@ -560,8 +560,8 @@
 559	Blue team: 99999
 560	Red Team: 99999
 561	Group III:
-562	Rank Rank LV
-563	Current group
+562	Rang des Guildes
+563	Rang Actuel
 564	xxx
 565	Memb:
 566	xxx
@@ -572,13 +572,13 @@
 571	Guild 1:
 572	Group III:
 573	Banque
-574	Divine Prize:
+574	Prix Divin:
 575	X1
 576	X1
 577	X1
 578	LEAGUE_GAME_AWARD_DESC
 579	Enfers
-580	Oceans
+580	Atlantis
 581	Sanctuaire
 582	First select the battle team, and then choose the battlefield on the right side, to enter the game
 583	Name of the battlefield Name of the battlefield
@@ -829,7 +829,7 @@
 828	When activating a new mineral, the maximum level will increase.
 829	Current maximum level: 19
 830	Combinaison
-831	Transfert LV
+831	Transfert NV
 832	Combinaison
 833	Protection of jabotí 6/6
 834	Active
@@ -845,7 +845,7 @@
 844	Puiss: 999999
 845	Combinations
 846	Transfert
-847	Transfert LV
+847	Transfert NV
 848	Relic Objective
 849	Origin relic
 850	Annuler
@@ -6901,18 +6901,18 @@
 6900	Apprentice Name is eight characters
 6901	Puiss
 6902	Niv
-6903	Name
-6904	Sign
+6903	Nom
+6904	Signe
 6905	Puiss
 6906	Niv
-6907	Name
-6908	Sign
-6909	Apprentices
+6907	Nom
+6908	Signe
+6909	Apprenti
 6910	Niv
-6911	Name
-6912	Sign
+6911	Nom
+6912	Signe
 6913	Position:
-6914	Apprentice
+6914	Apprenti
 6915	Puiss:
 6916	Your teacher
 6917	Name of the meter is eight characters
@@ -6924,10 +6924,10 @@
 6923	Break Guardianship
 6924	Prec
 6925	Suiv
-6926	Sign
-6927	Name
+6926	Signe
+6927	Nom
 6928	Niv
-6929	Apprentices
+6929	Apprenti
 6930	Name of the player with 8 characters.
 6931	Advertisement:
 6932	Private message
@@ -7081,7 +7081,7 @@
 7080	Suiv
 7081	Items
 7082	Niv
-7083	Name
+7083	Nom
 7084	Puiss
 7085	Current price
 7086	Time remaining
@@ -7101,9 +7101,9 @@
 7100	Buy
 7101	Buy
 7102	Buy
-7103	Receive
-7104	Receive
-7105	Receive
+7103	Recevoir
+7104	Recevoir
+7105	Recevoir
 7106	Remaining Times
 7107	Reception number remaining 999
 7108	Remaining Times
@@ -7138,7 +7138,7 @@
 7137	Time
 7138	Benefits
 7139	Status
-7140	Receive
+7140	Recevoir
 7141	1st week
 7142	2nd week
 7143	3rd week
@@ -8328,8 +8328,8 @@
 8327	100
 8328	Nom Candidat Pope
 8329	Candidat Pope
-8330	Previous Activity     
-8331	Weekly Activity  
+8330	Semaine Passée
+8331	Activitée Actuel
 8332	Peripheral member
 8333	000000000
 8334	255
