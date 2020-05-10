@@ -760,7 +760,7 @@
 759	Nobleman
 760	Collector
 761	Saori
-762	Official [Foundation]
+762	Official [Fondation]
 763	Shun
 764	Andromede
 765	Saori
@@ -777,7 +777,7 @@
 776	Spectator
 777	Spectator
 778	Tokumaru Tatsumi
-779	Butler [Foundation]
+779	Butler [Fondation]
 780	Spectator
 781	Suspicious Person
 782	Black Knight
@@ -3223,7 +3223,7 @@
 3222	Hyoga
 3223	Cygne
 3224	Saori Kido
-3225	Official [Foundation]
+3225	Official [Fondation]
 3226	Tatsumi Tokumaru
 3227	Mino
 3228	Empty Bag
@@ -3237,7 +3237,7 @@
 3236	Andromede
 3237	Mino
 3238	Receptionist
-3239	Official [Foundation]
+3239	Official [Fondation]
 3240	Shun
 3241	Andromede
 3242	Seiya
@@ -3485,23 +3485,23 @@
 3484	Guild builder
 3485	Mona
 3486	Receive the double
-3487	Manager [Foundation]
-3488	Manager [Foundation]
-3489	Manager [Foundation]
-3490	Manager [Foundation]
-3491	Manager [Foundation]
-3492	Manager [Foundation]
-3493	Manager [Foundation]
-3494	Commander [Foundation]
-3495	Commander [Foundation]
-3496	Commander [Foundation]
-3497	Commander [Foundation]
-3498	Commander [Foundation]
-3499	Commander [Foundation]
-3500	Commander [Foundation]
-3501	Employee [Foundation]
-3502	Royaume des Enfers doors
-3503	Employee [Foundation]
+3487	Manager [Fondation]
+3488	Manager [Fondation]
+3489	Manager [Fondation]
+3490	Manager [Fondation]
+3491	Manager [Fondation]
+3492	Manager [Fondation]
+3493	Manager [Fondation]
+3494	Commander [Fondation]
+3495	Commander [Fondation]
+3496	Commander [Fondation]
+3497	Commander [Fondation]
+3498	Commander [Fondation]
+3499	Commander [Fondation]
+3500	Commander [Fondation]
+3501	Employé [Fondation]
+3502	Raid Hades
+3503	Employé [Fondation]
 3504	<Flower of the rope! Laments of the spirits>
 3505	Ivan's soul
 3506	Soul fallen
@@ -3512,7 +3512,7 @@
 3511	Lira
 3512	Moses
 3513	Whale
-3514	Employee [Foundation]
+3514	Employee [Fondation]
 3515	<Depth, Hell des Enfers>
 3516	Eye of the Storm
 3517	Snake Eggs
@@ -3520,9 +3520,9 @@
 3519	Andromede
 3520	Shun
 3521	Andromede
-3522	Employee [Foundation]
+3522	Employee [Fondation]
 3523	<End Río Cocito>
-3524	Employee [Foundation]
+3524	Employee [Fondation]
 3525	<Shooter! The Three Judges des Enfers>
 3526	Ikki
 3527	Phoenix
@@ -3532,11 +3532,11 @@
 3531	Dragon
 3532	Shun
 3533	Andromede
-3534	Employee [Foundation]
+3534	Employee [Fondation]
 3535	<Twin Gods, Death and Sleep>
 3536	Seiya
 3537	Start of the battle
-3538	Employee [Foundation]
+3538	Employee [Fondation]
 3539	<Life and Death! Final Battle of the Elisha Fields>
 3540	Guild assembly_ enter the NPC instance zone
 3541	Shaka
@@ -4480,9 +4480,9 @@
 4479	Back for stargazing
 4480	Shun
 4481	Andromede
-4482	Official [Foundation]
-4483	Official [Foundation]
-4484	Official [Foundation]
+4482	Official [Fondation]
+4483	Official [Fondation]
+4484	Official [Fondation]
 4485	Geki
 4486	Bear
 4487	Nachi
@@ -7233,7 +7233,7 @@
 7232	<Dream Goddess>
 7233	Guild Welfare
 7234	<Dream Goddess>
-7235	Espion [Foundation]
+7235	Espion [Fondation]
 7236	Protect Saori
 7237	Florinda
 7238	Waitress
@@ -7249,13 +7249,13 @@
 7248	Tokumaru Tatsumi
 7249	Saori
 7250	Saori
-7251	Espion [Foundation]
+7251	Espion [Fondation]
 7252	Protect Saori
-7253	Espion [Foundation]
+7253	Espion [Fondation]
 7254	Protect Athena
 7255	Cemetery of the Knights
 7256	Protect Athena
-7257	Espion [Foundation]
+7257	Espion [Fondation]
 7258	Protect Athena
 7259	Sorrento
 7260	Sirena
@@ -7348,7 +7348,7 @@
 7347	My Familier
 7348	Or experience award ambassador
 7349	Benefit
-7350	Researcher [Foundation]
+7350	Researcher [Fondation]
 7351	Rec War San.
 7352	Statue d'Athena
 7353	Output

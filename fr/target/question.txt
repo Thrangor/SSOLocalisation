@@ -43,7 +43,7 @@
 42	By which of the following ways is it possible to divide the stacked items in the inventory?
 43	ALT + Drag the item to another slot
 44	Drag with the mouse directly
-45	Double click on the right button.
+45	Double Clique droit pour utiliser.
 46	Right mouse button and then divide
 47	When using the platform to form the team, when there is registration of 6 players in the group, what will happen?
 48	Ignore restriction of Sign and teleports

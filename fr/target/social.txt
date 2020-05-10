@@ -337,12 +337,12 @@
 336	Confirm the expulsion of %s from the Guild? (The current position of that person is %s, she will not leave the Guild immediately, first, she will become a peripheral member, and %s will leave the Guild automatically)
 337	Please enter the reason for the expulsion of %s:
 338	Unfounded
-339	%s accepted the %s request to join the Guild
-340	%s rejected %s request to join the Guild
+339	%s accepte %s à rejoindre la Guilde
+340	%s refuse %s à rejoindre la Guilde
 341	%s invite %s à rejoindre la Guilde
-342	%s passed his post of Guild Chief for %s
-343	%s left the Guild
-344	%s expelled %s from the Guild
+342	%s est promu Chef de Guilde par %s
+343	%s quitte la Guilde
+344	%s renvoie %s de la Guilde
 345	%s \r %s \r %s Recommendation
 346	The Guild %s does not agree that you join him.
 347	%s invite %s à rejoindre la Guilde, Bienvenue!
@@ -373,9 +373,9 @@
 372	The scale of the Guild has already been increased to the maximum
 373	You do not have permission for %s
 374	Send voice message in the Guild Channel
-375	Annotation
-376	Agr Member
-377	Eject
+375	Annonce
+376	Recruter
+377	Virer
 378	Advertisement
 379	Rename
 380	Permissions
