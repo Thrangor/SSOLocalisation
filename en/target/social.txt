@@ -228,8 +228,8 @@
 227	Because %s, %s
 228	Some resigned to wait for the next combination
 229	Coliseum Rules
-230	Ways of struggle and related
-231	Return to the main interface
+230	Info
+231	Return
 232	%d th week of this season
 233	Unknown Player
 234	You joined the circle ( %s- %s), in the Social Interface, you can click on the "friends" tab to see more details.
@@ -874,7 +874,7 @@
 873	%s offers %I64d Star as a reward to invite him to participate in team training. ( %d people, %s, Power of Fight %s, Term %s)
 874	%s offers %I64d Star to invite players %s higher, wrestling power %s to participate in the assembly of the team ( %d people) %s
 875	Completed
-876	Insufficient Submersible level
+876	Insufficient Asc. level
 877	Insufficient power
 878	It is not necessary to add your own reward started
 879	Your team is complete, it is not possible to start the reward
@@ -944,7 +944,7 @@
 943	Instance Zone
 944	Event
 945	^32B500 You can sign up
-946	^0077D9 In the row
+946	^0077D9 Queued
 947	^0077D9 Line up the party
 948	^999999 Number of times sold out
 949	^999999 Unavailable
@@ -980,7 +980,7 @@
 979	^F91919 Replace
 980	As there were members who did not accept the invitation, after correspondence with the party, all have been removed from the line
 981	As I do not accept the invitation, after correspondence with the party, it has been removed from the line
-982	You or your party / troop already participated in the row: %s, await correspondence
+982	You or your party is queued to: %s, wait for other members.
 983	Already accepted
 984	You wait for a long time in the ^ff0000 %s ^N, if you want to participate in the queue of ^ff0000 %s ^N? ^F91919 at the same time Remember: Advanced level events such as %s, increase the corresponding speed , but the prize is small.
 985	In a party, you can only queue and cancel by the boss

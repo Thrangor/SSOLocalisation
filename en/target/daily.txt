@@ -13,7 +13,7 @@
 12	Sanctuary
 13	level 35 or higher
 14	(3-6 people recommended full team)
-15	[Instance] Rebirth! Sanctuary Town Soul Song
+15	[Instance] Rebirth! Sanctuary.
 16	Level 60 or above
 17	[Instance] Critical! Yarn Guardian
 18	25 or above
@@ -25,7 +25,7 @@
 24	Level 60-89
 25	[Instance] Storm! Atlantis
 26	above 45
-27	[Instance] Abyss! The end of the magic star
+27	[Instance] Abyss! Persephone.
 28	[Solo] goddess of the holy warrior
 29	[Instance] Trial of Destiny
 30	Galaxy Arena
@@ -97,7 +97,7 @@
 96	[Instance] Twelve Houses (Part II)
 97	[Instance] Twelve Houses (Part III)
 98	level 55 or higher
-99	[Instance] Golden Zodiac (Me)
+99	[Instance] Golden Zodiac (solo)
 100	[Hero] the elegy of the goddess (front)
 101	90 or above
 102	[Hero] the elegy of the goddess (post)
@@ -123,7 +123,7 @@
 122	(4-6 people recommended full team)
 123	[Hero] Ten Wind Cave
 124	[Hero] Shooter's Heart
-125	[Instance] break! The Avengers (God Wars)
+125	[Instance] The Avengers (God Wars)
 126	[Battlefield] Chaos Battlefield Test
 127	[Instance] Fighters return
 128	[Solo] Saints! The glory of the stars
@@ -584,7 +584,7 @@
 583	This is a war that belongs to the ruler! Get the battlefield mission from the gentle big ugly, and then in the shrinking world into a ruling star to destroy the other's fortress to win the battlefield victory, and get extra reward! What are you waiting for? Come and fight one game!
 584	You can use the God of War to pick up the mission every day at the warrior Angelina: the flag is open! Win the new game and win in the [Lava Battlefield] [Sky Battlefield], and you can get a lot of rewards in the top 90%.
 585	You need to participate and win in the [Lava Battlefield] [Sky Battlefield], which can only be completed once a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
-586	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r lava battlefield can provide an absolutely fair competitive environment, here will be you Show the stage! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
+586	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-Asc. 2; Asc. 3 - Asc. 10\r lava battlefield can provide an absolutely fair competitive environment, here will be you Show the stage! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
 587	Labor Day is approaching, for those Saints who have long worked hard to protect the sanctuary peace, the goddess Athena prepared a mysterious gift to thank them for their contributions.
 588	Event deadline: May 19, 2014. \r During the event, players above level 20 can get 4 characters of the item "Labor", "Move", "Light" and "Right" through personal activities. \r Collect 4 words to receive a surprise gift with the Labor Day Celebration Ambassador (1 time per day).
 589	In order to thank the Saints who has been working hard for the sanctuary, the goddess Athena is prepared to issue a thank-you award during the Labor Day, and a large amount of experience vouchers are waiting for you. \rEvent time: May 1st - May 3rd every day 20:00 - 23:59
@@ -723,7 +723,7 @@
 722	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89.
 723	Open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89. \r counterflow! In the zodiac crisis, the monster level is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The power of Hades is invading the sanctuary, and the holy warriors are going to defend the gates of the sanctuary!
 724	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89. \r counterflow! The level of monsters in Atlantis is the average rank of the team members. It can only be taken once a day. It is recommended to have 6 people to participate. \r Background: The tsunami is frequent and the disaster is heavy. People are praying for the glory of the goddess to shine on the earth. The sanctuary needs you to investigate the truth of the tsunami and calm it down.
-725	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r [sky battlefield] can be understood as a flight battlefield, not only to test here The ability to fight on the ground is also where you show your flight combat skills. \r can use God's battle point to pick up the mission at the Angel of the Angels: the flag opens! Win a new game and get a lot of rewards when you're done.
+725	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-Asc. 2; Asc. 3 - Asc. 10\r [sky battlefield] can be understood as a flight battlefield, not only to test here The ability to fight on the ground is also where you show your flight combat skills. \r can use God's battle point to pick up the mission at the Angel of the Angels: the flag opens! Win a new game and get a lot of rewards when you're done.
 726	During the 726th anniversary celebration, you will receive a medal for the anniversary celebration with a 20-point activity every day.
 727	During the anniversary celebration, you can receive a badge for the anniversary celebration at 20-22 o'clock every day.
 728	Nether Flying A (Permanent)
@@ -860,7 +860,7 @@
 859	[Guild] Over the years! Gold Guild
 860	[Instance] Resurrection! The Colosseum.
 861	[Battlefield] victory! The road to the king
-862	[Instance] Countercurrent! Gold Trial (God of War 3)
+862	[Instance] Gold Trial!
 863	(6 people)
 864	[Instance] Dream! Mountain Cliffs.
 865	[Event] Eros Collection Order
@@ -875,7 +875,7 @@
 874	The story of the various Saints is circulated in the world of Saint Seiya. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi.
 875	All battles and three rings are counted together. \rThis activity includes 2 copies of the serial challenge with sequential relationship: \r "Pisces Trial" - "Litender Trial" or "Lion Trial"\r Participate in any copy count 1 time, can participate in 6 cumulatively per day Secondly, it takes 1 point of war to participate in the "Pisces Trial", and it takes 2 points to participate in the "Litli Trial" or "Lion Trial"!
 876	Ten Wind Cave can participate in up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saint Seiya led the Dark Saint Seiya to the Galaxy Arena and captured the gold saint of Sagittarius! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
-877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-submersible 2; submersible 3-submersible 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Attica ruins can be rewarded with a lot of rewards.
+877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-Asc. 2; Asc. 3-Asc. 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Attica ruins can be rewarded with a lot of rewards.
 878	The Twelve Houses (Part I) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Aldebaran of Taurus and the mysterious Gemini Saint Seiya?
 879	Twelve Houses (Part II) can participate up to 10 times a week, and the difficulty is high, it is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
 880	Twelve Houses (Part III) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Dohko teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
@@ -886,7 +886,7 @@
 885	Ice Temple can participate up to 10 times a week, you need to participate in the [copy] Golden Zodiac (Yu), get the item: ^61f2ff ice wing ^N before you can participate. \rIceland Princess Valkyrie was cursed by Nibelungen's ring and turned into a female Valkyrie. She was controlled by the Poseidon and occupied the seal of the Poseidon under the ice sea against Athena. In order to save the Princess of Valkyrie from the curse, break through the night of this blockade of ice, the boy of love and justice, march toward the Temple of Ice and Ice!
 886	On the occasion of the Dragon Boat Festival, many Saints gathered in Lushan. The tranquil Lushan Mountain is very lively at this moment. The village head also specially invites you to visit Lushan to attend their Dragon Boat Festival celebrations. What are you waiting for, go to the party!
 887	Midsummer night comes, it is the most powerful time of the god of the gods, and Athena will carry out an important star prayer ceremony on this day, she will consume a lot of energy in the ceremony. \r turned into a golden warrior, reviving the physical strength of the goddess with the golden universe and the resonance of God, and prevented the dream god and his party feathers coming to attack.
-888	Combat scale: 18v18\r grade segmentation: 80-94; 95-submersible 2; submersible 3 - submersible 10\r In order to train the young Saint Seiya with Hades, Athena created this chaotic battlefield . In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
+888	Combat scale: 18v18\r grade segmentation: 80-94; 95-Asc. 2; Asc. 3 - Asc. 10\r In order to train the young Saint Seiya with Hades, Athena created this chaotic battlefield . In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Hades, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
 889	Among the holy warriors, there are many teenagers from an ancient country in the East. \r These days are the national day of that country. However, as a holy warrior who guards the peace of the earth, the teenagers cannot leave the sanctuary and return to their country. Therefore, at this time of the year, the Pope has a magic bell to celebrate them in the sanctuary.
 890	During the event, on National Day! Dragon of the East, Mid-Autumn Night! Mooncake big bang and awakening! In the six activities of Shaka, four items (not bound) are randomly prized for “National”, “Celebration”, “Fast” and “Le”. \r Single-word items can be opened directly to get a small amount of experience and vouchers. Collect 4 words to exchange a lot of experience with Emily, and redeem it once a day.
 891	Event time: December 24th - December 30th, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive massive experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!

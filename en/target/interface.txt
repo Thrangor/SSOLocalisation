@@ -13,8 +13,8 @@
 12	Defense effect, damage reduction to %0.1f %%
 13	Confirm that you want to open %s of time?
 14	Suspension for %s minutes
-15	EXP in double
-16	EXP 3.5x
+15	EXP x2
+16	EXP x3.5
 17	%s activated
 18	%s off
 19	EXP bonus activated
@@ -611,8 +611,8 @@
 610	Receive Astro EXP:
 611	EXP:
 612	Astro EXP:
-613	Current Submersible Level: %d \rImproved Properties: \r %s
-614	Next level of Submersible: %d \r Improved properties: \r %s
+613	Current Asc. Level: %d \rImproved Properties: \r %s
+614	Next level of Asc.: %d \r Improved properties: \r %s
 615	& %s &: %s
 616	& %s & told you: %s
 617	& %s &: %s
@@ -630,7 +630,7 @@
 629	You can only send one article symbol to the dialog bar at a time
 630	The time interval to return to access customer service since the last time can not be less than 3 minutes, please wait a moment and try again.
 631	Your question was sent, please wait for it to be processed.
-632	It is not possible to send, empty secret word.
+632	Unable to send an empty message.
 633	General
 634	Group
 635	MP
@@ -722,7 +722,7 @@
 721	I
 722	All
 723	Activities
-724	In the row
+724	Queued
 725	Activity: %d
 726	Click here to find details of your teammates,
 727	You are on the team, you can continue to recruit other teammates
@@ -731,9 +731,9 @@
 730	Now you can not use the team's training platform
 731	The level of difficulty of that challenge is lower, the help of other people is not necessary
 732	(Individual)
-733	Join the group
+733	Join
 734	Unavailable row
-735	In the row
+735	Queued
 736	Can not form a row
 737	You are not the captain
 738	You're not the boss

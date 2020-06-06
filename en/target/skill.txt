@@ -76,7 +76,7 @@
 75	You need to be advanced to have the Gold Constellation to learn
 76	Skill
 77	Wrestling Skills
-78	Submersible:
+78	Asc.:
 79	LV %d max
 80	Free on the LV %d
 81	Active

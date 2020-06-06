@@ -2255,7 +2255,7 @@
 2254	Murciélago - B
 2255	Murciélago - AB
 2256	Bat - O
-2257	Emissary of the God of Sleep
+2257	Emissary
 2258	Sick branch
 2259	Bird
 2260	Secondary Line 23 Hunting the Rabbit
@@ -7450,7 +7450,7 @@
 7449	Person drinking 2
 7450	Mesquino bear candy distributor
 7451	I have candy and I will not give it
-7452	Emissary distributor of candies
+7452	Emissary
 7453	I do not have any donuts
 7454	Looking for the Flower of Happiness
 7455	Damita
@@ -8699,7 +8699,7 @@
 8698	Lava Stone
 8699	Espirítu of Culpa Closed
 8700	Soul Cutter
-8701	Emissary of nightmares
+8701	Emissary
 8702	Ghost
 8703	Lieutenant [Underworld]
 8704	Underworld Soldier
@@ -8713,11 +8713,11 @@
 8712	Plop
 8713	NPC to Leave Instance Zone
 8714	NPC of Entry to the Instance Zone
-8715	Celebrate the Festival of the Moon
-8716	Soldiers of the Chibi Sanctuary
-8717	Emissary of the Moon Festival
+8715	Festival
+8716	Soldier
+8717	Emissary
 8718	Rabbit
-8719	Emissary of the Moon Festival
+8719	Emissary
 8720	Reinforced candy
 8721	Nuts Candy
 8722	Hallucinogen Candy

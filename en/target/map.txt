@@ -150,7 +150,7 @@
 149	Illusion Test 1 (Level 45)
 150	Snow Mountain
 151	Multiserver Arena PK
-152	Illusion of Proof 6 (Submersible Lv5)
+152	Illusion of Proof 6 (Asc. Lv5)
 153	Illusion
 154	Halloween! Pumpkin of Madness
 155	Illusion 3

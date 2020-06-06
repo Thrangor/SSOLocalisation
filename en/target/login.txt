@@ -37,7 +37,7 @@
 36	Enter recent instance
 37	Enter recent battlefield
 38	Enter recent crosserver
-39	<span class='normal'>Submersible</span>
+39	<span class='normal'>Asc.</span>
 40	Sex
 41	M
 42	F

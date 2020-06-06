@@ -26,7 +26,7 @@
 25	He who is favored by destiny knew the truth under the guidance of the Goddess of Destiny.
 26	^ffff00Defense +100 \rHP +1350 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 27	Conclude the Main Quest "Saga of the Sanctuary", Cap VII: "The Golden Knight of Sagittarius!" To obtain the title
-28	^009933Pecado and Punishment of God
+28	^009933Punishment of God
 29	He saw the sin and punishment in the Prison of God.
 30	^ffff00Defense +120 \rHP +1500 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 31	Conclude the Main Quest "Saga of the Sanctuary", Cap VIII: "The Blood Dominance of the Seven Seas!" To obtain the title
@@ -38,7 +38,7 @@
 37	He who found his end on the Island of Queen Death and returned from Hell.
 38	^ffff00Defense +150 \rHP +1800 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 39	Conclude the Main Quest "Saga of the Sanctuary", Cap X: "The Flames of the Island of the Death Queen! to get the title
-40	^009933Trotamundos del Campo of Hielo
+40	^009933Guardian of Syberia
 41	The one who became the guardian of Eastern Siberia.
 42	^ffff00Defense +175 \rHP +1950 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 43	Conclude the Main Quest "Saga of Poseidon", Cap I: "The Power of Poseidon!" To obtain the title
@@ -86,7 +86,7 @@
 85	Awaken people who were lost for years.
 86	^ffff00Attack +120 \rHP +1500 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 87	Conclude 30 secondary quests on the Forgotten Path to get the title
-88	^009933Phoenix of las Llamas
+88	^009933Phoenix of flames
 89	Incinerate the unclean world, you are the Phoenix of the Flames!
 90	^ffff00Attack +150 \rHP +1800 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 91	Conclude 30 secondary Quests on the Isle of Queen Death to obtain the title
@@ -402,7 +402,7 @@
 401	His vision and judgment go beyond those of a normal person.
 402	^ffff00Attack of Earth +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 403	Conclude the series of Quests "Guess who I am" in Rozan to obtain the title
-404	^009933Bambú Loco
+404	^009933Bamboo
 405	Crazy Bamboo blooms by whom?
 406	^ffff00All Resistances +1 \rPress +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
 407	Conclude the series of Quests "Flower of the Bamboo", in Rozan to obtain the title
@@ -688,12 +688,12 @@
 687	In [Heroic] Ten Caves, defeat all Bosses of Difficulty Divine Wrestler to get the title
 688	^ffff00Attack +250 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
 689	Certification of strength and courage
-690	^a800ffSemidiós · Demonic Family
+690	^a800ffDemigod
 691	In [Heroic] Ten Caves, defeat all Bosses of difficulty Semidiós to obtain the title
 692	^ffff00Attack +350 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 693	^0099ccDivine Wrestler · Arrow of Justice
 694	In [Heroic] Heart of Sagittarius, defeat all Bosses of difficulty Divine Wrestler to obtain the title
-695	^a800ffSemidiós · Arrow of Justice
+695	^a800ffDemigod · Arrow of Justice
 696	In [Heroic] Heart of Sagittarius, defeat all the Bosses of difficulty Semidiós to obtain the title
 697	^ffd700Flower and Wine For the Hermit
 698	Test for yourself! Presence of the King!
@@ -756,7 +756,7 @@
 755	Completed Coliseum Test 6
 756	^ff8000 Coliseum Test 7
 757	Completed Coliseum Test 7
-758	^009933Minero
+758	^009933Miner
 759	You are a professional gold ore transporter!
 760	^ffff00Fire Damage +80 \rPressure +55 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 761	Conclude the Quest "Miner" on the Island of the Death Queen to obtain the title
@@ -930,13 +930,13 @@
 929	In [Heroic] Elegy of the Goddess I, defeat all Bosses of Divine Wrestler difficulty
 930	^0099ccDivine Soldier · Demonic Angel
 931	In [Heroic] Elegy of the Goddess I, defeat all Bosses of difficulty Divine Soldier
-932	^a800ffSemidiós · Demonic Angel
+932	^a800ffDemigod · Demonic Angel
 933	In [Heroic] Elegy of the Goddess I, defeat all Bosses of difficulty Semidiós
 934	^0099cc Divine Warrior · Divine Angel
 935	In [Heroic] Elegy of the Goddess II, defeat all Bosses of Divine Wrestler difficulty
 936	^0099cc Divine Soldier · Divine Angel
 937	In [Heroic] Elegy of the Goddess II, defeat all Bosses of difficulty Divine Soldier
-938	^a800ffSemidiós · Divine Angel
+938	^a800ffDemigod · Divine Angel
 939	In [Heroic] Elegy of the Goddess II, defeat all the Bosses of difficulty Semidiós
 940	^ff4ca4Monoria of Un Saint
 941	Welcome back, Knight of the Goddess! With this Title, you can receive special Quest with Emissary of the Festival, from the 16th until September 30th
@@ -1328,7 +1328,7 @@
 1327	Spring Festival Lottery Award
 1328	^5acbcc wants to be successful, there are objects right away
 1329	^5acbcc Congratulations on getting rich
-1330	^5acbcc horse galloping
+1330	^5acbcc Returner
 1331	old player return reward title
 1332	^5acbcc rushes to your arms
 1333	Return to the special title given to you by the old players
@@ -1648,7 +1648,7 @@
 1647	Killing [Hero] God's Golden Zodiac II BOSS
 1648	^ff6c00 Demi god·Gold Legend II
 1649	Killing the [Hero] God Golden Zodiac II in all the half-difficult BOSS
-1650	^ff6c00Demi god·Golden Legend II
+1650	^ff6c00 Demi god·Golden Legend II
 1651	Kill [Hero] God Golden Zodiac II in all the difficulty of the BOSS
 1652	^ff4ca4 Saint Seiya! 30 years of love
 1653	Saint Seiya 30th Anniversary Edition
@@ -1687,51 +1687,51 @@
 1686	May 2017 top-up list title
 1687	^a800ff wearing a single sheet as king
 1688	April 2017 meeting personal custom exclusive title
-1689	^a800ff holding a leather whip to make a queen
-1690	^a800ff Absolute zero degree! Handsome
+1689	^a800ff Executioner
+1690	^a800ff Handsome
 1691	^a800ff light speed of meteor! Nangong
-1692	^a800ff read and exist for guardianship
+1692	^a800ff Guardian
 1693	^a800ff Eternal Godland, my name is sincere
-1694	^a800ff
-1695	^a800ff finally! Dusk of the gods
-1696	^a800ff	full drink, Emperor Huangzhong
+1694	^a800ff 
+1695	^a800ff Dusk of the gods
+1696	^a800ff Emperor Huangzhong
 1697	In April 2017, the player will meet the exclusive name of the wine group.
-1698	^ff0000 Learn to be a man, learn to eat bread
+1698	^ff0000 A Man
 1699	The first exclusive custom title in the 2017 2017 recharge list
-1700	^ff0000 society big brothers don't talk much
+1700	^ff0000 Society
 1701	August 2017 top-up list title
-1702	^9763ee female mysterious relationship
+1702	^9763ee Mysterious Relationship
 1703	September 2017 meeting meeting title
-1704	^ff0000 Master of things
+1704	^ff0000 Master
 1705	^ffff00 all abnormally ignored +10\r all abnormal resistance +10\r^N after obtaining the title, the attribute ^ffff00 is permanently valid
-1706	^ff0000 staring ~ Luo ~ guardian
+1706	^ff0000 Guardian
 1707	The first exclusive custom title in the 2017 2017 top-up list
-1708	^ff0000 one flower and one world
+1708	^ff0000 A Flower
 1709	September 2017 meeting private custom exclusive title
-1710	^ff0000 Unclear truth, eat melons
-1711	^0099cc Soldier of the Destiny Goddess
+1710	^ff0000 Unclear truth
+1711	^0099cc Soldier of the Destiny
 1712	Media Gift Pack Exclusive Title
-1713	^0099cc The Messenger of the Goddess of Light
-1714	^0099cc warrior in Nordic mythology
-1715	^0099cc Legendary Warriors in the Sanctuary
-1716	^0099cc Poseidon's Sanctuary Messenger
-1717	^0099cc Hades Warriors
-1718	^0099cc goddess cares for the darling
-1719	^ffffff aging
+1713	^0099cc Messenger of the Goddess
+1714	^0099cc Nordic Warrior
+1715	^0099cc Legendary Warrior
+1716	^0099cc Poseidon Messenger
+1717	^0099cc Hades Warrior
+1718	^0099cc Goddess Child
+1719	^ffffff Leveling
 1720	^ffffff Legend
-1721	^ffffff main line
-1722	^ffffff branch line
+1721	^ffffff Main line
+1722	^ffffff Side line
 1723	^ffffff Adventure
-1724	^ffffffExploration
-1725	^ffffff reputation
-1726	^ffffff society
-1727	^ffffff epic
+1724	^ffffff Exploration
+1725	^ffffff Reputation
+1726	^ffffff Society
+1727	^ffffff Epic
 1728	^ffffff Guild
-1729	^ffffffPVP
-1730	^ffffff activities
+1729	^ffffff PVP
+1730	^ffffff Activities
 1731	^ffffff Festival
 1732	^ffffff Forum
-1733	^ffffff king
+1733	^ffffff King
 1734	I·Saints of Love and Justice
 1735	Bonus: ^ffff00 HP +300 / Evasion +15
 1736	Collected the following titles and received rewards at the Sanctuary Giga
