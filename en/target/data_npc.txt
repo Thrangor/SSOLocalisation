@@ -4623,99 +4623,99 @@
 4622	Flag Guard Map
 4623	Exit the map of the protective badge
 4624	Adriana
-4625	Save Return
+4625	Save Point
 4626	Nina
-4627	Save Return
+4627	Save Point
 4628	María
-4629	Save Return
+4629	Save Point
 4630	Agnes
-4631	Save Return
+4631	Save Point
 4632	Emily
-4633	Save Return
+4633	Save Point
 4634	Clea
-4635	Save Return
+4635	Save Point
 4636	Alice
-4637	Save Return
+4637	Save Point
 4638	Ava
-4639	Save Return
+4639	Save Point
 4640	Ilona
-4641	Save Return
+4641	Save Point
 4642	Esther
-4643	Save Return
+4643	Save Point
 4644	Rose
-4645	Save Return
+4645	Save Point
 4646	Nancy
-4647	Save Return
+4647	Save Point
 4648	Esie
-4649	Save Return
+4649	Save Point
 4650	Morgana
-4651	Save Return
+4651	Save Point
 4652	Medea
-4653	Save Return
+4653	Save Point
 4654	Cassandra
-4655	Save Return
+4655	Save Point
 4656	Circe
-4657	Save Return
+4657	Save Point
 4658	Cleopatra
-4659	Save Return
+4659	Save Point
 4660	Sibyl
-4661	Save Return
+4661	Save Point
 4662	Hecate
-4663	Save Return
+4663	Save Point
 4664	Morgan
-4665	Save Return
+4665	Save Point
 4666	Rachel
-4667	Save Return
+4667	Save Point
 4668	Rosa
-4669	Save Return
+4669	Save Point
 4670	Sonya
-4671	Save Return
+4671	Save Point
 4672	Vivian
-4673	Save Return
+4673	Save Point
 4674	Anabel
-4675	Save Return
+4675	Save Point
 4676	Macaria
-4677	Save Return
+4677	Save Point
 4678	Pythia
-4679	Save Return
+4679	Save Point
 4680	Thalia
-4681	Save Return
+4681	Save Point
 4682	Bread
-4683	Save Return
+4683	Save Point
 4684	Pandia
-4685	Save Return
+4685	Save Point
 4686	Akemi
-4687	Save Return
+4687	Save Point
 4688	Kirara
-4689	Save Return
+4689	Save Point
 4690	Wool
-4691	Save Return
+4691	Save Point
 4692	Thank you
-4693	Save Return
+4693	Save Point
 4694	CAlma
-4695	Save Return
+4695	Save Point
 4696	Helena
-4697	Save Return
+4697	Save Point
 4698	Margarete
-4699	Save Return
+4699	Save Point
 4700	Lisa
-4701	Save Return
+4701	Save Point
 4702	Sarah
-4703	Save Return
+4703	Save Point
 4704	Nymph
-4705	Save Return
+4705	Save Point
 4706	Nyx
-4707	Save Return
+4707	Save Point
 4708	Nereo
-4709	Save Return
+4709	Save Point
 4710	Milena
-4711	Save Return
+4711	Save Point
 4712	Ana
-4713	Save Return
+4713	Save Point
 4714	Kim
-4715	Save Return
+4715	Save Point
 4716	Kerin
-4717	Save Return
+4717	Save Point
 4718	First person
 4719	Guardian
 4720	Second person
@@ -4745,7 +4745,7 @@
 4744	Glycerium
 4745	Arms Officer
 4746	Dalila
-4747	Meeting silver guards
+4747	Buffer
 4748	Zigurat
 4749	Arms Officer
 4750	Heritage Store
@@ -5017,7 +5017,7 @@
 5016	Felicia
 5017	Change of Souls
 5018	Felicia
-5019	Gold welfare test issuer
+5019	Soul Expert
 5020	Watson
 5021	Change of prizes of the Arena
 5022	Diesel
@@ -5026,7 +5026,7 @@
 5025	Sue
 5026	<Equipment>
 5027	Aisha
-5028	Belt sale
+5028	Belt Seller
 5029	Felicia
 5030	Emissary of the benefit of the new suit
 5031	Squire Change Protection Emissary
@@ -5066,9 +5066,9 @@
 5065	Knight's Guard
 5066	<Red Fog>
 5067	Gunther
-5068	Curandero
+5068	Healer
 5069	Gunther
-5070	Curandero
+5070	Healer
 5071	Atlantis Store
 5072	Atlantis Teleporter
 5073	Return of the city of Atlantis
@@ -5081,16 +5081,16 @@
 5080	Potions Dealer of the Island of Andromeda
 5081	Sale of equipment of the Island of Andromeda
 5082	Andromeda Island Message Box
-5083	Tradesman of bread of the Island of Andromeda
-5084	Teleporter of Hell from the Underworld
-5085	Return from the Underworld
-5086	Merchant of supplies from the Underworld
+5083	Tradesman
+5084	Teleporter
+5085	Return
+5086	Merchant
 5087	Hades warehouse
-5088	Teletransporter of the city of Hades
-5089	Return of the city of Hades
-5090	Pharmacist of the city of Hades
-5091	Forgemaster of the city of Hades
-5092	Tradesman of the city of Hades
+5088	Teletransporter
+5089	Return
+5090	Pharmacist
+5091	Forgemaster
+5092	Tradesman
 5093	Sanctuary Store
 5094	Return of the city of the Sanctuary
 5095	Artisans of the sanctuary
@@ -5159,9 +5159,9 @@
 5158	Thalia
 5159	Emissary of the prize award of the multi-server tournament
 5160	Allen
-5161	Constellation Change
+5161	Constellation
 5162	Clyde
-5163	Constellation Change
+5163	Constellation
 5164	d
 5165	Ruth
 5166	Pharmacist
@@ -6831,9 +6831,9 @@
 6830	Pegasus
 6831	Mino
 6832	Carnival Emissary
-6833	Carnival Ambassador
+6833	Ambassador
 6834	Auge
-6835	Festival Embassador
+6835	Embassador
 6836	Snowball _ Saori girl
 6837	Saori Girl
 6838	Invincible Clown
@@ -7285,7 +7285,7 @@
 7284	Thanksgiving event
 7285	Crazy coin collectors
 7286	Galactic War Prologue
-7287	Carnival Ambassador
+7287	Ambassador
 7288	Galactic War Prologue
 7289	Zaza
 7290	Close friend
@@ -7364,7 +7364,7 @@
 7363	Traveler Trader
 7364	Underworld
 7365	Robert
-7366	Atlantis Tsunami.
+7366	Atlantis
 7367	Aline
 7368	<Gold Challenge>
 7369	Catlin
@@ -14205,7 +14205,7 @@
 14204	Absorb
 14205	Grass to Acquire Bleeding
 14206	Picking up
-14207	Brillo del Cosmo
+14207	Power
 14208	Touch
 14209	Divine light
 14210	Touch

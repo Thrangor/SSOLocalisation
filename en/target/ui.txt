@@ -182,39 +182,39 @@
 181	NXT
 182	Close
 183	Understood
-184	7. After participating 10x in the week, each new competition will yield 10pts of reward.
-185	6. According to the result and Rank LV, pts of reputation will be released.
-186	5. Rank LV ≠: against stronger enemy, win more EXP when winning and lose less in defeat.
-187	4. Rank LV =: when winning, get 100 of fight EXP. In defeat, lose XP of fight EXP.
+184	7. After participating 10x per week, each match will yield 10pts of reward.
+185	6. According to the result and Rank LV, reputation will increase.
+186	5. Rank LV ≠: against stronger enemy, get more EXP when winning and lose less in defeat.
+187	4. Rank LV =: when winning, get 100 of fight EXP. In defeat, lose XP.
 188	3. Rank LV ≤ 7: The Power or Rank LV of the opponent will be equivalent.
 189	2. Obtain Cash and EXP as a prize, according to the result of each competition.
-190	1. Registrations open every Saturday and Sunday from 1:00 pm to 3:00 pm and from 10:00 pm to 11:55 pm.
+190	1. Open every Sat. and Sun. from 1:00 pm to 3:00 pm and from 10:00 pm to 11:55 pm.
 191	6. The player who is alive or who has more HP wins when the 3mins finish.
-192	5. By choosing the "Equality" mode, the property of the participants will have the same level.
-193	4. Choosing the "Fair Play" mode, the effect of resistance elixirs will be blocked.
-194	3. In Challenge mode, there are no awards and it does not count in the weekly award number.
-195	2. In Challenge mode, the number of participants is chosen and the owner will be the defensive side.
-196	1. With "Automatic Enrollment", the system will wait a while and will do the automatic registration.
+192	5. By choosing the "Equality" mode, participants will have the same lvl.
+193	4. Choosing the "Fair Play" mode, restricts use of resistance elixirs.
+194	3. Challenge mode, has no rewards and doesn't affect ranking.
+195	2. Challenge mode, the number of participants is chosen and the owner will be defending.
+196	1. With "Automatic Enrollment", the system will enroll you in a match.
 197	Very soon, more modes! Wait!
-198	(8) Rank LV Bronze: the 1 ~ 10th will receive the Title: Bronze! Immortal Knight.
-199	(7) Rank LV Silver: the 1 ~ 20º will receive the Title: Silver! Assiduous Challenge
-200	(6) Rank LV Gold: the 1 ~ 30º will receive the Title: Gold! Armor skill.
-201	(5) Rank LV Platinum: the 1 ~ 40º will receive the Title: Platinum! Galactic Specialist
-202	(4) Rank LV Divino: the 31 ~ 100º will receive the Title: Bright Cosmo.
-203	(3) Rank LV Divino: the 4 ~ 30º will receive the Title: Resolved! Enthusiasm of the God of War.
-204	(2) Rank LV Divino: the 2 ~ 3º will receive the Title: Coldness! The Terrifying God of Death.
-205	(1) Rank LV Divino: the 1st will receive the Title: Conquered! Galactic Dominated
-206	1. Every Sunday, 00h, titles with a duration of one week will be released:
+198	(8) Rank LV Bronze: 1 ~ 10th will receive the Title: Bronze! Immortal Knight.
+199	(7) Rank LV Silver: 1 ~ 20º will receive the Title: Silver! Assiduous Challenge
+200	(6) Rank LV Gold: 1 ~ 30º will receive the Title: Gold! Armor skill.
+201	(5) Rank LV Platinum: 1 ~ 40º will receive the Title: Platinum! Galactic Specialist
+202	(4) Rank LV God: 31 ~ 100º will receive the Title: Bright Cosmo.
+203	(3) Rank LV God: 4 ~ 30º will receive the Title: Resolved! Enthusiasm of the God of War.
+204	(2) Rank LV God: 2 ~ 3º will receive the Title: Coldness! The Terrifying God of Death.
+205	(1) Rank LV God: 1st will receive the Title: Conquered! Galactic Dominated
+206	1. Every Sunday, titles with a duration of a week:
 207	Soon more modes, Wait.
-208	(8) Bronze Score Table: Positions of 1-10 will receive the title with the new special effect: Bronze! Immortal knight
-209	(7) Silver Classification Table: positions 1-20 will receive Title with special new effect: Silver! Regular challenge
-210	(6) Bronze Classification Table: Positions 1-30 will receive Title with new special effect: Gold! Armor Skill
-211	(5) Platinum Classification Table: positions 1-40 will receive Title with new special effect: Platinum! Galactic Specialist
-212	(4) Classification Table of the Gods: positions 31-100 will receive Title with special new effect: Bright Cosmo
-213	(3) Classification Table of the Gods: positions 4-30 will receive Title with special new effect: Resolved! Enthusiasm of the God of War
-214	(2) Classification Table of the Gods: positions 2-3 will receive Title with special new effect: Coldness! The terrible God of Death
-215	(1) Classification Table of the Gods: First position will receive Title with special new effect: Conquered! Galactic Dominated
-216	1. Every Sunday at 00:00 hrs, a Title with a duration of one week will be released, in accordance with the different Classification Tables. Below are the rules:
+208	(8) Bronze rank: Rank of 1-10 will receive Title: Bronze! Immortal knight
+209	(7) Silver rank: Rank 1-20 will receive Title: Silver! Regular challenge
+210	(6) Bronze rank: Rank 1-30 will receive Title: Gold! Armor Skill
+211	(5) Platinum rank: Rank 1-40 will receive Title: Platinum! Galactic Specialist
+212	(4) God rank: Rank 31-100 will receive Title: Bright Cosmo
+213	(3) God rank: Rank 4-30 will receive Title: Resolved! Enthusiasm of the God of War
+214	(2) God rank: Rank 2-3 will receive Title: Coldness! The terrible God of Death
+215	(1) God rank: 1st Rank will receive Title: Conquered! Galactic Dominated
+216	1. Every Sunday title with a duration of one week will be awarded:
 217	30 seconds
 218	Leaving Arena in:
 219	xxx
@@ -242,8 +242,8 @@
 241	The place was open, please hurry up
 242	Participate 10x \r in the week for:
 243	Enter the Ranking
-244	Receive the weekly Prize
-245	Start earning Galactic Points
+244	Get the weekly Prize
+245	Earn Galactic Points
 246	Leave row
 247	The inscriptions for the League Mode of the Galactic Arena, is open every Saturday and Sunday from 1:00 pm to 3:00 pm at 10: 00-23: 55
 248	Waiting for players for the tournament ...
@@ -271,7 +271,7 @@
 270	last week
 271	This week
 272	League Mode \r1ª Season
-273	League Mode is open every Saturday and Sunday \rde 13: 00-15: 00 at 22: 00-23: 55.
+273	Open every Saturday and Sunday \r13: 00-15: 00 at 22: 00-23: 55.
 274	Selecting this option, your character will be automatically enrolled in League Mode.
 275	Automatic enrollment
 276	Selecting this option, the power and attributes of the opponents are matched
@@ -322,7 +322,7 @@
 321	Yes
 322	"Fair Play" mode or not:
 323	XXX
-324	Room number:
+324	Room:
 325	XXX
 326	Name of the room:
 327	Attacking Team
@@ -688,7 +688,7 @@
 687	Modify
 688	See all
 689	Rank of the Guild
-690	Submersible 100
+690	Asc. 100
 691	The name of the list is 8 characters
 692	Modify
 693	Total score
@@ -2012,7 +2012,7 @@
 2011	Channel of xxxxx
 2012	Event recommendation level
 2013	Battle for Aries armor
-2014	Join the group
+2014	Join
 2015	Recommended power: 20000
 2016	Compensation of the event: A few days ago you did not do this activity, if you finish it today you will have an initial bonus
 2017	Compensation of the event: A few days ago you did not do this activity, if you finish it today you will have an initial bonus
@@ -2573,7 +2573,7 @@
 2572	Astro EXP:
 2573	Profit from 6:00 until now.
 2574	Profit today
-2575	Welcome to the official WeChat of "The Knights of the Zodiac". \rBusque a public account "The Knights of the Zodiac" or scan the QR code to follow, more surprises await you!
+2575	Rewards collected today:
 2576	Touch
 2577	Prize
 2578	Play Touch, win incredible prizes. Awards id: 12345
@@ -3831,7 +3831,7 @@
 3830	Art:
 3831	HP: %d
 3832	Level: %d
-3833	Submersible 999
+3833	Asc. 999
 3834	Level: %d
 3835	LV
 3836	Wind wheel and incomparable fire Wheels of Wind and fire
@@ -3872,7 +3872,7 @@
 3871	Monster NPC other players
 3872	Catch available
 3873	Minimize group
-3874	Submersible nv1
+3874	Asc. nv1
 3875	Stupid teammates
 3876	Stupid teammates
 3877	Stupid teammates
@@ -4838,18 +4838,18 @@
 4837	Stupid teammates 3
 4838	Stupid teammates 2
 4839	Stupid teammates 1
-4840	Submersible 990
-4841	Submersible 999
-4842	Submersible 990
-4843	Submersible 999
-4844	Submersible 998
-4845	Submersible 997
-4846	Submersible 996
-4847	Submersible 995
-4848	Submersible 994
-4849	Submersible 993
-4850	Submersible 992
-4851	Submersible 991
+4840	Asc. 990
+4841	Asc. 999
+4842	Asc. 990
+4843	Asc. 999
+4844	Asc. 998
+4845	Asc. 997
+4846	Asc. 996
+4847	Asc. 995
+4848	Asc. 994
+4849	Asc. 993
+4850	Asc. 992
+4851	Asc. 991
 4852	Captain
 4853	Captain
 4854	Captain
@@ -4984,7 +4984,7 @@
 4983	Cancel multiplayer montage
 4984	Decisive duel
 4985	Decisive duel
-4986	Submersible 999
+4986	Asc. 999
 4987	Mitten
 4988	Wings
 4989	Belt
@@ -5914,7 +5914,7 @@
 5913	EXP:
 5914	Upgrade
 5915	x99
-5916	Submersible 100
+5916	Asc. 100
 5917	Cancel
 5918	Maximum level
 5919	Recommendations
@@ -7383,11 +7383,11 @@
 7382	xxx / xxx
 7383	Competitive EXP Index:
 7384	xxx / xxx
-7385	${npc(41957, "automatically find the route to the location of the withdrawal of the prize")}
+7385	${npc(41957, "NPC Prize")}
 7386	1s
 7387	He's already in the team's line! Already in the row:
 7388	xxx
-7389	Reputation for the prizes of current competitiveness
+7389	Prizes of current matchup.
 7390	xxx / xxx
 7391	Upper limit of reputation for the competitiveness reward you can earn this week
 7392	Level of the current competition:
@@ -7395,7 +7395,7 @@
 7394	Power of the current competition:
 7395	xxx
 7396	Current Victory Index:
-7397	Ruins of the God of War: Individual registrations from 10:00 am to 5:00 pm and team registrations from 8:00 pm to 11:55 pm, daily
+7397	Registrations from 10:00 am to 5:00 pm\r Team Registrations from 8:00 pm to 11:55 pm.
 7398	First week of the Season of Competitions of the month
 7399	When choosing the option, show the players in the Level icon
 7400	Display icon
@@ -7468,11 +7468,11 @@
 7467	Confirm
 7468	Confirm
 7469	Tank:
-7470	Cure:
+7470	Heal:
 7471	Damage:
-7472	Required functions in the group:
+7472	Required classes in party:
 7473	Damage:
-7474	Cure:
+7474	Heal:
 7475	Tank:
 7476	Restore the equipment display
 7477	Shop minimized

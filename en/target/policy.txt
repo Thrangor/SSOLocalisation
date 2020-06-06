@@ -2356,8 +2356,8 @@
 2355	$UImid$noname Today's Contribution Points will be billed at 8:00 p.m. Players who have not yet made their contribution, take advantage of the remaining time.
 2356	$UImid$noname The invasion of the Underworld was stopped by the Knights of the Sanctuary. Let's celebrate the victory!
 2357	$UImid$noname The three judges of the Underworld were defeated by the Knights of the Elite, we will celebrate the victory!
-2358	$UImid$noname Knights, to initiate a counterattack on the King of the Underworld and his companions, make their contribution with Shion of the Commercial Area.
-2359	$UImid$noname Knights, to initiate a counterattack on the King of the Underworld and his companions, make their contribution with Shion of the Commercial Area.
+2358	$UImid$noname Knights, Initiate a counterattack on the King of the Underworld and his companions, report to Shion of the Commercial Area.
+2359	$UImid$noname Knights, Initiate a counterattack on the King of the Underworld and his companions, report to Shion of the Commercial Area.
 2360	$UImid$noname The Celestial Star of Violence that invaded the Sanctuary was defeated successfully! His soul returned to the depths of hell, it is no longer in the Sanctuary!
 2361	$UImid$noname The Earth Star of Enchantment that invaded the Sanctuary was defeated successfully! His soul returned to the depths of hell, it is no longer in the Sanctuary!
 2362	$UImid$noname The Celestial Star of the Prison that invaded the Sanctuary was defeated successfully! His soul returned to the depths of hell, it is no longer in the Sanctuary!
