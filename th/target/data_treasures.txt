@@ -348,507 +348,511 @@
 347	
 348	Dark Phoenix.Wing
 349	
-350	Fiery Dragon
+350	Phoenix God Wing
 351	
-352	Overlord of Night
+352	Phoenix God Wing
 353	
-354	Wings of Dragon II
+354	Fiery Dragon
 355	
-356	Tiamat Addict
+356	Overlord of Night
 357	
-358	Vulture·Marionettion
+358	Wings of Dragon II
 359	
-360	X Potion
-361	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
-362	M Potion
-363	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
-364	Primary Power Potion*20
-365	使用后可以获得500魔盒能量。
-366	Primary Power Potion
-367	使用后可以获得500魔盒能量。
-368	Energy Potion*20
-369	使用后可以获得400生产精力。
-370	Energy Potion
-371	使用后可以获得400生产精力。
-372	背包扩充委任书
-373	扩充背包位置栏6格。
-374	仓库扩充委任书
-375	扩充仓库位置栏6格。
-376	World Horn*200
-377	在世界频道发言时消耗。
-378	World Horn*10
-379	在世界频道发言时消耗。
-380	Broadcast Horn*200
-381	在广播频道发言时消耗。
-382	Broadcast Horn*10
-383	在广播频道发言时消耗。
-384	Broadcast Horn
+360	Tiamat Addict
+361	
+362	Vulture·Marionettion
+363	
+364	X Potion
+365	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+366	M Potion
+367	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
+368	Primary Power Potion*20
+369	使用后可以获得500魔盒能量。
+370	Primary Power Potion
+371	使用后可以获得500魔盒能量。
+372	Energy Potion*20
+373	使用后可以获得400生产精力。
+374	Energy Potion
+375	使用后可以获得400生产精力。
+376	背包扩充委任书
+377	扩充背包位置栏6格。
+378	仓库扩充委任书
+379	扩充仓库位置栏6格。
+380	World Horn*200
+381	在世界频道发言时消耗。
+382	World Horn*10
+383	在世界频道发言时消耗。
+384	Broadcast Horn*200
 385	在广播频道发言时消耗。
-386	Double EXP Core
-387	增加双倍经验时间60分钟。
-388	Fate Dice*20
-389	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
-390	Fate Dice
-391	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
-392	Clearance Card
-393	神奇的物品，可直接扫荡活动副本。
-394	Heart of Zodiacขั้น1
-395	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-396	Heart of Zodiacขั้น2
-397	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-398	Heart of Zodiacขั้น3
+386	Broadcast Horn*10
+387	在广播频道发言时消耗。
+388	Broadcast Horn
+389	在广播频道发言时消耗。
+390	Double EXP Core
+391	增加双倍经验时间60分钟。
+392	Fate Dice*20
+393	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+394	Fate Dice
+395	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+396	Clearance Card
+397	神奇的物品，可直接扫荡活动副本。
+398	Heart of Zodiacขั้น1
 399	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-400	Heart of Zodiacขั้น4
+400	Heart of Zodiacขั้น2
 401	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-402	Heart of Zodiacขั้น5
+402	Heart of Zodiacขั้น3
 403	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
-404	Star Lightning*5
-405	用于换取守护星相关道具的材料。
-406	เศษบรอนซ์คลอธ*5
-407	收集一定数量后，可换取青铜圣衣。20级以上活动有大量掉落。
-408	เศษซิลเวอร์คลอธ*5
-409	收集一定数量后，可换取白银圣衣。60级以上活动有大量掉落。
-410	Dark Star*5
-411	黑暗圣衣1-10级星铸。可以兑换得到。
-412	Dark Crystal*5
-413	黑暗圣衣11-16级星铸。可以兑换得到。
-414	Darkness Star*5
-415	黑暗圣衣17-32级星铸。可以兑换得到。
-416	Star Jade*5
-417	天马座圣衣1-10级星铸。20级以上活动有大量掉落。
-418	Crystal Star*5
-419	天马座圣衣11-16级星铸。50级以上活动有大量掉落。
-420	Dominic*5
-421	天马座圣衣17-32级星铸。70级以上活动有大量掉落。
-422	Stardust*5
-423	用于普通青铜圣衣星铸。30级以上活动有大量掉落。
-424	Star Sand*5
-425	用于普通白银圣衣星铸。50级以上活动有大量掉落。
-426	Earth Star*5
-427	用于黄金圣衣星铸。70级以上活动有大量掉落。
-428	Fire Star*5
-429	用于黄金圣衣星铸。70级以上活动有大量掉落。
-430	Aqua Star*5
+404	Heart of Zodiacขั้น4
+405	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+406	Heart of Zodiacขั้น5
+407	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+408	Star Lightning*5
+409	用于换取守护星相关道具的材料。
+410	เศษบรอนซ์คลอธ*5
+411	收集一定数量后，可换取青铜圣衣。20级以上活动有大量掉落。
+412	เศษซิลเวอร์คลอธ*5
+413	收集一定数量后，可换取白银圣衣。60级以上活动有大量掉落。
+414	Dark Star*5
+415	黑暗圣衣1-10级星铸。可以兑换得到。
+416	Dark Crystal*5
+417	黑暗圣衣11-16级星铸。可以兑换得到。
+418	Darkness Star*5
+419	黑暗圣衣17-32级星铸。可以兑换得到。
+420	Star Jade*5
+421	天马座圣衣1-10级星铸。20级以上活动有大量掉落。
+422	Crystal Star*5
+423	天马座圣衣11-16级星铸。50级以上活动有大量掉落。
+424	Dominic*5
+425	天马座圣衣17-32级星铸。70级以上活动有大量掉落。
+426	Stardust*5
+427	用于普通青铜圣衣星铸。30级以上活动有大量掉落。
+428	Star Sand*5
+429	用于普通白银圣衣星铸。50级以上活动有大量掉落。
+430	Earth Star*5
 431	用于黄金圣衣星铸。70级以上活动有大量掉落。
-432	Wind Star*5
+432	Fire Star*5
 433	用于黄金圣衣星铸。70级以上活动有大量掉落。
-434	Soul Light*10
-435	用于装备聚能。30级以上活动有大量掉落。
-436	High Soul Light*10
-437	用于装备聚能。50级以上活动有大量掉落。
-438	Soul Axis*10
+434	Aqua Star*5
+435	用于黄金圣衣星铸。70级以上活动有大量掉落。
+436	Wind Star*5
+437	用于黄金圣衣星铸。70级以上活动有大量掉落。
+438	Soul Light*10
 439	用于装备聚能。30级以上活动有大量掉落。
-440	High Soul Axis*10
+440	High Soul Light*10
 441	用于装备聚能。50级以上活动有大量掉落。
-442	Ribbon debris
-443	集齐一定数量后，可用于换取绶带的物品。
-444	Hothead
-445	กล้าหาญเดินไปข้างหน้า แผดเผาเลย! คอสโม!
-446	Sentimental
-447	ต้นห้อมอ่อนๆ เวลาที่ดีงาม
-448	Handsome
-449	คนหนุ่มรูปโฉมงดงาม
-450	Sunshine
-451	แสงอาทิตย์สีทองสาดท่องทั่วแผ่นดิน แสงสว่างปกคลุมเธออยู่
-452	Cute
-453	น่ารักก็คือความยุติธรรม
-454	Mature
-455	เวลาให้การเจริญเติบโต สิ่งที่ได้รับคือการที่ได้โตเต็มวัย
-456	Jia Mier[M]
-457	ทายาทจามิลที่ลึกลับ
-458	Zen
-459	คนที่ใกล้ชิดกับเทพที่สุด
-460	Tears Mole
-461	ความงามของเขาสามารถเทียบได้กับสุริยันจันทรา พิสซิสเกิดจากความรักและความงาม
-462	Evil of Justice
-463	แคนเซอร์ผู้มีทั้งดีชั่วสองด้าน
-464	Hothead
-465	พระเอกการ์ตูนต้องมีทรงหัวเม่น
-466	เพกาซัส
-467	ทรงผมของเพกาซัสเซย่า
-468	ดราก้อน
-469	ทรงผมของเดราก้อนชิริว
-470	ซิกนัส
-471	ทรงผมของเซิกนัสเฮียวงะ
-472	อันโดรเมด้า
-473	ทรงผมของเชุนอันโดรเมด้า
-474	ฟีนิกซ์
-475	ทรงผมของเฟีนิกซ์อิคคิ
-476	แอเรียส
-477	ทรงผมของเมู่แอเรียส
-478	เวอร์โก้
-479	ทรงผมของเชากะเวอร์โก้
-480	พิสซิส
-481	ทรงผมของเอโฟรดิตี้พิสซิส
-482	แคนเซอร์
-483	ทรงผมของเเดธมาสค์แคนเซอร์
-484	Innocent Girl
-485	ฉันกับเพื่อนตะลึงในความน่ารักจนตาค้างไปเลย!
-486	Lolita
-487	โลริมีดี3อย่าง......
-488	Queen
-489	ต้องเรียกข้าว่าองค์หญิง!
-490	Glamour Night
-491	หนึ่งยิ้มละลายเมือง ยิ้มต่อไปละลายประเทศ
-492	Powerful
-493	บารมีผู้กล้าล้นเหลือ ยอดสตรีแห่งยุคจริงๆ!
-494	Lily Girl
-495	หญิงสาวผู้โดดเดี่ยวและแข็งแกร่งขึ้นด้วยตนเอง เหมือนดั่งดอกลิลลี่ที่ดูคมในฝักสงบนิ่ง
-496	Jia Mier[F]
-497	ทายาทจามิลที่ลึกลับ
-498	Snow Girl
-499	ฐานะบารมีสูงส่ง นอกจากข้าจะมีใคร
-500	Steel Roses
-501	ใบหน้าที่แต่งหน้าคมเข้ม
-502	Final Mystery
-503	都说了叫神秘了，那意思就你猜啊~~
-504	Holy Flawless
-505	สวยบริสุทธิ์ไร้ตำหนิ
-506	Pure Lolita
-507	โลริมีดี3อย่าง......
-508	Mystique
-509	A secret makes a woman woman!
-510	Wild Flower
-511	路边的野花你快去采~
-512	Cute Dumpling
-513	ตระกูลใหญ่ลูกอี๋ ลูกอี๋ ลูกอี๋
-514	Youth
-515	นี่เป็นบทเพลงสรรเสริญหนุ่มสาว
-516	Natural
-517	น้ำใสกำเนิดดอกบัว ธรรมชาติสร้างสรรค์
-518	Scholarly
-519	ในหนังสือมีความรู้
-520	Classic
-521	แดนเหนือมีหญิงงาม เพียงในเดียวในยุคสมัย
-522	Elegant Grace
-523	ชนชั้นสูงเลี้ยงโตมาได้อย่างไร
-524	Ribbon debris
-525	集齐一定数量后，可用于换取绶带的物品。
-526	Chaos Leo Soul
-527	可将低阶狮子坐骑升级为高阶坐骑的必须品。
-528	Energy Stone
-529	微粒进化过程中使用该物品可大大提高成功率。
-530	Silver Crystal
-531	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-532	Silver Crystal*20
-533	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-534	Pluto Blood
-535	在星铸冥·圣衣时可提升效果。
-536	Pluto Blood*20
-537	在星铸冥·圣衣时可提升效果。
-538	Starlight*5
-539	天马座圣衣33-48级星铸。80级以上活动有大量掉落。
-540	Hell Star*5
-541	用于冥·圣衣星铸的必须品。
-542	Star Key
-543	用于观星的必须品。65级以上活动有掉落。
-544	Venus T-Shirt
-545	ชุดแฟชันสีทอง
-546	金星时光短裤
-547	ชุดแฟชันสีทอง
-548	Venus Shoes
+442	Soul Axis*10
+443	用于装备聚能。30级以上活动有大量掉落。
+444	High Soul Axis*10
+445	用于装备聚能。50级以上活动有大量掉落。
+446	Ribbon debris
+447	集齐一定数量后，可用于换取绶带的物品。
+448	Hothead
+449	กล้าหาญเดินไปข้างหน้า แผดเผาเลย! คอสโม!
+450	Sentimental
+451	ต้นห้อมอ่อนๆ เวลาที่ดีงาม
+452	Handsome
+453	คนหนุ่มรูปโฉมงดงาม
+454	Sunshine
+455	แสงอาทิตย์สีทองสาดท่องทั่วแผ่นดิน แสงสว่างปกคลุมเธออยู่
+456	Cute
+457	น่ารักก็คือความยุติธรรม
+458	Mature
+459	เวลาให้การเจริญเติบโต สิ่งที่ได้รับคือการที่ได้โตเต็มวัย
+460	Jia Mier[M]
+461	ทายาทจามิลที่ลึกลับ
+462	Zen
+463	คนที่ใกล้ชิดกับเทพที่สุด
+464	Tears Mole
+465	ความงามของเขาสามารถเทียบได้กับสุริยันจันทรา พิสซิสเกิดจากความรักและความงาม
+466	Evil of Justice
+467	แคนเซอร์ผู้มีทั้งดีชั่วสองด้าน
+468	Hothead
+469	พระเอกการ์ตูนต้องมีทรงหัวเม่น
+470	เพกาซัส
+471	ทรงผมของเพกาซัสเซย่า
+472	ดราก้อน
+473	ทรงผมของเดราก้อนชิริว
+474	ซิกนัส
+475	ทรงผมของเซิกนัสเฮียวงะ
+476	อันโดรเมด้า
+477	ทรงผมของเชุนอันโดรเมด้า
+478	ฟีนิกซ์
+479	ทรงผมของเฟีนิกซ์อิคคิ
+480	แอเรียส
+481	ทรงผมของเมู่แอเรียส
+482	เวอร์โก้
+483	ทรงผมของเชากะเวอร์โก้
+484	พิสซิส
+485	ทรงผมของเอโฟรดิตี้พิสซิส
+486	แคนเซอร์
+487	ทรงผมของเเดธมาสค์แคนเซอร์
+488	Innocent Girl
+489	ฉันกับเพื่อนตะลึงในความน่ารักจนตาค้างไปเลย!
+490	Lolita
+491	โลริมีดี3อย่าง......
+492	Queen
+493	ต้องเรียกข้าว่าองค์หญิง!
+494	Glamour Night
+495	หนึ่งยิ้มละลายเมือง ยิ้มต่อไปละลายประเทศ
+496	Powerful
+497	บารมีผู้กล้าล้นเหลือ ยอดสตรีแห่งยุคจริงๆ!
+498	Lily Girl
+499	หญิงสาวผู้โดดเดี่ยวและแข็งแกร่งขึ้นด้วยตนเอง เหมือนดั่งดอกลิลลี่ที่ดูคมในฝักสงบนิ่ง
+500	Jia Mier[F]
+501	ทายาทจามิลที่ลึกลับ
+502	Snow Girl
+503	ฐานะบารมีสูงส่ง นอกจากข้าจะมีใคร
+504	Steel Roses
+505	ใบหน้าที่แต่งหน้าคมเข้ม
+506	Final Mystery
+507	都说了叫神秘了，那意思就你猜啊~~
+508	Holy Flawless
+509	สวยบริสุทธิ์ไร้ตำหนิ
+510	Pure Lolita
+511	โลริมีดี3อย่าง......
+512	Mystique
+513	A secret makes a woman woman!
+514	Wild Flower
+515	路边的野花你快去采~
+516	Cute Dumpling
+517	ตระกูลใหญ่ลูกอี๋ ลูกอี๋ ลูกอี๋
+518	Youth
+519	นี่เป็นบทเพลงสรรเสริญหนุ่มสาว
+520	Natural
+521	น้ำใสกำเนิดดอกบัว ธรรมชาติสร้างสรรค์
+522	Scholarly
+523	ในหนังสือมีความรู้
+524	Classic
+525	แดนเหนือมีหญิงงาม เพียงในเดียวในยุคสมัย
+526	Elegant Grace
+527	ชนชั้นสูงเลี้ยงโตมาได้อย่างไร
+528	Ribbon debris
+529	集齐一定数量后，可用于换取绶带的物品。
+530	Chaos Leo Soul
+531	可将低阶狮子坐骑升级为高阶坐骑的必须品。
+532	Energy Stone
+533	微粒进化过程中使用该物品可大大提高成功率。
+534	Silver Crystal
+535	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+536	Silver Crystal*20
+537	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+538	Pluto Blood
+539	在星铸冥·圣衣时可提升效果。
+540	Pluto Blood*20
+541	在星铸冥·圣衣时可提升效果。
+542	Starlight*5
+543	天马座圣衣33-48级星铸。80级以上活动有大量掉落。
+544	Hell Star*5
+545	用于冥·圣衣星铸的必须品。
+546	Star Key
+547	用于观星的必须品。65级以上活动有掉落。
+548	Venus T-Shirt
 549	ชุดแฟชันสีทอง
-550	Venus Gloves
+550	金星时光短裤
 551	ชุดแฟชันสีทอง
-552	Sea breeze shirt
-553	แสงแดด ชายหาด ทะเล สาวสวย ฉันมาแล้ว!!
-554	Sea breeze Shorts
-555	แสงแดด ชายหาด ทะเล สาวสวย ฉันมาแล้ว!!
-556	Breeze Sandals
+552	Venus Shoes
+553	ชุดแฟชันสีทอง
+554	Venus Gloves
+555	ชุดแฟชันสีทอง
+556	Sea breeze shirt
 557	แสงแดด ชายหาด ทะเล สาวสวย ฉันมาแล้ว!!
-558	Venus T-Shirt[F]
-559	ชุดแฟชันสีทอง
-560	金星引力短裤
-561	ชุดแฟชันสีทอง
-562	Venus Shoes[F]
+558	Sea breeze Shorts
+559	แสงแดด ชายหาด ทะเล สาวสวย ฉันมาแล้ว!!
+560	Breeze Sandals
+561	แสงแดด ชายหาด ทะเล สาวสวย ฉันมาแล้ว!!
+562	Venus T-Shirt[F]
 563	ชุดแฟชันสีทอง
-564	Venus Gloves[F]
+564	金星引力短裤
 565	ชุดแฟชันสีทอง
-566	Golden Sunflower
-567	เจิดจรัดเหมือนดอกทานตะวัน
-568	Goldenflower Shoes
-569	เจิดจรัดเหมือนดอกทานตะวัน
-570	Dark Glasses
-571	แว่นกันแดดกรอบดำ
-572	Silver Blood*20
-573	在星铸青铜圣衣及白银圣衣时可提升效果。
-574	Silver Blood
-575	在星铸青铜圣衣及白银圣衣时可提升效果。
-576	Silver Crystal*20
-577	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-578	Silver Crystal
-579	在星铸所有白银圣衣及青铜圣衣时可提升效果。
-580	Fiery Frame
-581	火热风镜框，潮流时尚。
-582	Crimson Glasses
-583	神秘魅影，变幻莫测。
-584	Phantom Glasses
-585	神秘魅影，变幻莫测。
-586	Heart of Sakura
-587	兑换薄樱落·骑士的必须品。
-588	Silver Star
-589	兑换银翼杀手·风暴的必须品。
-590	Moe bunny
-591	打开后获得小伙伴——萌小兔。
-592	Light Gold Coin
-593	配合黄金圣衣兑换券使用，在NPC圣光使者处兑换黄金圣衣
-594	Aphrodite Potion
-595	使用后可以重塑自己角色的外形。
-596	Light of Metis
-597	聪慧女神的意志使你能重新学习战斗技能。
-598	Tuxedo Mask [M]
-599	魔幻乐园主题服饰。
-600	Tuxedo Mask[F]
-601	魔幻乐园主题服饰。
-602	Wizards Hat[M]
+566	Venus Shoes[F]
+567	ชุดแฟชันสีทอง
+568	Venus Gloves[F]
+569	ชุดแฟชันสีทอง
+570	Golden Sunflower
+571	เจิดจรัดเหมือนดอกทานตะวัน
+572	Goldenflower Shoes
+573	เจิดจรัดเหมือนดอกทานตะวัน
+574	Dark Glasses
+575	แว่นกันแดดกรอบดำ
+576	Silver Blood*20
+577	在星铸青铜圣衣及白银圣衣时可提升效果。
+578	Silver Blood
+579	在星铸青铜圣衣及白银圣衣时可提升效果。
+580	Silver Crystal*20
+581	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+582	Silver Crystal
+583	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+584	Fiery Frame
+585	火热风镜框，潮流时尚。
+586	Crimson Glasses
+587	神秘魅影，变幻莫测。
+588	Phantom Glasses
+589	神秘魅影，变幻莫测。
+590	Heart of Sakura
+591	兑换薄樱落·骑士的必须品。
+592	Silver Star
+593	兑换银翼杀手·风暴的必须品。
+594	Moe bunny
+595	打开后获得小伙伴——萌小兔。
+596	Light Gold Coin
+597	配合黄金圣衣兑换券使用，在NPC圣光使者处兑换黄金圣衣
+598	Aphrodite Potion
+599	使用后可以重塑自己角色的外形。
+600	Light of Metis
+601	聪慧女神的意志使你能重新学习战斗技能。
+602	Tuxedo Mask [M]
 603	魔幻乐园主题服饰。
-604	Wild Jacket
+604	Tuxedo Mask[F]
 605	魔幻乐园主题服饰。
-606	Wild Jeans
+606	Wizards Hat[M]
 607	魔幻乐园主题服饰。
-608	Wild Cowboygloves
+608	Wild Jacket
 609	魔幻乐园主题服饰。
-610	Wild Cowboyboots
+610	Wild Jeans
 611	魔幻乐园主题服饰。
-612	American Shirt
+612	Wild Cowboygloves
 613	魔幻乐园主题服饰。
-614	American Pants
+614	Wild Cowboyboots
 615	魔幻乐园主题服饰。
-616	American Gloves
+616	American Shirt
 617	魔幻乐园主题服饰。
-618	American Boots
+618	American Pants
 619	魔幻乐园主题服饰。
-620	Wizards Hat[F]
+620	American Gloves
 621	魔幻乐园主题服饰。
-622	Wild Suit[F]
+622	American Boots
 623	魔幻乐园主题服饰。
-624	Wild Cowboyboots[F]
+624	Wizards Hat[F]
 625	魔幻乐园主题服饰。
-626	American Suit[F]
+626	Wild Suit[F]
 627	魔幻乐园主题服饰。
-628	American Boots[F]
+628	Wild Cowboyboots[F]
 629	魔幻乐园主题服饰。
-630	Aries GiftII（TOP）
-631	每人限制使用一次的超值大礼包。
-632	Spirit Artifact
-633	在增强神器灵力值可选择使用。
-634	Spiritual Power
-635	增加人物的灵气值。
-636	Light Dazzling
-637	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
-638	High Light Dazzling
-639	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
-640	Engagement Ring[M]
-641	两人结为夫妻，男生必备道具。
-642	Engagement Ring[F]
-643	两人结为夫妻，女生必备道具。
-644	Neptune Blood
-645	在星铸鳞衣时可提升效果。
-646	Neptune Blood*20
-647	在星铸鳞衣时可提升效果。
-648	Recasting Core
-649	可以重铸一些装备的灵纹属性。
-650	Recovery Core*10
-651	可以在重铸灵纹时保留前一次的装备灵纹。
-652	High Recovery Core
-653	可以在重铸灵纹时保留前一次的装备灵纹。
-654	Transfer Core
-655	灵纹转移时必须消耗的物品。
-656	Wedding Ring
-657	两人结为夫妻必备的情侣对戒。
-658	Wedding Gift Pack
-659	举行梦幻婚礼的婚庆套包。
-660	Wedding Card
-661	装有很多请柬，可以用来送给亲友。
-662	Highlighter
-663	在豪华题词留言板留言的必须品，祝福被所有人看到。
-664	Neptune Blood
-665	在星铸鳞衣时可提升效果。
-666	Neptune Blood*20
-667	在星铸鳞衣时可提升效果。
-668	Pluto Blood
-669	在星铸冥圣衣时可提升效果。
-670	Pluto Blood*20
-671	在星铸冥圣衣时可提升效果。
-672	Gold Blood
-673	在星铸黄金圣衣及主角圣衣时可提升效果。
-674	Gold Blood*20
-675	在星铸黄金圣衣及主角圣衣时可提升效果。
-676	Snow of Love hair
-677	
-678	Snow of Love wedding
-679	
-680	Lovesnow Shoes[F]
+630	American Suit[F]
+631	魔幻乐园主题服饰。
+632	American Boots[F]
+633	魔幻乐园主题服饰。
+634	Aries GiftII（TOP）
+635	每人限制使用一次的超值大礼包。
+636	Spirit Artifact
+637	在增强神器灵力值可选择使用。
+638	Spiritual Power
+639	增加人物的灵气值。
+640	Light Dazzling
+641	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+642	High Light Dazzling
+643	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+644	Engagement Ring[M]
+645	两人结为夫妻，男生必备道具。
+646	Engagement Ring[F]
+647	两人结为夫妻，女生必备道具。
+648	Neptune Blood
+649	在星铸鳞衣时可提升效果。
+650	Neptune Blood*20
+651	在星铸鳞衣时可提升效果。
+652	Recasting Core
+653	可以重铸一些装备的灵纹属性。
+654	Recovery Core*10
+655	可以在重铸灵纹时保留前一次的装备灵纹。
+656	High Recovery Core
+657	可以在重铸灵纹时保留前一次的装备灵纹。
+658	Transfer Core
+659	灵纹转移时必须消耗的物品。
+660	Wedding Ring
+661	两人结为夫妻必备的情侣对戒。
+662	Wedding Gift Pack
+663	举行梦幻婚礼的婚庆套包。
+664	Wedding Card
+665	装有很多请柬，可以用来送给亲友。
+666	Highlighter
+667	在豪华题词留言板留言的必须品，祝福被所有人看到。
+668	Neptune Blood
+669	在星铸鳞衣时可提升效果。
+670	Neptune Blood*20
+671	在星铸鳞衣时可提升效果。
+672	Pluto Blood
+673	在星铸冥圣衣时可提升效果。
+674	Pluto Blood*20
+675	在星铸冥圣衣时可提升效果。
+676	Gold Blood
+677	在星铸黄金圣衣及主角圣衣时可提升效果。
+678	Gold Blood*20
+679	在星铸黄金圣衣及主角圣衣时可提升效果。
+680	Snow of Love hair
 681	
-682	Lovesnow Headgear
+682	Snow of Love wedding
 683	
-684	Snow of Love Suit
+684	Lovesnow Shoes[F]
 685	
-686	Snow of Love Pants
+686	Lovesnow Headgear
 687	
-688	Recasting Core
-689	可以重铸一些装备的灵纹属性。
-690	Recovery Core*10
-691	可以在重铸灵纹时保留前一次的装备灵纹。
-692	High Recovery Core
-693	可以在重铸灵纹时保留前一次的装备灵纹。
-694	Transfer Core
-695	灵纹转移时必须消耗的物品。
-696	Neptune Star*5
-697	用于鳞衣星铸的必须品。
-698	Baby Panda
-699	可爱的新春熊猫宝宝，抱着红色锦鲤给你拜年咯！
-700	Hades Blood
-701	在星铸冥圣衣时可提升效果。
-702	Hades Blood*20
-703	在星铸冥圣衣时可提升效果。
-704	Crystal Fall
-705	可以用于徽章的升阶。
-706	Abyss Crystal
-707	可以用于灵石的升阶。
-708	Hurricane Crystal
-709	可以用于手环的升阶。
-710	Hades Crystal
-711	可以用于高阶徽章的升阶。
-712	Poseidon Crystal
-713	可以用于高阶灵石的升阶。
-714	Zeus Crystal
-715	可以用于高阶手环的升阶。
-716	Future BoxLv10
-717	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-718	Future BoxLv59
-719	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-720	Future BoxLv79
+688	Snow of Love Suit
+689	
+690	Snow of Love Pants
+691	
+692	Recasting Core
+693	可以重铸一些装备的灵纹属性。
+694	Recovery Core*10
+695	可以在重铸灵纹时保留前一次的装备灵纹。
+696	High Recovery Core
+697	可以在重铸灵纹时保留前一次的装备灵纹。
+698	Transfer Core
+699	灵纹转移时必须消耗的物品。
+700	Neptune Star*5
+701	用于鳞衣星铸的必须品。
+702	Baby Panda
+703	可爱的新春熊猫宝宝，抱着红色锦鲤给你拜年咯！
+704	Hades Blood
+705	在星铸冥圣衣时可提升效果。
+706	Hades Blood*20
+707	在星铸冥圣衣时可提升效果。
+708	Crystal Fall
+709	可以用于徽章的升阶。
+710	Abyss Crystal
+711	可以用于灵石的升阶。
+712	Hurricane Crystal
+713	可以用于手环的升阶。
+714	Hades Crystal
+715	可以用于高阶徽章的升阶。
+716	Poseidon Crystal
+717	可以用于高阶灵石的升阶。
+718	Zeus Crystal
+719	可以用于高阶手环的升阶。
+720	Future BoxLv10
 721	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-722	Future BoxLv10
+722	Future BoxLv59
 723	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-724	Future BoxLv59
+724	Future BoxLv79
 725	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-726	Future BoxLv79
+726	Future BoxLv10
 727	礼包内物品可帮助您更快升级，每个角色只可开启一次。
-728	Soul Gem-Sun
-729	可以镶嵌并提升灵魂之甲的属性。
-730	Soul Gem-Moon
-731	可以镶嵌并提升灵魂之甲的属性。
-732	Soul Gem-Mercury
+728	Future BoxLv59
+729	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+730	Future BoxLv79
+731	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+732	Soul Gem-Sun
 733	可以镶嵌并提升灵魂之甲的属性。
-734	Soul Gem-Venus
+734	Soul Gem-Moon
 735	可以镶嵌并提升灵魂之甲的属性。
-736	Soul Gem-Mars
+736	Soul Gem-Mercury
 737	可以镶嵌并提升灵魂之甲的属性。
-738	Soul Gem-Jupiter
+738	Soul Gem-Venus
 739	可以镶嵌并提升灵魂之甲的属性。
-740	Soul Gem-Saturn
+740	Soul Gem-Mars
 741	可以镶嵌并提升灵魂之甲的属性。
-742	Soul Gem-Uranus
+742	Soul Gem-Jupiter
 743	可以镶嵌并提升灵魂之甲的属性。
-744	Soul Gem-Neptune
+744	Soul Gem-Saturn
 745	可以镶嵌并提升灵魂之甲的属性。
-746	Soul Gem-Pluto
+746	Soul Gem-Uranus
 747	可以镶嵌并提升灵魂之甲的属性。
-748	Soul Gem EXP
-749	在灵魂宝石升级时可以额外增加升级经验。
-750	Soul Gem-Sun
+748	Soul Gem-Neptune
+749	可以镶嵌并提升灵魂之甲的属性。
+750	Soul Gem-Pluto
 751	可以镶嵌并提升灵魂之甲的属性。
-752	Soul Gem-Moon
-753	可以镶嵌并提升灵魂之甲的属性。
-754	Soul Gem-Mercury
+752	Soul Gem EXP
+753	在灵魂宝石升级时可以额外增加升级经验。
+754	Soul Gem-Sun
 755	可以镶嵌并提升灵魂之甲的属性。
-756	Soul Gem-Venus
+756	Soul Gem-Moon
 757	可以镶嵌并提升灵魂之甲的属性。
-758	Soul Gem-Mars
+758	Soul Gem-Mercury
 759	可以镶嵌并提升灵魂之甲的属性。
-760	Soul Gem-Jupiter
+760	Soul Gem-Venus
 761	可以镶嵌并提升灵魂之甲的属性。
-762	Soul Gem-Saturn
+762	Soul Gem-Mars
 763	可以镶嵌并提升灵魂之甲的属性。
-764	Soul Gem-Uranus
+764	Soul Gem-Jupiter
 765	可以镶嵌并提升灵魂之甲的属性。
-766	Soul Gem-Neptune
+766	Soul Gem-Saturn
 767	可以镶嵌并提升灵魂之甲的属性。
-768	Soul Gem-Pluto
+768	Soul Gem-Uranus
 769	可以镶嵌并提升灵魂之甲的属性。
-770	Soul Gem EXP
-771	在灵魂宝石升级时可以额外增加升级经验。
-772	Spirit Armor
-773	升级灵魂之甲的必须道具。
-774	Soul Gem Piece
-775	升级灵魂宝石的必须材料。
-776	Soul Gem Piece
-777	升级灵魂宝石的必须材料。
-778	Light of Metis
-779	聪慧女神的意志使你能重新学习战斗技能。
-780	Light of Metis
-781	聪慧女神的意志使你能重新学习战斗技能。
-782	God Gift•Sagittarius
-783	...
-784	God Gift•Sagittarius II
-785	...
-786	Sagittarius Box II
+770	Soul Gem-Neptune
+771	可以镶嵌并提升灵魂之甲的属性。
+772	Soul Gem-Pluto
+773	可以镶嵌并提升灵魂之甲的属性。
+774	Soul Gem EXP
+775	在灵魂宝石升级时可以额外增加升级经验。
+776	Spirit Armor
+777	升级灵魂之甲的必须道具。
+778	Soul Gem Piece
+779	升级灵魂宝石的必须材料。
+780	Soul Gem Piece
+781	升级灵魂宝石的必须材料。
+782	Light of Metis
+783	聪慧女神的意志使你能重新学习战斗技能。
+784	Light of Metis
+785	聪慧女神的意志使你能重新学习战斗技能。
+786	God Gift•Sagittarius
 787	...
-788	Sagittarius Gift II (Top)
+788	God Gift•Capricorn II
 789	...
-790	Sagittarius Gift II (Extreme)
+790	Capricorn Pack II
 791	...
-792	Sagittarius Box II
-793	
-794	Sagittarius Gift II (Top)
+792	Capricorn GiftII（TOP）
+793	...
+794	Capricorn GiftII（EX）
 795	...
-796	Sagittarius Gift II (Extreme)
-797	...
-798	Protoss keepsake*1
-799	星灵强化时使用，可提升强化经验倍率。
-800	Protoss keepsake*20
-801	星灵强化时使用，可提升强化经验倍率。
-802	Starstone Element*1
-803	搜寻星元所需要的消耗品。
-804	ใบมอบบรอนซ์คลอธ
-805	换取更高阶青铜圣衣的凭证。
-806	Starstone Element*20
+796	Capricorn Pack II
+797	
+798	Capricorn GiftII（TOP）
+799	...
+800	Capricorn GiftII（EX）
+801	...
+802	Protoss keepsake*1
+803	星灵强化时使用，可提升强化经验倍率。
+804	Protoss keepsake*20
+805	星灵强化时使用，可提升强化经验倍率。
+806	Starstone Element*1
 807	搜寻星元所需要的消耗品。
-808	Whisper of Iapetus
-809	使用后重置星灵觉醒值。
-810	Protoss keepsake*1
-811	星灵强化时使用，可提升强化经验倍率。
-812	Protoss keepsake*20
-813	星灵强化时使用，可提升强化经验倍率。
-814	Starstone Element*1
-815	搜寻星元所需要的消耗品。
-816	Starstone Element*20
-817	搜寻星元所需要的消耗品。
-818	Whisper of Iapetus
-819	使用后重置星灵觉醒值。
-820	ตราของข้าหลวง
-821	将军团旌旗旁边的守卫者替换成女王神官。
-822	ตราของเท็ดดี้แบร์
-823	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
-824	ตราของราชาโจรสลัด
-825	将军团旌旗旁边的守卫者替换成暴躁海盗王。
-826	บัตรเลือกตั้ง
-827	选举教皇的必需品，将其投给你最信任的那个候选人。
-828	ธงเคียวโก
-829	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
-830	ใบมอบซิลเวอร์คลอธ
-831	换取更高阶白银圣衣的凭证。
-832	Silent Seal
-833	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
-834	Switch Stance
-835	使用后可切换不同职业的站姿。
-836	海蛟的珍珠
-837	使用后可切换性别。
+808	ใบมอบบรอนซ์คลอธ
+809	换取更高阶青铜圣衣的凭证。
+810	Starstone Element*20
+811	搜寻星元所需要的消耗品。
+812	Whisper of Iapetus
+813	使用后重置星灵觉醒值。
+814	Protoss keepsake*1
+815	星灵强化时使用，可提升强化经验倍率。
+816	Protoss keepsake*20
+817	星灵强化时使用，可提升强化经验倍率。
+818	Starstone Element*1
+819	搜寻星元所需要的消耗品。
+820	Starstone Element*20
+821	搜寻星元所需要的消耗品。
+822	Whisper of Iapetus
+823	使用后重置星灵觉醒值。
+824	ตราของข้าหลวง
+825	将军团旌旗旁边的守卫者替换成女王神官。
+826	ตราของเท็ดดี้แบร์
+827	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
+828	ตราของราชาโจรสลัด
+829	将军团旌旗旁边的守卫者替换成暴躁海盗王。
+830	บัตรเลือกตั้ง
+831	选举教皇的必需品，将其投给你最信任的那个候选人。
+832	ธงเคียวโก
+833	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
+834	ใบมอบซิลเวอร์คลอธ
+835	换取更高阶白银圣衣的凭证。
+836	Silent Seal
+837	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
 838	Switch Stance
 839	使用后可切换不同职业的站姿。
 840	海蛟的珍珠
 841	使用后可切换性别。
-842	Battle Leo Soul
-843	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
-844	Switch Fashion Sex
-845	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
-846	Switch Fashion Sex
-847	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
-848	Mystery man
-849	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
-850	Mystery man
-851	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+842	Switch Stance
+843	使用后可切换不同职业的站姿。
+844	海蛟的珍珠
+845	使用后可切换性别。
+846	Battle Leo Soul
+847	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
+848	Switch Fashion Sex
+849	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+850	Switch Fashion Sex
+851	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
 852	Mystery man
 853	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+854	Mystery man
+855	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+856	Mystery man
+857	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。

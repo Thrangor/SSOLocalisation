@@ -348,507 +348,511 @@
 347	
 348	Black Phoenix
 349	
-350	Ryusei
+350	Spirit of Phoenix
 351	
-352	Sovereign Dragon of the Night
+352	Spirit of Phoenix
 353	
-354	Jade · Dragon's Wing
+354	Ryusei
 355	
-356	Tiamat
+356	Sovereign Dragon of the Night
 357	
-358	Spectral Tap
+358	Jade · Dragon's Wing
 359	
-360	Hyper Potion IV
-361	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
-362	Hyper Potion III
-363	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
-364	Energetic I*20
-365	After using, you receive 500 magic box energy.
-366	Energetic I
-367	After using, you receive 500 magic box energy.
-368	Enhancer*20
-369	After using, you receive 400 magic box energy.
-370	Enhancer
-371	After using, you receive 400 magic box energy.
-372	Inventory Expansion
-373	Expands bag space by 6 slots.
-374	Warehouse Expansion
-375	Expands warehouse space by 6 slots.
-376	World Megaphone*200
-377	Consumed when speaking on the world channel.
-378	World Megaphone*10
-379	Consumed when speaking on the world channel.
-380	Ad Megaphone*200
-381	Consumed when speaking on a broadcast channel.
-382	Ad Megaphone*10
-383	Consumed when speaking on a broadcast channel.
-384	Ad Megaphone
+360	Tiamat
+361	
+362	Spectral Tap
+363	
+364	Hyper Potion IV
+365	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
+366	Hyper Potion III
+367	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
+368	Energetic I*20
+369	After using, you receive 500 magic box energy.
+370	Energetic I
+371	After using, you receive 500 magic box energy.
+372	Enhancer*20
+373	After using, you receive 400 magic box energy.
+374	Enhancer
+375	After using, you receive 400 magic box energy.
+376	Inventory Expansion
+377	Expands bag space by 6 slots.
+378	Warehouse Expansion
+379	Expands warehouse space by 6 slots.
+380	World Megaphone*200
+381	Consumed when speaking on the world channel.
+382	World Megaphone*10
+383	Consumed when speaking on the world channel.
+384	Ad Megaphone*200
 385	Consumed when speaking on a broadcast channel.
-386	Energy Center EXP Double
-387	Increase double EXP duration by 60 minutes.
-388	Destination Data*20
-389	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-390	Destination Data
-391	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
-392	Card of Invasion
-393	A magical item that can directly sweep a copy of the activity.
-394	Ecliptic Heart I
-395	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-396	Ecliptic Heart II
-397	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-398	Ecliptic Heart III
+386	Ad Megaphone*10
+387	Consumed when speaking on a broadcast channel.
+388	Ad Megaphone
+389	Consumed when speaking on a broadcast channel.
+390	Energy Center EXP Double
+391	Increase double EXP duration by 60 minutes.
+392	Destination Data*20
+393	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
+394	Destination Data
+395	Add an chance to re-roll rewards for the "Destiny Trial" and "Biography Mission".
+396	Card of Invasion
+397	A magical item that can directly sweep a copy of the activity.
+398	Ecliptic Heart I
 399	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-400	Ecliptic Heart IV
+400	Ecliptic Heart II
 401	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-402	Ecliptic Heart V
+402	Ecliptic Heart III
 403	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-404	Condensed Star Light*5
-405	Material used in exchange for the related items of the ruler.
-406	Bronze Fragment*5
-407	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
-408	Silver Fragment*5
-409	After collecting a certain amount, you can exchange for Silver Holy Armor.\rDrops in activities above level 60.
-410	Black Star Jade*5
-411	Dark Saints 1-10 stars cast.\rCan be redeemed.
-412	Black Star Crystal*5
-413	Dark Saints 11-16 stars cast.\rCan be redeemed.
-414	Black Star Splendor*5
-415	Dark Saints 17-32 stars cast.\rCan be redeemed.
-416	Star Jade*5
-417	Pegasus Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
-418	Star Crystal*5
-419	Pegasus Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
-420	Star Splendor*5
-421	Pegasus Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
-422	Bronze Star Dust*5
-423	Used in ordinary bronze sacred clothing.\rDrops frequency in instances above level 30.
-424	Silver Star Dust*5
-425	Used for ordinary silver sacred clothing.\rDrops frequency in instances above level 50.
-426	Star Brightness [Earth]*5
-427	Used for Gold Armor.\rDrops frequency in instances above level 70.
-428	Star Brightness [Fire]*5
-429	Used for Gold Armor.\rDrops frequency in instances above level 70.
-430	Star Brightness [Water]*5
+404	Ecliptic Heart IV
+405	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+406	Ecliptic Heart V
+407	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
+408	Condensed Star Light*5
+409	Material used in exchange for the related items of the ruler.
+410	Bronze Fragment*5
+411	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
+412	Silver Fragment*5
+413	After collecting a certain amount, you can exchange for Silver Holy Armor.\rDrops in activities above level 60.
+414	Black Star Jade*5
+415	Dark Saints 1-10 stars cast.\rCan be redeemed.
+416	Black Star Crystal*5
+417	Dark Saints 11-16 stars cast.\rCan be redeemed.
+418	Black Star Splendor*5
+419	Dark Saints 17-32 stars cast.\rCan be redeemed.
+420	Star Jade*5
+421	Pegasus Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
+422	Star Crystal*5
+423	Pegasus Saint Cloth 11-16 stars cast.\rDrops frequency in instances above level 50.
+424	Star Splendor*5
+425	Pegasus Saint Cloth is a 17-32 star cast.\rDrops frequency in instances above level 70.
+426	Bronze Star Dust*5
+427	Used in ordinary bronze sacred clothing.\rDrops frequency in instances above level 30.
+428	Silver Star Dust*5
+429	Used for ordinary silver sacred clothing.\rDrops frequency in instances above level 50.
+430	Star Brightness [Earth]*5
 431	Used for Gold Armor.\rDrops frequency in instances above level 70.
-432	Star Bright [Wind]*5
+432	Star Brightness [Fire]*5
 433	Used for Gold Armor.\rDrops frequency in instances above level 70.
-434	Spiritual Light*10
-435	Used to equip the energy.\rDrops frequency in instances above level 30.
-436	Spiritual Light +*10
-437	Used to equip the energy.\rDrops frequency in instances above level 50.
-438	Soul Light*10
+434	Star Brightness [Water]*5
+435	Used for Gold Armor.\rDrops frequency in instances above level 70.
+436	Star Bright [Wind]*5
+437	Used for Gold Armor.\rDrops frequency in instances above level 70.
+438	Spiritual Light*10
 439	Used to equip the energy.\rDrops frequency in instances above level 30.
-440	Soul Light +*10
+440	Spiritual Light +*10
 441	Used to equip the energy.\rDrops frequency in instances above level 50.
-442	Fragment of Stole
-443	Once collected in a certain amount, it can be used to exchange items for the sling.
-444	Young Passionate
-445	Advance bravely and burn! Cosmo!
-446	Immature
-447	Young and childish, good times.
-448	Beautiful and elegant
-449	Young, beautiful elegant and natural.
-450	Golden Light
-451	Sunlight surrounds you
-452	Young Knight
-453	Tenderness is justice.
-454	Maduro
-455	Time gives you maturity
-456	Jamir (M)
-457	Descendant of the village of Jamir.
-458	Zen Spirit
-459	The man closest to God.
-460	Lunar under the eye
-461	Its beauty can compete with the sun and the moon
-462	Terror and justice
-463	Justice can be terrible
-464	Young Passionate
-465	Young man with a burning heart 
-466	Pegasus
-467	Hairstyle of Seiya of Pegasus.\r
-468	Dragon
-469	Dragon Shiryu hairstyle.
-470	Cygnus
-471	Cygnus Hyoga Hairstyle
-472	Andromeda
-473	Andromeda Shun Hairstyle.\r
-474	Phoenix
-475	Ikki of Phoenix hairstyle.\r
-476	Aries
-477	Aries Mu hairstyle.\r
-478	Virgo
-479	Shaka's Virgo Hairstyle.\r
-480	Pisces
-481	Hairstyle of the Aphrodite of Pisces.\r
-482	Cancer
-483	Hairstyle of the Cancer Death Mask.\r
-484	Tender Girl
-485	I and my little Companion got so fond of us!
-486	Innocent Girl
-487	For those who have a pure heart
-488	Queen
-489	You have to call me Empress!
-490	Lovely Girl
-491	With a smile the city curves, with another the country too.
-492	Brave and Brilliant
-493	Full of heroic spirit, what a peculiar woman!
-494	Lily Girl
-495	Independent and self-sufficient girl, seems a calm and content lily.
-496	Jamir (F)
-497	Descendant of the village of Jamir.
-498	Snow Girl
-499	Elegant and noble, who but me?
-500	Delicate Girl
-501	Delicate as a rose
-502	Last mystery
-503	I said it is mysterious, so you guessed it~~
-504	Impeccable purity
-505	Impeccable hairstyle 
-506	Colitas
-507	For those who have a pure heart
-508	Mysterious Charm
-509	The mystery is the charm of a woman! 
-510	Wild Flower
-511	Wildflowers on the roadside, you are going to pick it up~
-512	Tender Fritters
-513	Two bows are better than one! 
-514	Jovial Bun
-515	Jovial and genial hairstyle 
-516	Natural charm
-517	Natural beauty like that of a hibiscus 
-518	Intelligent and Delicate
-519	She knows which books contain treasures 
-520	Pretty and Classical
-521	Beautiful, unique and independent 
-522	Graceful Elegance
-523	Tenderness heats the hearts of people
-524	Fragment of Stole
-525	Once collected in a certain amount, it can be used to exchange items for the sling.
-526	Chaotic Spirit of Leo
-527	The low-end lion mount can be upgraded to a must-have for high-end mounts.
-528	Energy Fuser
-529	The use of this item during particle evolution greatly increases the success rate.
-530	Silver Blood
-531	It can be enhanced when the stars cast all Silver and Bronze Armors.
-532	Silver Blood*20
-533	It can be enhanced when the stars cast all Silver and Bronze Armors.
-534	Blood of Hades
-535	It can improve the effect when the star casts the Holy Armour.
-536	Blood of Hades*20
-537	It can improve the effect when the star casts the Holy Armour.
-538	Star Light*5
-539	The Pegasus Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
-540	Underworld Starlight*5
-541	Used for the necessities of the sacred clothing.
-542	Cosmic Key
-543	Essentials for stargazing.\rActivities above level 65 have fallen.
-544	Venus Superior Suit
-545	Latest fashion on Venus 
-546	Venus Time Shorts
-547	Latest fashion on Venus 
-548	Venus Boots (M)
+442	Soul Light*10
+443	Used to equip the energy.\rDrops frequency in instances above level 30.
+444	Soul Light +*10
+445	Used to equip the energy.\rDrops frequency in instances above level 50.
+446	Fragment of Stole
+447	Once collected in a certain amount, it can be used to exchange items for the sling.
+448	Young Passionate
+449	Advance bravely and burn! Cosmo!
+450	Immature
+451	Young and childish, good times.
+452	Beautiful and elegant
+453	Young, beautiful elegant and natural.
+454	Golden Light
+455	Sunlight surrounds you
+456	Young Knight
+457	Tenderness is justice.
+458	Maduro
+459	Time gives you maturity
+460	Jamir (M)
+461	Descendant of the village of Jamir.
+462	Zen Spirit
+463	The man closest to God.
+464	Lunar under the eye
+465	Its beauty can compete with the sun and the moon
+466	Terror and justice
+467	Justice can be terrible
+468	Young Passionate
+469	Young man with a burning heart 
+470	Pegasus
+471	Hairstyle of Seiya of Pegasus.\r
+472	Dragon
+473	Dragon Shiryu hairstyle.
+474	Cygnus
+475	Cygnus Hyoga Hairstyle
+476	Andromeda
+477	Andromeda Shun Hairstyle.\r
+478	Phoenix
+479	Ikki of Phoenix hairstyle.\r
+480	Aries
+481	Aries Mu hairstyle.\r
+482	Virgo
+483	Shaka's Virgo Hairstyle.\r
+484	Pisces
+485	Hairstyle of the Aphrodite of Pisces.\r
+486	Cancer
+487	Hairstyle of the Cancer Death Mask.\r
+488	Tender Girl
+489	I and my little Companion got so fond of us!
+490	Innocent Girl
+491	For those who have a pure heart
+492	Queen
+493	You have to call me Empress!
+494	Lovely Girl
+495	With a smile the city curves, with another the country too.
+496	Brave and Brilliant
+497	Full of heroic spirit, what a peculiar woman!
+498	Lily Girl
+499	Independent and self-sufficient girl, seems a calm and content lily.
+500	Jamir (F)
+501	Descendant of the village of Jamir.
+502	Snow Girl
+503	Elegant and noble, who but me?
+504	Delicate Girl
+505	Delicate as a rose
+506	Last mystery
+507	I said it is mysterious, so you guessed it~~
+508	Impeccable purity
+509	Impeccable hairstyle 
+510	Colitas
+511	For those who have a pure heart
+512	Mysterious Charm
+513	The mystery is the charm of a woman! 
+514	Wild Flower
+515	Wildflowers on the roadside, you are going to pick it up~
+516	Tender Fritters
+517	Two bows are better than one! 
+518	Jovial Bun
+519	Jovial and genial hairstyle 
+520	Natural charm
+521	Natural beauty like that of a hibiscus 
+522	Intelligent and Delicate
+523	She knows which books contain treasures 
+524	Pretty and Classical
+525	Beautiful, unique and independent 
+526	Graceful Elegance
+527	Tenderness heats the hearts of people
+528	Fragment of Stole
+529	Once collected in a certain amount, it can be used to exchange items for the sling.
+530	Chaotic Spirit of Leo
+531	The low-end lion mount can be upgraded to a must-have for high-end mounts.
+532	Energy Fuser
+533	The use of this item during particle evolution greatly increases the success rate.
+534	Silver Blood
+535	It can be enhanced when the stars cast all Silver and Bronze Armors.
+536	Silver Blood*20
+537	It can be enhanced when the stars cast all Silver and Bronze Armors.
+538	Blood of Hades
+539	It can improve the effect when the star casts the Holy Armour.
+540	Blood of Hades*20
+541	It can improve the effect when the star casts the Holy Armour.
+542	Star Light*5
+543	The Pegasus Saint Cloth is a 33-48 star cast.\rDrops frequency in instances above level 80.
+544	Underworld Starlight*5
+545	Used for the necessities of the sacred clothing.
+546	Cosmic Key
+547	Essentials for stargazing.\rActivities above level 65 have fallen.
+548	Venus Superior Suit
 549	Latest fashion on Venus 
-550	Glove Venus (M)
+550	Venus Time Shorts
 551	Latest fashion on Venus 
-552	Breeze of the Sea T-Shirt
-553	The sea breeze makes people happier! 
-554	Bermuda Breeze of the Sea
-555	The sea breeze makes people happier! 
-556	Brisa del Mar Flip Flops
+552	Venus Boots (M)
+553	Latest fashion on Venus 
+554	Glove Venus (M)
+555	Latest fashion on Venus 
+556	Breeze of the Sea T-Shirt
 557	The sea breeze makes people happier! 
-558	Venus Shorts
-559	Latest fashion on Venus 
-560	Venus Gravitation Shorts
-561	Latest fashion on Venus 
-562	Venus boots (F)
+558	Bermuda Breeze of the Sea
+559	The sea breeze makes people happier! 
+560	Brisa del Mar Flip Flops
+561	The sea breeze makes people happier! 
+562	Venus Shorts
 563	Latest fashion on Venus 
-564	Venus Glove (F)
+564	Venus Gravitation Shorts
 565	Latest fashion on Venus 
-566	Sunflower Bikini
-567	Shining like a sunflower.
-568	Sunflower Sandals
-569	Shining like a sunflower.
-570	Basic Sunglasses
-571	Beautiful and basic 
-572	Bronze Blood*20
-573	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
-574	Bronze Blood
-575	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
-576	Silver Blood*20
-577	It can be enhanced when the stars cast all Silver and Bronze Armors.
-578	Silver Blood
-579	It can be enhanced when the stars cast all Silver and Bronze Armors.
-580	Red Lenses
-581	Hot goggles, trendy.
-582	Coral Sunglasses
-583	Mysterious phantom, unpredictable.
-584	Purple Sunglasses
-585	Mysterious phantom, unpredictable.
-586	Cherry Heart
-587	Exchange for the essentials of the Sakura and Knight.
-588	Silver Star
-589	Redemption of the silver wing killer and storm.
-590	Tender Bunny's Egg
-591	Opened to get a small partner - Meng Bunny.
-592	Sacred Golden Coin
-593	Used in conjunction with the Golden Saints Coupon, redeem the Gold Saint Cloth at the NPC Lightbringer
-594	Potion of Aphrodite
-595	can reshape the shape of your character after use.
-596	Metis Determination Light
-597	The will of the intelligent goddess allows you to relearn combat skills.
-598	Night Mask (M)
-599	Magic Paradise theme costumes.
-600	Night Mask (F)
-601	Magic Paradise theme costumes.
-602	Warlock Hat
+566	Venus boots (F)
+567	Latest fashion on Venus 
+568	Venus Glove (F)
+569	Latest fashion on Venus 
+570	Sunflower Bikini
+571	Shining like a sunflower.
+572	Sunflower Sandals
+573	Shining like a sunflower.
+574	Basic Sunglasses
+575	Beautiful and basic 
+576	Bronze Blood*20
+577	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
+578	Bronze Blood
+579	It can be enhanced in the Star Cast Bronze Holy Armour and the chance of or Silver Armor.
+580	Silver Blood*20
+581	It can be enhanced when the stars cast all Silver and Bronze Armors.
+582	Silver Blood
+583	It can be enhanced when the stars cast all Silver and Bronze Armors.
+584	Red Lenses
+585	Hot goggles, trendy.
+586	Coral Sunglasses
+587	Mysterious phantom, unpredictable.
+588	Purple Sunglasses
+589	Mysterious phantom, unpredictable.
+590	Cherry Heart
+591	Exchange for the essentials of the Sakura and Knight.
+592	Silver Star
+593	Redemption of the silver wing killer and storm.
+594	Tender Bunny's Egg
+595	Opened to get a small partner - Meng Bunny.
+596	Sacred Golden Coin
+597	Used in conjunction with the Golden Saints Coupon, redeem the Gold Saint Cloth at the NPC Lightbringer
+598	Potion of Aphrodite
+599	can reshape the shape of your character after use.
+600	Metis Determination Light
+601	The will of the intelligent goddess allows you to relearn combat skills.
+602	Night Mask (M)
 603	Magic Paradise theme costumes.
-604	Top of Country Suit
+604	Night Mask (F)
 605	Magic Paradise theme costumes.
-606	Country Pants
+606	Warlock Hat
 607	Magic Paradise theme costumes.
-608	Country Glove
+608	Top of Country Suit
 609	Magic Paradise theme costumes.
-610	Country Boots
+610	Country Pants
 611	Magic Paradise theme costumes.
-612	Top of the American Costume
+612	Country Glove
 613	Magic Paradise theme costumes.
-614	Pants of the beautiful impetuous team
+614	Country Boots
 615	Magic Paradise theme costumes.
-616	American Glove
+616	Top of the American Costume
 617	Magic Paradise theme costumes.
-618	American Boots (M)
+618	Pants of the beautiful impetuous team
 619	Magic Paradise theme costumes.
-620	Witch Hat
+620	American Glove
 621	Magic Paradise theme costumes.
-622	Fashion Costume
+622	American Boots (M)
 623	Magic Paradise theme costumes.
-624	Fashion Boots
+624	Witch Hat
 625	Magic Paradise theme costumes.
-626	American Costume
+626	Fashion Costume
 627	Magic Paradise theme costumes.
-628	American Boots (F)
+628	Fashion Boots
 629	Magic Paradise theme costumes.
-630	Gift of Aries II (Excellent)
-631	A value-for-money spree that is limited to one use per person.
-632	Soul of the Relic
-633	You can choose to use the enhanced artifact power value.
-634	Spiritual Source I
-635	Increase the aura of the character.
-636	Sacred Splendor
-637	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
-638	Holy Splendor +
-639	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
-640	Sweetheart at First Sight
-641	The two are married and the boys must have props.
-642	Love at First Sight
-643	The two are married and the girls must have props.
-644	Blood of Poseidon
-645	It can improve the effect when the star casts the Scales.
-646	Blood of Poseidon*20
-647	It can improve the effect when the star casts the Scales.
-648	Reformulation Axis
-649	It is possible to recast the spirit of some equipment.
-650	Axis of Preservation*10
-651	It is possible to retain the previous equipment spirit when recasting the spirit.
-652	Preservation Axis +
-653	It is possible to retain the previous equipment spirit when recasting the spirit.
-654	Axis Transition
-655	Items that must be consumed when the spirits are transferred.
-656	Marriage Alliances
-657	The two became a must-have couple ring for the couple.
-658	Luxury Wedding Kit
-659	A wedding package for a dream wedding.
-660	Stack Invitations
-661	There are a lot of invitations that can be used to give gifts to relatives and friends.
-662	Bookmark
-663	The blessings of the message on the luxury inscription message board, the blessing is seen by everyone.
-664	Blood of Poseidon
-665	It can improve the effect when the star casts the Scales.
-666	Blood of Poseidon*20
-667	It can improve the effect when the star casts the Scales.
-668	Blood of Hades
-669	It can improve the effect when the star casts the Holy Armor.
-670	Blood of Hades*20
-671	It can improve the effect when the star casts the Holy Armor.
-672	Blood of Athena
-673	It can be enhanced in the Star Cast Gold Holy Armour and the chance for Divine Armor.
-674	Blood of Athena*20
-675	It can be enhanced in the Star Cast Gold Holy Armour and the chance for Divine Armor.
-676	Marriage veil of love to the snow season
-677	
-678	Love wedding dress to the snow season
-679	
-680	Women's shoe of Love to the snow season
+630	American Costume
+631	Magic Paradise theme costumes.
+632	American Boots (F)
+633	Magic Paradise theme costumes.
+634	Gift of Aries II (Excellent)
+635	A value-for-money spree that is limited to one use per person.
+636	Soul of the Relic
+637	You can choose to use the enhanced artifact power value.
+638	Spiritual Source I
+639	Increase the aura of the character.
+640	Sacred Splendor
+641	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
+642	Holy Splendor +
+643	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
+644	Sweetheart at First Sight
+645	The two are married and the boys must have props.
+646	Love at First Sight
+647	The two are married and the girls must have props.
+648	Blood of Poseidon
+649	It can improve the effect when the star casts the Scales.
+650	Blood of Poseidon*20
+651	It can improve the effect when the star casts the Scales.
+652	Reformulation Axis
+653	It is possible to recast the spirit of some equipment.
+654	Axis of Preservation*10
+655	It is possible to retain the previous equipment spirit when recasting the spirit.
+656	Preservation Axis +
+657	It is possible to retain the previous equipment spirit when recasting the spirit.
+658	Axis Transition
+659	Items that must be consumed when the spirits are transferred.
+660	Marriage Alliances
+661	The two became a must-have couple ring for the couple.
+662	Luxury Wedding Kit
+663	A wedding package for a dream wedding.
+664	Stack Invitations
+665	There are a lot of invitations that can be used to give gifts to relatives and friends.
+666	Bookmark
+667	The blessings of the message on the luxury inscription message board, the blessing is seen by everyone.
+668	Blood of Poseidon
+669	It can improve the effect when the star casts the Scales.
+670	Blood of Poseidon*20
+671	It can improve the effect when the star casts the Scales.
+672	Blood of Hades
+673	It can improve the effect when the star casts the Holy Armor.
+674	Blood of Hades*20
+675	It can improve the effect when the star casts the Holy Armor.
+676	Blood of Athena
+677	It can be enhanced in the Star Cast Gold Holy Armour and the chance for Divine Armor.
+678	Blood of Athena*20
+679	It can be enhanced in the Star Cast Gold Holy Armour and the chance for Divine Armor.
+680	Marriage veil of love to the snow season
 681	
-682	Male hair of love to the snow season
+682	Love wedding dress to the snow season
 683	
-684	Suit of love to the snow season
+684	Women's shoe of Love to the snow season
 685	
-686	Social pants of love to the snow season
+686	Male hair of love to the snow season
 687	
-688	Reformulation Axis
-689	It is possible to recast the spirit of some equipment.
-690	Axis of Preservation*10
-691	It is possible to retain the previous equipment spirit when recasting the spirit.
-692	Preservation Axis +
-693	It is possible to retain the previous equipment spirit when recasting the spirit.
-694	Axis Transition
-695	Items that must be consumed when the spirits are transferred.
-696	Glow of the Ocean*5
-697	Usable for Scales.
-698	Baby Panda Egg
-699	Cute New Year Panda Baby, holding red koi for you to celebrate!
-700	Specter Blood
-701	It can improve the effect when the star casts the Holy Armor.
-702	Specter Blood*20
-703	It can improve the effect when the star casts the Holy Armor.
-704	Crystal of Degeneration
-705	Can be used to upgrade badge.
-706	Crystal of the Abyss
-707	Can be used to upgrade stone.
-708	Drilling Glass
-709	Can be used to upgrade bracelet.
-710	Crystal of Hades
-711	Can be used to upgrade better bracelets.
-712	Crystal of Poseidon
-713	Can be used to upgrade better beads.
-714	Crystal of Zeus
+688	Suit of love to the snow season
+689	
+690	Social pants of love to the snow season
+691	
+692	Reformulation Axis
+693	It is possible to recast the spirit of some equipment.
+694	Axis of Preservation*10
+695	It is possible to retain the previous equipment spirit when recasting the spirit.
+696	Preservation Axis +
+697	It is possible to retain the previous equipment spirit when recasting the spirit.
+698	Axis Transition
+699	Items that must be consumed when the spirits are transferred.
+700	Glow of the Ocean*5
+701	Usable for Scales.
+702	Baby Panda Egg
+703	Cute New Year Panda Baby, holding red koi for you to celebrate!
+704	Specter Blood
+705	It can improve the effect when the star casts the Holy Armor.
+706	Specter Blood*20
+707	It can improve the effect when the star casts the Holy Armor.
+708	Crystal of Degeneration
+709	Can be used to upgrade badge.
+710	Crystal of the Abyss
+711	Can be used to upgrade stone.
+712	Drilling Glass
+713	Can be used to upgrade bracelet.
+714	Crystal of Hades
 715	Can be used to upgrade better bracelets.
-716	LV10 Frenzy Pack
-717	Special rewards.\rOne time.
-718	LV59 Frenzy Pack
-719	Special rewards.\rOne time.
-720	LV79 Frenzy Pack
+716	Crystal of Poseidon
+717	Can be used to upgrade better beads.
+718	Crystal of Zeus
+719	Can be used to upgrade better bracelets.
+720	LV10 Frenzy Pack
 721	Special rewards.\rOne time.
-722	LV10 Frenzy Pack
+722	LV59 Frenzy Pack
 723	Special rewards.\rOne time.
-724	LV59 Frenzy Pack
+724	LV79 Frenzy Pack
 725	Special rewards.\rOne time.
-726	LV79 Frenzy Pack
+726	LV10 Frenzy Pack
 727	Special rewards.\rOne time.
-728	Gem - Sun
-729	Can be inlaid and enhance the attributes of the soul of the armor.
-730	Gem - Moon
-731	Can be inlaid and enhance the attributes of the soul of the armor.
-732	Gem - Mercury
+728	LV59 Frenzy Pack
+729	Special rewards.\rOne time.
+730	LV79 Frenzy Pack
+731	Special rewards.\rOne time.
+732	Gem - Sun
 733	Can be inlaid and enhance the attributes of the soul of the armor.
-734	Gem - Venus
+734	Gem - Moon
 735	Can be inlaid and enhance the attributes of the soul of the armor.
-736	Gem - Mars
+736	Gem - Mercury
 737	Can be inlaid and enhance the attributes of the soul of the armor.
-738	Gem - Jupiter
+738	Gem - Venus
 739	Can be inlaid and enhance the attributes of the soul of the armor.
-740	Gem - Saturn
+740	Gem - Mars
 741	Can be inlaid and enhance the attributes of the soul of the armor.
-742	Gem - Uranus
+742	Gem - Jupiter
 743	Can be inlaid and enhance the attributes of the soul of the armor.
-744	Gem - Neptune
+744	Gem - Saturn
 745	Can be inlaid and enhance the attributes of the soul of the armor.
-746	Gem - Hades
+746	Gem - Uranus
 747	Can be inlaid and enhance the attributes of the soul of the armor.
-748	Spirit of Gem
-749	Additional upgrade experience can be added when the soul gem is upgraded.
-750	Gem - Sun
+748	Gem - Neptune
+749	Can be inlaid and enhance the attributes of the soul of the armor.
+750	Gem - Hades
 751	Can be inlaid and enhance the attributes of the soul of the armor.
-752	Gem - Moon
-753	Can be inlaid and enhance the attributes of the soul of the armor.
-754	Gem - Mercury
+752	Spirit of Gem
+753	Additional upgrade experience can be added when the soul gem is upgraded.
+754	Gem - Sun
 755	Can be inlaid and enhance the attributes of the soul of the armor.
-756	Gem - Venus
+756	Gem - Moon
 757	Can be inlaid and enhance the attributes of the soul of the armor.
-758	Gem - Mars
+758	Gem - Mercury
 759	Can be inlaid and enhance the attributes of the soul of the armor.
-760	Gem - Jupiter
+760	Gem - Venus
 761	Can be inlaid and enhance the attributes of the soul of the armor.
-762	Gem - Saturn
+762	Gem - Mars
 763	Can be inlaid and enhance the attributes of the soul of the armor.
-764	Gem - Uranus
+764	Gem - Jupiter
 765	Can be inlaid and enhance the attributes of the soul of the armor.
-766	Gem - Neptune
+766	Gem - Saturn
 767	Can be inlaid and enhance the attributes of the soul of the armor.
-768	Gem - Hades
+768	Gem - Uranus
 769	Can be inlaid and enhance the attributes of the soul of the armor.
-770	Spirit of Gem
-771	Additional upgrade experience can be added when the soul gem is upgraded.
-772	Spiritual Crystal
-773	The necessary props to upgrade the soul of the armor.
-774	Fragment of Gem
-775	The necessary materials to upgrade the soul gem.
-776	Fragment of Gem
-777	The necessary materials to upgrade the soul gem.
-778	Metis Determination Light
-779	The will of the intelligent goddess allows you to relearn combat skills.
-780	Metis Determination Light
-781	The will of the intelligent goddess allows you to relearn combat skills.
-782	Goddess' Gift ☆ Sagittarius
-783	...
-784	Goddess' Gift ☆ Sagittarius (II)
-785	...
-786	Sagittarius Gift Pack
+770	Gem - Neptune
+771	Can be inlaid and enhance the attributes of the soul of the armor.
+772	Gem - Hades
+773	Can be inlaid and enhance the attributes of the soul of the armor.
+774	Spirit of Gem
+775	Additional upgrade experience can be added when the soul gem is upgraded.
+776	Spiritual Crystal
+777	The necessary props to upgrade the soul of the armor.
+778	Fragment of Gem
+779	The necessary materials to upgrade the soul gem.
+780	Fragment of Gem
+781	The necessary materials to upgrade the soul gem.
+782	Metis Determination Light
+783	The will of the intelligent goddess allows you to relearn combat skills.
+784	Metis Determination Light
+785	The will of the intelligent goddess allows you to relearn combat skills.
+786	Goddess' Gift ☆ Sagittarius
 787	...
-788	Gift of Sagittarius II (Excellent)
+788	Goddess' Gift ☆ Capricorn (II)
 789	...
-790	Gift of Sagittarius II (Supreme)
+790	Capricorn Gift Pack
 791	...
-792	Sagittarius Gift Pack
-793	
-794	Gift of Sagittarius II (Excellent)
+792	Gift of Capricorn II (Excellent)
+793	...
+794	Gift of Capricorn II (Supreme)
 795	...
-796	Gift of Sagittarius II (Supreme)
-797	...
-798	Memento of Anima*1
-799	When used in Anima, it enhances the intensified experience.
-800	Memento of Anima*20
-801	When used in Anima, it enhances the intensified experience.
-802	Condensed Meteorite*1
-803	Search for consumables needed for stars.
-804	Armor Authorization [Bronze]
-805	In exchange for the certificate of the higher-grade Bronze Holy Armor.
-806	Condensed Meteorite*20
+796	Capricorn Gift Pack
+797	
+798	Gift of Capricorn II (Excellent)
+799	...
+800	Gift of Capricorn II (Supreme)
+801	...
+802	Memento of Anima*1
+803	When used in Anima, it enhances the intensified experience.
+804	Memento of Anima*20
+805	When used in Anima, it enhances the intensified experience.
+806	Condensed Meteorite*1
 807	Search for consumables needed for stars.
-808	Whisper of Iapetus
-809	Resets the astral awakening value after use.
-810	Memento of Anima*1
-811	When used in Anima, it enhances the intensified experience.
-812	Memento of Anima*20
-813	When used in Anima, it enhances the intensified experience.
-814	Condensed Meteorite*1
-815	Search for consumables needed for stars.
-816	Condensed Meteorite*20
-817	Search for consumables needed for stars.
-818	Whisper of Iapetus
-819	Resets the astral awakening value after use.
-820	Emblem of the Priest
-821	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
-822	Bear Emblem
-823	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
-824	Emblem of the Pirate King
-825	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
-826	Voting Paper
-827	Elect the Pope's necessities and cast it to the candidate you trust the most.
-828	Flag of the Great Teacher
-829	A flag that can only be used by the Pope and the Acting Pope to activate the Pope-related activities.
-830	Armor Authorization [Silver]
-831	In exchange for the certificate of the higher-grade Silver Holy Armor.
-832	Sacred Seal of Silence
-833	Only the Pope can use it, banned the sanctuary, and walked the swearing words of the sinister remarks.
-834	Hermes costume
-835	can be used to switch between different occupations.
-836	Gender Change
-837	Switch between genders after use.
+808	Armor Authorization [Bronze]
+809	In exchange for the certificate of the higher-grade Bronze Holy Armor.
+810	Condensed Meteorite*20
+811	Search for consumables needed for stars.
+812	Whisper of Iapetus
+813	Resets the astral awakening value after use.
+814	Memento of Anima*1
+815	When used in Anima, it enhances the intensified experience.
+816	Memento of Anima*20
+817	When used in Anima, it enhances the intensified experience.
+818	Condensed Meteorite*1
+819	Search for consumables needed for stars.
+820	Condensed Meteorite*20
+821	Search for consumables needed for stars.
+822	Whisper of Iapetus
+823	Resets the astral awakening value after use.
+824	Emblem of the Priest
+825	The guardian next to the flag of the General's Regiment was replaced by the Queen's priest.
+826	Bear Emblem
+827	The guardian next to the flag of the General's Regiment is replaced by a bloodthirsty teddy bear.
+828	Emblem of the Pirate King
+829	The guardian next to the flag of the General's Regiment was replaced by the violent pirate king.
+830	Voting Paper
+831	Elect the Pope's necessities and cast it to the candidate you trust the most.
+832	Flag of the Great Teacher
+833	A flag that can only be used by the Pope and the Acting Pope to activate the Pope-related activities.
+834	Armor Authorization [Silver]
+835	In exchange for the certificate of the higher-grade Silver Holy Armor.
+836	Sacred Seal of Silence
+837	Only the Pope can use it, banned the sanctuary, and walked the swearing words of the sinister remarks.
 838	Hermes costume
 839	can be used to switch between different occupations.
 840	Gender Change
 841	Switch between genders after use.
-842	Spirit of Battle of Leo
-843	Upgrades high-end lion mounts to the must-have for higher-end mounts.
-844	Lotus Flower
-845	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-846	Lotus Flower
-847	With this and fashion tops, you can redeem a set of corresponding gender fashions.
-848	Mysterious Person
-849	Get 30 minutes of mysterious man effect after use, you will not know who it is.
-850	Mysterious Person
-851	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+842	Hermes costume
+843	can be used to switch between different occupations.
+844	Gender Change
+845	Switch between genders after use.
+846	Spirit of Battle of Leo
+847	Upgrades high-end lion mounts to the must-have for higher-end mounts.
+848	Lotus Flower
+849	With this and fashion tops, you can redeem a set of corresponding gender fashions.
+850	Lotus Flower
+851	With this and fashion tops, you can redeem a set of corresponding gender fashions.
 852	Mysterious Person
 853	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+854	Mysterious Person
+855	Get 30 minutes of mysterious man effect after use, you will not know who it is.
+856	Mysterious Person
+857	Get 30 minutes of mysterious man effect after use, you will not know who it is.
