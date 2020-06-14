@@ -202,6 +202,7 @@ ini_set('max_execution_time', 300000);
 			$fn = fopen('./'.$lang.'/target/'.$sec['bundle_name'].'.txt',"r");
 			$l=0;
 			while(! feof($fn))  {
+				//$result=str_replace("\r\n",'',fgets($fn));
 				$result=str_replace("\n",'',fgets($fn));
 				if(!$result) continue;
 				$result = explode("\t",$result);
@@ -209,6 +210,8 @@ ini_set('max_execution_time', 300000);
 				if(count($result)<2) echo 'TAB ERROR TARGET ['.$sec['bundle_name'].' id: '.$id.']<br />';
 				if($l!=$id) echo 'INDEX ERROR TARGET ['.$sec['bundle_name'].' id: '.$l.'/'.$id.']<br />';
 				$sec['i18n'][$id]['target']=((string)$result[1]);
+				$sec['i18n'][$id]['target']=str_replace("\n",'',$sec['i18n'][$id]['target']);
+				$sec['i18n'][$id]['target']=str_replace("\r",'',$sec['i18n'][$id]['target']);
 				for($c=0;$c<$ic;$c++){
 					$c1=substr_count($sec['i18n'][$id]['source'], $important_characters[$c]);
 					$c2=substr_count($sec['i18n'][$id]['target'], $important_characters[$c]);
