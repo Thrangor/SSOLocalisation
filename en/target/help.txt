@@ -1085,12 +1085,12 @@
 1084	Current level %d
 1085	View details
 1086	Click the prize
-1087	^%06x is extremely low
-1088	^%06x lower
+1087	^%06x very low
+1088	^%06x low
 1089	^%06x standard
-1090	^%06x higher
+1090	^%06x high
 1091	^%06x very high
-1092	^%06x burst table
+1092	^%06x overpowered
 1093	%s Power description
 1094	Total %d items:
 1095	Not found ...
@@ -1216,14 +1216,14 @@
 1215	Upgrade
 1216	After level 11, you need to manually upgrade the character level. Upgrade now?
 1217	You can now manually upgrade your skill level!
-1218	You have the skills to upgrade now!
-1219	Please raise your awareness!
+1218	You have the skills to lvl up!
+1219	Please raise your skill lvl!
 1220	Upgrade skills
-1221	Your experience has reached the upgrade requirements, but due to insufficient awareness, you cannot upgrade! Please upgrade your skills to achieve the awareness requirements.
-1222	You can get a %d%% bonus today when you participate in the %s event!
-1223	You can get an extra %d%% bonus for your participation in the %s event today!
-1224	Today you can get %d%% reward for participating in the %s event!
-1225 	You can purchase a 10th-level mad gift package in the Star Mall, and wish you a quick upgrade!
+1221	You have enough experience to lvl up, but you lack skill knowledge, lvl up your skills.
+1222	Participate in %s
+1223	Participate in %s
+1224	Participate in %s
+1225	You can purchase a 10th-level mad gift package in the Star Mall, and wish you a quick upgrade!
 1226	Buy a 10-level forward mad gift package in the hot sale label of Star Mall, for only 1 yuan! Can greatly improve your upgrade speed. Going to buy?
 1227	
 1228	^ffd70045 level ^N can wake up the body of the ^ffd700 small universe ^N! (Daily activities can help you upgrade quickly)

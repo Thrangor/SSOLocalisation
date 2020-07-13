@@ -802,8 +802,8 @@
 801	level is lower than level 25
 802	player ${name} is below level 20
 803	level is below level 20
-804	Player ${name} is below level 15
-805	level is below level 15
+804	Player ${name} is doesn't meet the conditions.
+805	LV Limit 15-99
 806	Player ${name} is below level 35
 807	level is below level 35
 808	Player ${name} is below level 45

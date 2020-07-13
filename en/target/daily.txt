@@ -388,9 +388,9 @@
 387	equipment synthetic props
 388	crafting materials
 389	formula
-390	equipment
-391	gold coupon
-392	gold coins
+390	Items
+391	Cash
+392	Gold
 393	treasure chest
 394	Hope Insignia
 395	Battlefield reputation points
@@ -840,7 +840,7 @@
 839	[Instance] Inheritance! Gold Trial
 840	[Instance] big counterattack! Ice Country Evil God (3rd Ring of God)
 841	[Instance] Holy War memories
-842	15 or above
+842	15-99 (^fffd44 Drop rates increased^N)
 843	level 35 or above (^fffd44 drop 29-48 level equipment ^N)
 844	45 or above (^fffd44 drop 38-56 equipment ^N)
 845	55 or above (^fffd44 drop 48-63 equipment ^N)
