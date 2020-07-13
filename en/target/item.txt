@@ -278,9 +278,9 @@
 277	Wait for the correspondent to click on "negotiation" to confirm the current negotiation......
 278	Wait for the correspondent to click "block" to block the negotiation items...
 279	Coin value inserted is more than what is being charged, do you want to use all Coins as Coins for trading?
-280	bound item, you can not negotiate.
-281	Blocked item, you can not negotiate.
-282	Non-negotiable item.
+280	Bound item, not tradeable.
+281	Blocked item, not tradeable.
+282	Not tradeable.
 283	The correspondent is offline or too far, it is not possible to establish a negotiation
 284	the correspondent is too far, it is not possible to establish a negotiation
 285	Insert the currency value for negotiation
@@ -1184,9 +1184,9 @@
 1183	Large
 1184	Left-click to go to: %s %s
 1185	Can not be sold\r
-1186	Can not negotiate\r
+1186	Not tradeable\r
 1187	Bound after equipment\r
-1188	bound directly\r
+1188	Bound directly\r
 1189	Impossible to store\r
 1190	Indestructible\r
 1191	Disappear after the disappearance of the scene of change\r
@@ -1194,7 +1194,7 @@
 1193	Link after Collect\r
 1194	%s level %d needed
 1195	( %d)
-1196	%s the most you can carry with you %d units
+1196	%s You can carry %d units
 1197	Bound\r
 1198	Time remaining:
 1199	%dd
@@ -1261,18 +1261,18 @@
 1260	Use qualification to improve %.1f %%
 1261	%s %s %s level %d will rise to %d level
 1262	Increased success rate %d%%\r
-1263	Use effect A total of %d points of life can be restored\r Up to %d points of life at a time\r Remaining HP points: %d\r
-1264	Use effect A total of %d point energy can be restored\r Up to %d point energy at each time\r Remaining Stamina points: %d\r
-1265	Use effect A total of %d point life and %d point energy can be restored. Each time up to %d point life and %d point energy\r can restore %d point life and %d point energy\r
-1266	Use effect Restore %d point life\r within 6 seconds after continuous recovery %d point life\r
-1267	Use effect Restore %d point life\r
-1268	Use effect Restore %d point energy within 6 seconds after restoring %d point energy\r\r
-1269	Use effect Restore %d point energy\r
-1270	Usage Effect Restore %d point life and %d point energy within 6 seconds after %d point life and %d point energy\r
-1271	Use effect Restore %d point life and %d point energy\r
-1272	Remaining HP: %d\r up to %d%% of life at any time\r can also restore %d points of life\r
-1273	A total of %d points of life can be restored\r up to %d%% of life at a time\r
-1274	Continue to retrieve %d Element energy points\r
+1263	Use Effect: Restore %d HP can be restored\r Up to %d points of life at a time\r Remaining HP points: %d\r
+1264	Use Effect: Restore %d Stamina can be restored\r Up to %d Stamina at each time\r Remaining Stamina points: %d\r
+1265	Use Effect: Restore %d HP and %d Stamina can be restored. Each time up to %d HP and %d Stamina\r can restore %d HP and %d Stamina\r
+1266	Use Effect: Restore %d HP\r within 6 seconds after continuous recovery %d HP\r
+1267	Use Effect: Restore %d HP\r
+1268	Use Effect: Restore %d Stamina within 6 seconds after restoring %d Stamina\r\r
+1269	Use Effect: Restore %d Stamina\r
+1270	Use Effect: Restore %d HP and %d Stamina within 6 seconds after %d HP and %d Stamina\r
+1271	Use Effect: Restore %d HP and %d Stamina\r
+1272	Remaining HP: %d\r up to %d%% of HP at any time\r can also restore %d HP\r
+1273	A total of %d HP can be restored\r up to %d%% of HP at a time\r
+1274	Continue to retrieve %d Element Stamina\r
 1275	^%06x Movement Speed %.1f\r
 1276	^%06x Flight Speed %.1f\r
 1277	^fff600Additional flight fighting ability\r
@@ -1656,7 +1656,7 @@
 1655	^ffffffCoger the red of nature\r^72fe00Click here to use
 1656	^ffffffCoger the yellow of nature\r^72fe00Click here to use
 1657	^ffffffCoger the blue of nature\r^72fe00Click here to use
-1658	^ff0000 Linking the soul\rThis item will be bound after the upgrade.
+1658	^ff0000Bound to player\rThis item will be bound after the upgrade.
 1659	^ffffff Blood of the villager's body, mixed with black gas
 1660	^ffffff The bucket is already full of water
 1661	^ffffff Rare cobra gall bladder, its purpose is surprisingly effective
@@ -1720,8 +1720,8 @@
 1719	^ffffff Increase 580 attack\rDuring: 5min\rRight click with the right button to use
 1720	^ffffff Increase 5 %critical chance\rDuring: 5min\rRight click to use
 1721	^ffffffUsed to perfect equipments of:\rHead, Chest, Legs, Talisman, Collar or Ring\rused between the 1st and 9th slot\rSee the Craftsman to use it\rCan be obtained in daily events
-1722	^ffffff Refining item\rUsed on:\r^72fe00Common bronze reinforcers\r^ffffffThis item is consumed during refining\rCan be obtained at daily events\rBronze armor quest can be purchased from Joseph in Silver City
-1723	^ffffffA refining item\rUsed on:\r^72fe00Silver Armor\r^ffffffThis item is consumed during refining\rCan be obtained at daily events\rString Armor Silver can be obtained with ^72fe00Altai ^ffffffen the Silver City
+1722	^ffffffRefining item\rUsed on:\r^72fe00Common bronze reinforcers\r^ffffffThis item is consumed during refining\rCan be obtained at daily events\rBronze armor quest can be purchased from Joseph in Silver City
+1723	^ffffffRefining item\rUsed on:\r^72fe00Silver Armor\r^ffffffThis item is consumed during refining\rCan be obtained at daily events\rSilver Armor can be obtained at ^72fe00Altai.
 1724	^fff600Rare item\rMaybe the merchant needs it
 1725	^ff0000Obsolete item, you can change it to:\r^72fe00Jade Estelar
 1726	^ff0000Obsolete item, you can change it by:\r^72fe00Jade Estelar
@@ -1742,9 +1742,9 @@
 1741	^ffffffThe essence has a very strong aura\r^72fe00Select the Dragon Spirit, click to use it.
 1742	^fff600deliver 4 types of raw material to the employee from the warehouse of the base of the Guild\r^7fffff You can get pintos of corresponding raw material in the base of the Guild
 1743	^fff600The ability of this aricle has not yet been opened.\rPlease keep it carefully.
-1744	^fff600With this tool, you can gather mineral raw material at the base of the Guild
-1745	^fff600With this tool, you can open the treasure chest of Equipment at the base of the Guild\r^7fffff the treasure box of Random team appeared at the base of the Guild\r¡Other treasure box of the time of the Guild base It can also be open!
-1746	^ffffffUsed to perfect equipment of:\rHead, Chest, Legs, Talisman, Collar or Ring\rUsado from the 10th slot\rFind the Craftsman to use it.
+1744	^fff600With this tool, you can gather mineral at the Guild base.
+1745	^fff600With this tool, you can open the bag which appears in Guild base.\r^7fffffYou can open multiple bags.
+1746	^ffffffUsed to perfect equipment of:\rHead, Chest, Legs, Talisman, Collar or Ring\rUsed from the 10th slot\rFind the Craftsman to use it.
 1747	^fff600You can change ^72fe00Light of the Spirit advanced level ^fff600with the treasure merchant, Shrek
 1748	^ffffff\r^fff600Creative craftsmanship\rYou can change a large amount of Star with the merchant of the city
 1749	^ffffff Use:\r^72fe00Obtain 600 points of Cosmo Potential
@@ -1796,13 +1796,13 @@
 1795	Important tool needed to increase Guild base from level 5 to level 6.\r^ff7d2f After the increase of the base of the Guild in the event, it can receive from the emitter of Athena.\r^ff7d2f Go quickly to the administrator of the construction Main and increase the Base from level 5 to level 6.\r^7fffff (Each time you open the event to increase the base, you will have an interval of 1 hour)
 1796	Important tool necessary to increase Guild base from level 6 to level 7.\r^ff7d2f After the increase of the base of the Guild in the event, it can receive from the emitter of Athena.\r^ff7d2f Go quickly to the administrator of the construction Main and increase the Base from level 6 to level 7.\r^7fffff (Each time you open the event to increase the base, you will have an interval of 1 hour)
 1797	Important tool necessary to increase base of the Guild from level 7 to level 8.\r^ff7d2f After the increase of the base of the Guild in the event, it can receive from the emitter of Athena.\r^ff7d2f Go quickly to the administrator of the construction Main and increase the Base of level 7 to level 8.\r^7fffff (Each time you open the event to increase the base, you will have an interval of 1 hour)
-1798	^7fffff Open with treasure box key base increase reward.\r^ff7d2f Use the reward of the Goddess as quickly as possible!
+1798	^7fffffOpen with treasure box key base increase reward.\r^ff7d2f Use the reward of the Goddess as quickly as possible!
 1799	^ffffffThe powerful force of the zither seal is used to purify those Souls of the Reborn Knights of the Underworld.\r^fff600Can only be used on the Knight's soul\r^72fe00Click to use
 1800	^ffffffYou can directly consult the ^72fe00Bronze Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1801	^ffffffYou can directly consult the ^72fe00Silver Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1802	^ffffffYou can directly consult the ^72fe00Original Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1803	^ffffffYou can directly consult the ^72fe00Athena's Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
-1804	^ffffff Open with the right button to get:\rPet Dog
+1804	^ffffffOpen with the right button to get:\rPet Dog
 1805	^ffffffYou can buy with ^72fe00Ulmann ^ffffffen the Silver City\rRight click with the right button to use
 1806	^ffffffSpeakers may be interested in this type of object\rSmall crafting material\rThis item is sold by Craftsman
 1807	^ffffffSpeakers may be interested in this type of object\rIntermediate-level crafting material\rThis item is sold by Craftsman
@@ -1810,31 +1810,31 @@
 1809	^​​ffffffSuitable people may be interested in this type of object\rIntermediate-level crafting material\rThis item is sold by Craftsman
 1810	^ffffffSpeakers may be interested in this type of object\rSmall crafting material\rThis item is sold by Craftsman
 1811	^ffffffSuitable people may be interested in this type of object\rIntermediate-level crafting material\rThis item is sold by Craftsman
-1812	^ffffff Skillful people may be interested in this type of object\rLow-level crafting material
-1813	^ffffff Skillful people may be interested in this type of object\rIntermediate level crafting material
-1814	^ffffff Skillful people may be interested in this type of object\rSmall-level crafting material
-1815	^ffffff Skillful people may be interested in this type of object\rLower level crafting material
-1816	^ffffff Skillful people may be interested in this type of object\rIntermediate-level crafting material
+1812	^ffffffSkillful people may be interested in this type of object\rLow-level crafting material
+1813	^ffffffSkillful people may be interested in this type of object\rIntermediate level crafting material
+1814	^ffffffSkillful people may be interested in this type of object\rSmall-level crafting material
+1815	^ffffffSkillful people may be interested in this type of object\rLower level crafting material
+1816	^ffffffSkillful people may be interested in this type of object\rIntermediate-level crafting material
 1817	^ffffffSpeakers may be interested in this type of object\rMaterial of higher level crafting
-1818	^ffffff Skillful people may be interested in this type of object\rAdvanced level crafting material
-1819	^ffffff Skillful people may be interested in this type of object\rLow-level crafting material
-1820	^ffffff Skilled people may be interested in this type of object\rLower level crafting material
-1821	^ffffff Skillful people may be interested in this type of object\rIntermediate level crafting material
-1822	^ffffff Skillful people may be interested in this type of object\rMaterial of higher level crafting
-1823	^ffffff Skillful people may be interested in this type of object\rAdvanced level crafting material
-1824	^ffffff Skillful people may be interested in this type of object\rLow-level crafting material
-1825	^ffffff Skilled people may be interested in this type of object\rLower level crafting material
-1826	^ffffff Skillful people may be interested in this type of object\rIntermediate level crafting material
-1827	^ffffff Skillful people may be interested in this type of object\rMaterial of higher level crafting
-1828	^ffffff Skilled people may be interested in this type of object\rAdvanced level crafting material
+1818	^ffffffSkillful people may be interested in this type of object\rAdvanced level crafting material
+1819	^ffffffSkillful people may be interested in this type of object\rLow-level crafting material
+1820	^ffffffSkilled people may be interested in this type of object\rLower level crafting material
+1821	^ffffffSkillful people may be interested in this type of object\rIntermediate level crafting material
+1822	^ffffffSkillful people may be interested in this type of object\rMaterial of higher level crafting
+1823	^ffffffSkillful people may be interested in this type of object\rAdvanced level crafting material
+1824	^ffffffSkillful people may be interested in this type of object\rLow-level crafting material
+1825	^ffffffSkilled people may be interested in this type of object\rLower level crafting material
+1826	^ffffffSkillful people may be interested in this type of object\rIntermediate level crafting material
+1827	^ffffffSkillful people may be interested in this type of object\rMaterial of higher level crafting
+1828	^ffffffSkilled people may be interested in this type of object\rAdvanced level crafting material
 1829	^ffffffSpeakers may be interested in this type of object\rMaterial of lower level crafting
 1830	^ffffffSpeakers may be interested in this type of object\rMaterial of higher level crafting
-1831	^ffffff Skilled people may be interested in this type of object\rAdvanced level crafting material
-1832	^ffffff Skillful people may be interested in this type of object\rCommon low-level crafting material
+1831	^ffffffSkilled people may be interested in this type of object\rAdvanced level crafting material
+1832	^ffffffSkillful people may be interested in this type of object\rCommon low-level crafting material
 1833	^ffffffSpeakers may be interested in this type of object\rMaterial of lower common level crafting\rCan be changed by Crow Feather with Craftsman
-1834	^ffffff Skillful people may be interested in this type of object\rMaterial of intermediate common crafting\rCan be changed by Nightingale Feather with Craftsman
+1834	^ffffffSkillful people may be interested in this type of object\rMaterial of intermediate common crafting\rCan be changed by Nightingale Feather with Craftsman
 1835	^ffffffSpeakers may be interested in this type of object\rMaterial of common top-level crafting\rCan be changed by Owl Feather with Craftsman
-1836	^ffffff Skillful people may be interested in this type of object\rMaterial advanced level crafting\rCan be changed by Black Cygnus Pen with Craftsman
+1836	^ffffffSkillful people may be interested in this type of object\rMaterial advanced level crafting\rCan be changed by Black Cygnus Pen with Craftsman
 1837	^fff600Medicine - Potion ^ffffff\rFormula level 1\rWith use you can learn formula:\r^72fe00HP Intermediate Medicine\rHP Intermediary Medicine\r^ffffff\rEffect of use:\r^72fe00Recover HP 9700\r^ffffff Can ^fff600use after level 1\r^fff600Reload time 1 minute\r^0184ffRight click to use
 1838	^fff600Medicine - Potion ^ffffff\rForm level 2\rWith use you can learn formula:\r^72fe00HP Advanced Medicine\rAdvanced HP Medicine\r^ffffffEffect of use:\r^72fe00Recover 19200 from HP\r^ffffff You can ^fff600use after level 30\r^fff600Reload time 1 minute\r^0184ffRight click to use
 1839	^fff600Medicine - Potion ^ffffff\rFormula level 3\rWith use you can learn formula:\r^72fe00HP potent medicine\rPowerful HP medicine\r^ffffff\rEffect of use:\r^72fe00Recover 30800 from HP\r^ffffff Can ^fff600be used above level 45\r^fff600Reload time 1 minute\r^0184ffRight click to use
@@ -1881,7 +1881,7 @@
 1880	^fff600Alchemy - Produce Treasures ^ffffff\rForm level 4\rWith use you can learn formula:\r^72fe00Sharp treasure crafting pendant\rSharp treasure crafting pendant\r^fffffRune Scroll ^ff600\rBlessed parts: emblem, spiritual stone, bracelet\r^ffffffAdditional effect:\r^72fe00Deflect 60\r^fff600Effect will have a duration of: 15 days\r^0184ffUtilize ^72fe00service for rune spiked ^0184ffto continue with the operation\r^0184ffRight click on right button to use
 1881	^fff600Alchemy - Produce Treasures ^ffffff\rFormula level 5\rWith use you can learn formula:\r^72fe00Star Element LV 1\rElement of the Star level 1\r^fff600Can be sold to the merchant\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
 1882	^fff600Alchemy - Produce Treasures ^ffffff\rForm level 6\rWith use you can learn formula:\r^72fe00Flower of the Bath of the Soul\rFlow of the Bath of the Soul\r^ffffff\r^fff600Can be used for change of Light of the Spiritual Bath\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
-1883	^fff600Alchemy - Produce Treasures ^ffffff\rFormula level 7\rWith use you can learn the formula:\r^72fe00Spiritual Light +\r^ffffff\rUsado to improve the following equipment\r^72fe00handkerchief, shirt, bottom of the suit, amulet protection, collar, ring\r^fff600Need a level of improvement above level 10\r^0184ffYou can search the Craftsman Equipment to do the manipulation\r^fff600Also can be used to improve the Star Chain advanced level\r^0184ffThe product produced with this formula it will be bound\r^0184ffRight click to use
+1883	^fff600Alchemy - Produce Treasures ^ffffff\rFormula level 7\rWith use you can learn the formula:\r^72fe00Spiritual Light +\r^ffffff\rUsed to improve the following equipment\r^72fe00handkerchief, shirt, bottom of the suit, amulet protection, collar, ring\r^fff600Need a level of improvement above level 10\r^0184ffYou can search the Craftsman Equipment to do the manipulation\r^fff600Also can be used to improve the Star Chain advanced level\r^0184ffThe product produced with this formula it will be bound\r^0184ffRight click to use
 1884	^fff600Alchemy - Produce Treasures ^ffffff\rFormula level 8\rUsar can learn the recipe:\r^72fe00Star Element LV 2\rElement of the Star level 2\r^fff600Can be sold to the merchant\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
 1885	^fff600Alchemy - Produce Treasures ^ffffff\rForm level 9\rWith use you can learn formula:\r^72fe00Soul Bath Flower advanced level\rSoul Bath Flower Advanced Level\r^fff600Can be used for Light change of the Spiritual Bath advanced level\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
 1886	^fff600Alchemy - Produce Treasures ^ffffff\rForm level 10\rWith use you can learn formula:\r^72fe00Sage Stone\rSpider\r^ffffff Randomly get one of the following items\rWhat you get depends on your luck :) ^a800ff\rSpiritual Bath Light advanced level ^a800ff\rSoul Bath Flora advanced level ^0184ff\rElement of Star level 2 ^a800ff\rElement of Star level 3 ^ffffff\rFragment of Impact ^ffffff\rFragment of Holy Defense ^a800ff\rDemonic Blood (lazar)\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
@@ -1957,7 +1957,7 @@
 1956	^fff600Tactic - Special Teachings ^ffffff\rForm level 10\rUsing you can learn formula:\r^72fe00Sacred Flag\rBandar Sagrada\r^ffffff\rEffect of use:\r^72fe00The members of your team in a range of 5 meters have an increase of defense in 10 %\rThe members of your team in a range of 5 meters have increase in HP maximum 10 %\r^fff600Lasts 45 seconds\r^fff600Recharge team to 5 minutes\r^0184ffThe product produced with this formula will be bound ^0184ff\rRight click to use
 1957	^ffffffWhen you use it, you will get:\r1,000 Cosmo Potential points\rNecesary LV 40 to unlock the Cosmo System\rYou can change it in quantity with ^72fe00Felicia ^ffffffen the Silver City\rUse the Crtl shortcut + Right Mouse button to use it continuously
 1958	^ffffffNecessary level 20\rAfter using, you will get 500 magic box energy\rRight mouse button to use\rCtrl + Right mouse button to use this item continuously
-1959	^ffffffAfter using, you will get 400 of Crafting Power\rfRight mouse button to use\rCtrl + Right mouse button to use this item continuously\r^ffffffNecessary LV 30
+1959	^ffffffAfter using, you will get 400 of Crafting Power\rr^0184ffRight mouse button to use\rCtrl + Right mouse button to use this item continuously\r^ffffffNecessary LV 30
 1960	^ffffffWhen using it, you will get ^72fe00500 EXP ^ffffff in Elixirs crafting\rYou can use higher than level 20\r^0184ffRight click to use\r^ffffffUse the shortcut Ctrl + Right mouse button to use it continuously.
 1961	^ffffffWhen you use it, you will get ^72fe00500 EXP ^ffffff in Alchemy crafting\rYou can use higher than level 20\r^0184ffRight click to use\r^ffffffUse the shortcut Ctrl + Right mouse button to use it continuously.
 1962	^ffffffWhen using it, you will get ^72fe00500 EXP ^ffffff in Carve crafting\rYou can use higher than level 20\r^0184ffRight click to use\r^ffffffUse the shortcut Ctrl + Right mouse button to use it continuously.
@@ -2101,8 +2101,8 @@
 2100	^ffffff\rAs one who in ancient times stole fire, Prometheus possesses.
 2101	^ffffffConsumed when sending message on the world channel.
 2102	^ffffffConsumed when sending message in the announcement channel.
-2103	^ffffff Refining Facility\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado in:\r^72fe00Bronze Armor (except initial and Black)\rInitial Silver Silver / Medium\r^ffffff Need to indicate the use in the Refining interface\rCan be obtained in daily events
-2104	^ffffff Refining Aid\rPower the benefit of blessing, the probability of critic and the divine gift in refining\rUsado in:\r^72fe00Initial reinforcements of each Sign\rArmatures Negras\rArruras Doradas\r^ffffffNecessary to indicate the use in the Refining interface\rCan be obtained in daily events
+2103	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Bronze Armor (except initial and Black)\rInitial Silver Silver / Medium\r^ffffffNeed to indicate the use in the Refining interface\rCan be obtained in daily events
+2104	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Initial reinforcements of each Sign\rBlack Armors\rGolden Armors\r^ffffffNecessary to indicate the use in the Refining interface\rCan be obtained in daily events
 2105	^ffffffWhen you use it, you will get:\r15,000 points of the Cosmo Potential\rNecesario LV 40 to unlock the Cosmo System\rUse the Crtl shortcut + Right mouse button to use continuously
 2106	^ffffffClick with the right button to obtain:\r150,000 Cosmo Potential points\rIt is necessary to be in the LV.40 to unlock the Cosmo system\rUse the shortcut Crtl + Right mouse button to use continuously
 2107	^fff600After using, you receive ^72fe003000 of ^fff600energy from the Magic Box\rCan be used above the level 60\r^0184ffRight click to use\r^72fe00Ctrl + right click ^a800ffpuede use this item continuously
@@ -2183,13 +2183,13 @@
 2182	^ffffffUse:\r^72fe00get ^72fe00100.000 Gold\r^fff600You have a large amount of Gold instantly\rUtilize only 20 times a day\r^0184ffRight click to use\r^72fe00Ctrl + click on the right button ^a800ffYou can use this item continuously.
 2183	^ffffffUsar:\r^72fe00get ^72fe00200.000 Gold\r^fff600You have a large amount of Gold instantly\rUtilize only 20 times a day\r^0184ffRight click to use\r^72fe00Ctrl + right click ^a800ffYou can use this item continuously.
 2184	^ffffffUse: Recovers HP 297 every 3 seconds\r^fff600Can be used above level 1 \r Dura 30 minutes\r^0184ffRight click to use
-2185	^ffffffUse: Recovers HP 487 every 3 seconds\r^fff600Can be used above level 15\rDuring 30 minutes\r^0184ffRight click to use
-2186	^ffffffUse: Recover HP 815 every 3 seconds\r^fff600Can be used above level 30\rDuring 30 minutes\r^0184ffRight click to use
-2187	^ffffffUse: Recovers HP 1271 every 3 seconds\r^fff600Can be used above the level 45\rDuring 30 minutes\r^0184ffRight click to use
-2188	^ffffffUse: Recovers HP 1857 every 3 seconds\r^fff600Can be used above level 60\rDuring 30 minutes\r^0184ffRight click to use
-2189	^ffffffUse: Recovers HP 2570 every 3 seconds\r^fff600Can be used above level 75\rDuring 30 minutes\r^0184ffRight click to use
-2190	^ffffffUse: Recover HP 3413 every 3 seconds\r^fff600Can be used above level 90\rDuring 30 minutes\r^0184ffRight click to use
-2191	^ffffff Refining Facility\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado en:\r^72fe00Bronze Armor (except initial and Black)\rInitial Silver Silver / Medium\r^ffffff Need to indicate the use in the Refining interface\rCan be obtained in daily events
+2185	^ffffffUse: Recovers HP 487 every 3 seconds\r^fff600Can be used above level 15\rDuration 30 minutes\r^0184ffRight click to use
+2186	^ffffffUse: Recover HP 815 every 3 seconds\r^fff600Can be used above level 30\rDuration 30 minutes\r^0184ffRight click to use
+2187	^ffffffUse: Recovers HP 1271 every 3 seconds\r^fff600Can be used above the level 45\rDuration 30 minutes\r^0184ffRight click to use
+2188	^ffffffUse: Recovers HP 1857 every 3 seconds\r^fff600Can be used above level 60\rDuration 30 minutes\r^0184ffRight click to use
+2189	^ffffffUse: Recovers HP 2570 every 3 seconds\r^fff600Can be used above level 75\rDuration 30 minutes\r^0184ffRight click to use
+2190	^ffffffUse: Recover HP 3413 every 3 seconds\r^fff600Can be used above level 90\rDuration 30 minutes\r^0184ffRight click to use
+2191	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Bronze Armor (except initial and Black)\rInitial Silver Silver / Medium\r^ffffff Need to indicate the use in the Refining interface\rCan be obtained in daily events
 2192	^fff600When you open, you can get 5000 Cash
 2193	^ffffff\rEffect of use:\r^72fe00The members of your team in a range of 5 meters, have an increase of HP at maximum 5 %\r^fff600Lasts 45 seconds\r^fff600Cooldown 5 minutes\r^0184ffRight click to use
 2194	^ffffff\rEffect of use:\r^72fe00The enemy in a 5 meter range has a reduced hit\rThe higher the level, the more the Hit index will drop\r^fff600Lasts 45 seconds\r^fff600Cooldown 5 minutes\r^0184ffRight click to use
@@ -2310,7 +2310,7 @@
 2309	^ffffffIt contains information necessary to obtain the Silver Dove Armor\r^0184ffNecesary LV.50\r^0184ffIt is necessary to have the Fornax Armor\r^ffffff Recommended signal:\r^72fe00Phoenix
 2310	^ffffffThe level of the Squire can not exceed your own level\rWhen the level of the Squire increases, the corresponding property also increases\r^ff0000Attention: Squire with equipment can not be negotiated.\rAfter removing the equipment, you can negotiate\r^a800ffThis Squire can not be used for an advanced stellar level
 2311	^fff600Special path\r^fff600Click on the right mouse button to use
-2312	^ffffffArrasted for the corresponding skill slot of the Squire
+2312	^ffffffInlay in the corresponding skill slot.
 2313	^fff600Arrast for the corresponding skill slot of the Squire\r^fff600Learn corresponding skill\r^0184ffAfter reaching level 59,\ryou can buy Bronze Scroll in the mobile gift shop of the oracle from the base of the Guild\rAfter opening there is probability of obtaining this item
 2314	^fff600Running for the corresponding skill slot of the Squire\r^fff600Learn corresponding skill\r^0184ffAfter reaching level 69,\ryou can buy Silver Parchment in the mobile gift shop from the oracle of the Guild base\rAfter opening there is probability of obtaining this item
 2315	^fff600Running for the corresponding skill slot of the Squire\r^fff600Learn corresponding skill\r^0184ffAfter reaching level 79,\ryou can buy Gold Scroll in the mobile gift shop of the oracle from the Guild base\rAfter opening there is probability of obtaining this item
@@ -2325,7 +2325,7 @@
 2324	^ffffffUse:\r^72fe00get ^ffffff1,000,000 EXP\r^72fe00When using above level 100, you can get ^ffffff300,000 additional experience\r^fff600Use after the limit level 30\r3 EXP II books can be changed by 1 Book of EXP II advanced level in the Coliseum Grand\rYou can use at maximum once per day\rAfter use,\r^0184ffwill disappearRight click to use\r^72fe00Ctrl + right click ^a800ffYou can use this item continuously.
 2325	^ffffffUse:\r^72fe00get ^ffffff4,000,000 EXP\r^72fe00When using above level 100, you can get ^ffffff1,000,000 additional experience\r^fff600Use after limit level 50\r3 EXP III books can be changed by 1 book of EXP IV advanced level, in the Coliseum Grand\rCan use at maximum once per day\rAfter use,\r^0184ffwill disappearRight click to use\r^72fe00Ctrl + right click ^a800ffYou can use this item continuously.
 2326	^ffffffUsar:\r^72fe00obtain ^ffffff16,000,000 EXP\r^72fe00When using above 100, you can get ^ffffff4,000,000 additional experience\r^fff600Use after the limits level 75\rYou can use at maximum once per day \r After use,\r^0184ffwill disappear.\rRight click to use\r^72fe00Ctrl + right-click\r^a800ff.\rYou can use this item continuously.
-2327	^ffffffYou can exchange 10 units of Bright Gold with the leader of the Guild base for 1 "Time Key"\ritem used to open the "Time Capsule" inside the Guild base\rYou can exchange Gold once a day Brilliant by the Time Key\rAttention: If you sell it, the amount of Bright Gold in the shop's buy-back bar will also be calculated within the limit of 100 units\rFor more items to replace the "Bright Gold" that is in the repurchase tab
+2327	^ffffffYou can exchange 10 units of Bright Gold with the leader of the Guild base for 1 "Time Key"\rThe Key is used to open the "Time Capsule" inside the Guild base\rYou can exchange once a day.\rAttention: If you sell it, the amount of Bright Gold in the shop's buy-back bar will also be calculated within the limit of 100 units.
 2328	^ffffffWhen you use it, you will get a great prize
 2329	^fff600Open, you can get mysterious prize
 2330	^fff600Use:\r Defense to increase 200%\r for 2 minutes.
@@ -2336,13 +2336,13 @@
 2335	^ffffffUsar: Increase 450 attack\rYou can use above level 15 \r Dura 30 minutes\r^fff6003 Impact Fragments III can be changed by Impact Fragment IV advanced level, with Caroline in Coliseum Grand\r^0184ffAfter use, it will not disappear
 2336	^ffffffUsar: Increase 600 attack\rYou can use above level 15 \r Dura 30 minutes\r^fff6003 Impact Fragments IV can be changed by Impact Fringe V advanced level, with Caroline in Coliseum Grand\r^0184ffAfter use, it will not disappear
 2337	^ffffffUse: Increase Attack 750\rCan be used above level 15 \r Durable 30 minutes\r^fff6003 Impact Fragments V can be changed by Impact Fragment VI advanced level, with Caroline in Coliseum Grand\r^0184ffAfter use , will not disappear
-2338	^ffffff Use: Increase 900 attack\r^fff600Can be used above level 15\rDuring 30 minutes\r^0184ffAfter use, it will not disappear
+2338	^ffffff Use: Increase 900 attack\r^fff600Can be used above level 15\rDuration 30 minutes\r^0184ffAfter use, it will not disappear
 2339	^ffffffUsar: Increase 250 Defense\r^fff600Can be used above level 1\rLasts 30 minutes\r^fff6003 Holy Defense Fragments I can be exchanged for Holy Defense Fragments II advanced level, with Caroline at the Colosseum Grand\r^0184ffAfter use, it will not disappear
-2340	^ffffffUsar: Increase 500 defense\r^fff600Can be used above level 15\rDuring 30 minutes\r^fff6003 Holy Defense Fragments II can be changed by Holy Defense Fragment III advanced level, with Caroline at the Coliseum Grand\r^0184ffAfter use, it will not disappear
+2340	^ffffffUsar: Increase 500 defense\r^fff600Can be used above level 15\rDuration 30 minutes\r^fff6003 Holy Defense Fragments II can be changed by Holy Defense Fragment III advanced level, with Caroline at the Coliseum Grand\r^0184ffAfter use, it will not disappear
 2341	^ffffffUsar: Increase 750 Defense\r^fff600Can be used above level 15 Lasts 30 minutes\r^fff6003 Holy Defense Fragments III can be changed by Holy Defense Fragment IV advanced level, with Caroline at the Coliseum Grand\r^0184ffAfter use, it will not disappear
 2342	^ffffffUso: Increase 1000 defense\r^fff600Can be used above level 15 \r Durable 30 minutes\r^fff6003 Holy Defense IV fragments can be changed by Holy Defense Fragment V advanced level, with Caroline in the Coliseum Grand\r^0184ffAfter use, it will not disappear
 2343	^ffffffUsar: Increase 1250 Defense\r^fff600Can be used above level 15 \r Dura 30 minutes\r^fff6003 Defense Shard V can be changed by Sacred Defense Fragment VI advanced level, with Caroline at the Coliseum Grand\r^0184ffAfter use, it will not disappear
-2344	^ffffffUso: Increase 1500 defense\r^fff600Can be used above level 15\rDuring 30 minutes\r^0184ffAfter use, it will not disappear
+2344	^ffffffUso: Increase 1500 defense\r^fff600Can be used above level 15\rDuration 30 minutes\r^0184ffAfter use, it will not disappear
 2345	^ffffffAl put 30 units of this item, you can place Mount [Tempest] ^a800ffwith the official related to the Coliseum Grand\r^0184ffAfter the transformation of the Frame in Frame, the player can mount\r^fff600Hay opportunity to obtain this item in the prize to pass phase of each event
 2346	^fff600After opening, you can get 2000 Guild Contribution Points\rYou can open once a week\r^7fffffOnly a member of this Guild can open
 2347	^fff600After opening, you can get 200 Guild Contribution points
@@ -2404,7 +2404,7 @@
 2403	^ffffffUtilize: Receive mission ^72fe00Reference letter for basic level learners\r^fff600Necessary reputation of the Light of Faith:\r^72fe00Respect\r^fff600This mission can ^a800ffmake magical transformation ^fff600of the Pearl of Precept of ^a800fflevel epic ^fff600for ^ff7d2fnivel ^fff600legendary\r^a800ffPerla of the Precept ^fff600can be purchased with Severo, in the Coliseum Grand, after the estimated reputation of the Light of Faith to be reached\r^0184ffRight click to use
 2404	^ffffffUsing: Receive the mission ^72fe00Reference letter for intermediate level apprentices\r^fff600Required level: 60\rReputation of the Light of Faith is required:\r^0184ffVeneration\r^fff600This mission may ^a800fill the magic transformation ^fff600de the Pearl of Illumination of ^a800fflevel epic ^fff600for ^ff7d2flevel ^fff600legendary\r^a800ffWhen the estimated reputation of the Light of Faith is reached, you can buy the Pearl of Illumination firmly, in the Coliseum Grand\r^0184ffRight click to use
 2405	^fff600Bronze Test commemorative item\rIt seems that they no longer have a function.
-2406	^ffffffitem used in the Cosmo / Astromancy\rUsado to open the ^72fe00AthenaOrculo\r^ffffffCan only be used after unlocking the Cosmo System in the LV 40
+2406	^ffffffitem used in the Cosmo / Astromancy\rUsed to open the ^72fe00AthenaOrculo\r^ffffffCan only be used after unlocking the Cosmo System in the LV 40
 2407	^ffffffClick with the right button to obtain:\r15,000 Cosmo Potential points\rIt is necessary to be in the LV.45\rUse shortcut Crtl + Right mouse button to use continuously
 2408	^ffffff Right click to obtain:\r150,000 Cosmo Potential points\rIt is necessary to be in the LV.45\rUse shortcut Crtl + Right mouse button to use continuously
 2409	^ffffffUse: can be converted to Box\r^ff0000Please avoid using tools for the transformation status below\r^0184ffRight click to use
@@ -2475,7 +2475,7 @@
 2474	^fff600Pieza 2 of the Golden Armor ^72fe00of Seal\r^fff600After the opening, ^72fe00will randomly get ^fff600piece 2 of the Golden Armor ^72fe00of one of the Constellations
 2475	^fff600Gold Armor Piece 3 ^72fe00of Seal\r^fff600After opening, ^72fe00will randomly get ^fff6clear 3 of the Golden Armor ^72fe00of one of the Constellations
 2476	^fff600Pieza 4 of the Golden Armor ^72fe00of Seal\r^fff600After the opening, ^72fe00will randomly get ^fff600piece 4 of the Golden Armor ^72fe00of one of the Constellations
-2477	^ffffffA Traders like Roses a lot.\rInstance 50 points of friendship degree if given to a friend.\rThis item can be obtained at daily events\rIt can be purchased at the Item Mall
+2477	^ffffffTraders like Roses a lot.\rIncrease your friendship after giving it to a friend.\rThis item can be obtained in dungeons\rIt can be purchased at the Item Mall.
 2478	^ffffffCan be purchased at ^72fe00Item Mall
 2479	^ffffff\rEffect of use:\r^72fe00The player in a 10-meter range has the Cosmo Energy increased by 50 %\r^fff6003-minute recharge team\r^0184ffRight mouse button to use\r^fff600When the horn sounds, you will understand the powerful force
 2480	^ffffff\rEffect of use:\r^72fe00The enemy player in a 10-meter range has the Energy of the Cosmo reduced by 50 %\r^fff6003-minute recharge team\r^0184ffRight click to use
@@ -2669,10 +2669,10 @@
 2668	^ff0000Ya is obsolete, you can swap common tool:\r^72fe00Jade Stellar ^808080\rDismounted fragments of Star Jade\rcan be freely transformed into Stellar Pegasus\rJade Stellar Dragon\rJade Stellar Cygnus\rJade Stellar Andromeda \r Stellar Star of Phoenix
 2669	^ff0000Ya is obsolete, you can exchange common tool:\r^72fe00Star Crystal\r^808080 Dismantled fragments of Star Jade\rcan be freely transformed into\rPegasus Star Crystal\rStar Crystal of Dragon\rStar Crystal of Cygn\rThe Star Crystal of Andromeda \r The Phoenix Star Crystal 
 2670	^ff0000Ya is obsolete, you can exchange common tool:\r^72fe00Star splendor\r^808080 Dismantled fragments of Star Jade\rcan be freely transformed into\rPegasus Star Splendor\rStar Star Splendor\rStar Star Splendor\rSplendor Star of Andromeda\rSplendor of Phoenix
-2671	^ffffff Refining item\rUsed on:\r^72fe00Green Frame ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Taurus, Virgo, Capricorn\rThis item is consumed during refining \r used in the Reinforcement Refining interface\rCan be obtained at daily events\rIt can be obtained with ^72fe00Jonathan ^ffffffo to be purchased directly from Item Mall 
-2672	^ffffffA refining item\rUsado en:\r^72fe00Garden Armor ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Aries, Leo, Sagittarius\rThis item is consumed during refining\rUsado in the Armor Refining interface\rCan be obtained in daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from the Item Mall
-2673	^ffffff Refining item\rUsed on:\r^72fe00Green Frame ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Cancer, Scorpio, Pisces\rThis item is consumed during refining \r used on the Reinforcement Refining interface\rIt can be obtained at daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from Item Mall 
-2674	^ffffffA refining item\rUsado en:\r^72fe00Garden Armor ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Gemini, Libra, Aquarius\rThis item is consumed during refining\rUsado in the Armor Refining interface\rCan be obtained in daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from the Item Mall
+2671	^ffffffRefining item\rUsed on:\r^72fe00Green Frame ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Taurus, Virgo, Capricorn\rThis item is consumed during refining \r used in the Reinforcement Refining interface\rCan be obtained at daily events\rIt can be obtained with ^72fe00Jonathan ^ffffffo to be purchased directly from Item Mall 
+2672	^ffffffARefining item\rUsed in:\r^72fe00Garden Armor ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Aries, Leo, Sagittarius\rThis item is consumed during refining\rUsed in the Armor Refining interface\rCan be obtained in daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from the Item Mall
+2673	^ffffffRefining item\rUsed on:\r^72fe00Green Frame ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Cancer, Scorpio, Pisces\rThis item is consumed during refining \r used on the Reinforcement Refining interface\rIt can be obtained at daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from Item Mall 
+2674	^ffffffARefining item\rUsed in:\r^72fe00Garden Armor ^ffffff, ^72fe00Gold Divine Armor ^ffffff\rSigns: Gemini, Libra, Aquarius\rThis item is consumed during refining\rUsed in the Armor Refining interface\rCan be obtained in daily events\rCan be obtained with ^72fe00Jonathan ^ffffffo be purchased directly from the Item Mall
 2675	^fff600Transformation Card - Aries\r^ffffffEffect of use:\r^72fe00Display of Golden Knight of Aries\r^72fe00Dura ^ffffff20 ^72fe00minutes\r^0184ffRight mouse button to use\r^808080De Snowman hijacker 
 2676	^fff600Transformation card - Taurus\r^ffffffEffect of use:\r^72fe00Display of Taurus Golden Knight\r^72fe00Dura ^ffffff20 ^72fe00minutes\r^0184ffRight mouse button to use\r^808080De Snowman kidnapper 
 2677	^fff600Transformation card - Gemini\r^ffffffEffect of use:\r^72fe00Display of Golden Knight of Gemini\r^72fe00Dura ^ffffff20 ^72fe00minutes\r^0184ffRight mouse button to use\r^808080De Snowman kidnapper
@@ -2935,7 +2935,7 @@
 2934	VIP Honorable Package level 10\r^ff7d2fWhen you use it, you will get the permanent affection title 'Incessant Wealth' 
 2935	VIP Honorable Pack level 11\r^ff7d2fWhen you use it, you will get the permanent affection title 'Shining Magnate' 
 2936	VIP Honorable Pack level 12\r^ff7d2fWhen using it, You will obtain the title of permanent affection 'Monopoly World' 
-2937	^ffffffUsed to perfect equipments of:\rHead, Chest, Legs, Talisman, Collar or Ring\rUsado from the 10th slot\rFind the Craftsman to use
+2937	^ffffffUsed to perfect equipments of:\rHead, Chest, Legs, Talisman, Collar or Ring\rUsed from the 10th slot\rFind the Craftsman to use
 2938	^fff600VIPM Privilege Package LV1\r^7fffffContains 80 Gem 
 2939	^fff600Paquete of Privilegio VIPM LV2\r^7fffffContains 160 Gem
 2940	^fff600VIPM Privilege Pack LV3\r^7fffffContains 240 Gem 
@@ -2964,7 +2964,7 @@
 2963	^aeeeeeRegister of the fragments of the memory of the past of the Black Saga\rand the ^66ccffFragments of the Memory · Cause\r^aeeeeeen combination with the ^cc66ff'Key of Gemini '^aeeeee, can open the door of the closed cell of Kanon\r(After leaving the Instance Zone, it will disappear) 
 2964	^aeeeeeDetaining the keys of cause and consequence of the Gemini brothers, it is possible to open the door of the closed cell of Kanon
 2965	^ffffffUse 100 units of this item along with:\rMonth ^72fe00[Storm] ^ffffffx1\r^72fe00Fragment Bronze ^ffffffx100\r2.000.000 Cash\rYou can change with ^72fe00Don Quijote ^ffffff by flying mount:\r^a800ffHeavy Pegasus Horse\r^ffffffNecessary character superior to LV 69 and Power 70,000 to effect the change\rAfter LV 65, it can be obtained in the Events:\r^72fe00Sanctuary requiem\rDevilish apocalypse\rButterflies of the Underworld\rSonata Infernal 
-2966	^7fffffDivision of the use of the magic box\rNo damage when obtaining the corresponding amount of ^72fe00Fragment fragments 
+2966	^7fffffCan be decomposed in Magic Box\r^72fe00To obtain fragments back.
 2967	^ffffffIngredients for the crafting of cookies\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs
 2968	^ffffffIngredients ^72fe00for the crafting of ^ffffffEgg Cupcakes\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs 
 2969	^ffffffIngredients ^72fe00of the crafting of ^ffffffEight Treasure Potatoes\r^ffffffMrs Qin ^ffffff Village del Dragón Oculto of Rozan ^fff600needs of 
@@ -3165,17 +3165,17 @@
 3164	^fff600Perles of material level\rFor him:\r^72fe00[Hero] Ten caves of the wind\r[ Hero] Heart of Sagittarius\r[Hero] Elegy of the Goddess (formerly)\r[Hero] Elegy of the Goddess (after)\r[Hero] Castle of the Grand Blue\r[Hero] Castle of Hades\r[Hero ] The End of Hades\r^fff600Get in ^0184ffcan also be in the ^72fe00Light of Severe Hope ^0184ffyou can use other materials to change and obtain
 3165	^ffffffCan be obtained with ^72fe00Cefiro ^ffffff or the ^72fe00Seminary of the Constellation\r^ffffffYou can change 30 units by ^72fe00Armorisation of Armor [Black] 
 3166	^ffffffChange with ^72fe00Céfiro ^ffffffen ^^72fe00Coliseo Grand ^ffffff by a Track of Black Armor 
-3167	^ffffffUsed to swap for Squire's equipment.\rYou can receive through the ^fff600Force of the Galactic ^ffffff of the Guild.\rThere is a chance to win in the ^72fe00Bendition of the Goddess.\r
+3167	^ffffffUsed to exchange for Squire's equipment.\rYou can receive through the ^fff600Dungeons.
 3168	^fff600You can ^72fe00change the advanced skills book with\r^fff600Squire's emisor\r^ffffffYou can free the aperture ^72fe00Favor of Dioa ^ffffffprobability to obtain
-3169	^ffffff Refining item\rUsed at:\r^72fe00Black Reinforcements\r^ffffffNecessary to Refine Black Reinforcements 1-10\rThis item is consumed during the refining process\rIt can be obtained with ^72fe00Cefiro 
-3170	^ffffffA refining item\rUsed on:\r^72fe00Armor Blacks\r^ffffffNecessary to Refine Black Armor 11-16\rThis item is consumed during the refining process\rIt can be obtained with ^72fe00Cefiro 
-3171	^ffffffA refining item\rUsado en:\r^72fe00Black Reinforcements\r^ffffffNecessary to Refine Black Armor 17- 32\rThis item is consumed during the refining process\rIt can be obtained with ^72fe00Cefiro 
+3169	^ffffffRefining item\rUsed on:\r^72fe00Black Armor\r^ffffffNecessary to Refine Black Armor 1-10\rThis item is consumed during the refining process\rIt can be obtained at ^72fe00Cephiro
+3170	^ffffffRefining item\rUsed on:\r^72fe00Black Armor\r^ffffffNecessary to Refine Black Armor 11-16\rThis item is consumed during the refining process\rIt can be obtained at ^72fe00Cephiro
+3171	^ffffffRefining item\rUsed on:\r^72fe00Black Armor\r^ffffffNecessary to Refine Black Armor 17- 32\rThis item is consumed during the refining process\rIt can be obtained at ^72fe00Cephiro 
 3172	^ffffffWhen using, you will obtain:\r^72fe00Black Pegasus Armor 
 3173	^ffffffWhen using, you will obtain:\r^72fe00^72fe00Black Dragon Armor
 3174	^ffffffWhen you use, you will get:\r^72fe00^72fe00Armor Black Cygnus 
 3175	^ffffffWhen you use, you will get:\r^72fe00^72fe00Andromeda Black Armor
 3176	^ffffffWhen you use, you will get:\r^72fe00^72fe00Black Phoenix Armor 
-3177	^ff0000link the soul\rThe equipment used or perfected or \r permanently bound after the transfer or transformation in the divine engraving 
+3177	^ff0000Bound to player\rThis item will be bound after the upgrade.
 3178	^fff600After using, you will get ^a800ffPhoenix ^fff6001 a unit\rLix of 60 days\r^0184ffAfter using it starts the count 
 3179	^ffffffUse: Get EXP ^72fe00800000\r^fff600Utilize skill needs to be above level 80
 3180	^ffffff Looking at it well it does not seem very strange, but inside it is full of life force\r^fff600I hear that Marin is currently collecting this kind of object 
@@ -3238,7 +3238,7 @@
 3237	^fff600The old alliance can not be forgotten\r^0184ffacceder to the mission with the canvas, get added EXP of BUFF\r^ff0000Can be used once a day 
 3238	Love blooms like a para of wings\r^ff0000After upgrading, Fashion will be bound\r^ff0000Your costume property: shirt can not be used for kit change corresponding to sex
 3239	^fff600Stargazing items and related\r^ffffffDuring Astromancy, each time you press the celestial body in the sky, it is necessary to consume this item\r^ffffffDuring Astromancy, you can obtain ^72fe00pitem of energy\r^ffffffFrom the use of the pitem of the constellation of the map of the Constellations,\rcan obtain the intense property\r^0184ffThere is an opportunity to obtain this object in each event 
-3240	^ffffffAstrology and related items\rUsado in the evolution process of Muon LV2 or higher\rImprovement significantly the success rate of the evolution 
+3240	^ffffffAstrology and related items\rUsed in the evolution process of Muon LV2 or higher\rImprovement significantly the success rate of the evolution 
 3241	^fff600players that has Guild can get 1 point of the battle soul of the Guild
 3242	^ffffffde <Battle! Leo Fangs> in the event you will get a gift pack, open\robten randomly acquired knowledge of the knight, piece of the leopard armor, golden armor\rfragments\r[Aiorian Heritage] a type of the items!\r^fff600Right mouse button to use 
 3243	^ffffffde <Battle! Leo Fangs> in the event get a souvenir.\rYou can search ^fff600Aioria's Path ^ffffffchanging Aioria's Heritage!\ritem! 
@@ -3448,9 +3448,9 @@
 3447	^fff600EXP surprise bag\rAfter opening you will get EXP\r^0184ffRight click to use 
 3448	^fff600Cash surprise bag\rAfter opening you will get Cash\r^0184ffRight click to use
 3449	^fff600Impression of the knight, persist!\rthe memory of the little companion, will never be forgotten\rOnce more, we can fight hand to hand!\r^ff0000The following items in the area of ​​\r\ \r Abismo! The end of the magic star\rRended! Requiem of the Sanctuary\rLamentation! Infernal Sonata\rIncubation! Nest of infernal butterflies\rContra the flow! Crisis in the Twelve Houses\rContra the flow! Atlantis\rÉl can be used to access the mission with the NPC\rEach instance zone can only be used once Each instance zone can only invoke a\r^0184ffDespues to access the mission will invoke a hidden BOSS, with generous rewards 
-3450	^0184ffIncrease until phase 4 can become Capa\r^ff0000The layer can only be displayed when it has a Golden Armor on it
-3451	^ff0000The layer can only be displayed when it has a golden	armor on it
-3452	^ffffff\rUse the improvements of the shoulder strap or layer\r^fff600Necessary level of improvement below the level 9\r^0184ffYou can look for the Master of Improvement to do the manipulation 
+3450	^0184ffIncrease until level 4\r^ff0000The cape can only be displayed when Golden Armor is equipped.
+3451	^ff0000The cape can only be displayed when Golden Armor is equipped.
+3452	^ffffffUsed to improve the cloak level.\r^fff600Used below level 9. 
 3453	^ffffffUse to improve the layer\r^fff600Necessary level of improvement above level 10\r^0184ffYou can search the Master of the Equipment Improvement to do the manipulation
 3454	^ffffffContains magical energy material\r^fff600Can be used for ^72fe00home of class 1 - 3\r^fff600Updates ^0184ffBugs through the ^72fe00Magic Box ^0184ffcompleted\r^fff600Despues that shoulder upgrade reaches class 4 , the layer can be updated\rThe layer is displayed only when it has a Golden Armor on it\r^0184ffCan ^72fe00layer entrepreneur ^0184fffor the change 
 3455	^ffffffContains magical energy material\r^fff600Can be used for ^72fe00class 4 layer - 6\r^fff600Updated ^0184ffBoxes through the ^72fe00Magic Box ^0184ffcompleted ^fff600The Layer is displayed only when it has a golden armor on it\r^0184ffYou ^72fe00layer entrepreneur ^0184fffor the change
@@ -3483,12 +3483,12 @@
 3482	^fff600After opening, you will get:\r^0184ffHeart of the star x10\r^a800ffGold Blood 1 pack x3\r^a800ffMedication Gift Package x2\r^a800ffInsignia of las Nubes x2\r^a800ffOrculo Book 1 package x1\r^a800ffMagic Transformation Box Random x2\r^0184ffRight click to use 
 3483	^fff600After opening, you will get:\r^a800ffDemonic Blood 1 pack x10\r^a800ffSquire's equipment exchange bill x15\r^a800ffSilver Blood 1 pack x5\r^a800ffMedication Gift Package ^ffffff × 1\r^a800ffGold Blood 1 pack x10\r^a800ffMagic Transformation Random Box x1\r^a800ffExtermination Card x5\r^0184ffRight click to use
 3484	^fff600After use, increase 100 aura points\r^72fe00Ctrl + right click ^a800ffyou can use this item continuously.\r
-3485	^ffffff Refining Facility\rPower the benefit of blessing, the critical probability and the Divine Gift in the refining\rUsado in:\r^72fe00Bronze Armor (except the initials and Blacks)\rSilver Armor\r^ffffffIf you need to indicate the Use in the Refining interface\rCan be obtained in daily events 
+3485	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Bronze Armor (except the initials and Blacks)\rSilver Armor\r^ffffffIf you need to indicate the Use in the Refining interface\rCan be obtained in daily events 
 3486	^fff600After use, increase 10000 aura points\r^72fe00Ctrl + right click ^a800ffcan use this item continuously.
-3487	^ffffff Refining Facility\rPower the benefit of blessing, the critical probability and the Divine Gift in the refining\rUsado in:\r^72fe00Surplus of Griffin, Wyvern and Garuda\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change it with ^72fe00Pandora ^ffffffen the Silver City 
+3487	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Armor of Griffin, Wyvern and Garuda\r^ffffffNecessary to indicate the use in the Refining interface\rYou can exchange it with ^72fe00Pandora.
 3488	^fff600item needed to change the track of Sapúris\r^fff600You can be:\r^72fe00Raised! Requiem of the Sanctuary\r^fff600Y ^72fe00Incubation! Nest of the infernal butterflies\r^fff600Queda ^0184ffestar ^72fe00Pandora ^0184ffchange in progress
 3489	^ffffffUsing the Coliseum Grand ^72fe00comun ^ffffffl layer change related to the tool\r^ffffffThis item is completed ^fff600First Line! The Battle of Beliefs [3 points / times] ^ffffffobtener mission\r^fff600Players above level 76 on the battlefield daily if they were in the top 3 twice can get 
-3490	^ffffff Refining item\rUsed on:\r^72fe00Surplice\r^ffffffThis item is consumed during refining\rYou can change it with ^72fe00Pandora ^ffffffpor ^72fe00Starlight
+3490	^ffffffRefining item\rUsed on:\r^72fe00Surplice\r^ffffffThis item is consumed during refining\rYou can exchange it with ^72fe00Pandora ^fffffffor ^72fe00Starlight.
 3491	^fff600After using these clothes\rGenerate dance skills in the basic bar\rClick to release the dance moves\r^ff0000After upgrading, fashion will be bound\r^ff0000Your costume property: shirt can not be used to change Kit corresponding to the sex 
 3492	^fff600After opening, you will get:\r^a800ffFashionable button\r^0184ffRight click to use 
 3493	^fff600After opening, you will get:\r^a800ffVolume of the divine Pet x10\r^0184ffRight click to use 
@@ -3512,14 +3512,14 @@
 3511	^ffffffTo use, you must have the following mount in the inventory:\r^a800ffHeavy Pegasus Horse ^ffffffx1\rYou can change with ^72fe00Don Quijote\r^ffffff by flying permanent saddle:\r^a800ffPegasus Storm Horse
 3512	^ffffffWhen using , you'll get:\rPet Tender Bunny x1 
 3513	^fffffff Super adorable bunny\r^0184ffRight click to use
-3514	^7fffffDivision of the use of the Magic Box\rwithout suffering losses to obtain the corresponding number ^72fe00Golden Dragon Scale
-3515	^7fffffDivision of use of the Magic Box\rWithout suffering losses to obtain the corresponding number ^72fe00Sacred Dragon Scale
+3514	^7fffffCan be decomposed in Magic Box\r^72fe00To obtain Scales back.
+3515	^7fffffCan be decomposed in Magic Box\r^72fe00To obtain Scales back.
 3516	^fff600Leaves of the Trees of the Twin Rooms Trees Garden, this item can\rser ^72fe00Emmary of the garden of the trees rooms ^ffffff to change of prize\r^0184ffFlower flowers, then whisper\rStar starlight I do not know when it was extinguished...\r'A '' ra '' ya '' Shiki ' 
 3517	^ffffffCan be used ^72fe00Mikasa ^ffffff to change prize\r^fff600You can get a gift package from teacher 
 3518	^ffffffUse and get a large amount of EXP\r^ffffffTo get ^0184ffMorality Medal ^ffffffx1\r^fff600We thank you for, in the Gladiator's new growth process You have contributed a lot
-3519	^fff600Legendarias Escamas del Dragón\r^0184ffPuede intercambiar com Alisha y obtener el equipamiento of cintas\r^0184ffPuedes obtenerlos en los eventos diarios
+3519	^fff600Legendary Dragon Scales\r^0184ffCan be exchanged at Aisha.\r^0184ffObtained during dungeons.
 3520	^fff600Can be synthesized in the following materials:\r^72fe00Star splendor - Earth element\rStar splendor - Water element\rStar splendor - Wind element\rStar splendor - Fire element\r^0184ffEstar ^72fe00Jonathan ^0184ffa through ^72fe00Seika fragments ^0184fchanget obtain 
-3521	^ffffffContains information necessary to obtain the Tap Surplice\rOffrehended with ^72fe00Pandora ^ffffffal Cost of:\rSurplice Shard × 90\rBronze Shard × 100\rSilver Shard × 100\r50,000,000 Cash\rWhen using, You'll get:\r^72fe00Surplus of Griffin
+3521	^ffffffContains information necessary to obtain the Surplice\rExchanged with ^72fe00Pandora ^ffffffal Cost of:\rSurplice Shard × 90\rBronze Shard × 100\rSilver Shard × 100\r50,000,000 Cash\rWhen used, You'll get:\r^72fe00Surplus of Griffin
 3522	^ff0000Ya is obsolete, you can change common tool:\r^72fe00Starlight ^808080\rFragments disassembled from starlight\rIt can be transformed into fragment of Star Splendor\rDespanding starlight you get Pegasus, Ciste, Dragon, Andromeda and Phoenix\rDrop and transformation can be completed with Jonathan 
 3523	^ffffffWhen the autumn festival arrives you will be able to open the gift package of the blessing\r^fff600After opening, you will get 500 Gem and a large amount of EXP\r^a800ffThere is a greater chance of obtaining:\rBlood Demonic x100\rFix of Golden Armor x10\rSmall Companion - Rabbit Girl\r^ff0000The gift package will only open on days 22/9 to 30/9 
 3524	Surrounded by love every day, I love the romantic time of the snowflakes snow
@@ -4073,7 +4073,7 @@
 4072	^fff600A contract rescission paper separated us from the promise we once made\r^0184ff^Send necessary items for the request of divorce 
 4073	^ffffffIn the formal phase of the marriage ceremony, use to open 'Marriage Sweetness' and Delicious' Food '\r^fff600'Food' will only appear when opening the phase of the luxurious wedding ceremony Marriage Tenderness requires Final Strike in the Marriage Sweetness monster invoked through the Marriage Tenderness event distributed by the happy and enamored couple\r^ff0000Giving and receiving 'invitation card' once a day the give and take mission, the time limit of the key is 24 hours
 4074	^ffffffUsed during the Star Element / Tier modification of the equipment\rWhen using that item, it is possible to choose between preserving the current Star Element / Level\ro and modifying it with a new one \r used in Star Level 4 items or below 
-4075	^ffffffUsed during the modification of the Star Element / Level of the equipment\rWhen using that item, it is possible to choose between preserving the current Star Element / Level\rand modifying it with a new one\rUsado in Elements of Star Level 5 or higher 
+4075	^ffffffUsed during the modification of the Star Element / Level of the equipment\rWhen using that item, it is possible to choose between preserving the current Star Element / Level\rand modifying it with a new one\rUsed in Elements of Star Level 5 or higher 
 4076	^ffffffUsed to randomly modify the Element / Star level of the equipment\rIt can be purchased in Events:\rSonata Infernal and Demonic Apocalypse
 4077	^ffffff white love, loves to be in the snow season ^fff600Gift box contains the clothes for the wedding ^ff0000Male version ^fff600After opening the investment not bound\r^0184ffRight mouse button to use 
 4078	^ffffffWhen you use, you will get:\r^a800ffInvitations x19\r^ffffffRight mouse button to use 
@@ -4134,10 +4134,10 @@
 4133	^ffffffWith this item you can search for ^72fe00Don Quixote\r^ffffff to change for permanent flying mounts:\r^a800ffGolden Flying Lighter ^ffffffchanged by 1 Stone\r^a800ffTiamat ^ffffffchanged by 1 Stone\r^a800ffSpectral Dragon Skeleton ^ffffffchanged by 1 Stone\r^a800ffPoison Dragon Skeleton ^ffffffchanged by 1 Stone\r^a800ffPhoenix ^ffffffchanged by 1 Stone\r^a800ffPhoenix Black ^ffffffchanged by 1 Stone\r^ff7d2fPhoenix ^ffffffchanged by 5 Stones\r^ff7d2fPhoenix Spectrum ^ffffffchanged by 5 Stones\r^ffffffAll flying saddle changes are bound.
 4134	^0184ffClick the right mouse button to use\r^fff600When using, you will get ^72fe00th Goddess Blessing reputation point\r^fff600You will also receive an extra random prize for opening for the 10th time, you will get a ^72fe Goddess\rAo to open, you will get:\r^72fe00Light of Athena x5 \r SilverSword x10 \r DemonSangue x10 \r CosChave x10\rSpiritual Point I x10\r^0184ffThe Goddess gift can only be obtained once 
 4135	fff600Retrieved\r^a800ffwhen open for the tenth time ^fff600Goddess Favor ☆ Sagittarius Version ^72fe00Athena's Light x5 Silver Crystal x10 Demon's Blood x10 Space-Equipment Key x10 Spiritual Power Source x10\r^0184ffThis item can only be obtained one turn
-4136	^ffffff Refining Aid\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado in:\r^72fe00Scales\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Julián ^ffffffen the Silver City 
+4136	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Scales\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Julián ^ffffffen the Silver City 
 4137	^fff600these properties of the Guild issued bag After the opening you can get the following awards ^72fe00500,000 Cash, Blood of Athena x5 Silver Crystal x5 Essence of the Star Soul x5\r^0184ffeach person can only open this bag twice per day ^fff600recommending that the Guild organize this pile of item awards contributed to the members of the Guild.
 4138	^fff600secret treasure is produced in three major major cities After the opening you can get the following awards ^72fe001,000,000 Cash Demonic Blood x 5 Space Key - time x5 Soul of the Divine Artifact x5\r^0184ffeach person can only open this secret treasure twice a day.\r^fff600recommending that the Guild organize this pile of prize items contributed to the members of the Guild.\r
-4139	^ffffff Refining item\rUsed on:\r^72fe00Scales\r^ffffffThis item is consumed during refining\rCan be obtained by exchange with ^72fe00Julián ^ffffffen the Silver City
+4139	^ffffffRefining item\rUsed on:\r^72fe00Scales\r^ffffffThis item is consumed during refining\rCan be obtained by exchange with ^72fe00Julián ^ffffffen the Silver City
 4140	^fff600skills card invalid past version ^fff600change with the messenger of the sanctuary camp in the Coliseum Grad\r^a800ffprize of the occupation card of the main domain, ^fff600receive prize of the skills card of the new version 
 4141	^fff600skills card invalid past version ^fff600change with the messenger of the Imperator of the Seas camp in the Coliseum Grad\r^a800ffprize of the occupation card of the main domain, ^fff600receive prize of the skills card of the new version
 4142	^fff600skill card invalid pass version ^fff600change with the messenger of the camp of the imperator of the underworld in the Coliseum Grad\r^a800ffprize of the occupation card of the main domain ^fff600receive prize of the skill card of the new version 
@@ -4242,7 +4242,7 @@
 4241	^ff0000Return about the red color ^7fffff Bringing the return of the New Year's blessing to the other players, after using it the other players will get a prize ^ffffff The prize includes:\r^a800ffEffective Recovery Medicine * 1, EXP e Silver\r^0184ffRight mouse button to use
 4242	^fff600Wonderful gift changes tools ^7ffffff Day 7/2 until 28/2 can go to the Hyoga emissary of the New Year to change prize ^a800ffplayers who have the words of luck made will be able to get a special gift "Great horse gift pack stepping on a flying andorine "Players who have the words of luck very accomplished will be able to obtain a special gift" Great gift package of Guild experience "^ff0000Suggestions: This item is non-returnable, then please players choose to keep or discard
 4243	^fff600Wonderful gift changes tools ^7ffffff Day 18/2 until 28/2 can go until the emissary Hyoga of the New Year change prize ^a800ffplayers who have the words of luck made will be able to get a special gift "Great package of horse gift stepping on a flying andorine "Players who have the words of luck very accomplished will be able to obtain a special gift" Great gift package of Guild experience "^ff0000Suggestions: This item is not returnable, so please players choose to maintain or discard
-4244	^fff600Let us fight side by side, for a better tomorrow! ^ff0000the following items from the instance zone Abyss! The end of the magic star Reborn! Requiem of the Shrine Lamentation! Infernal Sonata Incubation! Nest of infernal butterflies Against the flow! Crisis in the Twelve Houses Against the flow! Atlantis It can be used to access the mission with the NPC Each zone of instance can only be used once Each instance zone can only invoke a ^0184ffAfter accessing the mission it will invoke a hidden BOSS, with generous prizes ^
+4244	^fff600Let us fight side by side, for a better tomorrow! \r^ff0000The following item can be used in:\rAbyss! The end of the magic star Reborn!\rRequiem of the Shrine Lamentation!\rInfernal Sonata\rIncubation! Nest of infernal butterflies\rAgainst the flow!\rCrisis in the Twelve Houses Against the flow!\rAtlantis\rIt can be used to summon special boss.
 4245	^ffffffCan get the task from the United States and the United States \r get ^ff0000 experience powerful BUFF\r^fff600 can make themselves and teammates killing monster experience increased by 10%\r^ffffff the BUFF continued ^ff00004 hours\r^0184ff only available every day Take once...
 4246	^fff600In the New Year write what you most want to talk ^7fffff Write your wish on the engraved New Year's plate 
 4247	^fff600Items exchanged in the event for commemorative coins of the year of the horse ^7fffff Can change with emissary new year Seiya generous awards ^a800ffAward includes: demonic blood, Cosmic Key, gold blood, accumulated EXP
@@ -4318,11 +4318,11 @@
 4317	^fff600Rose of Aphrodite\r^ff0000 Triggered only if equipped.
 4318	^ff7d2f After use, you will obtain the divine artifact Pisces: Rose of Aphrodite 
 4319	^ffffffRefine Item Used in:\r^72fe00Sapúris Refinition\r^0184ffConsumed directly during the refining process\r^fff600You can use ^72fe00Pandora ^fff600use the ^72fe00Starlar Splendor - Tier Element , Water, Fire and Wind ^fff600to change it
-4320	^ffffffRefining Aid\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado in:\r^72fe00Surprices common\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Pandora ^ffffffen the Silver City 
+4320	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Surprices common\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Pandora ^ffffffen the Silver City 
 4321	^fff600After using, you will get:\r^a800ffSpecial Bride's Day Fashion (male) 99 roses ^0184ffThey can only be used once, all items are bound ^ff0000the gift package will come out the Store on day 18/3 after maintenance
 4322	^fff600After using, you will get:\r^a800ffSpecial Bride's Day Fashion (feminine) 99 roses ^0184ffThey can only be used once, all items are bound ^ff0000the gift package will leave the store on day 18 / 3 after maintenance 
 4323	^ffffffWhen you use, you will get:\r^a800ffMarriage Marriages ^ffffffx1\r^ff7d2fMarriage Announcement ^ffffffx1\r^ff7d2fMarriage Ceremony ^ffffffx1\r^a800ffLuxurious Marriage Manual ^ffffffx1\r^a800ffDulce Love ^ffffffx1\r^a800ffBridal Flowers Bride ^ffffffx1\r^a800ffInvitation ^ffffffx29\r^a800ffMarker ^ffffffx9\r^0184ffLick with the right button to use
-4324	^ff0000link the soul The equipment used, skills, modified spiritual engraving or bound permanent transfer ^0184ffThrough the magic box can increase the function of advanced divine level 
+4324	^ff0000Bound to player\rThis item will be bound after the upgrade. 
 4325	^ff0000Can only be used once per character\rAll items will be bound\r^ffffffOpen with the right button to obtain:\rDemonic Blood x36\rSilver Blood x36\rCosmic Key x36\rAlma Orange x18\rItem Voucher [Squire] x36\rSun Golden Light x36\rEnergy Power x36\rReliquia Pisces x1\r^ff0000Mega promotion in the Item Mall
 4326	^ff0000Only can be used once per character\rAll items will be bound\r^ffffffOpen with the right button to obtain:\rDemonic Blood x72\rSilver Blood x72\rCosmic Key x72\rAlma Orange x36\rItem Voucher [Squire] x72\rGolden Sacred Light x72\rFood Power x72\rResult of Pisces x1\r^ff0000More promotion on the Item Mall 
 4327	^fff600After using, you will get ^72fe00a fragment of the Pisces relic ^fff600And there is the probability of get ^72fe00Pisces Inheritance Object ^0184ffFragment of the Pisces relic can be changed by Piece of Pisces Golden Armor or by fragment of Golden Armor Pisces inheritance object can be changed by Golden Armor
@@ -4501,10 +4501,10 @@
 4500	^fff600Participate in the competition of the Universe and obtain victory certification of the first round Disappear on Sunday, at 23h59, please send the report as soon as possible When the number of registrations for this server exceeds 50, it will open the rewards from every server
 4501	^ffffff Available use:\r^a800ffSquire's equipment exchange ticket ^ffffffx50\r^a800ffSpiritual Power Source ^ffffffx50\r^72fe00Bronze Armor Fragment ^ffffff × 50\r^72fe00Black Star Jade ^ffffff × 50\r^0184ffRight mouse button to use ^fff600The player who purchases this item, will get a delicate super padlock from the Knight's Armor Box Please pay attention when filling in the delivery address on the official site.\rThe beauty of the surroundings is yourself 
 4502	^fff600item needed to raise the level of Gems.\rExplica 1 of EXP on the Gem.\r^0184ffCan be obtained by dividing Gems.
-4503	^ffffffA refining item\rUsed at:\r^72fe00Initial reinforcers ^ffffffof each Sign \r needed to refine Armor LV 1-10\rCan be obtained in daily events\rThis item is consumed during the refining process\rIt can be obtained with ^72fe00Jonathan ^ffffffen Silver City 
-4504	^ffffffA refining item\rUsed on:\r^72fe00Initial Reinforcements ^ffffff of each Sign \r necessary to refine Armor LV 11-16\rCan be obtained in daily events\rCan turn into ^72fe00Jade Stellar\r^ffffffThis item is consumed during the process refining\rYou can get with ^72fe00Jonathan ^ffffffen the Silver City
-4505	^ffffffA refining item\rUsed at:\r^72fe00Initial Reinforcements ^ffffffof each Sign \r needed to refine Armor LV 17-32\rCan be obtained in daily events\rCan turn into ^72fe00Star Crystal\r^ffffffThis item is consumed during the refining process\rCan be obtained with ^72fe00Jonathan ^ffffffen Silver City 
-4506	^ffffff Refining item\rUsed at:\r^72fe00Initial Reinforcements ^ffffff of each Sign \r needed to refine Armor LV 33-48\rCan be obtained at daily events\rCan turn into ^72fe00Star splendor\r^ffffffThis item is consumed during the refining process\rYou can get it with ^72fe00Jonathan ^ffffffen the Silver City 
+4503	^ffffffRefining item\rUsed at:\r^72fe00Initial reinforcers ^ffffffof each Sign \r needed to refine Armor LV 1-10\rCan be obtained in daily events\rThis item is consumed during the refining process\rIt can be obtained with ^72fe00Jonathan ^ffffffen Silver City 
+4504	^ffffffRefining item\rUsed on:\r^72fe00Initial Reinforcements ^ffffff of each Sign \r necessary to refine Armor LV 11-16\rCan be obtained in daily events\rCan turn into ^72fe00Jade Stellar\r^ffffffThis item is consumed during the process refining\rYou can get with ^72fe00Jonathan ^ffffffen the Silver City
+4505	^ffffffRefining item\rUsed at:\r^72fe00Initial Reinforcements ^ffffffof each Sign \r needed to refine Armor LV 17-32\rCan be obtained in daily events\rCan turn into ^72fe00Star Crystal\r^ffffffThis item is consumed during the refining process\rCan be obtained with ^72fe00Jonathan ^ffffffen Silver City 
+4506	^ffffffRefining item\rUsed at:\r^72fe00Initial Reinforcements ^ffffff of each Sign \r needed to refine Armor LV 33-48\rCan be obtained at daily events\rCan turn into ^72fe00Star splendor\r^ffffffThis item is consumed during the refining process\rYou can get it with ^72fe00Jonathan ^ffffffen the Silver City 
 4507	^ffffffIt contains information needed to obtain the Reindeer Bronze Armor\r^0184ffNecessary LV.38
 4508	^ffffffContains information necessary to obtain the Eridanus Bronze Armor\r^0184ffNecesary LV.50\r^0184ffIf you need to have the Reindeer Armor 
 4509	^ffffffIt contains information necessary to obtain the Empress Silver Armor\r^0184ffNeces LV.38\r^ffffff Recommended Note:\r^72fe00Sea Dragon 
@@ -4698,7 +4698,7 @@
 4697	^ffffffWhen you use, you will get:\r2.500.000 Cash x1\r^0184ffRight click to use\r^ffffffContains 10 Cash of equal value to the Holy Light of Gold 
 4698	^ffffffWhen using, you will get:\r12.500.000 Cash x1\r^0184ffRight click to use\r^ffffffContains 50 Cash of equal value to the Holy Light of Gold 
 4699	^ffffffWhen using, you will get:\r25,000,000 Cash x1\r^0184ffRight click with the right button to use\r^ffffffContains 100 Cash of equal value to the Sacred Golden Light
-4700	^72fe00Use:\r^ffffff Recovers 7 %of the HP index by ^72fe00second, at maximum ^72fe00Retrieves 40 of physical force per second ^ffffff Lasts 15 seconds ^fff600During the period, no other operations can be performed possible to use in battle ^0184ffThis item is produced by the ability to experience - Cooking 
+4700	^72fe00Use:\r^ffffffRecovers 7 %of the HP per ^72fe00second.\r^ffffff Lasts 15 seconds\r^fff600During the period, no other operations can be performed possible to use in battle \r^0184ffThis item is produced by the professional ability - Cooking. 
 4701	^fff600Can be with ^72fe00Agaris ^fff600the following items ^72fe003 units Piece of Cancer 1 (camio for a) 3 units of Cancer 2 ( change for a) 1 unit Cancer Piece 3 (exchange for a, exchange limit once) 3 units Gold Armor Fragment (exchange for a) ^0184ffYou can sell for the Item Mall ^7fe00 gift of the corresponding constellation ^0184ffget
 4702	^ff600 Can ^72fe00get directly ^fff600with Agaris ^72fe00Gold Cancer Armor ^fff600The player who has the Cancer armor can get 500 units of Demonic Blood 
 4703	^fff600Item package\r^0184ffSolo may be used once, all items obtained will be bound ^72fe00Demonic Blood x43\rSilver Crystal x43\rCosmic Key x43\rBurning Soul x22\rSquire's Equipment Exchange Note x43\rGold Sacred Light x43\rEnergy Fuser x43\rRelic Cancer x1 Fragment of Spiritual Jewel x150 ^ff0000Mega discount in the items Mall
@@ -5919,7 +5919,7 @@
 5918	^ffffffWhen using, you will get:\r^72fe00Black Lyre Armor
 5919	^ffffff Contains information needed to obtain the Lycaon Surplice\r^0184ffNecessary LV.92\r^ffffff Recommended Note:\r^72fe00Lira
 5920	^ffffffContains information necessary to obtain the Surplice of ★ Silence\r^0184ffNecessory LV.97\r^0184ffI need to have the Lyplion Surplice\r^ffffffSignificant Note:\r^72fe00Lira 
-5921	^ffffff Refining Auxiliary\rPower the benefit of blessing, the probability of critic and the divine gift in refining\rUsado en:\r^72fe00Gold Golden Divines\r^ffffff Need to indicate the use in the Refining interface 
+5921	^ffffffRefining Item\rBoost your refining chance\rUsed in:\r^72fe00Gold Golden Divines\r^ffffff Need to indicate the use in the Refining interface 
 5922	^fff600Can with ^72fe00emissary of the sacred golden light ^fff600make divine change · Cancer 
 5923	^fff600Can with ^72fe00emissary of the Sacred Golden Coin ^fff600make divine change · Taurus 
 5924	^ffffff Can with ^72fe00emissary of Sacred Golden Coin ^fff600change prize
@@ -6121,7 +6121,7 @@
 6120	^0184ffRight click to use\r^ff6fb3With use you will receive ^72fe00th reputation point of Goddess blessing\r^fff600You will also receive an extra random prize\r^fff600And opening for the 10th time you will get a Pound Gift (II)\rOn opening, you will get:\r^72fe00Light of Athena x5 \r Silver Saga x10 \r Demon Saga x10 \r Cosmichave x10\rSpiritual Spine I x10\rBlade of the Goddess ☆ Libra (II) x2\r^0184ffThe present of Libra (II) can only be obtained once 
 6121	^fff600Retrieved\r^a800ffwhen open for the tenth time the ^fff600Favor of the Goddess ☆ Libra Version (II) ^72fe00Light of Athena x5 Silver Crystal x10 Demonic Blood x10 Key of Space-Equipment x10 Source of Spiritual Power x10 Favor of the Goddess ☆ Libra (II) x2\r^0184ffThis item can only be obtained once
 6122	^fff600After opening, you will get ^72fe00Caber Cowboy Kit ^fff600or ^72fe00Caber Tea Kit ^fff600Distribute according to the sex of the player 
-6123	^ffffffÍtem used in the Magic Box\rUsado to add additional attributes in the Costume: Chest Purple and Permanent\rWhen using, the Costume will be bound\rImproved costumes can not be used for the exchange of Costumes Packages 
+6123	^ffffffÍtem used in the Magic Box\rUsed to add additional attributes in the Costume: Chest Purple and Permanent\rWhen using, the Costume will be bound\rImproved costumes can not be used for the exchange of Costumes Packages 
 6124	^fff600By using you can get 30 units of gold Libra II return points (2667 Gem).\rWith each Gold used, you can obtain 2667 Gem points.\rGold can be used once per day, the frequency used can be accumulated.\rBy accumulating you can get 80,000 Gem.\rThis gift pack can be used once per person.
 6125	^fff600By using you can get 30 reward units of Gold of Libra II (667 Gem) With each Gold used you can obtain 667 Gem points.\rGold can be used once per day, the frequency used can be accumulated.\rBy accumulating you can get 20,000 Gem.\rThis gift package can be used once per person.\r
 6126	^fff600You can insert Divine Trident of Poseidon into all the Relic Activation abas ^ff0000Only in the activation bar can you activate effect of the properties of the divine artifact ^fff600You can ^72fe00take out with ^fff600Helen ^72fe00Divine Jade 
@@ -6761,7 +6761,7 @@
 6760	^fff600When you open it for the 10th time ^a800ffFavor of the Goddess ☆ Scorpio Version (II) ^fff600you will get\r^72fe00Light of Athena x5\rCrystal Silver x10\rDemonic Blood x10\rSpace Key Time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Scorpio Version (II) x2\r^0184ffThis item can only be obtained once
 6761	^fff600After opening, you will get ^72fe00Kit of Halloween Vampire ^fff600o ^72fe00Kit of Halloween Vampira\r^fff600Distribute according to the gender of the player\r
 6762	^0184ffRight click to use\r^ff6fb3Without use you you will receive ^72fe00a reputation point of the Goddess blessing\r^fff600You will also receive an extra random prize\r^fff600For opening for the 10th time, you will get a Gift of Scorpio (IV)\rAo to open, you will get:\r^72fe00Light of Athena x5 Silver Blood x10 Demonic Blood x10 Cosmic Chakra x10 Spiritual Ritual I x10 Goddess Blessing Scorpio (IV) x2 The Scorpion (IV) gift can only be obtained once
-6763	^ffffffItem used in the Magic Box\rUsado to transfer ownership of a Suit / Wings to another\rCan be purchased in the Item Mall
+6763	^ffffffItem used in the Magic Box\rUsed to transfer ownership of a Suit / Wings to another\rCan be purchased in the Item Mall
 6764	^72fe00items for the divine status of bronze, gold and divinity\r^0184ffcan be obtained through the ^72fe00Treasure Chest daily 4 ^72fe00Dropados in the 12 divine houses 
 6765	^72fe00The items for the divine status of bronze, gold and divinity ^ff0000converted into a person ^fff600Divinity and related\r^ff0000Can be used to mark divinity and get change 
 6766	^72fe00items for divine status\r^ff0000converted into a person ^fff600Divinity and related ^ff0000Can be used to mark divinity and get change
@@ -7956,13 +7956,13 @@
 7955	^ffffffUsage: HP recovery per second: 5528\rLasts 5 seconds\rNo other operations can be performed during this period\rCan be used while in combat\Dragon has this effect increased by 25%\r^0184ffRight click to use
 7956	^fff600After using this item ^72fe006Bag\r^0184ffexpands up to 144 slots
 7957	^fff600After using this item ^72fe006Warehouse\r^0184ffexpands up to 198 slots
-7958	^ffffffStar Casting\rUseable for:\r^72fe00Bronze Holy Armor\r^fff600Used to upgrade Bronze Holy Armor\r^0184ffCan be obtained in daily activities\r^0184ffThe clues to the ordinary Bronze Holy Armor can be obtained at ^72fe00Sanctuary - Joseph^0184ff
-7959	^ffffffStar Casting\rUseable for:\r^ffffffSilver Holy Armor\r^fff600Used to upgrade Silver Holy Armor\r^0184ffCan be obtained in daily activities\r^0184ffThe clues to the ordinary Silver Holy Armor can be obtained at^72fe00Sanctuary - Altai^0184ff
-7960	^ffffff\rUsable for:\r^72fe00Beads, Badge, Bracelet\r^fff600Shaped required level of 9 or less\r^0184ffCan find equipment concentrators to operate\rCan be obtained via many major activities
+7958	^ffffffStar Casting\rUseable for:\r^72fe00Bronze Holy Armor\r^fff600Used to upgrade Bronze Holy Armor\r^0184ffCan be obtained in daily activities\r^0184ffThe cloths of the ordinary Bronze Holy Armor can be obtained at ^72fe00Sanctuary - Joseph^0184ff
+7959	^ffffffStar Casting\rUseable for:\r^ffffffSilver Holy Armor\r^fff600Used to upgrade Silver Holy Armor\r^0184ffCan be obtained in daily activities\r^0184ffThe cloths of the ordinary Silver Holy Armor can be obtained at ^72fe00Sanctuary - Altai^0184ff
+7960	^ffffff\rUsable for:\r^72fe00Beads, Badge, Bracelet\r^fff600Shaped required level of 9 or less\r^0184ffUse at craftsman\rCan be obtained via many major activities
 7961	^ffffffEquipment upgrade\r^fff600Used for 1-3 Rank ^72fe00Beads, Badge, Bracelet^fff600upgrade\r^0184ffUpgrading can be done through the ^72fe00Magic Box^0184ff\r^0184ffCan be obtained via many major activities
 7962	^ffffffEquipment upgrade\r^fff600Used for 4-6 Rank ^72fe00Beads, Badge, Bracelet^fff600upgrade\r^0184ffUpgrading can be done through the ^72fe00Magic Box^0184ff\r^0184ffCan be obtained via many major activities
-7963	^fff6004 different resource collectors who handed over to the Guild Base Warehouse\r^7fffffAccess to the corresponding resource points and extensive experience of the Guild Base
-7964	^ffffff\rUsable for:\r^72fe00Beads, Badge, Bracelet\r^fff600Shaped required level 10 or more\r^0184ffCan find equipment concentrators to operate\r^fff600Can also be used for the collection of high-grade star chains
+7963	^fff600Exchange at Guild Base.
+7964	^ffffff\rUsable for:\r^72fe00Beads, Badge, Bracelet\r^fff600Shaped required level 10 or more\r^0184ffUse at craftsman\r^fff600Can also be used for the collection of high-grade star chains
 7965	^fff600You can directly consult the ^72fe00Bronze Oracle^fff600in the Astromancy interface\r^0184ffIt can only be used after unlocking the Cosmo system in the LV.45
 7966	^fff600You can directly consult the ^72fe00Silver Oracle^fff600in the Astromancy interface\r^0184ffIt can only be used after unlocking the Cosmo system in the LV.45
 7967	^fff600You can directly consult the ^72fe00Golden Oracle^fff600in the Astromancy interface\r^0184ffIt can only be used after unlocking the Cosmo system in the LV.45
@@ -7982,7 +7982,7 @@
 7981	^fff600Alchemy - Star Casting^ffffff\r4 Formula\rUse Learnable Formula:\r^72fe00星砂\r星砂\r^ffffffStar Casting\rUseable for:\r^ffffffSilver Holy Armor\r^fff600Used to upgrade Silver Holy Armor\r^0184ffThe clues to the ordinary Silver Holy Armor can be obtained at^72fe00Sanctuary - Altai^0184ff\r^0184ffRight click to use
 7982	^fff600Mediumnity - Guardian Spirit^ffffff\r2 class recipe\ruse learning formula:\r^72fe00primary learner's recommendation letter\rprimary learner's recommendation letter\r^ffffffUsage: receiving task ^72fe00primary learner The recommendation letter\r^fff600needs the reputation of faith light:\r^72fe00respect\r^fff600This task can be ^a800ffepic ^fff600level ^a800ffcommandment bead chain ^fff600points to ^ff7d2f legend ^fff600level\r^a800ffThe precepts bead chain ^fff600can be purchased at the Sanctuary Severus after the reputation of the Faith of Light.\r^0184ffRight click to use\r^0184ffRight click to use
 7983	^fff600Mediumnity - Guardian Spirit^ffffff\r10 class recipe\ruse learning formula:\r^72fe00intermediate level learner's recommendation letter\rintermediate level learner's recommendation letter\r^ffffffUsage: receiving task ^72fe00intermediate level learner The recommendation letter\r^fff600needs level: 60\rneeds the light of faith:\r^0184ffreverence\r^fff600This task can be ^a800ffepic ^fff600level ^a800ffbodhi chain ^fff600point to ^ff7d2f legend ^fff600level\r^a800ffBodhi bead chain ^fff600can be purchased at the Sanctuary Severus after the reverence of the Faith of Light.\r^0184ffRight click to use\r^0184ffRight click to use
-7984	^fff600can be used after ^72fe001000^fff600Cosmo potential\r45 level can be used\r^0184ffRight click to use\r^fff600need to open Cosmo cultivation before you can use\r^0184ffcan also exchange Burning Soul with a certain amount\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
+7984	^fff600Use to obtain ^72fe001000 ^fff600Cosmo potential\rCan be used after 45 lvl.\r^0184ffRight click to use\r^fff600Need to unlock Cosmo before using.\r^0184ffCan be exchanged for Burning Soul\r^72fe00Ctrl+Right click ^a800ffTo use this item continuously.
 7985	^ffffffEquipment upgrade\r^fff600Used for level 7 or above ^72fe00Beads, Badge, Bracelet^fff600upgrade\r^0184ffUpgrading can be done through the ^72fe00Magic Box^0184ff\r^0184ffCan be via via many major activities
 7986	^ffffffMaterial containing magical energy\r^fff600decomposition ^72fe004, 5th order ^fff600equipment can be obtained\rcan use ^72fe00Lingshi, badge, bracelet ^fff600upgrade\r^fff600decomposition and upgrade can pass ^72fe00magic box ^fff600completed
 7987	^ffffffMaterial containing magical energy\r^fff600decomposition ^72fe004, 5th order ^fff600equipment has a chance to get\rcan be used for ^72fe00Lingshi ^fff600upgrade\r^0184ffdecomposition and upgrade can pass ^72fe00magic Box ^0184ffcompleted\rcan be used ^72fe00Attica battlefield points ^0184ffand ^72fe00Galaxy fighting skill reward ^0184ffexchange\ror use advanced crystal decomposition to obtain
@@ -8026,14 +8026,14 @@
 8025	^ffffff After opening ^72fe00illustration: Heinsteinburg ^ffffff,\rcollect this item to improve the attribute
 8026	^ffffff After opening ^72fe00illustration: Heinsteinburg ^ffffff,\rcollect this item to improve the attribute
 8027	^ffffffOpen ^72fe00Illustration: Heinsteinburg ^ffffff,\rcollect this item to improve the attribute
-8028	^ffffff Use\r^fff600in Star Casting to get high blessing value\rand increase the probability of blessing crit\r^ffffff Applicable to Saint Cloth\r^72fe00Tianma, Dragon, Cygnus, Andromeda, Phoenix, Tianweixing and the corresponding dark sacred clothes\rgold sacred clothes\r^0184ffchoose to use\rCan be obtained via many major activities\rin the star casting operation.\rYou can use the ^72fe00sanctuary (-241, -6 ) Julian ^0184ffexchange ^72fe00Haihuang Shen blood\r^0184ffcan also be exchanged in ^72fe00sanctuary (-237,5) Pandora ^0184ff^72fe00Pagoda blood
-8029	^fff600can be used after ^72fe00150000^fff600Cosmo potential\r60 level can be used\r^0184ffRight click to use\r^fff600need to open Cosmo cultivation can use\r^72fe00Ctrl+right click ^a800ffthis item can be used continuously
+8028	^ffffffUse\r^fff600in Holy armor upgrade\rTo increase the upgrade value.\r^ffffffApplicable to Saint Cloth\r^72fe00Wyvern, Dragon, Cygnus, Andromeda, Phoenix, Sea Dragon and the Dark holy clothes\rGold holy clothes^0184ff\rCan be obtained via Dungeons.\rCan be exchanged at ^72fe00Sanctuary Julian ^0184ffFor ^72fe00Poseidon Blood\r^0184ffAnd at ^72fe00Pandora ^0184ffFor ^72fe00Hades Blood.
+8029	^fff600Use to obtain ^72fe00150000 ^fff600Cosmo potential\rCan be used after 60 lvl.\r^0184ffRight click to use\r^fff600Need to unlock Cosmo before using.\r^72fe00Ctrl+Right click ^a800ffTo use this item continuously.
 8030	^ffffff Randomly get one of the following 3 crystals\rcorrugated crystal, death crystal, moiré crystal\rsuch items can be used for Lingshi, badge and bracelet upgrade
 8031	^ffffff Randomly get one of the following 3 crystals\r^72fe00Sea Crystal, Hell Crystal, Sky Crystal\rSuch items can be used for Lingshi, badges and bracelets upgrade
-8032	^ffffff Use\r^fff600in Star Casting to get high blessing value\rand increase the probability of blessing crit\r^ffffff Applicable to Saint Cloth\r^72fe00Tianma, Dragon, Cygnus, Andromeda, Phoenix seat and the corresponding dark sacred clothes\rgold sacred clothes\r^0184ffchoose to use\rCan be obtained via many major activities in the star casting operation
+8032	^ffffffUse\r^fff600in Holy armor upgrade\rTo increase the upgrade value.\r^ffffffApplicable to Saint Cloth\r^72fe00Wyvern, Dragon, Cygnus, Andromeda, Phoenix, Sea Dragon and the Dark holy clothes\rGold holy clothes^0184ff\rCan be obtained via Dungeons.
 8033	^fff600Use to activate  1 hour double experience bonus\rDuring this effect, experience gained from monsters is doubled\r^0184ffRight click to use
-8034	^ffffff Can be dropped by Bronze Saints\rFragments of ^72fe00Bronze Holy Armor\r^fff600can be exchanged at ^72fe00Sanctuary - Joseph^fff600 for ^72fe00Bronze Holy Armor^fff600 Clue\r^0184ffAvailable through various activities and drop
-8035	^ffffff Can be dropped by Silver Saints\rFragments of ^72fe00Silver Holy Armor\r^fff600can be exchanged at ^72fe00Sanctuary - Altai^72fe00 for ^72fe00Silver Holy Armor^fff600 Clue^fff600\rCan also exchange them at ^72fe00Pandora ^fff600 for ^72fe00Metal from the Underworld\r^0184ffAvailable through various activities and drop
+8034	^ffffffCan be dropped by Bronze Saints\rFragments of ^72fe00Bronze Holy Armor\r^fff600Can be exchanged at ^72fe00Sanctuary - Joseph^fff600 for ^72fe00Bronze Holy Armor^fff600\r^0184ffAvailable through various activities.
+8035	^ffffffCan be dropped by Silver Saints\rFragments of ^72fe00Silver Holy Armor\r^fff600Can be exchanged at ^72fe00Sanctuary - Altai^72fe00 for ^72fe00Silver Holy Armor^fff600^fff600\rCan also exchange them at ^72fe00Pandora ^fff600 for ^72fe00Metal from the Underworld\r^0184ffAvailable through various activities and drop
 8036	^ffffff records the ^72fe00shield Bronze Holy Armor ^ffffff clues the\r^fff600combat power over ^72fe005140^fff600can challenge\r^ffffff priority recommended guardian constellation:\r^72fe00Dragon
 8037	^ffffff records ^72fe00six-point instrument Bronze Holy Armor ^ffffff clues\r^fff600more than ^72fe005140^fff600can challenge\r^ffffff priority recommended guardian constellation:\r^72fe00Andromeda
 8038	^ffffff records the ^72fe00Swordfish Bronze Holy Armor^ffffff clues the\r^fff600combat power over ^72fe005140^fff600can challenge\r^ffffff priority recommended guardian constellation:\r^72fe00Cygnus
@@ -8053,7 +8053,7 @@
 8052	Sanctuary issued ^72fe00Bronze Holy Armor^ffffff holding certificate\r^fff600The following Bronze Holy Armor needs this item in the final part of the acquisition:\r^72fe00\r[South Fish Block], [Chameleon], [Sea Serpent 】\r【北冕座】,【South Cross】,【波江座】\r^0184ffcan be opened by the Guild Base\r^72fe00Bronze Roll Package\rSilver Roll Package\rGold Roll Package\r^0184ffGet this item
 8053	Sanctuary issued ^72fe00Silver Holy Armor^ffffff holding certificate\r^fff600middle and high-order Silver Holy Armor in the final link of the demand for this item\r^0184ffcan be opened by opening the Guild base\r^72fe00Silver Roll Gift Pack\rGold Roll Gift Pack\r^0184ffGet this item
 8054	^fff600mysterious fruit\r^0184ffcan be handed over to the sanctuary of the sacred field Hector
-8055	^fff600refreshing the ruler qualification\r^fff600necessary consumables\r^0184ffcan be purchased at ^72fe00Guardian Quartermaster ^0184ff
+8055	^fff600Upgrade Squire's qualification\r^0184ffCan be purchased at ^72fe00Guardian Quartermaster ^0184ff
 8056	^ffffff records ^72fe00Southern Cross Bronze Holy Armor^ffffff clues\r^fff600more than ^72fe005140^fff600can challenge\r^fff600need to get the stern Bronze Holy Armor\r^ffffff first Recommended guardian constellation:\r^72fe00Phoenix
 8057	^ffffff records the ^72fe00stern Bronze Holy Armor ^ffffff clues the\r^fff600combat power over ^72fe005140^fff600before the challenge\r^ffffff priority recommended guardian constellation:\r^72fe00phoenix
 8058	^ffffff records ^72fe00天炉Silver Holy Armor^ffffff clues the scroll\r^fff600more than ^72fe0039660^fff600can challenge\r^fff600need to get the Southern Cross Bronze Holy Armor\r^ffffff Priority recommendation guardian constellation:\r^72fe00Phoenix
@@ -8071,9 +8071,9 @@
 8070	^ffffffUsage:\r^72fe00Cash: ^ffffff50000\r^72fe00Spiritual Light ^ffffff×5\r^72fe00Soul Light ^ffffff×5\r^fff60030 level required\rCollect 5 vows to exchange them into a high-level glory certificate at the sanctuary\rDoes not disappear after use\rCan only be used once a day\r^0184ffRight click to use\r^72fe00Ctrl+right click ^a800ffThis item can be used continuously
 8071	^ffffffUsage:\r^72fe00Cash: ^ffffff100000\r^72fe00Spiritual Light ^ffffff×10\r^72fe00Soul Light ^ffffff×10\r^fff60045 level required\rCollect 5 vows to exchange them into a high-level ethereal certificate at the sanctuary\rDoes not disappear after use\rCan only be used once a day\r^0184ffRight click to use\r^72fe00Ctrl+right click ^a800ffThis item can be used continuously
 8072	^ffffffUsage:\r^72fe00Cash: ^ffffff200000\r^72fe00Spiritual Light ^ffffff×10\r^72fe00Soul Light ^ffffff×10\r^fff60060 level required\rCollect 5 vows to exchange them into a high-level mythical certificate at the sanctuary\rDoes not disappear after use\rCan only be used once a day\r^0184ffRight click to use\r^72fe00Ctrl+right click ^a800ffThis item can be used continuously
-8073	^ffffffUsage:\r^72fe00EXP: ^ffffff250000\r^72fe00100 level or above can be used to gain additional experience ^ffffff70000\r^fff60015 after 15th use\r3 experience book I can be converted into a senior experience in the sanctuary Book II\rUp to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
-8074	^ffffffUsage:\r^72fe00EXP: ^ffffff1000000\r^72fe00100 level or above can be used to gain additional experience ^ffffff300000\r^fff600limited to 30 levels later use\r3 experience book II can be converted into a senior experience in the sanctuary Book III\rUp to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
-8075	^ffffffUsage:\r^72fe00gain experience ^ffffff4000000\r^72fe00100 level or above can be used to gain additional experience ^ffffff1000000\r^fff600limited to 50 after use\r3 experience book III can be converted into a senior experience in the sanctuary Book IV\rUse up to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
+8073	^ffffffUsage:\r^72fe00EXP: ^ffffff250000\r^72fe00Need to be a lvl 100 or above to use.\r^fff600Limited to 15 after use\r3 experience book I can be converted into a senior Book II\rUse up to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
+8074	^ffffffUsage:\r^72fe00EXP: ^ffffff1000000\r^72fe00Need to be a lvl 100 or above to use.\r^fff600Limited to 30 after use\r3 experience book II can be converted into a senior Book III\rUse up to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
+8075	^ffffffUsage:\r^72fe00EXP: ^ffffff4000000\r^72fe00Need to be a lvl 100 or above to use.\r^fff600Limited to 50 after use\r3 experience book III can be converted into a senior Book IV\rUse up to 1 time per day\rDisappear after use\r^0184ffRight click to use\r^72fe00Ctrl+Right click ^a800ffThis item can be used continuously
 8076	^0184ffCan be obtained via many major activities
 8077	^0184ffCan be obtained via many major activities\rcan be exchanged with ^72fe00advanced star casting material ^0184ffat ^72fe00Jonathan ^0184ff
 8078	^0184ffCan be obtained via many major activities\rcan be exchanged with ^72fe00advanced star casting material ^0184ffat ^72fe00Jonathan ^0184ff
@@ -8096,7 +8096,7 @@
 8095	^ffffffUsage: Receive the task ^72fe00primary learner's recommendation letter\r^fff600need faith light reputation:\r^72fe00respect\r^fff600this task can be ^a800ffepic ^fff600level ^a800ffcommandment bead chain ^fff600points Turned into ^ff7d2f legend ^fff600level\r^a800ffcommandment bead chain ^fff600can be purchased in the Sanctuary Severus after the reputation of the light of faith.\r^0184ffRight click to use
 8096	^ffffffUsage: Receive the task ^72fe00Intermediate learner's recommendation letter\r^fff600Requires level: 60\rRequires the light of faith:\r^0184ffRevered\r^fff600This mission can be ^a800ffepic ^fff600level ^a800ffBodhi beads chain ^fff600points to ^ff7d2f legend ^fff600level\r^a800ffBodhi beads chain ^fff600can be purchased in the Sanctuary Severus after the reverence of the light of faith.\r^0184ffRight click to use
 8097	^fff600You can directly consult the ^72fe00"Astrology - Silver God" ^fff600in the Astromancy interface\r^0184ffIt can only be used after unlocking the Cosmo system in the LV.45\rplaced in the package, taking Athena Automatic consumption when the gods
-8098	^fff600can be converted to the ruler related items\r^0184ff60 in the sanctuary related personnel\r^fff600Can Can obtained via many major activities\rin the ^72fe00Guardian Star Ambassador ^0184ffto do daily tasks can also be obtained
+8098	^fff600Can be exchanged for Squire items.\r^0184ffAt the Sanctuary\r^fff600Can be obtained via Dungeons\rObtainted at ^72fe00Guardian Star Ambassador ^0184ffduring daily quest.
 8099	^ffffffEquipment upgrade\r^fff600Used for 10-12 Rank ^72fe00Beads, Badge, Bracelet^fff600upgrade\r^0184ffUpgrading can be done through the ^72fe00Magic Box^0184ff\r^0184ffCan be via via many major activities
 8100	^ffffffEquipment upgrade\r^fff600Used for 12th level or more ^72fe00Beads, Badge, Bracelet^fff600upgrade\r^0184ffUpgrading can be done through the ^72fe00Magic Box^0184ff\r^0184ffCan be via via many major activities
 8101	^ffffffMaterial containing magical energy\r^fff600decomposition ^72fe0012 order ^fff600above equipment can be obtained\rcan use ^72fe00Lingshi, badge, bracelet ^fff600upgrade\r^0184ffdecomposition and upgrade can be passed ^72fe00magic box ^0184ffcompleted
@@ -8129,7 +8129,7 @@
 8128	^fff600Guardian star level is consistent with the master level\r^fff600but will not exceed its own level limit\r^fff600Guardian star level when the attribute is increased accordingly
 8129	Love blooms like a double wing
 8130	^fff600Under the blessing of the goddess, every pair of lovers will eventually become a genus!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.
-8131	^ffffffUsed for In the sanctuary ^72fe00Kaipu ^ffffff exchange cloak related props\r^ffffff this item can be completed by ^fff600charge! Faith of war [3 points / time] ^ffffff task get\r^fff60076 level The above players are also available when they enter the top 3 twice in the battlefield each day.
+8131	^ffffffUsed for at the sanctuary ^72fe00Kaizen \r^ffffffTo obtain cape related items.\r^ffffffThis item can be obtained in^fff600Battlefields.
 8132	^fff600Equip the fashion\rGenerate dance skills in the basic skill bar\rClick to release the dance action
 8133	^fff600Equip the fashion\rGenerate dance skills in the basic skill bar\rClick to release the dance action
 8134	^ffffff records the ^72fe00compass seat Saint cloth ^ffffff clues the scroll\r^0184ff84 level or more to use\r^fff600need to first get the Centaur Silver Holy Armor\r^ffffff priority recommended guardian constellation:\r^72fe00Tianma
@@ -8170,14 +8170,14 @@
 8169	^fff600The old skill card has expired\r^fff600can be redeemed in the Sanctuary Trade Zone Sanctuary Camp Messenger ^a800ffOccupation Star Domain Skills Card Reward,\r^fff600to receive the new version of the skill card reward
 8170	^fff600The old version of the skill card has expired\r^fff600can be redeemed in the Sanctuary Trade Zone Sea Emperor camp messenger ^a800ffOccupation Star domain skill card reward,\r^fff600to receive a new version of the skill card reward
 8171	^fff600The old skill card has expired\r^fff600can be redeemed in the Sanctuary Trade Zone Hades camp messenger ^a800ffoccupation star domain skill card reward,\r^fff600to receive the new version of the skill card reward
-8172	^fff600has this thing, can be used in ^72fe00sanctuary Chen Yude pill ^fff600, lead the team to participate in ^a800ffcritical! Goddess' heart\rmeans ^fff600.\rGet a lot of rewards when you're done! After\r^fff60060 level, get in the following activities:\r^72fe00abyss! The last day of the magic star\r^72fe00mourning! Hell sonata
+8172	^fff600It can be used at^72fe00Tatsumi Assistant ^fff600\rLead your team to participate in ^a800ffCritical! Goddess' heart ^fff600.\rGet a lot of rewards when you're done!\r^fff60060Can be obtained in:\r^72fe00Abyss! Hell Sonata.
 8173^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600When the 10th time is opened, get the gift of ^72fe00goddess gift ^fff600package\ropen and get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rtime and space The key x10\rspiritual source x10\rgoddess gift ☆ water bottle version x2\r^0184ffgoddess gift will only get once
 8174	^fff600records the ^72fe00day star Coat^fff600clue reel\r^0184ffAsc. Lv2 or more to use\r^fff600priority recommended guardian constellation:\r^72fe00Dragon
 8175	^fff600records the ^72fe00Tianjiexing mourning ^fff600clue reel\r^0184ffAsc. Lv2 or more to use\r^fff600priority recommended guardian constellation:\r^72fe00phoenix
 8176	^fff600records ^72fe00day crying star meditation ^fff600clue reel\r^0184ffAsc. Lv2 or more to use\r^fff600priority recommended guardian constellation:\r^72fe00Tianma
 8177	^fff600records the ^72fe00day magic star costume ^fff600clue reel\r^0184ffAsc. Lv2 or more to use\r^fff600priority recommended guardian constellation:\r^72fe00Andromeda
 8178	^fff600records the ^72fe00day Yingxing mourning clothes ^fff600clues reel\r^0184ffAsc. Lv2 or more to use\r^fff600priority recommended guardian constellation:\r^72fe00pegasus
-8179	^fff600can be used to inquire at ^72fe00sanctuary Pandora ^fff600^72fe00衣衣^fff600clue\r^0184ffcan be exchanged at ^72fe00Pandora ^0184ffwith ^72fe00Silver Holy Armor shard ^0184ff
+8179	^fff600can be used to exchange at ^72fe00Sanctuary Pandora.
 8180	^fff600The gladiator's certificate\r^0184ffcan be exchanged at ^72fe00sanctuary Pandora ^0184fffor ^72fe00ordinary coat
 8181^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600When opening the 10th time, get ^72fe00Pisces gift ^fff600package\ropen and get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rCosmic Key X10\rspiritual source x10\rgoddess gift ☆ Pisces version x2\r^0184ffPisces gift will only get once
 8182	^fff600can be exchanged in the sanctuary ^72fe00constellation ambassador ^fff600\r^72fe00vampire knight suit\rshadow knight suit\rpeach princess set\renchant princess set\r^0184ffare 1 change
@@ -8193,7 +8193,7 @@
 8192^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Aries gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod magic blood x10\rCosmic Key X10\rspiritual source x10\rgoddess gift ☆ white sheep version x2\r^0184ffAries gift will only get once
 8193\r^ff7d2f	shines killing Matt life, unusual feeling
 8194\r^ff7d2f	sweet love surrounds around
-8195	^fff600Consumption in the soul armor upgrade\r^0184ffCan be obtained via many major activities\rcan also be exchanged at ^72fe00sanctuary Rogers ^0184ff^72fe00soul gem fragments
+8195	^fff600Use to upgrade your soul armor\r^0184ffCan be obtained in dungeons.\rCan also be exchanged at ^72fe00Rogers ^0184ffin Sanctuary.
 8196^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Taurus gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod magic blood x10\rCosmic Key X10\rspiritual source x10\rgoddess gift ☆ Taurus version x2\r^0184ffTaurus gift will only get once
 8197	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^fff600Additional flight combat skills:\r^0184ffflame Shock level 1 (damage)\r^0184ffFlame Breath 1 level (group attack)\r^0184ffCrimson Dead Light 1 (damage)\r^0184ffDeadly Venom Level 1 (Deceleration)
 8198	^fff600Bonus after equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600Additional effect while riding\r^0184ffdefense +1000\r^fff600Additional flight combat skills:\r^0184ffflame Shock level 1 (damage)\r^0184fftreatment wave level 1 (return)\r^0184ffnebula glow level 1 (return + blessing)\r^0184ffdeadly venom level 1 (deceleration)

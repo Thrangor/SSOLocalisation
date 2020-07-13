@@ -2897,7 +2897,7 @@
 2896	Superior
 2897	More information
 2898	Understood
-2899	Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here! Description here!
+2899	Description here!
 2900	Name of conquests Configuration of papers
 2901	Achievements
 2902	He won a new conquest He won a new conquest He won a new conquest He won a new conquest He won a new conquest He won a new conquest
