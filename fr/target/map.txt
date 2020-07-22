@@ -1,50 +1,50 @@
-0	Beginners Village
-1	Training Fields
-2	Beach of Hope
-3	Arena
-4	Holy Wall
-5	Saints Cemetery
-6	House of Stars
-7	Harbor
-8	Acropolis
-9	Camp of Trials
-10	Roderio Village
-11	Wild Ridge Valley
-12	Lost Forest
-13	Flower Field
-14	Ancient Battlefield
+0	Village des Initiés
+1	Terrain d'entraînement
+2	Plage de l'Espoir
+3	Arène
+4	Mur Sacré
+5	Cimetière des Saints
+6	Maison des Etoiles
+7	Havre
+8	Acropole
+9	Camp des épreuves
+10	Village de Roderio
+11	Vallée de la crête sauvage
+12	Forêt Perdu
+13	Champ de Fleur
+14	Ancien Champ de Bataille
 15	Acheron
-16	Hidden Dragon Village
-17	Bamboo Grove
+16	Village du dragon caché
+17	Bambouseraie
 18	Bilongtan
-19	Terraced Field
-20	Mountain Temple
-21	Reunion Ridge
-22	Dragon Ridge
-23	Heaven Lake
-24	Holy Ruins
-25	Argent City
-26	Sea of Trees
-27	Bell Village
-28	Hidden Stone Array
-29	Oshino Ranch
-30	Sunset Beach
-31	Redleaf Cliff
-32	Mountain of Exile
-33	Temple of Destiny
-34	Forgotten Village
-35	Forgotten Lands
-36	Temple of Poseidon
-37	Mansion
-38	Aegean Beach
-39	Gods Prison
-40	Hope Sea Beach
-41	Mining Plains
-42	Habitat of the Ashes
-43	Miners Village
-44	Mine Road
-45	Phoenix Tail
-46	Tavana Ruins
+19	Champ des terrasses
+20	Temple des Montagnes
+21	Crête de l'Union
+22	Crête du Dragon
+23	Lac Céleste
+24	Ruines Sacrées
+25	Cité d'Argent
+26	Mer d'arbre
+27	Village de la Cloche
+28	Site des Pierres Cachés
+29	Ranch d'Oshino
+30	Plage du soleil couchant
+31	Falaise à feuilles rouges
+32	Montagne des exilés
+33	Temple de la Destiné
+34	Village oublié
+35	Terres oubliées
+36	Temple de Poseidon
+37	Manoir
+38	Plage égéenne
+39	Prison des dieux
+40	Mer de la plage d'espoir
+41	Plaines minières
+42	Habitat des cendres
+43	Village des mineurs
+44	Chemin de la mine
+45	Queue du Phénix
+46	Ruines de Tavana
 47	Volcano
 48	Kohotic Village
 49	Snow Village
